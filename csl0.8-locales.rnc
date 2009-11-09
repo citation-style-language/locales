@@ -76,7 +76,8 @@ div {
     | "presented at"
     | 
       ## Roles
-      "editor"
+      "author"
+    | "editor"
     | "translator"
     | "interviewer"
     | "recipient"
