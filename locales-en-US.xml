@@ -187,7 +187,6 @@
          <single>vol</single>
          <multiple>vols</multiple>
       </term>
-      <term name="edition">editioneditions</term>
       <term name="edition" form="short">ed</term>
 
       <!-- SYMBOL LOCATOR FORMS -->
