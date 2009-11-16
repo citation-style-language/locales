@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<locale xmlns="http://purl.org/net/xbiblio/csl" xml:lang="en">
+<locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="en">
    <style-options punctuation-in-quote="true"/>
    <date form="text">
       <date-part name="month" suffix=" "/>
