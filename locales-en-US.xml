@@ -12,24 +12,6 @@
       <date-part name="day" prefix="-" range-delimiter="/"/>
    </date>
    <terms>
-      <term name="open-quote">“</term>
-      <term name="close-quote">”</term>
-      <term name="open-inner-quote">‘</term>
-      <term name="close-inner-quote">’</term>
-      <term name="ordinal-01">st</term>
-      <term name="ordinal-02">nd</term>
-      <term name="ordinal-03">rd</term>
-      <term name="ordinal-04">th</term>
-      <term name="long-ordinal-01">first</term>
-      <term name="long-ordinal-02">second</term>
-      <term name="long-ordinal-03">third</term>
-      <term name="long-ordinal-04">fourth</term>
-      <term name="long-ordinal-05">fifth</term>
-      <term name="long-ordinal-06">sixth</term>
-      <term name="long-ordinal-07">seventh</term>
-      <term name="long-ordinal-08">eighth</term>
-      <term name="long-ordinal-09">ninth</term>
-      <term name="long-ordinal-10">tenth</term>
       <term name="at">at</term>
       <term name="in">in</term>
       <term name="ibid">ibid</term>
@@ -60,10 +42,30 @@
       <term name="presented at">presented at the</term>
       <term name="ad">AD</term>
       <term name="bc">BC</term>
-      <term name="season-01">Spring</term>
-      <term name="season-02">Summer</term>
-      <term name="season-03">Autumn</term>
-      <term name="season-04">Winter</term>
+
+      <!-- QUOTES -->
+      <term name="open-quote">“</term>
+      <term name="close-quote">”</term>
+      <term name="open-inner-quote">‘</term>
+      <term name="close-inner-quote">’</term>
+
+      <!-- ORDINALS -->
+      <term name="ordinal-01">st</term>
+      <term name="ordinal-02">nd</term>
+      <term name="ordinal-03">rd</term>
+      <term name="ordinal-04">th</term>
+
+      <!-- LONG ORDINALS -->
+      <term name="long-ordinal-01">first</term>
+      <term name="long-ordinal-02">second</term>
+      <term name="long-ordinal-03">third</term>
+      <term name="long-ordinal-04">fourth</term>
+      <term name="long-ordinal-05">fifth</term>
+      <term name="long-ordinal-06">sixth</term>
+      <term name="long-ordinal-07">seventh</term>
+      <term name="long-ordinal-08">eighth</term>
+      <term name="long-ordinal-09">ninth</term>
+      <term name="long-ordinal-10">tenth</term>
 
       <!-- CATEGORIES -->
       <term name="anthropology">anthropology</term>
@@ -274,5 +276,11 @@
       <term name="month-10" form="short">Oct</term>
       <term name="month-11" form="short">Nov</term>
       <term name="month-12" form="short">Dec</term>
+
+      <!-- SEASONS -->
+      <term name="season-01">Spring</term>
+      <term name="season-02">Summer</term>
+      <term name="season-03">Autumn</term>
+      <term name="season-04">Winter</term>
    </terms>
 </locale>
