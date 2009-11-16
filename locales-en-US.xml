@@ -212,6 +212,10 @@
          <single>translator</single>
          <multiple>translators</multiple>
       </term>
+      <term name="editortranslator">
+        <single>editor &amp; translator</single>
+        <multiple>editors &amp; translators</multiple>
+      </term>
 
       <!-- SHORT ROLE FORMS -->
       <term name="author" form="short">
@@ -226,16 +230,22 @@
          <single>tran</single>
          <multiple>trans</multiple>
       </term>
+      <term name="editortranslator" form="short">
+        <single>ed &amp; tran</single>
+        <multiple>eds &amp; trans</multiple>
+      </term>
 
       <!-- VERB ROLE FORMS -->
       <term name="editor" form="verb">edited by</term>
       <term name="translator" form="verb">translated by</term>
+      <term name="editortranslator" form="verb">edited &amp; translated by</term>
       <term name="recipient" form="verb">to</term>
       <term name="interviewer" form="verb">interview by</term>
 
       <!-- SHORT VERB ROLE FORMS -->
       <term name="editor" form="verb-short">ed</term>
       <term name="translator" form="verb-short">trans</term>
+      <term name="editortranslator" form="verb-short">ed &amp; trans by</term>
 
       <!-- LONG MONTH FORMS -->
       <term name="month-01">January</term>
