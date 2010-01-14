@@ -212,6 +212,10 @@
          <single>editor</single>
          <multiple>editors</multiple>
       </term>
+      <term name="editorial-director">
+         <single>editor</single>
+         <multiple>editors</multiple>
+      </term>
       <term name="translator">
          <single>translator</single>
          <multiple>translators</multiple>
@@ -230,6 +234,10 @@
          <single>ed.</single>
          <multiple>eds.</multiple>
       </term>
+      <term name="editorial-director" form="short">
+         <single>ed.</single>
+         <multiple>eds.</multiple>
+      </term>
       <term name="translator" form="short">
          <single>tran.</single>
          <multiple>trans.</multiple>
@@ -241,6 +249,7 @@
 
       <!-- VERB ROLE FORMS -->
       <term name="editor" form="verb">edited by</term>
+      <term name="editorial-director" form="verb">edited by</term>
       <term name="translator" form="verb">translated by</term>
       <term name="editortranslator" form="verb">edited &amp; translated by</term>
       <term name="recipient" form="verb">to</term>
@@ -248,6 +257,7 @@
 
       <!-- SHORT VERB ROLE FORMS -->
       <term name="editor" form="verb-short">ed.</term>
+      <term name="editorial-director" form="verb-short">ed.</term>
       <term name="translator" form="verb-short">trans.</term>
       <term name="editortranslator" form="verb-short">ed. &amp; trans. by</term>
 
