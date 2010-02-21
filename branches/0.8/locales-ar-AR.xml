@@ -9,10 +9,6 @@
     <term name="from">من</term>
     <term name="forthcoming">القادم</term>
     <term name="references">مراجع</term>
-    <term name="reference item">
-      <single>source</single>
-      <multiple>sources</multiple>
-    </term>
     <term name="no date"/>
     <term name="and">و</term>
     <term name="et-al">et al.</term>

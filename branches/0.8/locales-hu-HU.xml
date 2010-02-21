@@ -9,10 +9,6 @@
     <term name="from">forrás</term>
     <term name="forthcoming">megjelenés alatt</term>
     <term name="references">hivatkozások</term>
-    <term name="reference item">
-      <single>source</single>
-      <multiple>sources</multiple>
-    </term>
     <term name="no date">nd</term>
     <term name="and">és</term>
     <term name="et-al">et al.</term>

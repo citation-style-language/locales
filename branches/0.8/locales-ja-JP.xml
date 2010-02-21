@@ -9,10 +9,6 @@
     <term name="from">から</term>
     <term name="forthcoming">近刊</term>
     <term name="references">参考文献</term>
-    <term name="reference item">
-      <single>source</single>
-      <multiple>sources</multiple>
-    </term>
     <term name="no date">日付なし</term>
     <term name="and">と</term>
     <term name="et-al">他</term>

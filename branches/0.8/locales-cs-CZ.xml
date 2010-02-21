@@ -9,10 +9,6 @@
     <term name="from">z</term>
     <term name="forthcoming">nadcházející</term>
     <term name="references">reference</term>
-    <term name="reference item">
-      <single>source</single>
-      <multiple>sources</multiple>
-    </term>
     <term name="no date">bez data</term>
     <term name="and">a</term>
     <term name="et-al">et al.</term>
