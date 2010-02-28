@@ -12,13 +12,29 @@
       <date-part name="day" prefix="-" range-delimiter="/"/>
    </date>
    <terms>
-      <term name="at">at</term>
-      <term name="in">w</term>
-      <term name="ibid">ibid</term>
       <term name="accessed">udostępniono</term>
-      <term name="retrieved">pobrano</term>
-      <term name="from">z</term>
+      <term name="and">i</term>
+      <term name="and others">i inni</term>
+      <term name="anonymous">anonim</term>
+      <term name="anonymous" form="short">anonim</term>
+      <term name="at">at</term>
+      <term name="by">by</term>
+      <term name="circa">circa</term>
+      <term name="circa" form="short">c.</term>
+      <term name="cited">cytowane</term>
+      <term name="et-al">et al.</term>
       <term name="forthcoming">w druku</term>
+      <term name="from">z</term>
+      <term name="ibid">ibid</term>
+      <term name="in">w</term>
+      <term name="in press">w druku</term>
+      <term name="internet">internet</term>
+      <term name="interview">wywiad</term>
+      <term name="letter">list</term>
+      <term name="no date">no date</term>
+      <term name="no date" form="short">bez daty</term>
+      <term name="online">online</term>
+      <term name="presented at">zaprezentowano</term>
       <term name="reference">
          <single>reference</single>
          <multiple>references</multiple>
@@ -27,21 +43,9 @@
          <single>ref.</single>
          <multiple>refs.</multiple>
       </term>
-      <term name="no date">bez daty</term>
-      <term name="and">i</term>
-      <term name="et-al">et al.</term>
-      <term name="circa">circa</term>
-      <term name="circa" form="short">c.</term>
-      <term name="interview">wywiad</term>
-      <term name="letter">list</term>
-      <term name="anonymous">anonim</term>
-      <term name="anonymous" form="short">anonim</term>
-      <term name="and others">i inni</term>
-      <term name="in press">w druku</term>
-      <term name="online">online</term>
-      <term name="cited">cytowane</term>
-      <term name="internet">internet</term>
-      <term name="presented at">zaprezentowano</term>
+      <term name="retrieved">pobrano</term>
+
+      <!-- ANNO DOMINI; BEFORE CHRIST -->
       <term name="ad">AD</term>
       <term name="bc">BC</term>
 
@@ -108,6 +112,10 @@
          <single>kolumna</single>
          <multiple>kolumny</multiple>
       </term>
+      <term name="edition">
+         <single>wydanie</single>
+         <multiple>wydania</multiple>
+      </term>
       <term name="figure">
          <single>rycina</single>
          <multiple>ryciny</multiple>
@@ -148,27 +156,24 @@
          <single>sekcja</single>
          <multiple>sekcja</multiple>
       </term>
-      <term name="volume">
-         <single>tom</single>
-         <multiple>tomy</multiple>
-      </term>
-      <term name="edition">
-         <single>wydanie</single>
-         <multiple>wydania</multiple>
+      <term name="sub verbo">
+         <single>sub verbo</single>
+         <multiple>s.vv</multiple>
       </term>
       <term name="verse">
          <single>wers</single>
          <multiple>wersy</multiple>
       </term>
-      <term name="sub verbo">
-         <single>sub verbo</single>
-         <multiple>s.vv</multiple>
+      <term name="volume">
+         <single>tom</single>
+         <multiple>tomy</multiple>
       </term>
 
       <!-- SHORT LOCATOR FORMS -->
       <term name="book" form="short">książka</term>
       <term name="chapter" form="short">rozdz</term>
       <term name="column" form="short">kolumna</term>
+      <term name="edition" form="short">wyd</term>
       <term name="figure" form="short">ryc</term>
       <term name="folio" form="short">folio</term>
       <term name="issue" form="short">nr</term>
@@ -192,7 +197,6 @@
          <single>t</single>
          <multiple>t</multiple>
       </term>
-      <term name="edition" form="short">wyd</term>
 
       <!-- SYMBOL LOCATOR FORMS -->
       <term name="paragraph" form="symbol">

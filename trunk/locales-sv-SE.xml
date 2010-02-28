@@ -12,13 +12,29 @@
       <date-part name="day" prefix="-" range-delimiter="/"/>
    </date>
    <terms>
-      <term name="at">vid</term>
-      <term name="in">i</term>
-      <term name="ibid">ibid</term>
       <term name="accessed">åtkomstdatum</term>
-      <term name="retrieved">hämtad</term>
-      <term name="from">från</term>
+      <term name="and">och</term>
+      <term name="and others">och andra</term>
+      <term name="anonymous">anonym</term>
+      <term name="anonymous" form="short">anon</term>
+      <term name="at">vid</term>
+      <term name="by">by</term>
+      <term name="circa">circa</term>
+      <term name="circa" form="short">c.</term>
+      <term name="cited">citerad</term>
+      <term name="et-al">m.fl.</term>
       <term name="forthcoming">kommande</term>
+      <term name="from">från</term>
+      <term name="ibid">ibid</term>
+      <term name="in">i</term>
+      <term name="in press">i tryck</term>
+      <term name="internet">internet</term>
+      <term name="interview">intervju</term>
+      <term name="letter">brev</term>
+      <term name="no date">no date</term>
+      <term name="no date" form="short">nd</term>
+      <term name="online">online</term>
+      <term name="presented at">presenterad vid</term>
       <term name="reference">
          <single>reference</single>
          <multiple>references</multiple>
@@ -27,21 +43,9 @@
          <single>ref.</single>
          <multiple>refs.</multiple>
       </term>
-      <term name="no date">nd</term>
-      <term name="and">och</term>
-      <term name="et-al">m.fl.</term>
-      <term name="circa">circa</term>
-      <term name="circa" form="short">c.</term>
-      <term name="interview">intervju</term>
-      <term name="letter">brev</term>
-      <term name="anonymous">anonym</term>
-      <term name="anonymous" form="short">anon</term>
-      <term name="and others">och andra</term>
-      <term name="in press">i tryck</term>
-      <term name="online">online</term>
-      <term name="cited">citerad</term>
-      <term name="internet">internet</term>
-      <term name="presented at">presenterad vid</term>
+      <term name="retrieved">hämtad</term>
+
+      <!-- ANNO DOMINI; BEFORE CHRIST -->
       <term name="ad">AD</term>
       <term name="bc">BC</term>
 
@@ -108,6 +112,10 @@
          <single>kolumn</single>
          <multiple>kolumner</multiple>
       </term>
+      <term name="edition">
+         <single>upplaga</single>
+         <multiple>upplagor</multiple>
+      </term>
       <term name="figure">
          <single>figur</single>
          <multiple>figurer</multiple>
@@ -148,27 +156,24 @@
          <single>avnitt</single>
          <multiple>avsnitt</multiple>
       </term>
-      <term name="volume">
-         <single>volym</single>
-         <multiple>volumer</multiple>
-      </term>
-      <term name="edition">
-         <single>upplaga</single>
-         <multiple>upplagor</multiple>
+      <term name="sub verbo">
+         <single>sub verbo</single>
+         <multiple>s.vv</multiple>
       </term>
       <term name="verse">
          <single>vers</single>
          <multiple>verser</multiple>
       </term>
-      <term name="sub verbo">
-         <single>sub verbo</single>
-         <multiple>s.vv</multiple>
+      <term name="volume">
+         <single>volym</single>
+         <multiple>volumer</multiple>
       </term>
 
       <!-- SHORT LOCATOR FORMS -->
       <term name="book" form="short">bok</term>
       <term name="chapter" form="short">kap</term>
       <term name="column" form="short">kol</term>
+      <term name="edition" form="short">uppl</term>
       <term name="figure" form="short">fig</term>
       <term name="folio" form="short">f</term>
       <term name="issue" form="short">num</term>
@@ -192,7 +197,6 @@
          <single>vol</single>
          <multiple>vols</multiple>
       </term>
-      <term name="edition" form="short">uppl</term>
 
       <!-- SYMBOL LOCATOR FORMS -->
       <term name="paragraph" form="symbol">

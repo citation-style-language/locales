@@ -12,13 +12,29 @@
       <date-part name="day" prefix="-" range-delimiter="/"/>
    </date>
    <terms>
-      <term name="at">auf</term>
-      <term name="in">in</term>
-      <term name="ibid">ebd</term>
       <term name="accessed">zugegriffen</term>
-      <term name="retrieved">abgerufen</term>
-      <term name="from">von</term>
+      <term name="and">und</term>
+      <term name="and others">und andere</term>
+      <term name="anonymous">ohne Autor</term>
+      <term name="anonymous" form="short">o. A.</term>
+      <term name="at">auf</term>
+      <term name="by">by</term>
+      <term name="circa">circa</term>
+      <term name="circa" form="short">c.</term>
+      <term name="cited">zitiert</term>
+      <term name="et-al">u. a.</term>
       <term name="forthcoming">i. E.</term>
+      <term name="from">von</term>
+      <term name="ibid">ebd</term>
+      <term name="in">in</term>
+      <term name="in press">im Druck</term>
+      <term name="internet">Internet</term>
+      <term name="interview">Interview</term>
+      <term name="letter">Brief</term>
+      <term name="no date">no date</term>
+      <term name="no date" form="short">o. J.</term>
+      <term name="online">online</term>
+      <term name="presented at">gehalten auf der</term>
       <term name="reference">
          <single>reference</single>
          <multiple>references</multiple>
@@ -27,21 +43,9 @@
          <single>ref.</single>
          <multiple>refs.</multiple>
       </term>
-      <term name="no date">o. J.</term>
-      <term name="and">und</term>
-      <term name="et-al">u. a.</term>
-      <term name="circa">circa</term>
-      <term name="circa" form="short">c.</term>
-      <term name="interview">Interview</term>
-      <term name="letter">Brief</term>
-      <term name="anonymous">ohne Autor</term>
-      <term name="anonymous" form="short">o. A.</term>
-      <term name="and others">und andere</term>
-      <term name="in press">im Druck</term>
-      <term name="online">online</term>
-      <term name="cited">zitiert</term>
-      <term name="internet">Internet</term>
-      <term name="presented at">gehalten auf der</term>
+      <term name="retrieved">abgerufen</term>
+
+      <!-- ANNO DOMINI; BEFORE CHRIST -->
       <term name="ad">AD</term>
       <term name="bc">BC</term>
 
@@ -108,6 +112,10 @@
          <single>Spalte</single>
          <multiple>Spalten</multiple>
       </term>
+      <term name="edition">
+         <single>Auflage</single>
+         <multiple>Auflagen</multiple>
+      </term>
       <term name="figure">
          <single>Abbildung</single>
          <multiple>Abbildungen</multiple>
@@ -148,27 +156,24 @@
          <single>Abschnitt</single>
          <multiple>Abschnitte</multiple>
       </term>
-      <term name="volume">
-         <single>Band</single>
-         <multiple>Bände</multiple>
-      </term>
-      <term name="edition">
-         <single>Auflage</single>
-         <multiple>Auflagen</multiple>
+      <term name="sub verbo">
+         <single>sub verbo</single>
+         <multiple>s.vv</multiple>
       </term>
       <term name="verse">
          <single>Vers</single>
          <multiple>Verse</multiple>
       </term>
-      <term name="sub verbo">
-         <single>sub verbo</single>
-         <multiple>s.vv</multiple>
+      <term name="volume">
+         <single>Band</single>
+         <multiple>Bände</multiple>
       </term>
 
       <!-- SHORT LOCATOR FORMS -->
       <term name="book" form="short">B</term>
       <term name="chapter" form="short">Kap</term>
       <term name="column" form="short">Sp</term>
+      <term name="edition" form="short">Aufl</term>
       <term name="figure" form="short">Abb</term>
       <term name="folio" form="short">Fol</term>
       <term name="issue" form="short">Nr</term>
@@ -192,7 +197,6 @@
          <single>Bd</single>
          <multiple>Bd</multiple>
       </term>
-      <term name="edition" form="short">Aufl</term>
 
       <!-- SYMBOL LOCATOR FORMS -->
       <term name="paragraph" form="symbol">

@@ -12,13 +12,29 @@
       <date-part name="day" prefix="-" range-delimiter="/"/>
    </date>
    <terms>
-      <term name="at">pri</term>
-      <term name="in">v</term>
-      <term name="ibid">isto</term>
       <term name="accessed">dostopano</term>
-      <term name="retrieved">pridobljeno</term>
-      <term name="from">od</term>
+      <term name="and">in</term>
+      <term name="and others">in drugi</term>
+      <term name="anonymous">anonimni</term>
+      <term name="anonymous" form="short">anon</term>
+      <term name="at">pri</term>
+      <term name="by">by</term>
+      <term name="circa">circa</term>
+      <term name="circa" form="short">c.</term>
+      <term name="cited">citirano</term>
+      <term name="et-al">idr.</term>
       <term name="forthcoming">pred izidom</term>
+      <term name="from">od</term>
+      <term name="ibid">isto</term>
+      <term name="in">v</term>
+      <term name="in press">v tisku</term>
+      <term name="internet">internet</term>
+      <term name="interview">intervju</term>
+      <term name="letter">pismo</term>
+      <term name="no date">no date</term>
+      <term name="no date" form="short">b.d.</term>
+      <term name="online">na spletu</term>
+      <term name="presented at">predstavljeno na</term>
       <term name="reference">
          <single>reference</single>
          <multiple>references</multiple>
@@ -27,21 +43,9 @@
          <single>ref.</single>
          <multiple>refs.</multiple>
       </term>
-      <term name="no date">b.d.</term>
-      <term name="and">in</term>
-      <term name="et-al">idr.</term>
-      <term name="circa">circa</term>
-      <term name="circa" form="short">c.</term>
-      <term name="interview">intervju</term>
-      <term name="letter">pismo</term>
-      <term name="anonymous">anonimni</term>
-      <term name="anonymous" form="short">anon</term>
-      <term name="and others">in drugi</term>
-      <term name="in press">v tisku</term>
-      <term name="online">na spletu</term>
-      <term name="cited">citirano</term>
-      <term name="internet">internet</term>
-      <term name="presented at">predstavljeno na</term>
+      <term name="retrieved">pridobljeno</term>
+
+      <!-- ANNO DOMINI; BEFORE CHRIST -->
       <term name="ad">AD</term>
       <term name="bc">BC</term>
 
@@ -108,6 +112,10 @@
          <single>stolpec</single>
          <multiple>stolpci</multiple>
       </term>
+      <term name="edition">
+         <single>izdaja</single>
+         <multiple>izdaje</multiple>
+      </term>
       <term name="figure">
          <single>slika</single>
          <multiple>slike</multiple>
@@ -148,27 +156,24 @@
          <single>odsek</single>
          <multiple>odseki</multiple>
       </term>
-      <term name="volume">
-         <single>letnik</single>
-         <multiple>letniki</multiple>
-      </term>
-      <term name="edition">
-         <single>izdaja</single>
-         <multiple>izdaje</multiple>
+      <term name="sub verbo">
+         <single>sub verbo</single>
+         <multiple>s.vv</multiple>
       </term>
       <term name="verse">
          <single>verz</single>
          <multiple>verzi</multiple>
       </term>
-      <term name="sub verbo">
-         <single>sub verbo</single>
-         <multiple>s.vv</multiple>
+      <term name="volume">
+         <single>letnik</single>
+         <multiple>letniki</multiple>
       </term>
 
       <!-- SHORT LOCATOR FORMS -->
       <term name="book" form="short">knj</term>
       <term name="chapter" form="short">pogl</term>
       <term name="column" form="short">sto</term>
+      <term name="edition" form="short">iz</term>
       <term name="figure" form="short">sl</term>
       <term name="folio" form="short">f</term>
       <term name="issue" form="short">št</term>
@@ -192,7 +197,6 @@
          <single>let</single>
          <multiple>let</multiple>
       </term>
-      <term name="edition" form="short">iz</term>
 
       <!-- SYMBOL LOCATOR FORMS -->
       <term name="paragraph" form="symbol">

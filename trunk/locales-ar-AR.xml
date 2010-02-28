@@ -12,13 +12,29 @@
       <date-part name="day" prefix="-" range-delimiter="/"/>
    </date>
    <terms>
-      <term name="at">عند</term>
-      <term name="in">في</term>
-      <term name="ibid">آيبيد</term>
       <term name="accessed">زير</term>
-      <term name="retrieved">جلب</term>
-      <term name="from">من</term>
+      <term name="and">و</term>
+      <term name="and others">وآخرون</term>
+      <term name="anonymous">مجهول</term>
+      <term name="anonymous" form="short">مجهول</term>
+      <term name="at">عند</term>
+      <term name="by">by</term>
+      <term name="circa">circa</term>
+      <term name="circa" form="short">c.</term>
+      <term name="cited">وثِّقَ</term>
+      <term name="et-al">et al.</term>
       <term name="forthcoming">القادم</term>
+      <term name="from">من</term>
+      <term name="ibid">آيبيد</term>
+      <term name="in">في</term>
+      <term name="in press">تحت الطبع</term>
+      <term name="internet">الإنترنت</term>
+      <term name="interview">مقابلة</term>
+      <term name="letter">رسالة</term>
+      <term name="no date">no date</term>
+      <term name="no date" form="short"/>
+      <term name="online">ربط مباشر</term>
+      <term name="presented at">قُدَّم في</term>
       <term name="reference">
          <single>reference</single>
          <multiple>references</multiple>
@@ -27,21 +43,9 @@
          <single>ref.</single>
          <multiple>refs.</multiple>
       </term>
-      <term name="no date"/>
-      <term name="and">و</term>
-      <term name="et-al">et al.</term>
-      <term name="circa">circa</term>
-      <term name="circa" form="short">c.</term>
-      <term name="interview">مقابلة</term>
-      <term name="letter">رسالة</term>
-      <term name="anonymous">مجهول</term>
-      <term name="anonymous" form="short">مجهول</term>
-      <term name="and others">وآخرون</term>
-      <term name="in press">تحت الطبع</term>
-      <term name="online">ربط مباشر</term>
-      <term name="cited">وثِّقَ</term>
-      <term name="internet">الإنترنت</term>
-      <term name="presented at">قُدَّم في</term>
+      <term name="retrieved">جلب</term>
+
+      <!-- ANNO DOMINI; BEFORE CHRIST -->
       <term name="ad">AD</term>
       <term name="bc">BC</term>
 
@@ -108,6 +112,10 @@
          <single>عمود</single>
          <multiple>أعمدة</multiple>
       </term>
+      <term name="edition">
+         <single>الطبعة</single>
+         <multiple>الطبعات</multiple>
+      </term>
       <term name="figure">
          <single>رسم توضيحي</single>
          <multiple>رسوم توضيحية</multiple>
@@ -148,27 +156,24 @@
          <single>قسم</single>
          <multiple>أقسام</multiple>
       </term>
-      <term name="volume">
-         <single>مجلد</single>
-         <multiple>مجلدات</multiple>
-      </term>
-      <term name="edition">
-         <single>الطبعة</single>
-         <multiple>الطبعات</multiple>
+      <term name="sub verbo">
+         <single>sub verbo</single>
+         <multiple>s.vv</multiple>
       </term>
       <term name="verse">
          <single>بيت</single>
          <multiple>أبيات</multiple>
       </term>
-      <term name="sub verbo">
-         <single>sub verbo</single>
-         <multiple>s.vv</multiple>
+      <term name="volume">
+         <single>مجلد</single>
+         <multiple>مجلدات</multiple>
       </term>
 
       <!-- SHORT LOCATOR FORMS -->
       <term name="book" form="short">ك</term>
       <term name="chapter" form="short">ف</term>
       <term name="column" form="short">عم</term>
+      <term name="edition" form="short">ط</term>
       <term name="figure" form="short">ر</term>
       <term name="folio" form="short">و</term>
       <term name="issue" form="short">عد</term>
@@ -192,7 +197,6 @@
          <single>مج</single>
          <multiple>مجج</multiple>
       </term>
-      <term name="edition" form="short">ط</term>
 
       <!-- SYMBOL LOCATOR FORMS -->
       <term name="paragraph" form="symbol">

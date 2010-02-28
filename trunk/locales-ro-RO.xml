@@ -12,13 +12,29 @@
       <date-part name="day" prefix="-" range-delimiter="/"/>
    </date>
    <terms>
-      <term name="at">la</term>
-      <term name="in">în</term>
-      <term name="ibid">ibidem</term>
       <term name="accessed">accesat în</term>
-      <term name="retrieved">preluat în</term>
-      <term name="from">din</term>
+      <term name="and">şi</term>
+      <term name="and others">şi alţii</term>
+      <term name="anonymous">anonim</term>
+      <term name="anonymous" form="short">anon</term>
+      <term name="at">la</term>
+      <term name="by">by</term>
+      <term name="circa">circa</term>
+      <term name="circa" form="short">c.</term>
+      <term name="cited">citat</term>
+      <term name="et-al">et al.</term>
       <term name="forthcoming">în curs de apariţie</term>
+      <term name="from">din</term>
+      <term name="ibid">ibidem</term>
+      <term name="in">în</term>
+      <term name="in press">sub tipar</term>
+      <term name="internet">internet</term>
+      <term name="interview">interviu</term>
+      <term name="letter">scrisoare</term>
+      <term name="no date">no date</term>
+      <term name="no date" form="short">f.a.</term>
+      <term name="online">online</term>
+      <term name="presented at">prezentat la</term>
       <term name="reference">
          <single>reference</single>
          <multiple>references</multiple>
@@ -27,21 +43,9 @@
          <single>ref.</single>
          <multiple>refs.</multiple>
       </term>
-      <term name="no date">f.a.</term>
-      <term name="and">şi</term>
-      <term name="et-al">et al.</term>
-      <term name="circa">circa</term>
-      <term name="circa" form="short">c.</term>
-      <term name="interview">interviu</term>
-      <term name="letter">scrisoare</term>
-      <term name="anonymous">anonim</term>
-      <term name="anonymous" form="short">anon</term>
-      <term name="and others">şi alţii</term>
-      <term name="in press">sub tipar</term>
-      <term name="online">online</term>
-      <term name="cited">citat</term>
-      <term name="internet">internet</term>
-      <term name="presented at">prezentat la</term>
+      <term name="retrieved">preluat în</term>
+
+      <!-- ANNO DOMINI; BEFORE CHRIST -->
       <term name="ad">AD</term>
       <term name="bc">BC</term>
 
@@ -108,6 +112,10 @@
          <single>coloana</single>
          <multiple>coloanele</multiple>
       </term>
+      <term name="edition">
+         <single>ediţia</single>
+         <multiple>ediţiile</multiple>
+      </term>
       <term name="figure">
          <single>figura</single>
          <multiple>figurile</multiple>
@@ -148,27 +156,24 @@
          <single>secţiunea</single>
          <multiple>secţiunile</multiple>
       </term>
-      <term name="volume">
-         <single>volumul</single>
-         <multiple>volumele</multiple>
-      </term>
-      <term name="edition">
-         <single>ediţia</single>
-         <multiple>ediţiile</multiple>
+      <term name="sub verbo">
+         <single>sub verbo</single>
+         <multiple>s.vv</multiple>
       </term>
       <term name="verse">
          <single>versetul</single>
          <multiple>versetele</multiple>
       </term>
-      <term name="sub verbo">
-         <single>sub verbo</single>
-         <multiple>s.vv</multiple>
+      <term name="volume">
+         <single>volumul</single>
+         <multiple>volumele</multiple>
       </term>
 
       <!-- SHORT LOCATOR FORMS -->
       <term name="book" form="short">cart</term>
       <term name="chapter" form="short">cap</term>
       <term name="column" form="short">col</term>
+      <term name="edition" form="short">ed</term>
       <term name="figure" form="short">fig</term>
       <term name="folio" form="short">fol</term>
       <term name="issue" form="short">nr</term>
@@ -192,7 +197,6 @@
          <single>vol</single>
          <multiple>vol</multiple>
       </term>
-      <term name="edition" form="short">ed</term>
 
       <!-- SYMBOL LOCATOR FORMS -->
       <term name="paragraph" form="symbol">
