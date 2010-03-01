@@ -261,6 +261,7 @@
       <term name="interviewer" form="verb">интервюиран от</term>
 
       <!-- SHORT VERB ROLE FORMS -->
+      <term name="container-author" form="verb-short">by</term>
       <term name="editor" form="verb-short">ред</term>
       <term name="editorial-director" form="verb-short">ed.</term>
       <term name="translator" form="verb-short">прев</term>
