@@ -22,6 +22,11 @@
       <term name="circa">circa</term>
       <term name="circa" form="short">c.</term>
       <term name="cited">被引用</term>
+      <term name="edition">
+         <single>版本</single>
+         <multiple>版本</multiple>
+      </term>
+      <term name="edition" form="short">版</term>
       <term name="et-al">等人</term>
       <term name="forthcoming">將來的</term>
       <term name="from">從</term>
@@ -112,10 +117,6 @@
          <single>欄</single>
          <multiple>欄</multiple>
       </term>
-      <term name="edition">
-         <single>版本</single>
-         <multiple>版本</multiple>
-      </term>
       <term name="figure">
          <single>圖</single>
          <multiple>圖</multiple>
@@ -173,7 +174,6 @@
       <term name="book" form="short">書</term>
       <term name="chapter" form="short">章</term>
       <term name="column" form="short">欄</term>
-      <term name="edition" form="short">版</term>
       <term name="figure" form="short">圖</term>
       <term name="folio" form="short">開</term>
       <term name="issue" form="short">期</term>

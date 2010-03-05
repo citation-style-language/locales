@@ -22,6 +22,11 @@
       <term name="circa">circa</term>
       <term name="circa" form="short">c.</term>
       <term name="cited">cited</term>
+      <term name="edition">
+         <single>utgave</single>
+         <multiple>utgaver</multiple>
+      </term>
+      <term name="edition" form="short">utg</term>
       <term name="et-al">mfl</term>
       <term name="forthcoming">kommende</term>
       <term name="from">fra</term>
@@ -112,10 +117,6 @@
          <single>kolonne</single>
          <multiple>kolenner</multiple>
       </term>
-      <term name="edition">
-         <single>utgave</single>
-         <multiple>utgaver</multiple>
-      </term>
       <term name="figure">
          <single>figur</single>
          <multiple>figurer</multiple>
@@ -173,7 +174,6 @@
       <term name="book" form="short">b</term>
       <term name="chapter" form="short">kap</term>
       <term name="column" form="short">kol</term>
-      <term name="edition" form="short">utg</term>
       <term name="figure" form="short">fig</term>
       <term name="folio" form="short">fol</term>
       <term name="issue" form="short">nr</term>

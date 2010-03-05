@@ -22,6 +22,11 @@
       <term name="circa">circa</term>
       <term name="circa" form="short">c.</term>
       <term name="cited">citirano</term>
+      <term name="edition">
+         <single>izdaja</single>
+         <multiple>izdaje</multiple>
+      </term>
+      <term name="edition" form="short">iz</term>
       <term name="et-al">idr.</term>
       <term name="forthcoming">pred izidom</term>
       <term name="from">od</term>
@@ -112,10 +117,6 @@
          <single>stolpec</single>
          <multiple>stolpci</multiple>
       </term>
-      <term name="edition">
-         <single>izdaja</single>
-         <multiple>izdaje</multiple>
-      </term>
       <term name="figure">
          <single>slika</single>
          <multiple>slike</multiple>
@@ -173,7 +174,6 @@
       <term name="book" form="short">knj</term>
       <term name="chapter" form="short">pogl</term>
       <term name="column" form="short">sto</term>
-      <term name="edition" form="short">iz</term>
       <term name="figure" form="short">sl</term>
       <term name="folio" form="short">f</term>
       <term name="issue" form="short">št</term>

@@ -22,6 +22,11 @@
       <term name="circa">circa</term>
       <term name="circa" form="short">c.</term>
       <term name="cited">цитирано</term>
+      <term name="edition">
+         <single>издање</single>
+         <multiple>издања</multiple>
+      </term>
+      <term name="edition" form="short">изд.</term>
       <term name="et-al">и остали</term>
       <term name="forthcoming">долазећи</term>
       <term name="from">од</term>
@@ -112,10 +117,6 @@
          <single>колона</single>
          <multiple>колоне</multiple>
       </term>
-      <term name="edition">
-         <single>издање</single>
-         <multiple>издања</multiple>
-      </term>
       <term name="figure">
          <single>цртеж</single>
          <multiple>цртежи</multiple>
@@ -173,7 +174,6 @@
       <term name="book" form="short">књига</term>
       <term name="chapter" form="short">Пог.</term>
       <term name="column" form="short">кол.</term>
-      <term name="edition" form="short">изд.</term>
       <term name="figure" form="short">црт.</term>
       <term name="folio" form="short">фолио</term>
       <term name="issue" form="short">изд.</term>

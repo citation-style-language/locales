@@ -22,6 +22,11 @@
       <term name="circa">circa</term>
       <term name="circa" form="short">c.</term>
       <term name="cited">citat</term>
+      <term name="edition">
+         <single>ediţia</single>
+         <multiple>ediţiile</multiple>
+      </term>
+      <term name="edition" form="short">ed</term>
       <term name="et-al">et al.</term>
       <term name="forthcoming">în curs de apariţie</term>
       <term name="from">din</term>
@@ -112,10 +117,6 @@
          <single>coloana</single>
          <multiple>coloanele</multiple>
       </term>
-      <term name="edition">
-         <single>ediţia</single>
-         <multiple>ediţiile</multiple>
-      </term>
       <term name="figure">
          <single>figura</single>
          <multiple>figurile</multiple>
@@ -173,7 +174,6 @@
       <term name="book" form="short">cart</term>
       <term name="chapter" form="short">cap</term>
       <term name="column" form="short">col</term>
-      <term name="edition" form="short">ed</term>
       <term name="figure" form="short">fig</term>
       <term name="folio" form="short">fol</term>
       <term name="issue" form="short">nr</term>
