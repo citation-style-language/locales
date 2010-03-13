@@ -2,14 +2,14 @@
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="et">
    <style-options punctuation-in-quote="false"/>
    <date form="text">
+      <date-part name="day" suffix=". "/>
       <date-part name="month" suffix=" "/>
-      <date-part name="day" suffix=", "/>
       <date-part name="year"/>
    </date>
    <date form="numeric">
+      <date-part name="day" form="numeric-leading-zeros" suffix="."/>
+      <date-part name="month" form="numeric-leading-zeros" suffix="."/>
       <date-part name="year"/>
-      <date-part name="month" form="numeric" prefix="-" range-delimiter="/"/>
-      <date-part name="day" prefix="-" range-delimiter="/"/>
    </date>
    <terms>
       <term name="accessed">accessed</term>
