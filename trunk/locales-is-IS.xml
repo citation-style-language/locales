@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="is">
-   <style-options punctuation-in-quote="true"/>
+   <style-options punctuation-in-quote="false"/>
    <date form="text">
       <date-part name="month" suffix=" "/>
       <date-part name="day" suffix=", "/>
