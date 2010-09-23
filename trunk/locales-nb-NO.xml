@@ -30,7 +30,7 @@
       <term name="et-al">mfl</term>
       <term name="forthcoming">kommende</term>
       <term name="from">fra</term>
-      <term name="ibid">ibid</term>
+      <term name="ibid">ibid.</term>
       <term name="in">i</term>
       <term name="in press">i trykk</term>
       <term name="internet">Internett</term>
@@ -186,8 +186,8 @@
       <term name="part" form="short">d</term>
       <term name="section" form="short">sek</term>
       <term name="sub verbo" form="short">
-         <single>s.v</single>
-         <multiple>s.vv</multiple>
+         <single>s.v.</single>
+         <multiple>s.vv.</multiple>
       </term>
       <term name="verse" form="short">
          <single>v</single>
