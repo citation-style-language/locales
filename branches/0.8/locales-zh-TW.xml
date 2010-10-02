@@ -139,7 +139,6 @@
       <single>冊</single>
       <multiple>冊</multiple>
     </term>
-    <term name="edition">edition</term>
     <term name="edition" form="short">版</term>
     <term name="paragraph" form="symbol">
       <single>¶</single>

@@ -27,20 +27,20 @@
     <term name="biology">bioloogia</term>
     <term name="botany">botaanika</term>
     <term name="chemistry">keemia</term>
-    <term name="engineering">inseneriteadus</term>
+    <term name="engineering">tehnikateadus</term>
     <term name="generic-base">määratlemata</term>
     <term name="geography">geograafia</term>
     <term name="geology">geoloogia</term>
     <term name="history">ajalugu</term>
-    <term name="humanities">humanitaaria</term>
-    <term name="literature">kirjandus</term>
+    <term name="humanities">humanitaarteadus</term>
+    <term name="literature">kirjandusteadus</term>
     <term name="math">matemaatika</term>
     <term name="medicine">meditsiin</term>
     <term name="philosophy">filosoofia</term>
     <term name="physics">füüsika</term>
     <term name="psychology">psühholoogia</term>
     <term name="sociology">sotsioloogia</term>
-    <term name="science">reaalia</term>
+    <term name="science">reaalteadus</term>
     <term name="political_science">politoloogia</term>
     <term name="social_science">sotsiaalteadus</term>
     <term name="theology">teoloogia</term>
@@ -94,8 +94,8 @@
       <multiple>osad</multiple>
     </term>
     <term name="section">
-      <single>alajaotus</single>
-      <multiple>alajaotused</multiple>
+      <single>alajaotis</single>
+      <multiple>alajaotised</multiple>
     </term>
     <term name="volume">
       <single>köide</single>
@@ -122,14 +122,14 @@
     <term name="opus" form="short">op</term>
     <term name="page" form="short">
       <single>lk</single>
-      <multiple>lkk</multiple>
+      <multiple>lk</multiple>
     </term>
-    <term name="paragraph" form="short">para</term>
+    <term name="paragraph" form="short">lõik</term>
     <term name="part" form="short">
 	<single>osa</single>
 	<multiple>osad</multiple>
     </term>
-    <term name="section" form="short">alaj</term>
+    <term name="section" form="short">alajaot</term>
     <term name="sub verbo" form="short">
       <single>s.v</single>
       <multiple>s.vv</multiple>
@@ -139,8 +139,7 @@
       <multiple>vv</multiple>
     </term>
     <term name="volume" form="short">kd</term>
-    <term name="edition">trükk</term>
-    <term name="edition" form="short">trükk</term>
+    <term name="edition" form="short">tr</term>
     <term name="paragraph" form="symbol">
       <single>¶</single>
       <multiple>¶¶</multiple>

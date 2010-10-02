@@ -139,7 +139,6 @@
       <single>let</single>
       <multiple>let</multiple>
     </term>
-    <term name="edition">edition</term>
     <term name="edition" form="short">iz</term>
     <term name="paragraph" form="symbol">
       <single>¶</single>
