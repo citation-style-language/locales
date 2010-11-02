@@ -85,7 +85,7 @@
       <term name="botany">botanikk</term>
       <term name="chemistry">kjemi</term>
       <term name="engineering">ingeniørvitenskap</term>
-      <term name="generic-base">generic base</term>
+      <term name="generic-base">generell</term>
       <term name="geography">geografi</term>
       <term name="geology">geologi</term>
       <term name="history">historie</term>
@@ -261,7 +261,7 @@
       <term name="interviewer" form="verb">intervjuet av</term>
 
       <!-- SHORT VERB ROLE FORMS -->
-      <term name="container-author" form="verb-short">av.</term>
+      <term name="container-author" form="verb-short">av</term>
       <term name="editor" form="verb-short">red.</term>
       <term name="editorial-director" form="verb-short">red.</term>
       <term name="translator" form="verb-short">overs.</term>
