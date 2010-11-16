@@ -12,15 +12,15 @@
       <date-part name="year"/>
    </date>
    <terms>
-      <term name="accessed">accédé</term>
+      <term name="accessed">consulté</term>
       <term name="and">et</term>
-      <term name="and others">et autres</term>
+      <term name="and others">et coll.</term>
       <term name="anonymous">anonyme</term>
       <term name="anonymous" form="short">anon.</term>
       <term name="at">à</term>
       <term name="by">par</term>
-      <term name="circa">circa</term>
-      <term name="circa" form="short">c.</term>
+      <term name="circa">vers</term>
+      <term name="circa" form="short">v.</term>
       <term name="cited">cité</term>
       <term name="edition">
          <single>édition</single>
@@ -37,26 +37,26 @@
       <term name="interview">interview</term>
       <term name="letter">lettre</term>
       <term name="no date">sans date</term>
-      <term name="no date" form="short">s.d.</term>
+      <term name="no date" form="short">s.&#xA0;d.</term>
       <term name="online">en ligne</term>
-      <term name="presented at">présenté au</term>
+      <term name="presented at">présenté à</term>
       <term name="reference">
          <single>référence</single>
          <multiple>références</multiple>
       </term>
       <term name="reference" form="short">
          <single>réf.</single>
-         <multiple>réfs</multiple>
+         <multiple>réf.</multiple>
       </term>
-      <term name="retrieved">retrouvé</term>
+      <term name="retrieved">consulté</term>
 
       <!-- ANNO DOMINI; BEFORE CHRIST -->
       <term name="ad">apr. J.-C.</term>
       <term name="bc">av. J.-C.</term>
 
       <!-- QUOTES -->
-      <term name="open-quote">« </term>
-      <term name="close-quote"> »</term>
+      <term name="open-quote">«&#xA0;</term>
+      <term name="close-quote">&#xA0;»</term>
       <term name="open-inner-quote">“</term>
       <term name="close-inner-quote">”</term>
 
@@ -175,8 +175,8 @@
       <term name="chapter" form="short">chap.</term>
       <term name="column" form="short">col.</term>
       <term name="figure" form="short">fig.</term>
-      <term name="folio" form="short">f°</term>
-      <term name="issue" form="short">n°</term>
+      <term name="folio" form="short">f&lt;sup&gt;o&lt;/sup&gt;</term>
+      <term name="issue" form="short">n&lt;sup&gt;o&lt;/sup&gt;</term>
       <term name="opus" form="short">op.</term>
       <term name="page" form="short">
          <single>p.</single>
@@ -186,16 +186,16 @@
       <term name="part" form="short">part.</term>
       <term name="section" form="short">sect.</term>
       <term name="sub verbo" form="short">
-         <single>s.v.</single>
-         <multiple>s.vv.</multiple>
+         <single>s.&#xA0;v.</single>
+         <multiple>s.&#xA0;vv.</multiple>
       </term>
       <term name="verse" form="short">
          <single>v.</single>
-         <multiple>vv</multiple>
+         <multiple>v.</multiple>
       </term>
       <term name="volume" form="short">
          <single>vol.</single>
-         <multiple>vols</multiple>
+         <multiple>vol.</multiple>
       </term>
 
       <!-- SYMBOL LOCATOR FORMS -->
@@ -226,8 +226,8 @@
          <multiple>traducteurs</multiple>
       </term>
       <term name="editortranslator">
-         <single>éditeur &amp; traducteur</single>
-         <multiple>éditeurs &amp; traducteurs</multiple>
+         <single>éditeur et traducteur</single>
+         <multiple>éditeurs et traducteurs</multiple>
       </term>
 
       <!-- SHORT ROLE FORMS -->
@@ -248,16 +248,16 @@
          <multiple>trad.</multiple>
       </term>
       <term name="editortranslator" form="short">
-         <single>éd. &amp; trad.</single>
-         <multiple>éd. &amp; trad.</multiple>
+         <single>éd. et trad.</single>
+         <multiple>éd. et trad.</multiple>
       </term>
 
       <!-- VERB ROLE FORMS -->
       <term name="editor" form="verb">édité par</term>
-      <term name="editorial-director" form="verb">dirigé par</term>
+      <term name="editorial-director" form="verb">sous la direction de</term>
       <term name="translator" form="verb">traduit par</term>
-      <term name="editortranslator" form="verb">edité &amp; traduit par</term>
-      <term name="recipient" form="verb">pour</term>
+      <term name="editortranslator" form="verb">édité et traduit par</term>
+      <term name="recipient" form="verb">à</term>
       <term name="interviewer" form="verb">interview par</term>
 
       <!-- SHORT VERB ROLE FORMS -->
@@ -265,7 +265,7 @@
       <term name="editor" form="verb-short">éd.</term>
       <term name="editorial-director" form="verb-short">dir.</term>
       <term name="translator" form="verb-short">trad.</term>
-      <term name="editortranslator" form="verb-short">éd. &amp; trad. par</term>
+      <term name="editortranslator" form="verb-short">éd. et trad.</term>
 
       <!-- LONG MONTH FORMS -->
       <term name="month-01">janvier</term>
@@ -282,7 +282,7 @@
       <term name="month-12">décembre</term>
 
       <!-- SHORT MONTH FORMS -->
-      <term name="month-01" form="short">jan.</term>
+      <term name="month-01" form="short">janv.</term>
       <term name="month-02" form="short">févr.</term>
       <term name="month-03" form="short">mars</term>
       <term name="month-04" form="short">avr.</term>

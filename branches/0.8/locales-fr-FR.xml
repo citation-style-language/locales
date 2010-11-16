@@ -4,24 +4,24 @@
     <term name="at">à</term>
     <term name="in">dans</term>
     <term name="ibid">ibid</term>
-    <term name="accessed">accédé</term>
-    <term name="retrieved">retrouvé</term>
+    <term name="accessed">consulté</term>
+    <term name="retrieved">consulté</term>
     <term name="from">de</term>
-    <term name="forthcoming">à venir</term>
+    <term name="forthcoming">à paraître</term>
     <term name="references">références</term>
-    <term name="no date">pas de date</term>
+    <term name="no date">sans date</term>
     <term name="and">et</term>
     <term name="et-al">et al.</term>
     <term name="interview">interview</term>
     <term name="letter">lettre</term>
     <term name="anonymous">anonyme</term>
     <term name="anonymous" form="short">anon</term>
-    <term name="and others">et autres</term>
+    <term name="and others">et coll</term>
     <term name="in press">sous presse</term>
     <term name="online">en ligne</term>
     <term name="cited">cité</term>
     <term name="internet">Internet</term>
-    <term name="presented at">présenté au</term>
+    <term name="presented at">présenté à</term>
     <term name="anthropology">anthropologie</term>
     <term name="astronomy">astronomie</term>
     <term name="biology">biologie</term>
@@ -102,8 +102,8 @@
       <multiple>volumes</multiple>
     </term>
     <term name="edition">
-      <single>edition</single>
-      <multiple>editions</multiple>
+      <single>édition</single>
+      <multiple>éditions</multiple>
     </term>
     <term name="verse">
       <single>verset</single>
@@ -117,36 +117,36 @@
     <term name="chapter" form="short">chap</term>
     <term name="column" form="short">col</term>
     <term name="figure" form="short">fig</term>
-    <term name="folio" form="short">f</term>
+    <term name="folio" form="short">f°</term>
     <term name="issue" form="short">n°</term>
     <term name="opus" form="short">op</term>
     <term name="page" form="short">
       <single>p</single>
-      <multiple>pp</multiple>
+      <multiple>p</multiple>
     </term>
-    <term name="paragraph" form="short">par</term>
+    <term name="paragraph" form="short">paragr</term>
     <term name="part" form="short">part</term>
     <term name="section" form="short">sec</term>
     <term name="sub verbo" form="short">
-      <single>s.v</single>
-      <multiple>s.vv</multiple>
+      <single>s.&#xA0;v</single>
+      <multiple>s.&#xA0;vv.</multiple>
     </term>
     <term name="verse" form="short">
       <single>v</single>
-      <multiple>vv</multiple>
+      <multiple>v</multiple>
     </term>
     <term name="volume" form="short">
       <single>vol</single>
-      <multiple>vols</multiple>
+      <multiple>vol</multiple>
     </term>
     <term name="edition" form="short">éd</term>
     <term name="paragraph" form="symbol">
       <single>§</single>
-      <multiple>§§</multiple>
+      <multiple>§</multiple>
     </term>
     <term name="section" form="symbol">
       <single>§</single>
-      <multiple>§§</multiple>
+      <multiple>§</multiple>
     </term>
     <term name="author">
       <single/>
@@ -174,33 +174,33 @@
     </term>
     <term name="editor" form="verb">édité par</term>
     <term name="translator" form="verb">traduit par</term>
-    <term name="recipient" form="verb">vers</term>
+    <term name="recipient" form="verb">à</term>
     <term name="interviewer" form="verb">interview par</term>
     <term name="editor" form="verb-short">éd</term>
     <term name="translator" form="verb-short">trad</term>
-    <term name="month-01">Janvier</term>
-    <term name="month-02">Février</term>
-    <term name="month-03">Mars</term>
-    <term name="month-04">Avril</term>
-    <term name="month-05">Mai</term>
-    <term name="month-06">Juin</term>
-    <term name="month-07">Juillet</term>
-    <term name="month-08">Août</term>
-    <term name="month-09">Septembre</term>
-    <term name="month-10">Octobre</term>
-    <term name="month-11">Novembre</term>
-    <term name="month-12">Décembre</term>
-    <term name="month-01" form="short">Jan</term>
-    <term name="month-02" form="short">Fév</term>
-    <term name="month-03" form="short">Mar</term>
-    <term name="month-04" form="short">Avr</term>
-    <term name="month-05" form="short">Mai</term>
-    <term name="month-06" form="short">Juin</term>
-    <term name="month-07" form="short">Juil</term>
-    <term name="month-08" form="short">Aoû</term>
-    <term name="month-09" form="short">Sep</term>
-    <term name="month-10" form="short">Oct</term>
-    <term name="month-11" form="short">Nov</term>
-    <term name="month-12" form="short">Déc</term>
+    <term name="month-01">janvier</term>
+    <term name="month-02">février</term>
+    <term name="month-03">mars</term>
+    <term name="month-04">avril</term>
+    <term name="month-05">mai</term>
+    <term name="month-06">juin</term>
+    <term name="month-07">juillet</term>
+    <term name="month-08">août</term>
+    <term name="month-09">septembre</term>
+    <term name="month-10">octobre</term>
+    <term name="month-11">novembre</term>
+    <term name="month-12">décembre</term>
+    <term name="month-01" form="short">janv</term>
+    <term name="month-02" form="short">févr</term>
+    <term name="month-03" form="short">mars</term>
+    <term name="month-04" form="short">avr</term>
+    <term name="month-05" form="short">mai</term>
+    <term name="month-06" form="short">juin</term>
+    <term name="month-07" form="short">juill</term>
+    <term name="month-08" form="short">août</term>
+    <term name="month-09" form="short">sept</term>
+    <term name="month-10" form="short">oct</term>
+    <term name="month-11" form="short">nov</term>
+    <term name="month-12" form="short">déc</term>
   </locale>
 </terms>
