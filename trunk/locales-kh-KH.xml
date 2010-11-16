@@ -15,7 +15,6 @@
       <term name="accessed">accessed</term>
       <term name="and">and</term>
       <term name="and others">and others</term>
-      <term name="ellipsis">…</term>
       <term name="anonymous">anonymous</term>
       <term name="anonymous" form="short">anon.</term>
       <term name="at">at</term>
@@ -106,7 +105,7 @@
       <term name="zoology">សត្តវិទ្យា</term>
 
       <!-- LONG LOCATOR FORMS -->
-      <term name="សៀវភៅ">
+      <term name="book">
          <single>សៀវភៅ</single>
          <multiple>សៀវភៅ</multiple>
       </term>
