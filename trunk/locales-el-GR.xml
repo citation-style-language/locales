@@ -16,17 +16,17 @@
       <term name="and">και</term>
       <term name="and others">και άλλοι</term>
       <term name="anonymous">ανώνυμο</term>
-      <term name="anonymous" form="short">ανών</term>
-      <term name="at">εφ</term>
-      <term name="by">του</term>
+      <term name="anonymous" form="short">ανών.</term>
+      <term name="at">εφ.</term>
+      <term name="by">από</term>
       <term name="circa">περίπου</term>
-      <term name="circa" form="short">περ</term>
-      <term name="cited">παρατίθεται στο</term>
+      <term name="circa" form="short">περ.</term>
+      <term name="cited">παρατίθεται</term>
       <term name="edition">
-         <single>έκδοση</single>
-         <multiple>εκδόσεις</multiple>
+        <single>έκδοση</single>
+        <multiple>εκδόσεις</multiple>
       </term>
-      <term name="edition" form="short">έκδ</term>
+      <term name="edition" form="short">έκδ.</term>
       <term name="et-al">κ.ά.</term>
       <term name="forthcoming">προσεχές</term>
       <term name="from">από</term>
@@ -41,12 +41,12 @@
       <term name="online">έκδοση σε ψηφιακή μορφή</term>
       <term name="presented at">παρουσιάστηκε στο</term>
       <term name="reference">
-         <single>αναφορά</single>
-         <multiple>αναφορές</multiple>
+        <single>παραπομπή</single>
+        <multiple>παραπομπές</multiple>
       </term>
       <term name="reference" form="short">
-         <single>αναφ.</single>
-         <multiple>αναφ.</multiple>
+        <single>παρ.</single>
+        <multiple>παρ.</multiple>
       </term>
       <term name="retrieved">ανακτήθηκε</term>
 
@@ -55,10 +55,10 @@
       <term name="bc">π.Χ.</term>
 
       <!-- QUOTES -->
-      <term name="open-quote">«</term>
-      <term name="close-quote">»</term>
-      <term name="open-inner-quote">‘</term>
-      <term name="close-inner-quote">’</term>
+      <term name="open-quote">‘</term>
+      <term name="close-quote">’</term>
+      <term name="open-inner-quote">'</term>
+      <term name="close-inner-quote">'</term>
 
       <!-- ORDINALS -->
       <term name="ordinal-01">ος</term>
@@ -85,7 +85,7 @@
     <term name="botany">βοτανική</term>
     <term name="chemistry">χημεία</term>
     <term name="engineering">μηχανική</term>
-    <term name="generic-base">γενική βάση</term>
+    <term name="generic-base">γενική βιβλιογραφία</term>
     <term name="geography">γεωγραφία</term>
     <term name="geology">γεωλογία</term>
     <term name="history">ιστορία</term>
@@ -170,31 +170,31 @@
       </term>
 
       <!-- SHORT LOCATOR FORMS -->
-      <term name="book" form="short">βιβ</term>
-      <term name="chapter" form="short">κεφ</term>
-      <term name="column" form="short">στ</term>
-      <term name="figure" form="short">εικ</term>
-      <term name="folio" form="short">φακ</term>
-      <term name="issue" form="short">τχ</term>
-      <term name="opus" form="short">έργ</term>
+      <term name="book" form="short">βιβ.</term>
+      <term name="chapter" form="short">κεφ.</term>
+      <term name="column" form="short">στ.</term>
+      <term name="figure" form="short">εικ.</term>
+      <term name="folio" form="short">φάκ</term>
+      <term name="issue" form="short">τχ.</term>
+      <term name="opus" form="short">έργ.</term>
       <term name="page" form="short">
          <single>σ</single>
          <multiple>σσ</multiple>
       </term>
-      <term name="paragraph" form="short">παρ</term>
-      <term name="part" form="short">μερ</term>
-      <term name="section" form="short">τμ</term>
+      <term name="paragraph" form="short">παρ.</term>
+      <term name="part" form="short">μέρ.</term>
+      <term name="section" form="short">τμ.</term>
       <term name="sub verbo" form="short">
-         <single>λήμ</single>
-         <multiple>λήμ</multiple>
+         <single>λήμ.</single>
+         <multiple>λήμ.</multiple>
       </term>
       <term name="verse" form="short">
-         <single>στ</single>
-         <multiple>στ</multiple>
+         <single>στ.</single>
+         <multiple>στ.</multiple>
       </term>
       <term name="volume" form="short">
-         <single>τμ</single>
-         <multiple>τμ</multiple>
+         <single>τ.</single>
+         <multiple>τ.</multiple>
       </term>
 
       <!-- SYMBOL LOCATOR FORMS -->
@@ -209,63 +209,63 @@
 
       <!-- LONG ROLE FORMS -->
       <term name="author">
-         <single/>
-         <multiple/>
+      <single>συγγραφέας</single>
+        <multiple>συγγραφείς</multiple>
       </term>
       <term name="editor">
          <single>επιμελητής</single>
          <multiple>επιμελητές</multiple>
       </term>
       <term name="editorial-director">
-         <single>γενική εποπτεία</single>
-         <multiple>γενική εποπτεία</multiple>
+     	<single>διευθυντής σειράς</single>
+        <multiple>διευθυντές σειράς</multiple>
       </term>
       <term name="translator">
          <single>μεταφραστής</single>
          <multiple>μεταφραστές</multiple>
       </term>
       <term name="editortranslator">
-         <single>μετάφραση και επιμέλεια</single>
-         <multiple>μετάφραση και επιμέλεια</multiple>
+         <single>μεταφραστής και επιμελητής</single>
+         <multiple>μεταφραστές και επιμελητές</multiple>
       </term>
 
       <!-- SHORT ROLE FORMS -->
       <term name="author" form="short">
-         <single/>
-         <multiple/>
+        <single>συγγρ.</single>
+         <multiple>συγγρ.</multiple>
       </term>
       <term name="editor" form="short">
-         <single>επιμ</single>
-         <multiple>επιμ</multiple>
+         <single>επιμ.</single>
+         <multiple>επιμ.</multiple>
       </term>
       <term name="editorial-director" form="short">
-         <single>γεν. επ</single>
-         <multiple>γεν. επ</multiple>
+        <single>δ/ντής σειράς</single>
+         <multiple>δ/ντές σειρας</multiple>
       </term>
       <term name="translator" form="short">
          <single>μτφ.</single>
          <multiple>μτφ.</multiple>
       </term>
       <term name="editortranslator" form="short">
-         <single>μτφ. και επιμ</single>
-         <multiple>μτφ. και επιμ</multiple>
+         <single>μτφ. και επιμ.</single>
+         <multiple>μτφ. και επιμ.</multiple>
       </term>
 
       <!-- VERB ROLE FORMS -->
-      <term name="editor" form="verb">επιμ</term>
-      <term name="editorial-director" form="verb">γεν επ</term>
-      <term name="translator" form="verb">μτφ</term>
-      <term name="editortranslator" form="verb">μτφ. και επιμ</term>
-      <term name="recipient" form="verb">στο</term>
+      <term name="editor" form="verb">επιμέλεια</term>
+      <term name="editorial-director" form="verb">διεύθυνση σειράς</term>
+      <term name="translator" form="verb">μετάφραση</term>
+      <term name="editortranslator" form="verb">μετάφραση και επιμέλεια</term>
+      <term name="recipient" form="verb">παραλήπτης</term>
       <term name="interviewer" form="verb">συνέντευξη</term>
 
       <!-- SHORT VERB ROLE FORMS -->
-      <term name="container-author" form="verb-short">στο</term>
-      <term name="editor" form="verb-short">επιμ</term>
-      <term name="editorial-director" form="verb-short">γεν. επ</term>
-      <term name="translator" form="verb-short">μτφ</term>
-      <term name="editortranslator" form="verb-short">μτφ. και επιμ</term>
-
+      <term name="container-author" form="verb-short">στον συλλ. τόμο</term>
+      <term name="editor" form="verb-short">επιμέλ.</term>
+    <term name="editorial-director" form="verb-short">δ/νση σειράς</term>
+      <term name="translator" form="verb-short">μετάφρ.</term>
+      <term name="editortranslator" form="verb-short">μετάφρ. και επιμέλ.</term>
+      
       <!-- LONG MONTH FORMS -->
     <term name="month-01">Ιανουάριος</term>
     <term name="month-02">Φεβρουάριος</term>
