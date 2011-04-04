@@ -12,14 +12,14 @@
       <date-part name="year"/>
    </date>
    <terms>
-      <term name="accessed">opnað</term>
+      <term name="accessed">sótt</term>
       <term name="and">og</term>
       <term name="and others">og fleiri</term>
       <term name="anonymous">nafnlaus</term>
       <term name="anonymous" form="short">nafnl.</term>
       <term name="at">af</term>
       <term name="by">eftir</term>
-      <term name="circa">sirca</term>
+      <term name="circa">sirka</term>
       <term name="circa" form="short">u.þ.b.</term>
       <term name="cited">tilvitnun</term>
       <term name="edition">
@@ -30,10 +30,10 @@
       <term name="et-al">o.fl.</term>
       <term name="forthcoming">óbirt</term>
       <term name="from">af</term>
-      <term name="ibid">ibid.</term>
+      <term name="ibid">sama heimild</term>
       <term name="in">í</term>
       <term name="in press">í prentun</term>
-      <term name="internet">internet</term>
+      <term name="internet">rafrænt</term>
       <term name="interview">viðtal</term>
       <term name="letter">bréf</term>
       <term name="no date">engin dagsetning</term>
@@ -55,11 +55,10 @@
       <term name="bc">f.Kr.</term>
 
       <!-- QUOTES -->
-	  <!-- Source: http://en.wikipedia.org/wiki/Non-English_usage_of_quotation_marks -->
       <term name="open-quote">„</term>
       <term name="close-quote">“</term>
-      <term name="open-inner-quote">‚</term>
-      <term name="close-inner-quote">‘</term>
+      <term name="open-inner-quote">‘</term>
+      <term name="close-inner-quote">’</term>
 
       <!-- ORDINALS -->
       <term name="ordinal-01">.</term>
@@ -86,7 +85,7 @@
       <term name="botany">grasafræði</term>
       <term name="chemistry">efnafræði</term>
       <term name="engineering">verkfræði</term>
-      <term name="generic-base">generic base</term>
+      <term name="generic-base">almennt efni</term>
       <term name="geography">landafræði</term>
       <term name="geology">jarðfræði</term>
       <term name="history">saga</term>
@@ -254,19 +253,19 @@
       </term>
 
       <!-- VERB ROLE FORMS -->
-      <term name="editor" form="verb">ritstýrt af</term>
-      <term name="editorial-director" form="verb">ritstýrt af</term>
-      <term name="translator" form="verb">þýtt af</term>
-      <term name="editortranslator" form="verb">ritstýrt og þýtt af</term>
+      <term name="editor" form="verb">ritstjóri</term>
+      <term name="editorial-director" form="verb">ritstjóri</term>
+      <term name="translator" form="verb">þýddi</term>
+      <term name="editortranslator" form="verb">ritstjóri og þýðandi</term>
       <term name="recipient" form="verb">til</term>
-      <term name="interviewer" form="verb">viðtal tekið af</term>
+      <term name="interviewer" form="verb">viðtal tók</term>
 
       <!-- SHORT VERB ROLE FORMS -->
       <term name="container-author" form="verb-short">eftir</term>
       <term name="editor" form="verb-short">ritst.</term>
       <term name="editorial-director" form="verb-short">ritst.</term>
-      <term name="translator" form="verb-short">þýtt</term>
-      <term name="editortranslator" form="verb-short">ritstýrt og þýtt af</term>
+      <term name="translator" form="verb-short">þýð.</term>
+      <term name="editortranslator" form="verb-short">ritst. og þýð.</term>
 
       <!-- LONG MONTH FORMS -->
       <term name="month-01">janúar</term>
@@ -287,7 +286,7 @@
       <term name="month-02" form="short">feb.</term>
       <term name="month-03" form="short">mar.</term>
       <term name="month-04" form="short">apr.</term>
-      <term name="month-05" form="short">mai</term>
+      <term name="month-05" form="short">maí</term>
       <term name="month-06" form="short">jún.</term>
       <term name="month-07" form="short">júl.</term>
       <term name="month-08" form="short">ágú.</term>
