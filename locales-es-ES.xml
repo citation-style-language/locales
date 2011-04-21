@@ -62,10 +62,10 @@
       <term name="close-inner-quote">”</term>
 
       <!-- ORDINALS -->
-      <term name="ordinal-01">st</term>
-      <term name="ordinal-02">nd</term>
-      <term name="ordinal-03">rd</term>
-      <term name="ordinal-04">th</term>
+      <term name="ordinal-01">o</term>
+      <term name="ordinal-02">o</term>
+      <term name="ordinal-03">o</term>
+      <term name="ordinal-04">o</term>
 
       <!-- LONG ORDINALS -->
       <term name="long-ordinal-01">first</term>
