@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="et">
+<locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="et-EE">
    <style-options punctuation-in-quote="false"/>
    <date form="text">
       <date-part name="day" suffix=". "/>
