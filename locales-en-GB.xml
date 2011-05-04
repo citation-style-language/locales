@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="en-GB">
-   <style-options punctuation-in-quote="true"/>
+   <style-options punctuation-in-quote="false"/>
    <date form="text">
       <date-part name="day" suffix=" "/>
       <date-part name="month" suffix=" "/>
@@ -55,10 +55,10 @@
       <term name="bc">BC</term>
 
       <!-- QUOTES -->
-      <term name="open-quote">“</term>
-      <term name="close-quote">”</term>
-      <term name="open-inner-quote">‘</term>
-      <term name="close-inner-quote">’</term>
+      <term name="open-quote">‘</term>
+      <term name="close-quote">’</term>
+      <term name="open-inner-quote">“</term>
+      <term name="close-inner-quote">”</term>
 
       <!-- ORDINALS -->
       <term name="ordinal-01">st</term>
