@@ -14,7 +14,7 @@
    <terms>
       <term name="accessed">consulté</term>
       <term name="and">et</term>
-      <term name="and others">et coll.</term>
+      <term name="and others">et autres</term>
       <term name="anonymous">anonyme</term>
       <term name="anonymous" form="short">anon.</term>
       <term name="at">à</term>
@@ -61,10 +61,10 @@
       <term name="close-inner-quote">”</term>
 
       <!-- ORDINALS -->
-      <term name="ordinal-01">er</term>
-      <term name="ordinal-02">e</term>
-      <term name="ordinal-03">e</term>
-      <term name="ordinal-04">e</term>
+      <term name="ordinal-01">&lt;sup&gt;er&lt;/sup&gt;</term>
+      <term name="ordinal-02">&lt;sup&gt;e&lt;/sup&gt;</term>
+      <term name="ordinal-03">&lt;sup&gt;e&lt;/sup&gt;</term>
+      <term name="ordinal-04">&lt;sup&gt;e&lt;/sup&gt;</term>
 
       <!-- LONG ORDINALS -->
       <term name="long-ordinal-01">premier</term>
@@ -89,7 +89,7 @@
       <term name="geography">géographie</term>
       <term name="geology">géologie</term>
       <term name="history">histoire</term>
-      <term name="humanities">sciences humaines</term>
+      <term name="humanities">lettres et sciences humaines</term>
       <term name="linguistics">linguistique</term>
       <term name="literature">littérature</term>
       <term name="math">mathématiques</term>
@@ -98,9 +98,9 @@
       <term name="physics">physique</term>
       <term name="psychology">psychologie</term>
       <term name="sociology">sociologie</term>
-      <term name="science">science</term>
+      <term name="science">sciences de la nature</term>
       <term name="political_science">science politique</term>
-      <term name="social_science">science sociale</term>
+      <term name="social_science">sciences sociales</term>
       <term name="theology">théologie</term>
       <term name="zoology">zoologie</term>
 
@@ -175,8 +175,10 @@
       <term name="chapter" form="short">chap.</term>
       <term name="column" form="short">col.</term>
       <term name="figure" form="short">fig.</term>
-      <term name="folio" form="short">f&lt;sup&gt;o&lt;/sup&gt;</term>
+      <term name="folio" form="short">f&lt;sup&gt;o&lt;/sup&gt;</term> 
       <term name="issue" form="short">n&lt;sup&gt;o&lt;/sup&gt;</term>
+      <term name="line" form="short">l.</term>
+      <term name="note" form="short">n.</term>
       <term name="opus" form="short">op.</term>
       <term name="page" form="short">
          <single>p.</single>
@@ -262,10 +264,10 @@
 
       <!-- SHORT VERB ROLE FORMS -->
       <term name="container-author" form="verb-short">par</term>
-      <term name="editor" form="verb-short">éd.</term>
-      <term name="editorial-director" form="verb-short">dir.</term>
-      <term name="translator" form="verb-short">trad.</term>
-      <term name="editortranslator" form="verb-short">éd. et trad.</term>
+      <term name="editor" form="verb-short">éd. par</term>
+      <term name="editorial-director" form="verb-short">ss la dir. de</term>
+      <term name="translator" form="verb-short">trad. par</term>
+      <term name="editortranslator" form="verb-short">éd. et trad. par</term>
 
       <!-- LONG MONTH FORMS -->
       <term name="month-01">janvier</term>
