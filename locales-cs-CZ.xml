@@ -16,7 +16,7 @@
     <term name="and">a</term>
     <term name="and others">a další</term>
     <term name="anonymous">anonymous</term>
-    <term name="anonymous" form="short">anon</term>
+    <term name="anonymous" form="short">anon.</term>
     <term name="at">v</term>
     <term name="by">by</term>
     <term name="circa">circa</term>
@@ -51,8 +51,8 @@
     <term name="retrieved">získáno</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
-    <term name="ad">AD</term>
-    <term name="bc">BC</term>
+    <term name="ad">n. l.</term>
+    <term name="bc">př. n. l.</term>
 
     <!-- QUOTES -->
     <!-- Source: http://en.wikipedia.org/wiki/Non-English_usage_of_quotation_marks -->
@@ -172,31 +172,31 @@
     </term>
 
     <!-- SHORT LOCATOR FORMS -->
-    <term name="book" form="short">kn</term>
-    <term name="chapter" form="short">kap</term>
-    <term name="column" form="short">sl</term>
-    <term name="figure" form="short">obr</term>
-    <term name="folio" form="short">l</term>
-    <term name="issue" form="short">čís</term>
-    <term name="opus" form="short">op</term>
+    <term name="book" form="short">kn.</term>
+    <term name="chapter" form="short">kap.</term>
+    <term name="column" form="short">sl.</term>
+    <term name="figure" form="short">obr.</term>
+    <term name="folio" form="short">l.</term>
+    <term name="issue" form="short">čís.</term>
+    <term name="opus" form="short">op.</term>
     <term name="page" form="short">
-      <single>s</single>
-      <multiple>s</multiple>
+      <single>s.</single>
+      <multiple>s.</multiple>
     </term>
-    <term name="paragraph" form="short">odst</term>
-    <term name="part" form="short">č</term>
-    <term name="section" form="short">sek</term>
+    <term name="paragraph" form="short">odst.</term>
+    <term name="part" form="short">č.</term>
+    <term name="section" form="short">sek.</term>
     <term name="sub verbo" form="short">
       <single>s.v.</single>
       <multiple>s.vv.</multiple>
     </term>
     <term name="verse" form="short">
-      <single>v</single>
-      <multiple>v</multiple>
+      <single>v.</single>
+      <multiple>v.</multiple>
     </term>
     <term name="volume" form="short">
-      <single>roč</single>
-      <multiple>roč</multiple>
+      <single>roč.</single>
+      <multiple>roč.</multiple>
     </term>
 
     <!-- SYMBOL LOCATOR FORMS -->
@@ -227,8 +227,8 @@
       <multiple>překladatelé</multiple>
     </term>
     <term name="editortranslator">
-      <single>editor &amp; translator</single>
-      <multiple>editors &amp; translators</multiple>
+      <single>editor a překladatel</single>
+      <multiple>editoři a překladatelé</multiple>
     </term>
 
     <!-- SHORT ROLE FORMS -->
@@ -237,20 +237,20 @@
       <multiple/>
     </term>
     <term name="editor" form="short">
-      <single>ed</single>
-      <multiple>ed</multiple>
+      <single>ed.</single>
+      <multiple>ed.</multiple>
     </term>
     <term name="editorial-director" form="short">
       <single>ed.</single>
-      <multiple>eds.</multiple>
+      <multiple>ed.</multiple>
     </term>
     <term name="translator" form="short">
-      <single>překl</single>
-      <multiple>překl</multiple>
+      <single>překl.</single>
+      <multiple>překl.</multiple>
     </term>
     <term name="editortranslator" form="short">
-      <single>ed. &amp; tran.</single>
-      <multiple>eds. &amp; trans.</multiple>
+      <single>ed. a překl.</single>
+      <multiple>ed. a překl.</multiple>
     </term>
 
     <!-- VERB ROLE FORMS -->
@@ -263,9 +263,9 @@
 
     <!-- SHORT VERB ROLE FORMS -->
     <term name="container-author" form="verb-short">by</term>
-    <term name="editor" form="verb-short">ed</term>
+    <term name="editor" form="verb-short">ed.</term>
     <term name="editorial-director" form="verb-short">ed.</term>
-    <term name="translator" form="verb-short">překl</term>
+    <term name="translator" form="verb-short">překl.</term>
     <term name="editortranslator" form="verb-short">ed. a přel.</term>
 
     <!-- LONG MONTH FORMS -->
@@ -283,23 +283,23 @@
     <term name="month-12">prosinec</term>
 
     <!-- SHORT MONTH FORMS -->
-    <term name="month-01" form="short">led</term>
-    <term name="month-02" form="short">úno</term>
-    <term name="month-03" form="short">bře</term>
-    <term name="month-04" form="short">dub</term>
-    <term name="month-05" form="short">kvě</term>
-    <term name="month-06" form="short">čer</term>
-    <term name="month-07" form="short">čvc</term>
-    <term name="month-08" form="short">srp</term>
-    <term name="month-09" form="short">zář</term>
-    <term name="month-10" form="short">říj</term>
-    <term name="month-11" form="short">lis</term>
-    <term name="month-12" form="short">pro</term>
+    <term name="month-01" form="short">led.</term>
+    <term name="month-02" form="short">úno.</term>
+    <term name="month-03" form="short">bře.</term>
+    <term name="month-04" form="short">dub.</term>
+    <term name="month-05" form="short">kvě.</term>
+    <term name="month-06" form="short">čer.</term>
+    <term name="month-07" form="short">čvc.</term>
+    <term name="month-08" form="short">srp.</term>
+    <term name="month-09" form="short">zář.</term>
+    <term name="month-10" form="short">říj.</term>
+    <term name="month-11" form="short">lis.</term>
+    <term name="month-12" form="short">pro.</term>
 
     <!-- SEASONS -->
-    <term name="season-01">Jaro</term>
-    <term name="season-02">Léto</term>
-    <term name="season-03">Podzim</term>
-    <term name="season-04">Zima</term>
+    <term name="season-01">jaro</term>
+    <term name="season-02">léto</term>
+    <term name="season-03">podzim</term>
+    <term name="season-04">zima</term>
   </terms>
 </locale>
