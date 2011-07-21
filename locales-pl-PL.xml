@@ -37,7 +37,7 @@
     <term name="interview">wywiad</term>
     <term name="letter">list</term>
     <term name="no date">brak daty</term>
-    <term name="no date" form="short">b. d.</term>
+    <term name="no date" form="short">b.d.</term>
     <term name="online">online</term>
     <term name="presented at">zaprezentowano na</term>
     <term name="reference">
@@ -269,32 +269,32 @@
     <term name="editortranslator" form="verb-short">red. &amp; tłum.</term>
 
     <!-- LONG MONTH FORMS -->
-    <term name="month-01">sty</term>
-    <term name="month-02">lut</term>
-    <term name="month-03">mar</term>
-    <term name="month-04">kwi</term>
+    <term name="month-01">styczeń</term>
+    <term name="month-02">luty</term>
+    <term name="month-03">marzec</term>
+    <term name="month-04">kwiecień</term>
     <term name="month-05">maj</term>
-    <term name="month-06">cze</term>
-    <term name="month-07">lip</term>
-    <term name="month-08">sie</term>
-    <term name="month-09">wrz</term>
-    <term name="month-10">paź</term>
-    <term name="month-11">lis</term>
-    <term name="month-12">gru</term>
+    <term name="month-06">czerwiec</term>
+    <term name="month-07">lipiec</term>
+    <term name="month-08">sierpień</term>
+    <term name="month-09">wrzesień</term>
+    <term name="month-10">październik</term>
+    <term name="month-11">listopad</term>
+    <term name="month-12">grudzień</term>
 
     <!-- SHORT MONTH FORMS -->
-    <term name="month-01" form="short">styczeń</term>
+    <term name="month-01" form="short">sty.</term>
     <term name="month-02" form="short">luty</term>
-    <term name="month-03" form="short">marzec</term>
-    <term name="month-04" form="short">kwiecień</term>
+    <term name="month-03" form="short">mar.</term>
+    <term name="month-04" form="short">kwi.</term>
     <term name="month-05" form="short">maj</term>
-    <term name="month-06" form="short">czerwiec</term>
-    <term name="month-07" form="short">lipiec</term>
-    <term name="month-08" form="short">sierpień</term>
-    <term name="month-09" form="short">wrzesień</term>
-    <term name="month-10" form="short">październik</term>
-    <term name="month-11" form="short">listopad</term>
-    <term name="month-12" form="short">grudzień</term>
+    <term name="month-06" form="short">cze.</term>
+    <term name="month-07" form="short">lip.</term>
+    <term name="month-08" form="short">sie.</term>
+    <term name="month-09" form="short">wrz.</term>
+    <term name="month-10" form="short">paź.</term>
+    <term name="month-11" form="short">lis.</term>
+    <term name="month-12" form="short">grudz.</term>
 
     <!-- SEASONS -->
     <term name="season-01">wiosna</term>
