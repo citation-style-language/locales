@@ -12,7 +12,7 @@
     <date-part name="year"/>
   </date>
   <terms>
-    <term name="accessed">قدمه</term>
+    <term name="accessed">تاريخ الوصول</term>
     <term name="and">و</term>
     <term name="and others">وآخرون</term>
     <term name="anonymous">مجهول</term>
@@ -21,24 +21,24 @@
     <term name="by">عن طريق</term>
     <term name="circa">حوالي</term>
     <term name="circa" form="short">حو.</term>
-    <term name="cited">وثِّقَ</term>
+    <term name="cited">وثق</term>
     <term name="edition">
       <single>الطبعة</single>
       <multiple>الطبعات</multiple>
     </term>
     <term name="edition" form="short">ط.</term>
-    <term name="et-al">واخ.</term>
-    <term name="forthcoming">القادم</term>
+    <term name="et-al">وآخ.</term>
+    <term name="forthcoming">التالي</term>
     <term name="from">من</term>
     <term name="ibid">المرجع السابق</term>
     <term name="in">في</term>
     <term name="in press">قيد النشر</term>
-    <term name="internet">الإنترنت</term>
+    <term name="internet">انترنت</term>
     <term name="interview">مقابلة</term>
     <term name="letter">خطاب</term>
     <term name="no date">دون تاريخ</term>
     <term name="no date" form="short">د.ت</term>
-    <term name="online">الخط المباشر</term>
+    <term name="online">على الخط المباشر</term>
     <term name="presented at">قُدَّم في</term>
     <term name="reference">
       <single>مرجع</single>
@@ -48,11 +48,11 @@
       <single>مرجع</single>
       <multiple>مراجع</multiple>
     </term>
-    <term name="retrieved">استرجع</term>
+    <term name="retrieved">استرجع في</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
-    <term name="ad">بعد الميلاد</term>
-    <term name="bc">قبل الميلاد</term>
+    <term name="ad">ب.م.</term>
+    <term name="bc">ق.م.</term>
 
     <!-- QUOTES -->
     <!-- Source: http://www.w3.org/International/tutorials/bidi-xhtml/ -->
@@ -81,7 +81,7 @@
     <term name="long-ordinal-10">العاشر</term>
 
     <!-- CATEGORIES -->
-    <term name="anthropology">علم الأعراق البشرية</term>
+    <term name="anthropology">الاناسة</term>
     <term name="astronomy">الفلك</term>
     <term name="biology">الأحياء</term>
     <term name="botany">النبات</term>
@@ -109,7 +109,7 @@
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
       <single>كتاب</single>
-      <multiple>كُتُب</multiple>
+      <multiple>كتب</multiple>
     </term>
     <term name="chapter">
       <single>فصل</single>
@@ -141,7 +141,7 @@
     </term>
     <term name="opus">
       <single>نوته موسيقية</single>
-      <multiple>نوتات موسيقية</multiple>
+      <multiple>نوت موسيقية</multiple>
     </term>
     <term name="page">
       <single>صفحة</single>
@@ -165,7 +165,7 @@
     </term>
     <term name="verse">
       <single>بيت شعر</single>
-      <multiple>أبيات شعرية</multiple>
+      <multiple>أبيات شعر</multiple>
     </term>
     <term name="volume">
       <single>مجلد</single>
@@ -193,7 +193,7 @@
     </term>
     <term name="verse" form="short">
       <single>بيت شعر</single>
-      <multiple>ابيات شعرية</multiple>
+      <multiple>أبيات شعر</multiple>
     </term>
     <term name="volume" form="short">
       <single>مج.</single>
@@ -235,11 +235,11 @@
     <!-- SHORT ROLE FORMS -->
     <term name="author" form="short">
       <single>مؤلف</single>
-      <multiple>مؤلف</multiple>
+      <multiple>مؤلفين</multiple>
     </term>
     <term name="editor" form="short">
       <single>محرر</single>
-      <multiple>محرر</multiple>
+      <multiple>محررين</multiple>
     </term>
     <term name="editorial-director" form="short">
       <single>مشرف على الطبعة</single>
@@ -259,11 +259,11 @@
     <term name="editorial-director" form="verb">اعداد</term>
     <term name="translator" form="verb">ترجمة</term>
     <term name="editortranslator" form="verb">اعداد وترجمة</term>
-    <term name="recipient" form="verb">إلى</term>
+    <term name="recipient" form="verb">مرسل الى</term>
     <term name="interviewer" form="verb">مقابلة بواسطة</term>
 
     <!-- SHORT VERB ROLE FORMS -->
-    <term name="container-author" form="verb-short">by</term>
+    <term name="container-author" form="verb-short"></term>
     <term name="editor" form="verb-short">تحرير</term>
     <term name="editorial-director" form="verb-short">اشرف على الطبعة</term>
     <term name="translator" form="verb-short">ترجمة</term>
