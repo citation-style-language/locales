@@ -2,9 +2,9 @@
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="eu">
   <style-options punctuation-in-quote="false"/>
   <date form="text">
-    <date-part name="day" suffix=" "/>
-    <date-part name="month" suffix=" "/>
-    <date-part name="year"/>
+    <date-part name="year" suffix="(e)ko "/>
+    <date-part name="month" suffix="aren "/>
+    <date-part name="day" suffix="a"/>
   </date>
   <date form="numeric">
     <date-part name="year" suffix="/"/>
@@ -34,7 +34,7 @@
     <term name="in">in</term>
     <term name="in press">moldiztegian</term>
     <term name="internet">internet</term>
-    <term name="interview">enlkarrizketa</term>
+    <term name="interview">elkarrizketa</term>
     <term name="letter">gutuna</term>
     <term name="no date">datarik gabe</term>
     <term name="no date" form="short">d. g.</term>
@@ -68,16 +68,16 @@
     <term name="ordinal-04">.</term>
 
     <!-- LONG ORDINALS -->
-    <term name="long-ordinal-01">lehengoa</term>
-    <term name="long-ordinal-02">bigarrena</term>
-    <term name="long-ordinal-03">hirugarrena</term>
-    <term name="long-ordinal-04">laugarrena</term>
-    <term name="long-ordinal-05">bosgarrena</term>
-    <term name="long-ordinal-06">seigarrena</term>
-    <term name="long-ordinal-07">zazpigarrena</term>
-    <term name="long-ordinal-08">zortzigarrena</term>
-    <term name="long-ordinal-09">bederatzigarrena</term>
-    <term name="long-ordinal-10">hamargarrena</term>
+    <term name="long-ordinal-01">lehengo</term>
+    <term name="long-ordinal-02">bigarren</term>
+    <term name="long-ordinal-03">hirugarren</term>
+    <term name="long-ordinal-04">laugarren</term>
+    <term name="long-ordinal-05">bosgarren</term>
+    <term name="long-ordinal-06">seigarren</term>
+    <term name="long-ordinal-07">zazpigarren</term>
+    <term name="long-ordinal-08">zortzigarren</term>
+    <term name="long-ordinal-09">bederatzigarren</term>
+    <term name="long-ordinal-10">hamargarren</term>
 
     <!-- CATEGORIES -->
     <term name="anthropology">antropologia</term>
@@ -139,8 +139,8 @@
       <multiple>oharrak</multiple>
     </term>
     <term name="opus">
-      <single>opus</single>
-      <multiple>opus</multiple>
+      <single>obra</single>
+      <multiple>obrak</multiple>
     </term>
     <term name="page">
       <single>orrialdea</single>
@@ -175,7 +175,7 @@
     <term name="book" form="short">lib.</term>
     <term name="chapter" form="short">kap.</term>
     <term name="column" form="short">zut.</term>
-    <term name="figure" form="short">zif.</term>
+    <term name="figure" form="short">iru.</term>
     <term name="folio" form="short">or.</term>
     <term name="issue" form="short">zenb.</term>
     <term name="opus" form="short">op.</term>
@@ -256,7 +256,7 @@
     <!-- VERB ROLE FORMS -->
     <term name="editor" form="verb">-(e)k argitaratua</term>
     <term name="editorial-director" form="verb">-(e)k argitaratua</term>
-    <term name="translator" form="verb">-(e)k argitaratua</term>
+    <term name="translator" form="verb">-(e)k itzulia</term>
     <term name="editortranslator" form="verb">-(e)k argitaratu eta itzulia</term>
     <term name="recipient" form="verb">-(r)entzat</term>
     <term name="interviewer" form="verb">-(e)k elkarrizketatua</term>
