@@ -30,7 +30,7 @@
     <term name="et-al">et al.</term>
     <term name="forthcoming">bidean</term>
     <term name="from">-(e)tik</term>
-    <term name="ibid">ibíd.</term>
+    <term name="ibid">ibÃ­d.</term>
     <term name="in">in</term>
     <term name="in press">moldiztegian</term>
     <term name="internet">internet</term>
@@ -56,10 +56,10 @@
 
     <!-- QUOTES -->
     <!-- Source: http://en.wikipedia.org/wiki/Non-English_usage_of_quotation_marks -->
-    <term name="open-quote">«</term>
-    <term name="close-quote">»</term>
-    <term name="open-inner-quote">“</term>
-    <term name="close-inner-quote">”</term>
+    <term name="open-quote">Â«</term>
+    <term name="close-quote">Â»</term>
+    <term name="open-inner-quote">â€œ</term>
+    <term name="close-inner-quote">â€</term>
 
     <!-- ORDINALS -->
     <term name="ordinal-01">.</term>
@@ -201,12 +201,12 @@
 
     <!-- SYMBOL LOCATOR FORMS -->
     <term name="paragraph" form="symbol">
-      <single>¶</single>
-      <multiple>¶¶</multiple>
+      <single>Â¶</single>
+      <multiple>Â¶Â¶</multiple>
     </term>
     <term name="section" form="symbol">
-      <single>§</single>
-      <multiple>§</multiple>
+      <single>Â§</single>
+      <multiple>Â§</multiple>
     </term>
 
     <!-- LONG ROLE FORMS -->
