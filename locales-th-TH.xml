@@ -12,7 +12,7 @@
     <date-part name="year"/>
   </date>
   <terms>
-    <term name="accessed">เข้าถึง</term>
+    <term name="accessed">สืบค้น</term>
     <term name="and">และ</term>
     <term name="and others">และคณะ</term>
     <term name="anonymous">นิรนาม</term>
@@ -20,24 +20,24 @@
     <term name="at">ที่</term>
     <term name="by">โดย</term>
     <term name="circa">โดยประมาณ</term>
-    <term name="circa" form="short"></term>
+    <term name="circa" form="short">ประมาณ</term>
     <term name="cited">อ้างถึง</term>
     <term name="edition">
       <single>พิมพ์ครั้งที่</single>
       <multiple>พิมพ์ครั้งที่</multiple>
     </term>
-    <term name="edition" form="short"></term>
+    <term name="edition" form="short">พิมพ์ครั้งที่</term>
     <term name="et-al">และคณะ</term>
     <term name="forthcoming">เต็มใจให้ข้อมูล</term>
     <term name="from">จาก</term>
     <term name="ibid"> ในที่เดียวกัน</term>
     <term name="in">ใน</term>
-    <term name="in press">ระหว่างรอพิมพ์</term>
-    <term name="internet">อินเตอร์เน็ต</term>
+    <term name="in press">กำลังรอตีพิมพ์</term>
+    <term name="internet">อินเทอร์เน็ต</term>
     <term name="interview">การสัมภาษณ์</term>
     <term name="letter">จดหมาย</term>
-    <term name="no date">ไม่มีวันที่</term>
-    <term name="no date" form="short">n.d.</term>
+    <term name="no date">ไม่ปรากฏปีที่พิมพ์</term>
+    <term name="no date" form="short">ม.ป.ป.</term>
     <term name="online">ออนไลน์</term>
     <term name="presented at">นำเสนอที่</term>
     <term name="reference">
@@ -114,20 +114,20 @@
       <multiple>บทที่</multiple>
     </term>
     <term name="column">
-      <single>คอลัมน์</single>
-      <multiple>คอลัมน์</multiple>
+      <single>สดมภ์</single>
+      <multiple>สดมภ์</multiple>
     </term>
     <term name="figure">
       <single>รูปภาพ</single>
       <multiple>รูปภาพ</multiple>
     </term>
     <term name="folio">
-      <single>สี่หน้ายก</single>
-      <multiple>สี่หน้ายก</multiple>
+      <single>หน้า</single>
+      <multiple>หน้า</multiple>
     </term>
     <term name="issue">
-      <single>number</single>
-      <multiple>numbers</multiple>
+      <single>ฉบับที่</single>
+      <multiple>ฉบับที่</multiple>
     </term>
     <term name="line">
       <single>บรรทัดที่</single>
@@ -138,12 +138,12 @@
       <multiple>บันทึก</multiple>
     </term>
     <term name="opus">
-      <single>opus</single>
-      <multiple>opera</multiple>
+      <single>บทประพันธ์</single>
+      <multiple>บทประพันธ์</multiple>
     </term>
     <term name="page">
-      <single>เลขหน้า</single>
-      <multiple>เลขหน้า</multiple>
+      <single>หน้า</single>
+      <multiple>หน้า</multiple>
     </term>
     <term name="paragraph">
       <single>ย่อหน้า</single>
@@ -158,44 +158,44 @@
       <multiple>หมวด</multiple>
     </term>
     <term name="sub verbo">
-      <single></single>
-      <multiple></multiple>
+      <single>ใต้คำ</single>
+      <multiple>ใต้คำ</multiple>
     </term>
     <term name="verse">
       <single>ร้อยกรอง</single>
       <multiple>ร้อยกรอง</multiple>
     </term>
     <term name="volume">
-      <single>ลำดับปี</single>
-      <multiple>ลำดับปี</multiple>
+      <single>ปีที่</single>
+      <multiple>ปีที่</multiple>
     </term>
 
     <!-- SHORT LOCATOR FORMS -->
-    <term name="book" form="short"></term>
-    <term name="chapter" form="short"></term>
-    <term name="column" form="short"></term>
-    <term name="figure" form="short"></term>
-    <term name="folio" form="short"></term>
-    <term name="issue" form="short"></term>
-    <term name="opus" form="short"></term>
+    <term name="book" form="short">หนังสือ</term>
+    <term name="chapter" form="short">บทที่</term>
+    <term name="column" form="short">สดมภ์</term>
+    <term name="figure" form="short">รูปภาพ</term>
+    <term name="folio" form="short">หน้า</term>
+    <term name="issue" form="short">ฉบับที่</term>
+    <term name="opus" form="short">บทประพันธ์</term>
     <term name="page" form="short">
-      <single></single>
-      <multiple></multiple>
+      <single>น.</single>
+      <multiple>น.</multiple>
     </term>
-    <term name="paragraph" form="short"></term>
-    <term name="part" form="short"></term>
-    <term name="section" form="short"></term>
+    <term name="paragraph" form="short">ย่อหน้า</term>
+    <term name="part" form="short">ส่วนย่อย</term>
+    <term name="section" form="short">หมวด</term>
     <term name="sub verbo" form="short">
-      <single></single>
-      <multiple></multiple>
+      <single>ใต้คำ</single>
+      <multiple>ใต้คำ</multiple>
     </term>
     <term name="verse" form="short">
-      <single></single>
-      <multiple></multiple>
+      <single>ร้อยกรอง</single>
+      <multiple>ร้อยกรอง</multiple>
     </term>
     <term name="volume" form="short">
-      <single></single>
-      <multiple></multiple>
+      <single>ปี</single>
+      <multiple>ปี</multiple>
     </term>
 
     <!-- SYMBOL LOCATOR FORMS -->
@@ -218,8 +218,8 @@
       <multiple>บรรณาธิการ</multiple>
     </term>
     <term name="editorial-director">
-      <single>บรรณาธิการบริหาร</single>
-      <multiple>บรรณาธิการบริหาร</multiple>
+      <single>ผู้อำนวยการบทบรรณาธิการ</single>
+      <multiple>ผู้อำนวยการบทบรรณาธิการ</multiple>
     </term>
     <term name="translator">
       <single>ผู้แปล</single>
@@ -232,24 +232,24 @@
 
     <!-- SHORT ROLE FORMS -->
     <term name="author" form="short">
-      <single/>
-      <multiple/>
+      <single>ผู้แต่ง</single>
+      <multiple>ผู้แต่ง</multiple>
     </term>
     <term name="editor" form="short">
-      <single>บก.</single>
-      <multiple>บก.</multiple>
+      <single>บ.ก.</single>
+      <multiple>บ.ก.</multiple>
     </term>
     <term name="editorial-director" form="short">
-      <single>บก.บห.</single>
-      <multiple>บก.บห.</multiple>
+      <single>ผอ.บทบรรณาธิการ</single>
+      <multiple>ผอ.บทบรรณาธิการ</multiple>
     </term>
     <term name="translator" form="short">
-      <single></single>
-      <multiple></multiple>
+      <single>ผู้แปล</single>
+      <multiple>ผู้แปล</multiple>
     </term>
     <term name="editortranslator" form="short">
-      <single></single>
-      <multiple></multiple>
+      <single>บ.ก.</single>
+      <multiple>บ.ก.</multiple>
     </term>
 
     <!-- VERB ROLE FORMS -->
@@ -262,8 +262,8 @@
 
     <!-- SHORT VERB ROLE FORMS -->
     <term name="container-author" form="verb-short">โดย</term>
-    <term name="editor" form="verb-short">บก.</term>
-    <term name="editorial-director" form="verb-short">บก.บห.</term>
+    <term name="editor" form="verb-short">โดย</term>
+    <term name="editorial-director" form="verb-short">โดย</term>
     <term name="translator" form="verb-short">แปล</term>
     <term name="editortranslator" form="verb-short">แปลและเรียบเรียงโดย</term>
 
