@@ -12,32 +12,32 @@
     <date-part name="year"/>
   </date>
   <terms>
-    <term name="accessed">accessed</term>
+    <term name="accessed">สืบค้น</term>
     <term name="and">และ</term>
     <term name="and others">และคณะ</term>
     <term name="anonymous">นิรนาม</term>
     <term name="anonymous" form="short">นิรนาม</term>
     <term name="at">ที่</term>
     <term name="by">โดย</term>
-    <term name="circa">circa</term>
-    <term name="circa" form="short">c.</term>
+    <term name="circa">โดยประมาณ</term>
+    <term name="circa" form="short">ประมาณ</term>
     <term name="cited">อ้างถึง</term>
     <term name="edition">
-      <single>edition</single>
-      <multiple>editions</multiple>
+      <single>พิมพ์ครั้งที่</single>
+      <multiple>พิมพ์ครั้งที่</multiple>
     </term>
-    <term name="edition" form="short">ed</term>
+    <term name="edition" form="short">พิมพ์ครั้งที่</term>
     <term name="et-al">และคณะ</term>
     <term name="forthcoming">เต็มใจให้ข้อมูล</term>
     <term name="from">จาก</term>
     <term name="ibid"> ในที่เดียวกัน</term>
     <term name="in">ใน</term>
-    <term name="in press">ระหว่างรอพิมพ์</term>
-    <term name="internet">อินเตอร์เน็ต</term>
+    <term name="in press">กำลังรอตีพิมพ์</term>
+    <term name="internet">อินเทอร์เน็ต</term>
     <term name="interview">การสัมภาษณ์</term>
     <term name="letter">จดหมาย</term>
-    <term name="no date">ไม่มีวันที่</term>
-    <term name="no date" form="short">n.d.</term>
+    <term name="no date">ไม่ปรากฏปีที่พิมพ์</term>
+    <term name="no date" form="short">ม.ป.ป.</term>
     <term name="online">ออนไลน์</term>
     <term name="presented at">นำเสนอที่</term>
     <term name="reference">
@@ -48,7 +48,7 @@
       <single>อ้างอิง</single>
       <multiple>อ้างอิง</multiple>
     </term>
-    <term name="retrieved">เข้าถึง</term>
+    <term name="retrieved">สืบค้น</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
     <term name="ad">ค.ศ.</term>
@@ -61,10 +61,10 @@
     <term name="close-inner-quote">’</term>
 
     <!-- ORDINALS -->
-    <term name="ordinal-01">ที่หนึ่ง</term>
-    <term name="ordinal-02">ที่สอง</term>
-    <term name="ordinal-03">ที่สาม</term>
-    <term name="ordinal-04">ที่สี่</term>
+    <term name="ordinal-01">หนึ่ง</term>
+    <term name="ordinal-02">สอง</term>
+    <term name="ordinal-03">สาม</term>
+    <term name="ordinal-04">สี่</term>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">หนึ่ง</term>
@@ -79,30 +79,30 @@
     <term name="long-ordinal-10">สิบ</term>
 
     <!-- CATEGORIES -->
-    <term name="anthropology">anthropology</term>
-    <term name="astronomy">astronomy</term>
-    <term name="biology">biology</term>
-    <term name="botany">botany</term>
-    <term name="chemistry">chemistry</term>
-    <term name="engineering">engineering</term>
-    <term name="generic-base">generic base</term>
-    <term name="geography">geography</term>
-    <term name="geology">geology</term>
-    <term name="history">history</term>
-    <term name="humanities">humanities</term>
-    <term name="linguistics">linguistics</term>
-    <term name="literature">literature</term>
-    <term name="math">math</term>
-    <term name="medicine">medicine</term>
-    <term name="philosophy">philosophy</term>
-    <term name="physics">physics</term>
-    <term name="psychology">psychology</term>
-    <term name="sociology">sociology</term>
-    <term name="science">science</term>
-    <term name="political_science">political science</term>
-    <term name="social_science">social science</term>
-    <term name="theology">theology</term>
-    <term name="zoology">zoology</term>
+    <term name="anthropology">มานุษยวิทยา</term>
+    <term name="astronomy">ดาราศาสตร์</term>
+    <term name="biology">ชีววิทยา</term>
+    <term name="botany">พฤกษศาสตร์</term>
+    <term name="chemistry">เคมี</term>
+    <term name="engineering">วิศวกรรมศาสตร์</term>
+    <term name="generic-base">พื้นฐานทั่วไป</term>
+    <term name="geography">ภูมิศาสตร์</term>
+    <term name="geology">ธรณีวิทยา</term>
+    <term name="history">ประวัติศาสตร์</term>
+    <term name="humanities">มนุษยศาสตร์</term>
+    <term name="linguistics">ภาษาศาสตร์</term>
+    <term name="literature">วรรณคดี</term>
+    <term name="math">คณิตศาสตร์</term>
+    <term name="medicine">เวชศาสตร์</term>
+    <term name="philosophy">ปรัชญา</term>
+    <term name="physics">ฟิสิกส์</term>
+    <term name="psychology">จิตวิทยา</term>
+    <term name="sociology">สังคมวิทยา</term>
+    <term name="science">วิทยาศาสตร์</term>
+    <term name="political_science">รัฐศาสตร์</term>
+    <term name="social_science">สังคมศาสตร์</term>
+    <term name="theology">เทววิทยา</term>
+    <term name="zoology">สัตววิทยา</term>
 
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
@@ -114,32 +114,32 @@
       <multiple>บทที่</multiple>
     </term>
     <term name="column">
-      <single>คอลัมน์</single>
-      <multiple>คอลัมน์</multiple>
+      <single>สดมภ์</single>
+      <multiple>สดมภ์</multiple>
     </term>
     <term name="figure">
       <single>รูปภาพ</single>
       <multiple>รูปภาพ</multiple>
     </term>
     <term name="folio">
-      <single>folio</single>
-      <multiple>folios</multiple>
+      <single>หน้า</single>
+      <multiple>หน้า</multiple>
     </term>
     <term name="issue">
-      <single>number</single>
-      <multiple>numbers</multiple>
+      <single>ฉบับที่</single>
+      <multiple>ฉบับที่</multiple>
     </term>
     <term name="line">
       <single>บรรทัดที่</single>
       <multiple>บรรทัดที่</multiple>
     </term>
     <term name="note">
-      <single>note</single>
-      <multiple>notes</multiple>
+      <single>บันทึก</single>
+      <multiple>บันทึก</multiple>
     </term>
     <term name="opus">
-      <single>opus</single>
-      <multiple>opera</multiple>
+      <single>บทประพันธ์</single>
+      <multiple>บทประพันธ์</multiple>
     </term>
     <term name="page">
       <single>หน้า</single>
@@ -150,52 +150,52 @@
       <multiple>ย่อหน้า</multiple>
     </term>
     <term name="part">
-      <single>part</single>
-      <multiple>parts</multiple>
+      <single>ส่วนย่อย</single>
+      <multiple>ส่วนย่อย</multiple>
     </term>
     <term name="section">
       <single>หมวด</single>
       <multiple>หมวด</multiple>
     </term>
     <term name="sub verbo">
-      <single>sub verbo</single>
-      <multiple>sub verbis</multiple>
+      <single>ใต้คำ</single>
+      <multiple>ใต้คำ</multiple>
     </term>
     <term name="verse">
-      <single>verse</single>
-      <multiple>verses</multiple>
+      <single>ร้อยกรอง</single>
+      <multiple>ร้อยกรอง</multiple>
     </term>
     <term name="volume">
-      <single>volume</single>
-      <multiple>volumes</multiple>
+      <single>ปีที่</single>
+      <multiple>ปีที่</multiple>
     </term>
 
     <!-- SHORT LOCATOR FORMS -->
-    <term name="book" form="short">bk</term>
-    <term name="chapter" form="short">chap</term>
-    <term name="column" form="short">col</term>
-    <term name="figure" form="short">fig</term>
-    <term name="folio" form="short">f</term>
-    <term name="issue" form="short">no</term>
-    <term name="opus" form="short">op</term>
+    <term name="book" form="short">หนังสือ</term>
+    <term name="chapter" form="short">บทที่</term>
+    <term name="column" form="short">สดมภ์</term>
+    <term name="figure" form="short">รูปภาพ</term>
+    <term name="folio" form="short">หน้า</term>
+    <term name="issue" form="short">ฉบับที่</term>
+    <term name="opus" form="short">บทประพันธ์</term>
     <term name="page" form="short">
-      <single>p</single>
-      <multiple>pp</multiple>
+      <single>น.</single>
+      <multiple>น.</multiple>
     </term>
-    <term name="paragraph" form="short">para</term>
-    <term name="part" form="short">pt</term>
-    <term name="section" form="short">sec</term>
+    <term name="paragraph" form="short">ย่อหน้า</term>
+    <term name="part" form="short">ส่วนย่อย</term>
+    <term name="section" form="short">หมวด</term>
     <term name="sub verbo" form="short">
-      <single>s.v.</single>
-      <multiple>s.vv.</multiple>
+      <single>ใต้คำ</single>
+      <multiple>ใต้คำ</multiple>
     </term>
     <term name="verse" form="short">
-      <single>v</single>
-      <multiple>vv</multiple>
+      <single>ร้อยกรอง</single>
+      <multiple>ร้อยกรอง</multiple>
     </term>
     <term name="volume" form="short">
-      <single>vol</single>
-      <multiple>vols</multiple>
+      <single>ปี</single>
+      <multiple>ปี</multiple>
     </term>
 
     <!-- SYMBOL LOCATOR FORMS -->
@@ -218,8 +218,8 @@
       <multiple>บรรณาธิการ</multiple>
     </term>
     <term name="editorial-director">
-      <single>บรรณาธิการ</single>
-      <multiple>บรรณาธิการ</multiple>
+      <single>ผู้อำนวยการบทบรรณาธิการ</single>
+      <multiple>ผู้อำนวยการบทบรรณาธิการ</multiple>
     </term>
     <term name="translator">
       <single>ผู้แปล</single>
@@ -232,40 +232,40 @@
 
     <!-- SHORT ROLE FORMS -->
     <term name="author" form="short">
-      <single/>
-      <multiple/>
+      <single>ผู้แต่ง</single>
+      <multiple>ผู้แต่ง</multiple>
     </term>
     <term name="editor" form="short">
-      <single>บก.</single>
-      <multiple>บก.</multiple>
+      <single>บ.ก.</single>
+      <multiple>บ.ก.</multiple>
     </term>
     <term name="editorial-director" form="short">
-      <single>บก.</single>
-      <multiple>บก.</multiple>
+      <single>ผอ.บทบรรณาธิการ</single>
+      <multiple>ผอ.บทบรรณาธิการ</multiple>
     </term>
     <term name="translator" form="short">
-      <single>tran</single>
-      <multiple>trans</multiple>
+      <single>ผู้แปล</single>
+      <multiple>ผู้แปล</multiple>
     </term>
     <term name="editortranslator" form="short">
-      <single>ed. &amp; tran.</single>
-      <multiple>eds. &amp; trans.</multiple>
+      <single>บ.ก.</single>
+      <multiple>บ.ก.</multiple>
     </term>
 
     <!-- VERB ROLE FORMS -->
-    <term name="editor" form="verb">edited by</term>
-    <term name="editorial-director" form="verb">edited by</term>
+    <term name="editor" form="verb">เรียบเรียงโดย</term>
+    <term name="editorial-director" form="verb">เรียบเรียงโดย</term>
     <term name="translator" form="verb">แปลโดย</term>
-    <term name="editortranslator" form="verb">edited &amp; translated by</term>
+    <term name="editortranslator" form="verb">แปลและเรียบเรียงโดย</term>
     <term name="recipient" form="verb">ถึง</term>
     <term name="interviewer" form="verb">สัมภาษณ์โดย</term>
 
     <!-- SHORT VERB ROLE FORMS -->
-    <term name="container-author" form="verb-short">by</term>
-    <term name="editor" form="verb-short">บก.</term>
-    <term name="editorial-director" form="verb-short">บก.</term>
-    <term name="translator" form="verb-short">trans</term>
-    <term name="editortranslator" form="verb-short">ed. &amp; trans. by</term>
+    <term name="container-author" form="verb-short">โดย</term>
+    <term name="editor" form="verb-short">โดย</term>
+    <term name="editorial-director" form="verb-short">โดย</term>
+    <term name="translator" form="verb-short">แปล</term>
+    <term name="editortranslator" form="verb-short">แปลและเรียบเรียงโดย</term>
 
     <!-- LONG MONTH FORMS -->
     <term name="month-01">มกราคม</term>
