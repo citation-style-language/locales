@@ -210,8 +210,8 @@
 
     <!-- LONG ROLE FORMS -->
     <term name="author">
-      <single>ผู้แต่ง</single>
-      <multiple>ผู้แต่ง</multiple>
+      <single></single>
+      <multiple></multiple>
     </term>
     <term name="editor">
       <single>บรรณาธิการ</single>
@@ -232,8 +232,8 @@
 
     <!-- SHORT ROLE FORMS -->
     <term name="author" form="short">
-      <single>ผู้แต่ง</single>
-      <multiple>ผู้แต่ง</multiple>
+      <single></single>
+      <multiple></multiple>
     </term>
     <term name="editor" form="short">
       <single>บ.ก.</single>
