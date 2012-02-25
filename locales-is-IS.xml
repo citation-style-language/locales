@@ -166,8 +166,8 @@
       <multiple>vers</multiple>
     </term>
     <term name="volume">
-      <single>útgáfa</single>
-      <multiple>útgáfur</multiple>
+      <single>bindi</single>
+      <multiple>bindi</multiple>
     </term>
 
     <!-- SHORT LOCATOR FORMS -->
@@ -194,8 +194,8 @@
       <multiple>v.</multiple>
     </term>
     <term name="volume" form="short">
-      <single>útg.</single>
-      <multiple>útg.</multiple>
+      <single>bindi</single>
+      <multiple>bindi</multiple>
     </term>
 
     <!-- SYMBOL LOCATOR FORMS -->
