@@ -34,7 +34,7 @@
     <term name="in">dans</term>
     <term name="in press">sous presse</term>
     <term name="internet">Internet</term>
-    <term name="interview">interview</term>
+    <term name="interview">entretien</term>
     <term name="letter">lettre</term>
     <term name="no date">sans date</term>
     <term name="no date" form="short">s. d.</term>
@@ -260,7 +260,7 @@
     <term name="translator" form="verb">traduit par</term>
     <term name="editortranslator" form="verb">édité et traduit par</term>
     <term name="recipient" form="verb">à</term>
-    <term name="interviewer" form="verb">interview par</term>
+    <term name="interviewer" form="verb">entretien réalisé par</term>
 
     <!-- SHORT VERB ROLE FORMS -->
     <term name="container-author" form="verb-short">par</term>
