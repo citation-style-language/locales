@@ -14,13 +14,13 @@
   <terms>
     <term name="accessed">cit</term>
     <term name="and">a</term>
-    <term name="and others">and ďalší</term>
+    <term name="and others">a ďalší</term>
     <term name="anonymous">anonym</term>
     <term name="anonymous" form="short">anon</term>
     <term name="at">v</term>
     <term name="by">by</term>
     <term name="circa">circa</term>
-    <term name="circa" form="short">c.</term>
+    <term name="circa" form="short">cca.</term>
     <term name="cited">cit</term>
     <term name="edition">
       <single>vydanie</single>
@@ -51,8 +51,10 @@
     <term name="retrieved">cit</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
-    <term name="ad">AD</term>
-    <term name="bc">BC</term>
+    <term name="ad">po Kr.</term>
+    <term name="bc">pred Kr.</term>
+    <term name="bce">pr.n.l.</term>
+    <term name="ce">n.l.</term>
 
     <!-- QUOTES -->
     <term name="open-quote">“</term>
@@ -90,7 +92,7 @@
     <term name="geology">geológia</term>
     <term name="history">história</term>
     <term name="humanities">humanitné vedy</term>
-    <term name="linguistics">linguistics</term>
+    <term name="linguistics">jazykoveda</term>
     <term name="literature">literatúra</term>
     <term name="math">matematika</term>
     <term name="medicine">medicína</term>
@@ -218,16 +220,16 @@
       <multiple>editori</multiple>
     </term>
     <term name="editorial-director">
-      <single>editor</single>
-      <multiple>editors</multiple>
+      <single>zostavovateľ</single>
+      <multiple>zostavovatelia</multiple>
     </term>
     <term name="translator">
       <single>prekladateľ</single>
       <multiple>prekladatelia</multiple>
     </term>
     <term name="editortranslator">
-      <single>editor &amp; translator</single>
-      <multiple>editors &amp; translators</multiple>
+      <single>zostavovateľ &amp; prekladateľ</single>
+      <multiple>zostavovatelia &amp; prekladatelia</multiple>
     </term>
 
     <!-- SHORT ROLE FORMS -->
@@ -240,12 +242,12 @@
       <multiple>ed</multiple>
     </term>
     <term name="editorial-director" form="short">
-      <single>ed.</single>
-      <multiple>eds.</multiple>
+      <single>zost.</single>
+      <multiple>zost.</multiple>
     </term>
     <term name="translator" form="short">
-      <single>prek</single>
-      <multiple>prek</multiple>
+      <single>prel</single>
+      <multiple>prel</multiple>
     </term>
     <term name="editortranslator" form="short">
       <single>ed. &amp; tran.</single>
@@ -253,10 +255,10 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
-    <term name="editor" form="verb">editoval</term>
-    <term name="editorial-director" form="verb">edited by</term>
+    <term name="editor" form="verb">zostavil</term>
+    <term name="editorial-director" form="verb">zostavil</term>
     <term name="translator" form="verb">preložil</term>
-    <term name="editortranslator" form="verb">edited &amp; translated by</term>
+    <term name="editortranslator" form="verb">zostavil &amp; preložil</term>
     <term name="recipient" form="verb">adresát</term>
     <term name="interviewer" form="verb">rozhovor urobil</term>
 
@@ -265,7 +267,7 @@
     <term name="editor" form="verb-short">ed</term>
     <term name="editorial-director" form="verb-short">ed.</term>
     <term name="translator" form="verb-short">prel</term>
-    <term name="editortranslator" form="verb-short">ed. &amp; trans. by</term>
+    <term name="editortranslator" form="verb-short">zost. &amp; prel.</term>
 
     <!-- LONG MONTH FORMS -->
     <term name="month-01">január</term>
@@ -296,9 +298,9 @@
     <term name="month-12" form="short">dec</term>
 
     <!-- SEASONS -->
-    <term name="season-01">Spring</term>
-    <term name="season-02">Summer</term>
-    <term name="season-03">Autumn</term>
-    <term name="season-04">Winter</term>
+    <term name="season-01">Jar</term>
+    <term name="season-02">Leto</term>
+    <term name="season-03">Jeseň</term>
+    <term name="season-04">Zima</term>
   </terms>
 </locale>
