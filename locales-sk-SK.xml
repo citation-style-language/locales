@@ -53,8 +53,6 @@
     <!-- ANNO DOMINI; BEFORE CHRIST -->
     <term name="ad">po Kr.</term>
     <term name="bc">pred Kr.</term>
-    <term name="bce">pr.n.l.</term>
-    <term name="ce">n.l.</term>
 
     <!-- QUOTES -->
     <term name="open-quote">“</term>
