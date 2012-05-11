@@ -51,8 +51,8 @@
     <term name="retrieved">abgerufen</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
-    <term name="ad">v. Chr.</term>
-    <term name="bc">n. Chr.</term>
+    <term name="ad">n. Chr.</term>
+    <term name="bc">v. Chr.</term>
 
     <!-- QUOTES -->
     <term name="open-quote">„</term>
