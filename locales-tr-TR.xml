@@ -14,30 +14,30 @@
   <terms>
     <term name="accessed">erişildi</term>
     <term name="and">ve</term>
-    <term name="and others">ve diğ.</term>
-    <term name="anonymous">isimsiz</term>
-    <term name="anonymous" form="short">isimsiz</term>
+    <term name="and others">ve diğerleri</term>
+    <term name="anonymous">anonim</term>
+    <term name="anonymous" form="short">anonim</term>
     <term name="at">de</term>
     <term name="by">by</term>
     <term name="circa">circa</term>
     <term name="circa" form="short">c.</term>
     <term name="cited">kaynak</term>
     <term name="edition">
-      <single>edition</single>
-      <multiple>editions</multiple>
+      <single>baskı</single>
+      <multiple>baskı</multiple>
     </term>
     <term name="edition" form="short">ed</term>
-    <term name="et-al">ve diğ.</term>
+    <term name="et-al">ve diğerleri</term>
     <term name="forthcoming">gelecek</term>
-    <term name="from">den</term>
+    <term name="from">adresinden erişildi</term>
     <term name="ibid">ibid.</term>
     <term name="in">içinde</term>
     <term name="in press">basımda</term>
     <term name="internet">internet</term>
-    <term name="interview">interview</term>
-    <term name="letter">letter</term>
-    <term name="no date">no date</term>
-    <term name="no date" form="short">tarih yok</term>
+    <term name="interview">kişisel iletişim</term>
+    <term name="letter">mektup</term>
+    <term name="no date">tarih yok</term>
+    <term name="no date" form="short">y.y.</term>
     <term name="online">çevrimiçi</term>
     <term name="presented at">sunulan</term>
     <term name="reference">
@@ -48,11 +48,11 @@
       <single>ref.</single>
       <multiple>refs.</multiple>
     </term>
-    <term name="retrieved">erişildi</term>
+    <term name="retrieved">tarihinde</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
-    <term name="ad">AD</term>
-    <term name="bc">BC</term>
+    <term name="ad">M.S</term>
+    <term name="bc">M.Ö.</term>
 
     <!-- QUOTES -->
     <!-- Source: http://en.wikipedia.org/wiki/Non-English_usage_of_quotation_marks -->
@@ -62,22 +62,22 @@
     <term name="close-inner-quote">›</term>
 
     <!-- ORDINALS -->
-    <term name="ordinal-01">st</term>
-    <term name="ordinal-02">nd</term>
-    <term name="ordinal-03">rd</term>
-    <term name="ordinal-04">th</term>
+    <term name="ordinal-01">.</term>
+    <term name="ordinal-02">.</term>
+    <term name="ordinal-03">.</term>
+    <term name="ordinal-04">.</term>
 
     <!-- LONG ORDINALS -->
-    <term name="long-ordinal-01">first</term>
-    <term name="long-ordinal-02">second</term>
-    <term name="long-ordinal-03">third</term>
-    <term name="long-ordinal-04">fourth</term>
-    <term name="long-ordinal-05">fifth</term>
-    <term name="long-ordinal-06">sixth</term>
-    <term name="long-ordinal-07">seventh</term>
-    <term name="long-ordinal-08">eighth</term>
-    <term name="long-ordinal-09">ninth</term>
-    <term name="long-ordinal-10">tenth</term>
+    <term name="long-ordinal-01">birinci</term>
+    <term name="long-ordinal-02">ikinci</term>
+    <term name="long-ordinal-03">üçüncü</term>
+    <term name="long-ordinal-04">dördüncü</term>
+    <term name="long-ordinal-05">beşinci</term>
+    <term name="long-ordinal-06">altıncı</term>
+    <term name="long-ordinal-07">yedinci</term>
+    <term name="long-ordinal-08">sekizinci</term>
+    <term name="long-ordinal-09">dokuzuncu</term>
+    <term name="long-ordinal-10">onuncu</term>
 
     <!-- CATEGORIES -->
     <term name="anthropology">antropoloji</term>
@@ -90,8 +90,8 @@
     <term name="geography">coğrafya</term>
     <term name="geology">jeoloji</term>
     <term name="history">tarih</term>
-    <term name="humanities">humanities</term>
-    <term name="linguistics">linguistics</term>
+    <term name="humanities">beşeri bilimler</term>
+    <term name="linguistics">dilbilim</term>
     <term name="literature">edebiyat</term>
     <term name="math">matematik</term>
     <term name="medicine">tıp</term>
@@ -103,7 +103,7 @@
     <term name="political_science">siyaset bilimi</term>
     <term name="social_science">sosyal bilimler</term>
     <term name="theology">din bilimi</term>
-    <term name="zoology">hayvanbilimi</term>
+    <term name="zoology">zooloji</term>
 
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
@@ -183,7 +183,7 @@
       <single>s</single>
       <multiple>ss</multiple>
     </term>
-    <term name="paragraph" form="short">para</term>
+    <term name="paragraph" form="short">par</term>
     <term name="part" form="short">kıs</term>
     <term name="section" form="short">böl</term>
     <term name="sub verbo" form="short">
@@ -195,8 +195,8 @@
       <multiple>vv</multiple>
     </term>
     <term name="volume" form="short">
-      <single>vol</single>
-      <multiple>vols</multiple>
+      <single>c</single>
+      <multiple>c</multiple>
     </term>
 
     <!-- SYMBOL LOCATOR FORMS -->
@@ -219,16 +219,16 @@
       <multiple>editörler</multiple>
     </term>
     <term name="editorial-director">
-      <single>editor</single>
-      <multiple>editors</multiple>
+      <single>editör</single>
+      <multiple>editör</multiple>
     </term>
     <term name="translator">
-      <single>çevirmen</single>
-      <multiple>çevirmenler</multiple>
+      <single>çeviren</single>
+      <multiple>çevirenler</multiple>
     </term>
     <term name="editortranslator">
-      <single>editor &amp; translator</single>
-      <multiple>editors &amp; translators</multiple>
+      <single>editör &amp; çeviren</single>
+      <multiple>editörler &amp; çevirenler</multiple>
     </term>
 
     <!-- SHORT ROLE FORMS -->
@@ -242,31 +242,31 @@
     </term>
     <term name="editorial-director" form="short">
       <single>ed.</single>
-      <multiple>eds.</multiple>
+      <multiple>ed.</multiple>
     </term>
     <term name="translator" form="short">
-      <single>çev</single>
-      <multiple>çev</multiple>
+      <single>çev.</single>
+      <multiple>çev.</multiple>
     </term>
     <term name="editortranslator" form="short">
-      <single>ed. &amp; tran.</single>
-      <multiple>eds. &amp; trans.</multiple>
+      <single>ed. &amp; çev.</single>
+      <multiple>ed. &amp; çev.</multiple>
     </term>
 
     <!-- VERB ROLE FORMS -->
     <term name="editor" form="verb">editör</term>
-    <term name="editorial-director" form="verb">edited by</term>
+    <term name="editorial-director" form="verb">düzenleyen</term>
     <term name="translator" form="verb">çeviren</term>
-    <term name="editortranslator" form="verb">edited &amp; translated by</term>
+    <term name="editortranslator" form="verb">düzenleyen &amp; çeviren by</term>
     <term name="recipient" form="verb">to</term>
     <term name="interviewer" form="verb">Röportaj yapan</term>
 
     <!-- SHORT VERB ROLE FORMS -->
-    <term name="container-author" form="verb-short">by</term>
-    <term name="editor" form="verb-short">ed</term>
+    <term name="container-author" form="verb-short"> </term>
+    <term name="editor" form="verb-short">ed.</term>
     <term name="editorial-director" form="verb-short">ed.</term>
-    <term name="translator" form="verb-short">çev</term>
-    <term name="editortranslator" form="verb-short">ed. &amp; trans. by</term>
+    <term name="translator" form="verb-short">çev.</term>
+    <term name="editortranslator" form="verb-short">ed. &amp; çev.</term>
 
     <!-- LONG MONTH FORMS -->
     <term name="month-01">Ocak</term>
@@ -297,9 +297,9 @@
     <term name="month-12" form="short">Ara</term>
 
     <!-- SEASONS -->
-    <term name="season-01">Spring</term>
-    <term name="season-02">Summer</term>
-    <term name="season-03">Autumn</term>
-    <term name="season-04">Winter</term>
+    <term name="season-01">Bahar</term>
+    <term name="season-02">Yaz</term>
+    <term name="season-03">Sonbahar</term>
+    <term name="season-04">Kış</term>
   </terms>
 </locale>
