@@ -68,16 +68,16 @@
     <term name="ordinal-04">°</term>
 
     <!-- LONG ORDINALS -->
-    <term name="long-ordinal-01">first</term>
-    <term name="long-ordinal-02">second</term>
-    <term name="long-ordinal-03">third</term>
-    <term name="long-ordinal-04">fourth</term>
-    <term name="long-ordinal-05">fifth</term>
-    <term name="long-ordinal-06">sixth</term>
-    <term name="long-ordinal-07">seventh</term>
-    <term name="long-ordinal-08">eighth</term>
-    <term name="long-ordinal-09">ninth</term>
-    <term name="long-ordinal-10">tenth</term>
+    <term name="long-ordinal-01">prima</term>
+    <term name="long-ordinal-02">seconda</term>
+    <term name="long-ordinal-03">terza</term>
+    <term name="long-ordinal-04">quarta</term>
+    <term name="long-ordinal-05">quinta</term>
+    <term name="long-ordinal-06">sesta</term>
+    <term name="long-ordinal-07">settima</term>
+    <term name="long-ordinal-08">ottava</term>
+    <term name="long-ordinal-09">nona</term>
+    <term name="long-ordinal-10">decima</term>
 
     <!-- CATEGORIES -->
     <term name="anthropology">antropologia</term>
