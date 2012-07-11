@@ -18,7 +18,7 @@
     <term name="anonymous">anonimo</term>
     <term name="anonymous" form="short">anon</term>
     <term name="at">a</term>
-    <term name="by">by</term>
+    <term name="by">di</term>
     <term name="circa">circa</term>
     <term name="circa" form="short">c.</term>
     <term name="cited">citato</term>
@@ -36,8 +36,8 @@
     <term name="internet">internet</term>
     <term name="interview">intervista</term>
     <term name="letter">lettera</term>
-    <term name="no date">no date</term>
-    <term name="no date" form="short">S.d.</term>
+    <term name="no date">senza data</term>
+    <term name="no date" form="short">s.d.</term>
     <term name="online">in linea</term>
     <term name="presented at">presentato al</term>
     <term name="reference">
@@ -51,21 +51,21 @@
     <term name="retrieved">recuperato</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
-    <term name="ad">AD</term>
-    <term name="bc">BC</term>
+    <term name="ad">d.C.</term>
+    <term name="bc">a.C.</term>
 
     <!-- QUOTES -->
     <!-- Source: http://en.wikipedia.org/wiki/Non-English_usage_of_quotation_marks -->
     <term name="open-quote">«</term>
     <term name="close-quote">»</term>
-    <term name="open-inner-quote">‘</term>
-    <term name="close-inner-quote">’</term>
+    <term name="open-inner-quote">“</term>
+    <term name="close-inner-quote">”</term>
 
     <!-- ORDINALS -->
-    <term name="ordinal-01">st</term>
-    <term name="ordinal-02">nd</term>
-    <term name="ordinal-03">rd</term>
-    <term name="ordinal-04">th</term>
+    <term name="ordinal-01">°</term>
+    <term name="ordinal-02">°</term>
+    <term name="ordinal-03">°</term>
+    <term name="ordinal-04">°</term>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">first</term>
@@ -237,8 +237,8 @@
       <multiple/>
     </term>
     <term name="editor" form="short">
-      <single>cur</single>
-      <multiple>cur</multiple>
+      <single>a c. di</single>
+      <multiple>a c. di</multiple>
     </term>
     <term name="editorial-director" form="short">
       <single>ed.</single>
@@ -249,24 +249,24 @@
       <multiple>trad</multiple>
     </term>
     <term name="editortranslator" form="short">
-      <single>ed. &amp; tran.</single>
-      <multiple>eds. &amp; trans.</multiple>
+      <single>a c. di e trad. da</single>
+      <multiple>a c. di e trad. da</multiple>
     </term>
 
     <!-- VERB ROLE FORMS -->
     <term name="editor" form="verb">a cura di</term>
     <term name="editorial-director" form="verb">edited by</term>
     <term name="translator" form="verb">tradotto da</term>
-    <term name="editortranslator" form="verb">edited &amp; translated by</term>
+    <term name="editortranslator" form="verb">a cura di e tradotto da</term>
     <term name="recipient" form="verb">a</term>
     <term name="interviewer" form="verb">intervista di</term>
 
     <!-- SHORT VERB ROLE FORMS -->
-    <term name="container-author" form="verb-short">by</term>
-    <term name="editor" form="verb-short">cur. da</term>
+    <term name="container-author" form="verb-short">di</term>
+    <term name="editor" form="verb-short">a c. di</term>
     <term name="editorial-director" form="verb-short">ed.</term>
     <term name="translator" form="verb-short">trad. da</term>
-    <term name="editortranslator" form="verb-short">ed. &amp; trans. by</term>
+    <term name="editortranslator" form="verb-short">a c. di e trad. da</term>
 
     <!-- LONG MONTH FORMS -->
     <term name="month-01">Gennaio</term>
@@ -297,9 +297,9 @@
     <term name="month-12" form="short">Dic</term>
 
     <!-- SEASONS -->
-    <term name="season-01">Spring</term>
-    <term name="season-02">Summer</term>
-    <term name="season-03">Autumn</term>
-    <term name="season-04">Winter</term>
+    <term name="season-01">primavera</term>
+    <term name="season-02">estate</term>
+    <term name="season-03">autunno</term>
+    <term name="season-04">inverno</term>
   </terms>
 </locale>
