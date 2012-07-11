@@ -269,32 +269,32 @@
     <term name="editortranslator" form="verb-short">a c. di e trad. da</term>
 
     <!-- LONG MONTH FORMS -->
-    <term name="month-01">Gennaio</term>
-    <term name="month-02">Febbraio</term>
-    <term name="month-03">Marzo</term>
-    <term name="month-04">Aprile</term>
-    <term name="month-05">Maggio</term>
-    <term name="month-06">Giugno</term>
-    <term name="month-07">Luglio</term>
-    <term name="month-08">Agosto</term>
-    <term name="month-09">Settembre</term>
-    <term name="month-10">Ottobre</term>
-    <term name="month-11">Novembre</term>
-    <term name="month-12">Dicembre</term>
+    <term name="month-01">gennaio</term>
+    <term name="month-02">febbraio</term>
+    <term name="month-03">marzo</term>
+    <term name="month-04">aprile</term>
+    <term name="month-05">maggio</term>
+    <term name="month-06">giugno</term>
+    <term name="month-07">luglio</term>
+    <term name="month-08">agosto</term>
+    <term name="month-09">settembre</term>
+    <term name="month-10">ottobre</term>
+    <term name="month-11">novembre</term>
+    <term name="month-12">dicembre</term>
 
     <!-- SHORT MONTH FORMS -->
-    <term name="month-01" form="short">Gen</term>
-    <term name="month-02" form="short">Feb</term>
-    <term name="month-03" form="short">Mar</term>
-    <term name="month-04" form="short">Apr</term>
-    <term name="month-05" form="short">Mag</term>
-    <term name="month-06" form="short">Giu</term>
-    <term name="month-07" form="short">Lug</term>
-    <term name="month-08" form="short">Ago</term>
-    <term name="month-09" form="short">Set</term>
-    <term name="month-10" form="short">Ott</term>
-    <term name="month-11" form="short">Nov</term>
-    <term name="month-12" form="short">Dic</term>
+    <term name="month-01" form="short">gen</term>
+    <term name="month-02" form="short">feb</term>
+    <term name="month-03" form="short">mar</term>
+    <term name="month-04" form="short">apr</term>
+    <term name="month-05" form="short">mag</term>
+    <term name="month-06" form="short">hiu</term>
+    <term name="month-07" form="short">lug</term>
+    <term name="month-08" form="short">ago</term>
+    <term name="month-09" form="short">set</term>
+    <term name="month-10" form="short">ott</term>
+    <term name="month-11" form="short">nov</term>
+    <term name="month-12" form="short">dic</term>
 
     <!-- SEASONS -->
     <term name="season-01">primavera</term>
