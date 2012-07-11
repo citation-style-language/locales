@@ -16,7 +16,7 @@
     <term name="and">e</term>
     <term name="and others">e altri</term>
     <term name="anonymous">anonimo</term>
-    <term name="anonymous" form="short">anon</term>
+    <term name="anonymous" form="short">anon.</term>
     <term name="at">a</term>
     <term name="by">di</term>
     <term name="circa">circa</term>
@@ -26,7 +26,7 @@
       <single>edizione</single>
       <multiple>edizioni</multiple>
     </term>
-    <term name="edition" form="short">ed</term>
+    <term name="edition" form="short">ed.</term>
     <term name="et-al">et al.</term>
     <term name="forthcoming">futuro</term>
     <term name="from">da</term>
@@ -172,31 +172,31 @@
     </term>
 
     <!-- SHORT LOCATOR FORMS -->
-    <term name="book" form="short">lib</term>
-    <term name="chapter" form="short">cap</term>
-    <term name="column" form="short">col</term>
-    <term name="figure" form="short">fig</term>
-    <term name="folio" form="short">fgl</term>
-    <term name="issue" form="short">n°</term>
-    <term name="opus" form="short">op</term>
+    <term name="book" form="short">lib.</term>
+    <term name="chapter" form="short">cap.</term>
+    <term name="column" form="short">col.</term>
+    <term name="figure" form="short">fig.</term>
+    <term name="folio" form="short">fgl.</term>
+    <term name="issue" form="short">n.</term>
+    <term name="opus" form="short">op.</term>
     <term name="page" form="short">
-      <single>pag</single>
-      <multiple>pagg</multiple>
+      <single>pag.</single>
+      <multiple>pagg.</multiple>
     </term>
-    <term name="paragraph" form="short">cpv</term>
-    <term name="part" form="short">pt</term>
-    <term name="section" form="short">par</term>
+    <term name="paragraph" form="short">cpv.</term>
+    <term name="part" form="short">pt.</term>
+    <term name="section" form="short">par.</term>
     <term name="sub verbo" form="short">
       <single>s.v.</single>
       <multiple>s.vv.</multiple>
     </term>
     <term name="verse" form="short">
-      <single>v</single>
-      <multiple>vv</multiple>
+      <single>v.</single>
+      <multiple>vv.</multiple>
     </term>
     <term name="volume" form="short">
-      <single>vol</single>
-      <multiple>vol</multiple>
+      <single>vol.</single>
+      <multiple>vol.</multiple>
     </term>
 
     <!-- SYMBOL LOCATOR FORMS -->
@@ -227,8 +227,8 @@
       <multiple>traduttori</multiple>
     </term>
     <term name="editortranslator">
-      <single>editor &amp; translator</single>
-      <multiple>editors &amp; translators</multiple>
+      <single>curatore e traduttore</single>
+      <multiple>curatori e tradutori</multiple>
     </term>
 
     <!-- SHORT ROLE FORMS -->
@@ -245,8 +245,8 @@
       <multiple>eds.</multiple>
     </term>
     <term name="translator" form="short">
-      <single>trad</single>
-      <multiple>trad</multiple>
+      <single>trad.</single>
+      <multiple>trad.</multiple>
     </term>
     <term name="editortranslator" form="short">
       <single>a c. di e trad. da</single>
@@ -283,18 +283,18 @@
     <term name="month-12">dicembre</term>
 
     <!-- SHORT MONTH FORMS -->
-    <term name="month-01" form="short">gen</term>
-    <term name="month-02" form="short">feb</term>
-    <term name="month-03" form="short">mar</term>
-    <term name="month-04" form="short">apr</term>
-    <term name="month-05" form="short">mag</term>
-    <term name="month-06" form="short">hiu</term>
-    <term name="month-07" form="short">lug</term>
-    <term name="month-08" form="short">ago</term>
-    <term name="month-09" form="short">set</term>
-    <term name="month-10" form="short">ott</term>
-    <term name="month-11" form="short">nov</term>
-    <term name="month-12" form="short">dic</term>
+    <term name="month-01" form="short">gen.</term>
+    <term name="month-02" form="short">feb.</term>
+    <term name="month-03" form="short">mar.</term>
+    <term name="month-04" form="short">apr.</term>
+    <term name="month-05" form="short">mag.</term>
+    <term name="month-06" form="short">giu.</term>
+    <term name="month-07" form="short">lug.</term>
+    <term name="month-08" form="short">ago.</term>
+    <term name="month-09" form="short">set.</term>
+    <term name="month-10" form="short">ott.</term>
+    <term name="month-11" form="short">nov.</term>
+    <term name="month-12" form="short">dic.</term>
 
     <!-- SEASONS -->
     <term name="season-01">primavera</term>
