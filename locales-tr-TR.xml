@@ -180,8 +180,8 @@
     <term name="issue" form="short">sayı</term>
     <term name="opus" form="short">op</term>
     <term name="page" form="short">
-      <single>s</single>
-      <multiple>ss</multiple>
+      <single>s.</single>
+      <multiple>ss.</multiple>
     </term>
     <term name="paragraph" form="short">par</term>
     <term name="part" form="short">kıs</term>
