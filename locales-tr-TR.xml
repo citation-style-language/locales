@@ -18,26 +18,26 @@
     <term name="anonymous">anonim</term>
     <term name="anonymous" form="short">anonim</term>
     <term name="at">de</term>
-    <term name="by">by</term>
-    <term name="circa">circa</term>
+    <term name="by">tarafından</term>
+    <term name="circa"tahmini</term>
     <term name="circa" form="short">c.</term>
     <term name="cited">kaynak</term>
     <term name="edition">
-      <single>baskı</single>
-      <multiple>baskı</multiple>
+      <single>basım</single>
+      <multiple>basım</multiple>
     </term>
-    <term name="edition" form="short">ed</term>
+    <term name="edition" form="short">bs.</term>
     <term name="et-al">ve diğerleri</term>
     <term name="forthcoming">gelecek</term>
     <term name="from">adresinden erişildi</term>
-    <term name="ibid">ibid.</term>
+    <term name="ibid">a.e.</term>
     <term name="in">içinde</term>
     <term name="in press">basımda</term>
     <term name="internet">internet</term>
     <term name="interview">kişisel iletişim</term>
     <term name="letter">mektup</term>
     <term name="no date">tarih yok</term>
-    <term name="no date" form="short">y.y.</term>
+    <term name="no date" form="short">t.y.</term>
     <term name="online">çevrimiçi</term>
     <term name="presented at">sunulan</term>
     <term name="reference">
@@ -123,8 +123,8 @@
       <multiple>şekiller</multiple>
     </term>
     <term name="folio">
-      <single>folyo</single>
-      <multiple>folyo</multiple>
+      <single>yaprak</single>
+      <multipleyapraklar</multiple>
     </term>
     <term name="issue">
       <single>sayı</single>
@@ -140,7 +140,7 @@
     </term>
     <term name="opus">
       <single>opus</single>
-      <multiple>opera</multiple>
+      <multiple>opus</multiple>
     </term>
     <term name="page">
       <single>sayfa</single>
@@ -172,20 +172,20 @@
     </term>
 
     <!-- SHORT LOCATOR FORMS -->
-    <term name="book" form="short">kit</term>
-    <term name="chapter" form="short">böl</term>
-    <term name="column" form="short">süt</term>
-    <term name="figure" form="short">şek</term>
-    <term name="folio" form="short">f</term>
+    <term name="book" form="short">kit.</term>
+    <term name="chapter" form="short">böl.</term>
+    <term name="column" form="short">süt.</term>
+    <term name="figure" form="short">şkl.</term>
+    <term name="folio" form="short">y</term>
     <term name="issue" form="short">sayı</term>
-    <term name="opus" form="short">op</term>
+    <term name="opus" form="short">a.g.e</term>
     <term name="page" form="short">
       <single>s.</single>
       <multiple>ss.</multiple>
     </term>
-    <term name="paragraph" form="short">par</term>
-    <term name="part" form="short">kıs</term>
-    <term name="section" form="short">böl</term>
+    <term name="paragraph" form="short">par.</term>
+    <term name="part" form="short">kıs.</term>
+    <term name="section" form="short">böl.</term>
     <term name="sub verbo" form="short">
       <single>s.v.</single>
       <multiple>s.vv.</multiple>
@@ -195,8 +195,8 @@
       <multiple>vv</multiple>
     </term>
     <term name="volume" form="short">
-      <single>c</single>
-      <multiple>c</multiple>
+      <single>c.</single>
+      <multiple>c.</multiple>
     </term>
 
     <!-- SYMBOL LOCATOR FORMS -->
@@ -237,8 +237,8 @@
       <multiple/>
     </term>
     <term name="editor" form="short">
-      <single>ed</single>
-      <multiple>ed</multiple>
+      <single>ed.</single>
+      <multiple>ed.</multiple>
     </term>
     <term name="editorial-director" form="short">
       <single>ed.</single>
@@ -257,7 +257,7 @@
     <term name="editor" form="verb">editör</term>
     <term name="editorial-director" form="verb">düzenleyen</term>
     <term name="translator" form="verb">çeviren</term>
-    <term name="editortranslator" form="verb">düzenleyen &amp; çeviren by</term>
+    <term name="editortranslator" form="verb">düzenleyen &amp; çeviren</term>
     <term name="recipient" form="verb">to</term>
     <term name="interviewer" form="verb">Röportaj yapan</term>
 
