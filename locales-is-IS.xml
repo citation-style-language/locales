@@ -61,10 +61,10 @@
     <term name="close-inner-quote">‘</term>
 
     <!-- ORDINALS -->
-    <term name="ordinal-01">1.</term>
-    <term name="ordinal-02">2.</term>
-    <term name="ordinal-03">3.</term>
-    <term name="ordinal-04">4.</term>
+    <term name="ordinal-01">.</term>
+    <term name="ordinal-02">.</term>
+    <term name="ordinal-03">.</term>
+    <term name="ordinal-04">.</term>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">fyrsti</term>
