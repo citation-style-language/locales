@@ -19,7 +19,7 @@
     <term name="anonymous" form="short">nafnl.</term>
     <term name="at">af</term>
     <term name="by">eftir</term>
-    <term name="circa">sirka</term>
+    <term name="circa">um það bil</term>
     <term name="circa" form="short">u.þ.b.</term>
     <term name="cited">tilvitnun</term>
     <term name="edition">
@@ -30,7 +30,7 @@
     <term name="et-al">o.fl.</term>
     <term name="forthcoming">óbirt</term>
     <term name="from">af</term>
-    <term name="ibid">sama heimild</term>
+    <term name="ibid">sama</term>
     <term name="in">í</term>
     <term name="in press">í prentun</term>
     <term name="internet">rafrænt</term>
@@ -57,8 +57,8 @@
     <!-- QUOTES -->
     <term name="open-quote">„</term>
     <term name="close-quote">“</term>
-    <term name="open-inner-quote">‘</term>
-    <term name="close-inner-quote">’</term>
+    <term name="open-inner-quote">‚</term>
+    <term name="close-inner-quote">‘</term>
 
     <!-- ORDINALS -->
     <term name="ordinal-01">.</term>
@@ -146,8 +146,8 @@
       <multiple>blaðsíður</multiple>
     </term>
     <term name="paragraph">
-      <single>málsgrein</single>
-      <multiple>málsgreinar</multiple>
+      <single>efnissgrein</single>
+      <multiple>efnisgreinar</multiple>
     </term>
     <term name="part">
       <single>hluti</single>
@@ -162,8 +162,8 @@
       <multiple>sub verbis</multiple>
     </term>
     <term name="verse">
-      <single>vers</single>
-      <multiple>vers</multiple>
+      <single>erindi</single>
+      <multiple>erindi</multiple>
     </term>
     <term name="volume">
       <single>bindi</single>
@@ -174,7 +174,7 @@
     <term name="book" form="short">b.</term>
     <term name="chapter" form="short">k.</term>
     <term name="column" form="short">d.</term>
-    <term name="figure" form="short">mynd.</term>
+    <term name="figure" form="short">m.</term>
     <term name="folio" form="short">handr.</term>
     <term name="issue" form="short">nr.</term>
     <term name="opus" form="short">tónv.</term>
@@ -182,7 +182,7 @@
       <single>bls.</single>
       <multiple>bls.</multiple>
     </term>
-    <term name="paragraph" form="short">málsgr.</term>
+    <term name="paragraph" form="short">egr.</term>
     <term name="part" form="short">hl.</term>
     <term name="section" form="short">hl.</term>
     <term name="sub verbo" form="short">
@@ -190,12 +190,12 @@
       <multiple>s.vv.</multiple>
     </term>
     <term name="verse" form="short">
-      <single>v.</single>
-      <multiple>v.</multiple>
+      <single>er.</single>
+      <multiple>er.</multiple>
     </term>
     <term name="volume" form="short">
-      <single>bindi</single>
-      <multiple>bindi</multiple>
+      <single>b.</single>
+      <multiple>b.</multiple>
     </term>
 
     <!-- SYMBOL LOCATOR FORMS -->
@@ -218,8 +218,8 @@
       <multiple>ritstjórar</multiple>
     </term>
     <term name="editorial-director">
-      <single>ritstjóri</single>
-      <multiple>ritstjórar</multiple>
+      <single>útgáfustjóri</single>
+      <multiple>útgáfustjórar</multiple>
     </term>
     <term name="translator">
       <single>þýðandi</single>
@@ -240,8 +240,8 @@
       <multiple>ritstj.</multiple>
     </term>
     <term name="editorial-director" form="short">
-      <single>ritstj.</single>
-      <multiple>ritstj.</multiple>
+      <single>útgstj.</single>
+      <multiple>útgstj.</multiple>
     </term>
     <term name="translator" form="short">
       <single>þýð.</single>
@@ -253,19 +253,19 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
-    <term name="editor" form="verb">ritstjóri</term>
-    <term name="editorial-director" form="verb">ritstjóri</term>
+    <term name="editor" form="verb">ritstýrði</term>
+    <term name="editorial-director" form="verb">stýrði útgáfu</term>
     <term name="translator" form="verb">þýddi</term>
-    <term name="editortranslator" form="verb">ritstjóri og þýðandi</term>
+    <term name="editortranslator" form="verb">ritstýrði og þýddi</term>
     <term name="recipient" form="verb">til</term>
     <term name="interviewer" form="verb">viðtal tók</term>
 
     <!-- SHORT VERB ROLE FORMS -->
-    <term name="container-author" form="verb-short">eftir</term>
-    <term name="editor" form="verb-short">ritst.</term>
-    <term name="editorial-director" form="verb-short">ritst.</term>
-    <term name="translator" form="verb-short">þýð.</term>
-    <term name="editortranslator" form="verb-short">ritst. og þýð.</term>
+    <term name="container-author" form="verb-short">e.</term>
+    <term name="editor" form="verb-short">rst.</term>
+    <term name="editorial-director" form="verb-short">útgst.</term>
+    <term name="translator" form="verb-short">þ.</term>
+    <term name="editortranslator" form="verb-short">rst. og þ.</term>
 
     <!-- LONG MONTH FORMS -->
     <term name="month-01">janúar</term>
