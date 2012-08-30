@@ -2,7 +2,7 @@
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="lt-LT">
   <!-- Translation by Valdemaras KLumbys -->
   <style-options punctuation-in-quote="false"/>
-  <date form="text"> <!-- "2011 m. lapkričio 1 d." -->
+  <date form="text" delimiter=" "> <!-- "2011 m. lapkričio 1 d." -->
     <date-part name="year" suffix=" m."/> 
     <date-part name="month"/>
     <date-part name="day" form="numeric" suffix=" d."/>
@@ -62,10 +62,10 @@
     <term name="close-inner-quote">‘</term> 
 
     <!-- ORDINALS -->
-    <term name="ordinal-01">asis</term> 
-    <term name="ordinal-02">asis</term>
-    <term name="ordinal-03">asis</term>
-    <term name="ordinal-04">asis</term>
+    <term name="ordinal-01">-asis</term> 
+    <term name="ordinal-02">-asis</term>
+    <term name="ordinal-03">-asis</term>
+    <term name="ordinal-04">-asis</term>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">pirmasis</term> 
