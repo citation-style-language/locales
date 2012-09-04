@@ -263,10 +263,10 @@
 
     <!-- SHORT VERB ROLE FORMS -->
     <term name="container-author" form="verb-short">par</term>
-    <term name="director" form="verb-short">réal.</term>
+    <term name="director" form="verb-short">réal. par</term>
     <term name="editor" form="verb-short">éd. par</term>
     <term name="editorial-director" form="verb-short">ss la dir. de</term>
-    <term name="illustrator" form="verb-short">ill.</term>
+    <term name="illustrator" form="verb-short">ill. par</term>
     <term name="translator" form="verb-short">trad. par</term>
     <term name="editortranslator" form="verb-short">éd. et trad. par</term>
 
