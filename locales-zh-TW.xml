@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="zh-TW">
+  <info>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2012-07-04T23:31:02+00:00</updated>
+  </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
     <date-part name="year" suffix="年"/>
@@ -18,6 +22,7 @@
     <term name="anonymous">不具名的</term>
     <term name="anonymous" form="short">無名</term>
     <term name="at">在</term>
+    <term name="available at">available at</term>
     <term name="by">by</term>
     <term name="circa">circa</term>
     <term name="circa" form="short">c.</term>
@@ -49,23 +54,28 @@
       <multiple>refs.</multiple>
     </term>
     <term name="retrieved">被取回</term>
+    <term name="scale">scale</term>
+    <term name="version">version</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
     <term name="ad">AD</term>
     <term name="bc">BC</term>
 
-    <!-- QUOTES -->
-    <!-- Source: http://en.wikipedia.org/wiki/Non-English_usage_of_quotation_marks -->
+    <!-- PUNCTUATION -->
     <term name="open-quote">「</term>
     <term name="close-quote">」</term>
     <term name="open-inner-quote">『</term>
     <term name="close-inner-quote">』</term>
+    <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
+    <term name="ordinal">th</term>
     <term name="ordinal-01">st</term>
     <term name="ordinal-02">nd</term>
     <term name="ordinal-03">rd</term>
-    <term name="ordinal-04">th</term>
+    <term name="ordinal-11">th</term>
+    <term name="ordinal-12">th</term>
+    <term name="ordinal-13">th</term>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">first</term>
@@ -78,32 +88,6 @@
     <term name="long-ordinal-08">eighth</term>
     <term name="long-ordinal-09">ninth</term>
     <term name="long-ordinal-10">tenth</term>
-
-    <!-- CATEGORIES -->
-    <term name="anthropology">人類學</term>
-    <term name="astronomy">天文學</term>
-    <term name="biology">生物學</term>
-    <term name="botany">植物學</term>
-    <term name="chemistry">化學</term>
-    <term name="engineering">工程學</term>
-    <term name="generic-base">一般基礎</term>
-    <term name="geography">地理學</term>
-    <term name="geology">地質學</term>
-    <term name="history">歷史學</term>
-    <term name="humanities">人文學科</term>
-    <term name="linguistics">linguistics</term>
-    <term name="literature">文學</term>
-    <term name="math">數學</term>
-    <term name="medicine">醫學</term>
-    <term name="philosophy">哲學</term>
-    <term name="physics">物理學</term>
-    <term name="psychology">心理學</term>
-    <term name="sociology">社會學</term>
-    <term name="science">自然科學</term>
-    <term name="political_science">政治科學</term>
-    <term name="social_science">社會科學</term>
-    <term name="theology">神學</term>
-    <term name="zoology">動物學</term>
 
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
@@ -178,6 +162,8 @@
     <term name="figure" form="short">圖</term>
     <term name="folio" form="short">開</term>
     <term name="issue" form="short">期</term>
+    <term name="line" form="short">l.</term>
+    <term name="note" form="short">n.</term>
     <term name="opus" form="short">作</term>
     <term name="page" form="short">
       <single>頁</single>
@@ -214,6 +200,10 @@
       <single>作者</single>
       <multiple>作者</multiple>
     </term>
+    <term name="director">
+      <single>director</single>
+      <multiple>directors</multiple>
+    </term>
     <term name="editor">
       <single>編輯</single>
       <multiple>編輯</multiple>
@@ -221,6 +211,10 @@
     <term name="editorial-director">
       <single>editor</single>
       <multiple>editors</multiple>
+    </term>
+    <term name="illustrator">
+      <single>illustrator</single>
+      <multiple>illustrators</multiple>
     </term>
     <term name="translator">
       <single>翻譯</single>
@@ -236,6 +230,10 @@
       <single>作</single>
       <multiple>作</multiple>
     </term>
+    <term name="director" form="short">
+      <single>dir.</single>
+      <multiple>dirs.</multiple>
+    </term>
     <term name="editor" form="short">
       <single>編</single>
       <multiple>編</multiple>
@@ -243,6 +241,10 @@
     <term name="editorial-director" form="short">
       <single>ed.</single>
       <multiple>eds.</multiple>
+    </term>
+    <term name="illustrator" form="short">
+      <single>ill.</single>
+      <multiple>ills.</multiple>
     </term>
     <term name="translator" form="short">
       <single>譯</single>
@@ -254,17 +256,22 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
+    <term name="director" form="verb">directed by</term>
     <term name="editor" form="verb">編者是</term>
     <term name="editorial-director" form="verb">edited by</term>
+    <term name="illustrator" form="verb">illustrated by</term>
+    <term name="interviewer" form="verb">訪問者是</term>
+    <term name="recipient" form="verb">授與</term>
+    <term name="reviewed-author" form="verb">by</term>
     <term name="translator" form="verb">譯者是</term>
     <term name="editortranslator" form="verb">edited &amp; translated by</term>
-    <term name="recipient" form="verb">授與</term>
-    <term name="interviewer" form="verb">訪問者是</term>
 
     <!-- SHORT VERB ROLE FORMS -->
     <term name="container-author" form="verb-short">by</term>
+    <term name="director" form="verb-short">dir.</term>
     <term name="editor" form="verb-short">編</term>
     <term name="editorial-director" form="verb-short">ed.</term>
+    <term name="illustrator" form="verb-short">illus.</term>
     <term name="translator" form="verb-short">譯</term>
     <term name="editortranslator" form="verb-short">ed. &amp; trans. by</term>
 

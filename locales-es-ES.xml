@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="es-ES">
+  <info>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2012-07-04T23:31:02+00:00</updated>
+  </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
     <date-part name="day" suffix=" de "/>
@@ -18,6 +22,7 @@
     <term name="anonymous">anónimo</term>
     <term name="anonymous" form="short">anón.</term>
     <term name="at">en</term>
+    <term name="available at">available at</term>
     <term name="by">de</term>
     <term name="circa">circa</term>
     <term name="circa" form="short">c.</term>
@@ -27,7 +32,7 @@
       <multiple>ediciones</multiple>
     </term>
     <term name="edition" form="short">ed.</term>
-    <term name="et-al">et&#xA0;al.</term>
+    <term name="et-al">et&#160;al.</term>
     <term name="forthcoming">previsto</term>
     <term name="from">a partir de</term>
     <term name="ibid">ibid.</term>
@@ -37,7 +42,7 @@
     <term name="interview">entrevista</term>
     <term name="letter">carta</term>
     <term name="no date">sin fecha</term>
-    <term name="no date" form="short">s.&#xA0;f.</term>
+    <term name="no date" form="short">s.&#160;f.</term>
     <term name="online">en línea</term>
     <term name="presented at">presentado en</term>
     <term name="reference">
@@ -49,23 +54,22 @@
       <multiple>refs.</multiple>
     </term>
     <term name="retrieved">recuperado</term>
+    <term name="scale">scale</term>
+    <term name="version">version</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
-    <term name="ad">d.&#xA0;C.</term>
-    <term name="bc">a.&#xA0;C.</term>
+    <term name="ad">d.&#160;C.</term>
+    <term name="bc">a.&#160;C.</term>
 
-    <!-- QUOTES -->
-    <!-- Source: http://en.wikipedia.org/wiki/Non-English_usage_of_quotation_marks -->
+    <!-- PUNCTUATION -->
     <term name="open-quote">«</term>
     <term name="close-quote">»</term>
     <term name="open-inner-quote">“</term>
     <term name="close-inner-quote">”</term>
+    <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
-    <term name="ordinal-01">.&#xAA;</term>
-    <term name="ordinal-02">.&#xAA;</term>
-    <term name="ordinal-03">.&#xAA;</term>
-    <term name="ordinal-04">.&#xAA;</term>
+    <term name="ordinal">.ª</term>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">primera</term>
@@ -78,32 +82,6 @@
     <term name="long-ordinal-08">octava</term>
     <term name="long-ordinal-09">novena</term>
     <term name="long-ordinal-10">décima</term>
-
-    <!-- CATEGORIES -->
-    <term name="anthropology">antropología</term>
-    <term name="astronomy">astronomía</term>
-    <term name="biology">biología</term>
-    <term name="botany">botánica</term>
-    <term name="chemistry">química</term>
-    <term name="engineering">ingeniería</term>
-    <term name="generic-base">base genérica</term>
-    <term name="geography">geografía</term>
-    <term name="geology">geología</term>
-    <term name="history">historia</term>
-    <term name="humanities">humanidades</term>
-    <term name="linguistics">lingüística</term>
-    <term name="literature">literatura</term>
-    <term name="math">matemáticas</term>
-    <term name="medicine">medicina</term>
-    <term name="philosophy">filosofía</term>
-    <term name="physics">física</term>
-    <term name="psychology">psicología</term>
-    <term name="sociology">sociología</term>
-    <term name="science">ciencias</term>
-    <term name="political_science">ciencias políticas</term>
-    <term name="social_science">ciencias sociales</term>
-    <term name="theology">teología</term>
-    <term name="zoology">zoología</term>
 
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
@@ -178,6 +156,8 @@
     <term name="figure" form="short">fig.</term>
     <term name="folio" form="short">f.</term>
     <term name="issue" form="short">n.º</term>
+    <term name="line" form="short">l.</term>
+    <term name="note" form="short">n.</term>
     <term name="opus" form="short">op.</term>
     <term name="page" form="short">
       <single>p.</single>
@@ -187,8 +167,8 @@
     <term name="part" form="short">pt.</term>
     <term name="section" form="short">sec.</term>
     <term name="sub verbo" form="short">
-      <single>s.&#xA0;v.</single>
-      <multiple>s.&#xA0;vv.</multiple>
+      <single>s.&#160;v.</single>
+      <multiple>s.&#160;vv.</multiple>
     </term>
     <term name="verse" form="short">
       <single>v.</single>
@@ -214,6 +194,10 @@
       <single/>
       <multiple/>
     </term>
+    <term name="director">
+      <single>director</single>
+      <multiple>directors</multiple>
+    </term>
     <term name="editor">
       <single>editor</single>
       <multiple>editores</multiple>
@@ -221,6 +205,10 @@
     <term name="editorial-director">
       <single>editor</single>
       <multiple>editores</multiple>
+    </term>
+    <term name="illustrator">
+      <single>illustrator</single>
+      <multiple>illustrators</multiple>
     </term>
     <term name="translator">
       <single>traductor</single>
@@ -236,6 +224,10 @@
       <single/>
       <multiple/>
     </term>
+    <term name="director" form="short">
+      <single>dir.</single>
+      <multiple>dirs.</multiple>
+    </term>
     <term name="editor" form="short">
       <single>ed.</single>
       <multiple>eds.</multiple>
@@ -243,6 +235,10 @@
     <term name="editorial-director" form="short">
       <single>ed.</single>
       <multiple>eds.</multiple>
+    </term>
+    <term name="illustrator" form="short">
+      <single>ill.</single>
+      <multiple>ills.</multiple>
     </term>
     <term name="translator" form="short">
       <single>trad.</single>
@@ -254,17 +250,22 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
+    <term name="director" form="verb">directed by</term>
     <term name="editor" form="verb">editado por</term>
     <term name="editorial-director" form="verb">editado por</term>
+    <term name="illustrator" form="verb">illustrated by</term>
+    <term name="interviewer" form="verb">entrevistado por</term>
+    <term name="recipient" form="verb">a</term>
+    <term name="reviewed-author" form="verb">by</term>
     <term name="translator" form="verb">traducido por</term>
     <term name="editortranslator" form="verb">editado y traducido por</term>
-    <term name="recipient" form="verb">a</term>
-    <term name="interviewer" form="verb">entrevistado por</term>
 
     <!-- SHORT VERB ROLE FORMS -->
     <term name="container-author" form="verb-short">de</term>
+    <term name="director" form="verb-short">dir.</term>
     <term name="editor" form="verb-short">ed.</term>
     <term name="editorial-director" form="verb-short">ed.</term>
+    <term name="illustrator" form="verb-short">illus.</term>
     <term name="translator" form="verb-short">trad.</term>
     <term name="editortranslator" form="verb-short">ed. y trad.</term>
 

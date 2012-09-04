@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="hu-HU">
+  <info>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2012-07-04T23:31:02+00:00</updated>
+  </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
     <date-part name="year"/>
@@ -18,6 +22,7 @@
     <term name="anonymous">név nélkül</term>
     <term name="anonymous" form="short">nn</term>
     <term name="at"/>
+    <term name="available at">available at</term>
     <term name="by">by</term>
     <term name="circa">circa</term>
     <term name="circa" form="short">c.</term>
@@ -49,23 +54,28 @@
       <multiple>refs.</multiple>
     </term>
     <term name="retrieved">elérés</term>
+    <term name="scale">scale</term>
+    <term name="version">version</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
     <term name="ad">AD</term>
     <term name="bc">BC</term>
 
-    <!-- QUOTES -->
-    <!-- Source: http://en.wikipedia.org/wiki/Non-English_usage_of_quotation_marks -->
+    <!-- PUNCTUATION -->
     <term name="open-quote">„</term>
     <term name="close-quote">”</term>
     <term name="open-inner-quote">»</term>
     <term name="close-inner-quote">«</term>
+    <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
+    <term name="ordinal">th</term>
     <term name="ordinal-01">st</term>
     <term name="ordinal-02">nd</term>
     <term name="ordinal-03">rd</term>
-    <term name="ordinal-04">th</term>
+    <term name="ordinal-11">th</term>
+    <term name="ordinal-12">th</term>
+    <term name="ordinal-13">th</term>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">first</term>
@@ -78,32 +88,6 @@
     <term name="long-ordinal-08">eighth</term>
     <term name="long-ordinal-09">ninth</term>
     <term name="long-ordinal-10">tenth</term>
-
-    <!-- CATEGORIES -->
-    <term name="anthropology">antropológia</term>
-    <term name="astronomy">csillagászat</term>
-    <term name="biology">biológia</term>
-    <term name="botany">botanika</term>
-    <term name="chemistry">kémia</term>
-    <term name="engineering">mérnöki tudományok</term>
-    <term name="generic-base">általános</term>
-    <term name="geography">földrajz</term>
-    <term name="geology">geológia</term>
-    <term name="history">történelem</term>
-    <term name="humanities">bölcsésztudományok</term>
-    <term name="linguistics">linguistics</term>
-    <term name="literature">irodalom</term>
-    <term name="math">matematika</term>
-    <term name="medicine">orvostudomány</term>
-    <term name="philosophy">filozófia</term>
-    <term name="physics">fizika</term>
-    <term name="psychology">pszichológia</term>
-    <term name="sociology">szociológia</term>
-    <term name="science">tudomány</term>
-    <term name="political_science">politikatudomány</term>
-    <term name="social_science">társadalomtudomány</term>
-    <term name="theology">teológia</term>
-    <term name="zoology">zoológia</term>
 
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
@@ -178,6 +162,8 @@
     <term name="figure" form="short">ábr</term>
     <term name="folio" form="short">fol</term>
     <term name="issue" form="short">sz</term>
+    <term name="line" form="short">l.</term>
+    <term name="note" form="short">n.</term>
     <term name="opus" form="short">op</term>
     <term name="page" form="short">
       <single>o</single>
@@ -214,6 +200,10 @@
       <single/>
       <multiple/>
     </term>
+    <term name="director">
+      <single>director</single>
+      <multiple>directors</multiple>
+    </term>
     <term name="editor">
       <single>szerkesztő</single>
       <multiple>szerkesztő</multiple>
@@ -221,6 +211,10 @@
     <term name="editorial-director">
       <single>editor</single>
       <multiple>editors</multiple>
+    </term>
+    <term name="illustrator">
+      <single>illustrator</single>
+      <multiple>illustrators</multiple>
     </term>
     <term name="translator">
       <single>fordító</single>
@@ -236,6 +230,10 @@
       <single/>
       <multiple/>
     </term>
+    <term name="director" form="short">
+      <single>dir.</single>
+      <multiple>dirs.</multiple>
+    </term>
     <term name="editor" form="short">
       <single>szerk</single>
       <multiple>szerk</multiple>
@@ -243,6 +241,10 @@
     <term name="editorial-director" form="short">
       <single>ed.</single>
       <multiple>eds.</multiple>
+    </term>
+    <term name="illustrator" form="short">
+      <single>ill.</single>
+      <multiple>ills.</multiple>
     </term>
     <term name="translator" form="short">
       <single>ford</single>
@@ -254,17 +256,22 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
+    <term name="director" form="verb">directed by</term>
     <term name="editor" form="verb">szerkesztette</term>
     <term name="editorial-director" form="verb">edited by</term>
+    <term name="illustrator" form="verb">illustrated by</term>
+    <term name="interviewer" form="verb">interjúkészítő</term>
+    <term name="recipient" form="verb">címzett</term>
+    <term name="reviewed-author" form="verb">by</term>
     <term name="translator" form="verb">fordította</term>
     <term name="editortranslator" form="verb">edited &amp; translated by</term>
-    <term name="recipient" form="verb">címzett</term>
-    <term name="interviewer" form="verb">interjúkészítő</term>
 
     <!-- SHORT VERB ROLE FORMS -->
     <term name="container-author" form="verb-short">by</term>
+    <term name="director" form="verb-short">dir.</term>
     <term name="editor" form="verb-short">szerk</term>
     <term name="editorial-director" form="verb-short">ed.</term>
+    <term name="illustrator" form="verb-short">illus.</term>
     <term name="translator" form="verb-short">ford</term>
     <term name="editortranslator" form="verb-short">ed. &amp; trans. by</term>
 

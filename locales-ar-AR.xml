@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="ar-AR">
+  <info>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2012-07-04T23:31:02+00:00</updated>
+  </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
     <date-part name="day" suffix=" "/>
@@ -18,6 +22,7 @@
     <term name="anonymous">مجهول</term>
     <term name="anonymous" form="short">مجهول</term>
     <term name="at">عند</term>
+    <term name="available at">available at</term>
     <term name="by">عن طريق</term>
     <term name="circa">حوالي</term>
     <term name="circa" form="short">حو.</term>
@@ -49,24 +54,22 @@
       <multiple>مراجع</multiple>
     </term>
     <term name="retrieved">استرجع في</term>
+    <term name="scale">scale</term>
+    <term name="version">version</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
     <term name="ad">ب.م.</term>
     <term name="bc">ق.م.</term>
 
-    <!-- QUOTES -->
-    <!-- Source: http://www.w3.org/International/tutorials/bidi-xhtml/ -->
-    <!-- Use of single straight quote for inner is a guess -->
+    <!-- PUNCTUATION -->
     <term name="open-quote">"</term>
     <term name="close-quote">"</term>
     <term name="open-inner-quote">'</term>
     <term name="close-inner-quote">'</term>
+    <term name="page-range-delimiter">–</term>
 
-    <!-- ORDINALS st., nd., rd.-->
-    <term name="ordinal-01"/>
-    <term name="ordinal-02"/>
-    <term name="ordinal-03"/>
-    <term name="ordinal-04"/>
+    <!-- ORDINALS -->
+    <term name="ordinal"/>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">الاول</term>
@@ -79,32 +82,6 @@
     <term name="long-ordinal-08">الثامن</term>
     <term name="long-ordinal-09">التاسع</term>
     <term name="long-ordinal-10">العاشر</term>
-
-    <!-- CATEGORIES -->
-    <term name="anthropology">الاناسة</term>
-    <term name="astronomy">الفلك</term>
-    <term name="biology">الأحياء</term>
-    <term name="botany">النبات</term>
-    <term name="chemistry">الكيمياء</term>
-    <term name="engineering">الهندسة</term>
-    <term name="generic-base">العلوم العامة</term>
-    <term name="geography">الجغرافيا</term>
-    <term name="geology">الجيولوجيا</term>
-    <term name="history">التاريخ</term>
-    <term name="humanities">الإنسانيات</term>
-    <term name="linguistics">اللغويات</term>
-    <term name="literature">الأدب</term>
-    <term name="math">الرياضيات</term>
-    <term name="medicine">الطب</term>
-    <term name="philosophy">الفلسفة</term>
-    <term name="physics">الفيزياء</term>
-    <term name="psychology">علم النفس</term>
-    <term name="sociology">علم الإجتماع</term>
-    <term name="science">العلوم البحتة</term>
-    <term name="political_science">العلوم السياسية</term>
-    <term name="social_science">العلوم الإجتماعية</term>
-    <term name="theology">الإلهيات</term>
-    <term name="zoology">علم الحيوان</term>
 
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
@@ -179,6 +156,8 @@
     <term name="figure" form="short">رسم توضيحي</term>
     <term name="folio" form="short">مطوية</term>
     <term name="issue" form="short">عدد</term>
+    <term name="line" form="short">l.</term>
+    <term name="note" form="short">n.</term>
     <term name="opus" form="short">نوتة موسيقية</term>
     <term name="page" form="short">
       <single>ص</single>
@@ -215,6 +194,10 @@
       <single>مؤلف</single>
       <multiple>مؤلفين</multiple>
     </term>
+    <term name="director">
+      <single>director</single>
+      <multiple>directors</multiple>
+    </term>
     <term name="editor">
       <single>محرر</single>
       <multiple>محررين</multiple>
@@ -222,6 +205,10 @@
     <term name="editorial-director">
       <single>رئيس التحرير</single>
       <multiple>رؤساء التحرير</multiple>
+    </term>
+    <term name="illustrator">
+      <single>illustrator</single>
+      <multiple>illustrators</multiple>
     </term>
     <term name="translator">
       <single>مترجم</single>
@@ -237,6 +224,10 @@
       <single>مؤلف</single>
       <multiple>مؤلفين</multiple>
     </term>
+    <term name="director" form="short">
+      <single>dir.</single>
+      <multiple>dirs.</multiple>
+    </term>
     <term name="editor" form="short">
       <single>محرر</single>
       <multiple>محررين</multiple>
@@ -244,6 +235,10 @@
     <term name="editorial-director" form="short">
       <single>مشرف على الطبعة</single>
       <multiple>مشرفين على الطبعة</multiple>
+    </term>
+    <term name="illustrator" form="short">
+      <single>ill.</single>
+      <multiple>ills.</multiple>
     </term>
     <term name="translator" form="short">
       <single>مترجم</single>
@@ -255,17 +250,22 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
+    <term name="director" form="verb">directed by</term>
     <term name="editor" form="verb">تحرير</term>
     <term name="editorial-director" form="verb">اعداد</term>
+    <term name="illustrator" form="verb">illustrated by</term>
+    <term name="interviewer" form="verb">مقابلة بواسطة</term>
+    <term name="recipient" form="verb">مرسل الى</term>
+    <term name="reviewed-author" form="verb">by</term>
     <term name="translator" form="verb">ترجمة</term>
     <term name="editortranslator" form="verb">اعداد وترجمة</term>
-    <term name="recipient" form="verb">مرسل الى</term>
-    <term name="interviewer" form="verb">مقابلة بواسطة</term>
 
     <!-- SHORT VERB ROLE FORMS -->
-    <term name="container-author" form="verb-short"></term>
+    <term name="container-author" form="verb-short"/>
+    <term name="director" form="verb-short">dir.</term>
     <term name="editor" form="verb-short">تحرير</term>
     <term name="editorial-director" form="verb-short">اشرف على الطبعة</term>
+    <term name="illustrator" form="verb-short">illus.</term>
     <term name="translator" form="verb-short">ترجمة</term>
     <term name="editortranslator" form="verb-short">ترجمه واشرف على الطباعه</term>
 

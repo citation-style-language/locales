@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="cs-CZ">
+  <info>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2012-07-04T23:31:02+00:00</updated>
+  </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
     <date-part name="day" suffix=". "/>
@@ -18,6 +22,7 @@
     <term name="anonymous">anonymous</term>
     <term name="anonymous" form="short">anon.</term>
     <term name="at">v</term>
+    <term name="available at">available at</term>
     <term name="by">by</term>
     <term name="circa">circa</term>
     <term name="circa" form="short">c.</term>
@@ -49,23 +54,22 @@
       <multiple>refs.</multiple>
     </term>
     <term name="retrieved">získáno</term>
+    <term name="scale">scale</term>
+    <term name="version">version</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
     <term name="ad">n. l.</term>
     <term name="bc">př. n. l.</term>
 
-    <!-- QUOTES -->
-    <!-- Source: http://en.wikipedia.org/wiki/Non-English_usage_of_quotation_marks -->
+    <!-- PUNCTUATION -->
     <term name="open-quote">„</term>
     <term name="close-quote">“</term>
     <term name="open-inner-quote">‚</term>
     <term name="close-inner-quote">‘</term>
+    <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
-    <term name="ordinal-01">.</term>
-    <term name="ordinal-02">.</term>
-    <term name="ordinal-03">.</term>
-    <term name="ordinal-04">.</term>
+    <term name="ordinal">.</term>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">první</term>
@@ -78,32 +82,6 @@
     <term name="long-ordinal-08">osmé</term>
     <term name="long-ordinal-09">deváté</term>
     <term name="long-ordinal-10">desáté</term>
-
-    <!-- CATEGORIES -->
-    <term name="anthropology">antropologie</term>
-    <term name="astronomy">astronomie</term>
-    <term name="biology">biologie</term>
-    <term name="botany">botanika</term>
-    <term name="chemistry">chemie</term>
-    <term name="engineering">technika</term>
-    <term name="generic-base">všeobecný základ</term>
-    <term name="geography">geografie</term>
-    <term name="geology">geologie</term>
-    <term name="history">historie</term>
-    <term name="humanities">humanitní</term>
-    <term name="linguistics">linguistics</term>
-    <term name="literature">literatura</term>
-    <term name="math">matematika</term>
-    <term name="medicine">medicína</term>
-    <term name="philosophy">filosofie</term>
-    <term name="physics">fyzika</term>
-    <term name="psychology">psychologie</term>
-    <term name="sociology">sociologie</term>
-    <term name="science">věda</term>
-    <term name="political_science">politologie</term>
-    <term name="social_science">sociální věda</term>
-    <term name="theology">teologie</term>
-    <term name="zoology">zoologie</term>
 
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
@@ -178,6 +156,8 @@
     <term name="figure" form="short">obr.</term>
     <term name="folio" form="short">l.</term>
     <term name="issue" form="short">čís.</term>
+    <term name="line" form="short">l.</term>
+    <term name="note" form="short">n.</term>
     <term name="opus" form="short">op.</term>
     <term name="page" form="short">
       <single>s.</single>
@@ -214,6 +194,10 @@
       <single>autor</single>
       <multiple>autoři</multiple>
     </term>
+    <term name="director">
+      <single>director</single>
+      <multiple>directors</multiple>
+    </term>
     <term name="editor">
       <single>editor</single>
       <multiple>editoři</multiple>
@@ -221,6 +205,10 @@
     <term name="editorial-director">
       <single>editor</single>
       <multiple>editors</multiple>
+    </term>
+    <term name="illustrator">
+      <single>illustrator</single>
+      <multiple>illustrators</multiple>
     </term>
     <term name="translator">
       <single>překladatel</single>
@@ -236,6 +224,10 @@
       <single/>
       <multiple/>
     </term>
+    <term name="director" form="short">
+      <single>dir.</single>
+      <multiple>dirs.</multiple>
+    </term>
     <term name="editor" form="short">
       <single>ed.</single>
       <multiple>ed.</multiple>
@@ -243,6 +235,10 @@
     <term name="editorial-director" form="short">
       <single>ed.</single>
       <multiple>ed.</multiple>
+    </term>
+    <term name="illustrator" form="short">
+      <single>ill.</single>
+      <multiple>ills.</multiple>
     </term>
     <term name="translator" form="short">
       <single>překl.</single>
@@ -254,17 +250,22 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
+    <term name="director" form="verb">directed by</term>
     <term name="editor" form="verb">editoval</term>
     <term name="editorial-director" form="verb">editoval</term>
+    <term name="illustrator" form="verb">illustrated by</term>
+    <term name="interviewer" form="verb">rozhovor vedl</term>
+    <term name="recipient" form="verb">pro</term>
+    <term name="reviewed-author" form="verb">by</term>
     <term name="translator" form="verb">přeložil</term>
     <term name="editortranslator" form="verb">editoval a přeložil</term>
-    <term name="recipient" form="verb">pro</term>
-    <term name="interviewer" form="verb">rozhovor vedl</term>
 
     <!-- SHORT VERB ROLE FORMS -->
     <term name="container-author" form="verb-short">by</term>
+    <term name="director" form="verb-short">dir.</term>
     <term name="editor" form="verb-short">ed.</term>
     <term name="editorial-director" form="verb-short">ed.</term>
+    <term name="illustrator" form="verb-short">illus.</term>
     <term name="translator" form="verb-short">překl.</term>
     <term name="editortranslator" form="verb-short">ed. a přel.</term>
 

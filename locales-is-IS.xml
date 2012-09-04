@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="is-IS">
+  <info>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2012-07-04T23:31:02+00:00</updated>
+  </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
     <date-part name="day" suffix=". "/>
@@ -18,8 +22,9 @@
     <term name="anonymous">nafnlaus</term>
     <term name="anonymous" form="short">nafnl.</term>
     <term name="at">af</term>
+    <term name="available at">available at</term>
     <term name="by">eftir</term>
-    <term name="circa">um það bil</term>
+    <term name="circa">sirka</term>
     <term name="circa" form="short">u.þ.b.</term>
     <term name="cited">tilvitnun</term>
     <term name="edition">
@@ -30,7 +35,7 @@
     <term name="et-al">o.fl.</term>
     <term name="forthcoming">óbirt</term>
     <term name="from">af</term>
-    <term name="ibid">sama</term>
+    <term name="ibid">sama heimild</term>
     <term name="in">í</term>
     <term name="in press">í prentun</term>
     <term name="internet">rafrænt</term>
@@ -49,22 +54,22 @@
       <multiple>tilv.</multiple>
     </term>
     <term name="retrieved">sótt</term>
+    <term name="scale">scale</term>
+    <term name="version">version</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
     <term name="ad">e.Kr.</term>
     <term name="bc">f.Kr.</term>
 
-    <!-- QUOTES -->
+    <!-- PUNCTUATION -->
     <term name="open-quote">„</term>
     <term name="close-quote">“</term>
-    <term name="open-inner-quote">‚</term>
-    <term name="close-inner-quote">‘</term>
+    <term name="open-inner-quote">‘</term>
+    <term name="close-inner-quote">’</term>
+    <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
-    <term name="ordinal-01">.</term>
-    <term name="ordinal-02">.</term>
-    <term name="ordinal-03">.</term>
-    <term name="ordinal-04">.</term>
+    <term name="ordinal">.</term>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">fyrsti</term>
@@ -77,32 +82,6 @@
     <term name="long-ordinal-08">áttundi</term>
     <term name="long-ordinal-09">níundi</term>
     <term name="long-ordinal-10">tíundi</term>
-
-    <!-- CATEGORIES -->
-    <term name="anthropology">mannfræði</term>
-    <term name="astronomy">stjörnufræði</term>
-    <term name="biology">líffræði</term>
-    <term name="botany">grasafræði</term>
-    <term name="chemistry">efnafræði</term>
-    <term name="engineering">verkfræði</term>
-    <term name="generic-base">almennt efni</term>
-    <term name="geography">landafræði</term>
-    <term name="geology">jarðfræði</term>
-    <term name="history">saga</term>
-    <term name="humanities">hugvísindi</term>
-    <term name="linguistics">málvísindi</term>
-    <term name="literature">bókmenntir</term>
-    <term name="math">stærðfræði</term>
-    <term name="medicine">læknisfræði</term>
-    <term name="philosophy">heimspeki</term>
-    <term name="physics">eðlisfræði</term>
-    <term name="psychology">sálfræði</term>
-    <term name="sociology">félagsfræði</term>
-    <term name="science">vísindi</term>
-    <term name="political_science">stjórnmálafræði</term>
-    <term name="social_science">félagsvísindi</term>
-    <term name="theology">guðfræði</term>
-    <term name="zoology">dýrafræði</term>
 
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
@@ -146,8 +125,8 @@
       <multiple>blaðsíður</multiple>
     </term>
     <term name="paragraph">
-      <single>efnissgrein</single>
-      <multiple>efnisgreinar</multiple>
+      <single>málsgrein</single>
+      <multiple>málsgreinar</multiple>
     </term>
     <term name="part">
       <single>hluti</single>
@@ -162,8 +141,8 @@
       <multiple>sub verbis</multiple>
     </term>
     <term name="verse">
-      <single>erindi</single>
-      <multiple>erindi</multiple>
+      <single>vers</single>
+      <multiple>vers</multiple>
     </term>
     <term name="volume">
       <single>bindi</single>
@@ -174,15 +153,17 @@
     <term name="book" form="short">b.</term>
     <term name="chapter" form="short">k.</term>
     <term name="column" form="short">d.</term>
-    <term name="figure" form="short">m.</term>
+    <term name="figure" form="short">mynd.</term>
     <term name="folio" form="short">handr.</term>
     <term name="issue" form="short">nr.</term>
+    <term name="line" form="short">l.</term>
+    <term name="note" form="short">n.</term>
     <term name="opus" form="short">tónv.</term>
     <term name="page" form="short">
       <single>bls.</single>
       <multiple>bls.</multiple>
     </term>
-    <term name="paragraph" form="short">egr.</term>
+    <term name="paragraph" form="short">málsgr.</term>
     <term name="part" form="short">hl.</term>
     <term name="section" form="short">hl.</term>
     <term name="sub verbo" form="short">
@@ -190,12 +171,12 @@
       <multiple>s.vv.</multiple>
     </term>
     <term name="verse" form="short">
-      <single>er.</single>
-      <multiple>er.</multiple>
+      <single>v.</single>
+      <multiple>v.</multiple>
     </term>
     <term name="volume" form="short">
-      <single>b.</single>
-      <multiple>b.</multiple>
+      <single>bindi</single>
+      <multiple>bindi</multiple>
     </term>
 
     <!-- SYMBOL LOCATOR FORMS -->
@@ -213,13 +194,21 @@
       <single>höfundur</single>
       <multiple>höfundar</multiple>
     </term>
+    <term name="director">
+      <single>director</single>
+      <multiple>directors</multiple>
+    </term>
     <term name="editor">
       <single>ritstjóri</single>
       <multiple>ritstjórar</multiple>
     </term>
     <term name="editorial-director">
-      <single>útgáfustjóri</single>
-      <multiple>útgáfustjórar</multiple>
+      <single>ritstjóri</single>
+      <multiple>ritstjórar</multiple>
+    </term>
+    <term name="illustrator">
+      <single>illustrator</single>
+      <multiple>illustrators</multiple>
     </term>
     <term name="translator">
       <single>þýðandi</single>
@@ -235,13 +224,21 @@
       <single>höf.</single>
       <multiple>höf.</multiple>
     </term>
+    <term name="director" form="short">
+      <single>dir.</single>
+      <multiple>dirs.</multiple>
+    </term>
     <term name="editor" form="short">
       <single>ritstj.</single>
       <multiple>ritstj.</multiple>
     </term>
     <term name="editorial-director" form="short">
-      <single>útgstj.</single>
-      <multiple>útgstj.</multiple>
+      <single>ritstj.</single>
+      <multiple>ritstj.</multiple>
+    </term>
+    <term name="illustrator" form="short">
+      <single>ill.</single>
+      <multiple>ills.</multiple>
     </term>
     <term name="translator" form="short">
       <single>þýð.</single>
@@ -253,19 +250,24 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
-    <term name="editor" form="verb">ritstýrði</term>
-    <term name="editorial-director" form="verb">stýrði útgáfu</term>
-    <term name="translator" form="verb">þýddi</term>
-    <term name="editortranslator" form="verb">ritstýrði og þýddi</term>
-    <term name="recipient" form="verb">til</term>
+    <term name="director" form="verb">directed by</term>
+    <term name="editor" form="verb">ritstjóri</term>
+    <term name="editorial-director" form="verb">ritstjóri</term>
+    <term name="illustrator" form="verb">illustrated by</term>
     <term name="interviewer" form="verb">viðtal tók</term>
+    <term name="recipient" form="verb">til</term>
+    <term name="reviewed-author" form="verb">by</term>
+    <term name="translator" form="verb">þýddi</term>
+    <term name="editortranslator" form="verb">ritstjóri og þýðandi</term>
 
     <!-- SHORT VERB ROLE FORMS -->
-    <term name="container-author" form="verb-short">e.</term>
-    <term name="editor" form="verb-short">rst.</term>
-    <term name="editorial-director" form="verb-short">útgst.</term>
-    <term name="translator" form="verb-short">þ.</term>
-    <term name="editortranslator" form="verb-short">rst. og þ.</term>
+    <term name="container-author" form="verb-short">eftir</term>
+    <term name="director" form="verb-short">dir.</term>
+    <term name="editor" form="verb-short">ritst.</term>
+    <term name="editorial-director" form="verb-short">ritst.</term>
+    <term name="illustrator" form="verb-short">illus.</term>
+    <term name="translator" form="verb-short">þýð.</term>
+    <term name="editortranslator" form="verb-short">ritst. og þýð.</term>
 
     <!-- LONG MONTH FORMS -->
     <term name="month-01">janúar</term>

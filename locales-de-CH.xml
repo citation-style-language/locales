@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="de-DE">
+  <info>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2012-07-04T23:31:02+00:00</updated>
+  </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
     <date-part name="day" suffix=". "/>
@@ -18,6 +22,7 @@
     <term name="anonymous">ohne Autor</term>
     <term name="anonymous" form="short">o. A.</term>
     <term name="at">auf</term>
+    <term name="available at">available at</term>
     <term name="by">von</term>
     <term name="circa">circa</term>
     <term name="circa" form="short">ca.</term>
@@ -49,22 +54,22 @@
       <multiple>Ref.</multiple>
     </term>
     <term name="retrieved">abgerufen</term>
+    <term name="scale">scale</term>
+    <term name="version">version</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
     <term name="ad">n. Chr.</term>
     <term name="bc">v. Chr.</term>
 
-    <!-- QUOTES -->
+    <!-- PUNCTUATION -->
     <term name="open-quote">„</term>
     <term name="close-quote">“</term>
     <term name="open-inner-quote">‚</term>
     <term name="close-inner-quote">‘</term>
+    <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
-    <term name="ordinal-01">.</term>
-    <term name="ordinal-02">.</term>
-    <term name="ordinal-03">.</term>
-    <term name="ordinal-04">.</term>
+    <term name="ordinal">.</term>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">erster</term>
@@ -77,32 +82,6 @@
     <term name="long-ordinal-08">achter</term>
     <term name="long-ordinal-09">neunter</term>
     <term name="long-ordinal-10">zehnter</term>
-
-    <!-- CATEGORIES -->
-    <term name="anthropology">Anthropologie</term>
-    <term name="astronomy">Astronomie</term>
-    <term name="biology">Biologie</term>
-    <term name="botany">Botanik</term>
-    <term name="chemistry">Chemie</term>
-    <term name="engineering">Ingenieurswissenschaften</term>
-    <term name="generic-base">generischer Stil</term>
-    <term name="geography">Geographie</term>
-    <term name="geology">Geologie</term>
-    <term name="history">Geschichte</term>
-    <term name="humanities">Geisteswissenschaften</term>
-    <term name="linguistics">Linguistik</term>
-    <term name="literature">Literatur</term>
-    <term name="math">Mathematik</term>
-    <term name="medicine">Medizin</term>
-    <term name="philosophy">Philosophie</term>
-    <term name="physics">Physik</term>
-    <term name="psychology">Psychologie</term>
-    <term name="sociology">Soziologie</term>
-    <term name="science">Naturwissenschaften</term>
-    <term name="political_science">Politikwissenschaft</term>
-    <term name="social_science">Sozialwissenschaften</term>
-    <term name="theology">Theologie</term>
-    <term name="zoology">Zoologie</term>
 
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
@@ -177,6 +156,8 @@
     <term name="figure" form="short">Abb.</term>
     <term name="folio" form="short">Fol.</term>
     <term name="issue" form="short">Nr.</term>
+    <term name="line" form="short">l.</term>
+    <term name="note" form="short">n.</term>
     <term name="opus" form="short">op.</term>
     <term name="page" form="short">
       <single>S.</single>
@@ -213,6 +194,10 @@
       <single/>
       <multiple/>
     </term>
+    <term name="director">
+      <single>director</single>
+      <multiple>directors</multiple>
+    </term>
     <term name="editor">
       <single>Herausgeber</single>
       <multiple>Herausgeber</multiple>
@@ -220,6 +205,10 @@
     <term name="editorial-director">
       <single>Herausgeber</single>
       <multiple>Herausgeber</multiple>
+    </term>
+    <term name="illustrator">
+      <single>illustrator</single>
+      <multiple>illustrators</multiple>
     </term>
     <term name="translator">
       <single>Übersetzer</single>
@@ -235,6 +224,10 @@
       <single/>
       <multiple/>
     </term>
+    <term name="director" form="short">
+      <single>dir.</single>
+      <multiple>dirs.</multiple>
+    </term>
     <term name="editor" form="short">
       <single>Hrsg.</single>
       <multiple>Hrsg.</multiple>
@@ -242,6 +235,10 @@
     <term name="editorial-director" form="short">
       <single>Hrsg.</single>
       <multiple>Hrsg.</multiple>
+    </term>
+    <term name="illustrator" form="short">
+      <single>ill.</single>
+      <multiple>ills.</multiple>
     </term>
     <term name="translator" form="short">
       <single>Übers.</single>
@@ -253,17 +250,22 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
+    <term name="director" form="verb">directed by</term>
     <term name="editor" form="verb">herausgegeben von</term>
     <term name="editorial-director" form="verb">herausgegeben von</term>
+    <term name="illustrator" form="verb">illustrated by</term>
+    <term name="interviewer" form="verb">interviewt von</term>
+    <term name="recipient" form="verb">an</term>
+    <term name="reviewed-author" form="verb">by</term>
     <term name="translator" form="verb">übersetzt von</term>
     <term name="editortranslator" form="verb">herausgegeben und übersetzt von</term>
-    <term name="recipient" form="verb">an</term>
-    <term name="interviewer" form="verb">interviewt von</term>
 
     <!-- SHORT VERB ROLE FORMS -->
     <term name="container-author" form="verb-short">von</term>
+    <term name="director" form="verb-short">dir.</term>
     <term name="editor" form="verb-short">hg. von</term>
     <term name="editorial-director" form="verb-short">hg. von</term>
+    <term name="illustrator" form="verb-short">illus.</term>
     <term name="translator" form="verb-short">übers. von</term>
     <term name="editortranslator" form="verb-short">hg. &amp; übers. von</term>
 

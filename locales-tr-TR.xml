@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="tr-TR">
+  <info>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2012-07-04T23:31:02+00:00</updated>
+  </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
     <date-part name="day" form="numeric-leading-zeros" suffix=" "/>
@@ -18,26 +22,27 @@
     <term name="anonymous">anonim</term>
     <term name="anonymous" form="short">anonim</term>
     <term name="at">de</term>
-    <term name="by">tarafından</term>
-    <term name="circa">tahmini</term>
+    <term name="available at">available at</term>
+    <term name="by">by</term>
+    <term name="circa">circa</term>
     <term name="circa" form="short">c.</term>
     <term name="cited">kaynak</term>
     <term name="edition">
-      <single>basım</single>
-      <multiple>basım</multiple>
+      <single>baskı</single>
+      <multiple>baskı</multiple>
     </term>
-    <term name="edition" form="short">bs.</term>
+    <term name="edition" form="short">ed</term>
     <term name="et-al">ve diğerleri</term>
     <term name="forthcoming">gelecek</term>
     <term name="from">adresinden erişildi</term>
-    <term name="ibid">a.e.</term>
+    <term name="ibid">ibid.</term>
     <term name="in">içinde</term>
     <term name="in press">basımda</term>
     <term name="internet">internet</term>
     <term name="interview">kişisel iletişim</term>
     <term name="letter">mektup</term>
     <term name="no date">tarih yok</term>
-    <term name="no date" form="short">t.y.</term>
+    <term name="no date" form="short">y.y.</term>
     <term name="online">çevrimiçi</term>
     <term name="presented at">sunulan</term>
     <term name="reference">
@@ -49,23 +54,22 @@
       <multiple>refs.</multiple>
     </term>
     <term name="retrieved">tarihinde</term>
+    <term name="scale">scale</term>
+    <term name="version">version</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
     <term name="ad">M.S</term>
     <term name="bc">M.Ö.</term>
 
-    <!-- QUOTES -->
-    <!-- Source: http://en.wikipedia.org/wiki/Non-English_usage_of_quotation_marks -->
+    <!-- PUNCTUATION -->
     <term name="open-quote">«</term>
     <term name="close-quote">»</term>
     <term name="open-inner-quote">‹</term>
     <term name="close-inner-quote">›</term>
+    <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
-    <term name="ordinal-01">.</term>
-    <term name="ordinal-02">.</term>
-    <term name="ordinal-03">.</term>
-    <term name="ordinal-04">.</term>
+    <term name="ordinal">.</term>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">birinci</term>
@@ -78,32 +82,6 @@
     <term name="long-ordinal-08">sekizinci</term>
     <term name="long-ordinal-09">dokuzuncu</term>
     <term name="long-ordinal-10">onuncu</term>
-
-    <!-- CATEGORIES -->
-    <term name="anthropology">antropoloji</term>
-    <term name="astronomy">astronomi</term>
-    <term name="biology">biyoloji</term>
-    <term name="botany">botanik</term>
-    <term name="chemistry">kimya</term>
-    <term name="engineering">mühendislik</term>
-    <term name="generic-base">generic-base</term>
-    <term name="geography">coğrafya</term>
-    <term name="geology">jeoloji</term>
-    <term name="history">tarih</term>
-    <term name="humanities">beşeri bilimler</term>
-    <term name="linguistics">dilbilim</term>
-    <term name="literature">edebiyat</term>
-    <term name="math">matematik</term>
-    <term name="medicine">tıp</term>
-    <term name="philosophy">felsefe</term>
-    <term name="physics">fizik</term>
-    <term name="psychology">pisikoloji</term>
-    <term name="sociology">sosyoloji</term>
-    <term name="science">bilim</term>
-    <term name="political_science">siyaset bilimi</term>
-    <term name="social_science">sosyal bilimler</term>
-    <term name="theology">din bilimi</term>
-    <term name="zoology">zooloji</term>
 
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
@@ -123,8 +101,8 @@
       <multiple>şekiller</multiple>
     </term>
     <term name="folio">
-      <single>yaprak</single>
-      <multipleyapraklar</multiple>
+      <single>folyo</single>
+      <multiple>folyo</multiple>
     </term>
     <term name="issue">
       <single>sayı</single>
@@ -140,7 +118,7 @@
     </term>
     <term name="opus">
       <single>opus</single>
-      <multiple>opus</multiple>
+      <multiple>opera</multiple>
     </term>
     <term name="page">
       <single>sayfa</single>
@@ -172,20 +150,22 @@
     </term>
 
     <!-- SHORT LOCATOR FORMS -->
-    <term name="book" form="short">kit.</term>
-    <term name="chapter" form="short">böl.</term>
-    <term name="column" form="short">süt.</term>
-    <term name="figure" form="short">şkl.</term>
-    <term name="folio" form="short">y</term>
+    <term name="book" form="short">kit</term>
+    <term name="chapter" form="short">böl</term>
+    <term name="column" form="short">süt</term>
+    <term name="figure" form="short">şek</term>
+    <term name="folio" form="short">f</term>
     <term name="issue" form="short">sayı</term>
-    <term name="opus" form="short">a.g.e</term>
+    <term name="line" form="short">l.</term>
+    <term name="note" form="short">n.</term>
+    <term name="opus" form="short">op</term>
     <term name="page" form="short">
-      <single>s.</single>
-      <multiple>ss.</multiple>
+      <single>s</single>
+      <multiple>ss</multiple>
     </term>
-    <term name="paragraph" form="short">par.</term>
-    <term name="part" form="short">kıs.</term>
-    <term name="section" form="short">böl.</term>
+    <term name="paragraph" form="short">par</term>
+    <term name="part" form="short">kıs</term>
+    <term name="section" form="short">böl</term>
     <term name="sub verbo" form="short">
       <single>s.v.</single>
       <multiple>s.vv.</multiple>
@@ -195,8 +175,8 @@
       <multiple>vv</multiple>
     </term>
     <term name="volume" form="short">
-      <single>c.</single>
-      <multiple>c.</multiple>
+      <single>c</single>
+      <multiple>c</multiple>
     </term>
 
     <!-- SYMBOL LOCATOR FORMS -->
@@ -214,6 +194,10 @@
       <single/>
       <multiple/>
     </term>
+    <term name="director">
+      <single>director</single>
+      <multiple>directors</multiple>
+    </term>
     <term name="editor">
       <single>editör</single>
       <multiple>editörler</multiple>
@@ -221,6 +205,10 @@
     <term name="editorial-director">
       <single>editör</single>
       <multiple>editör</multiple>
+    </term>
+    <term name="illustrator">
+      <single>illustrator</single>
+      <multiple>illustrators</multiple>
     </term>
     <term name="translator">
       <single>çeviren</single>
@@ -236,13 +224,21 @@
       <single/>
       <multiple/>
     </term>
+    <term name="director" form="short">
+      <single>dir.</single>
+      <multiple>dirs.</multiple>
+    </term>
     <term name="editor" form="short">
-      <single>ed.</single>
-      <multiple>ed.</multiple>
+      <single>ed</single>
+      <multiple>ed</multiple>
     </term>
     <term name="editorial-director" form="short">
       <single>ed.</single>
       <multiple>ed.</multiple>
+    </term>
+    <term name="illustrator" form="short">
+      <single>ill.</single>
+      <multiple>ills.</multiple>
     </term>
     <term name="translator" form="short">
       <single>çev.</single>
@@ -254,17 +250,22 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
+    <term name="director" form="verb">directed by</term>
     <term name="editor" form="verb">editör</term>
     <term name="editorial-director" form="verb">düzenleyen</term>
-    <term name="translator" form="verb">çeviren</term>
-    <term name="editortranslator" form="verb">düzenleyen &amp; çeviren</term>
-    <term name="recipient" form="verb">to</term>
+    <term name="illustrator" form="verb">illustrated by</term>
     <term name="interviewer" form="verb">Röportaj yapan</term>
+    <term name="recipient" form="verb">to</term>
+    <term name="reviewed-author" form="verb">by</term>
+    <term name="translator" form="verb">çeviren</term>
+    <term name="editortranslator" form="verb">düzenleyen &amp; çeviren by</term>
 
     <!-- SHORT VERB ROLE FORMS -->
-    <term name="container-author" form="verb-short"> </term>
+    <term name="container-author" form="verb-short"/>
+    <term name="director" form="verb-short">dir.</term>
     <term name="editor" form="verb-short">ed.</term>
     <term name="editorial-director" form="verb-short">ed.</term>
+    <term name="illustrator" form="verb-short">illus.</term>
     <term name="translator" form="verb-short">çev.</term>
     <term name="editortranslator" form="verb-short">ed. &amp; çev.</term>
 

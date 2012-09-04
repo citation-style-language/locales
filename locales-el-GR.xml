@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="el-GR">
+  <info>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2012-07-04T23:31:02+00:00</updated>
+  </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
     <date-part name="day" suffix=" "/>
@@ -18,6 +22,7 @@
     <term name="anonymous">ανώνυμο</term>
     <term name="anonymous" form="short">ανών.</term>
     <term name="at">εφ.</term>
+    <term name="available at">available at</term>
     <term name="by">από</term>
     <term name="circa">περίπου</term>
     <term name="circa" form="short">περ.</term>
@@ -49,24 +54,22 @@
       <multiple>παρ.</multiple>
     </term>
     <term name="retrieved">ανακτήθηκε</term>
+    <term name="scale">scale</term>
+    <term name="version">version</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
     <term name="ad">μ.Χ.</term>
     <term name="bc">π.Χ.</term>
 
-    <!-- QUOTES -->
-    <!-- http://en.wikipedia.org/wiki/Non-English_usage_of_quotation_marks differs,
-           but the characters below are directly from a Greek-speaking style author -->
+    <!-- PUNCTUATION -->
     <term name="open-quote">‘</term>
     <term name="close-quote">’</term>
     <term name="open-inner-quote">'</term>
     <term name="close-inner-quote">'</term>
+    <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
-    <term name="ordinal-01">ος</term>
-    <term name="ordinal-02">ος</term>
-    <term name="ordinal-03">ος</term>
-    <term name="ordinal-04">ος</term>
+    <term name="ordinal">ος</term>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">πρώτος</term>
@@ -79,31 +82,6 @@
     <term name="long-ordinal-08">όγδοος</term>
     <term name="long-ordinal-09">ένατος</term>
     <term name="long-ordinal-10">δέκατος</term>
-
-    <!-- CATEGORIES -->
-    <term name="anthropology">ανθρωπολογία</term>
-    <term name="astronomy">αστρονομία</term>
-    <term name="biology">βιολογία</term>
-    <term name="botany">βοτανική</term>
-    <term name="chemistry">χημεία</term>
-    <term name="engineering">μηχανική</term>
-    <term name="generic-base">γενική βιβλιογραφία</term>
-    <term name="geography">γεωγραφία</term>
-    <term name="geology">γεωλογία</term>
-    <term name="history">ιστορία</term>
-    <term name="humanities">ανθρωπιστικές σπουδές</term>
-    <term name="literature">λογοτεχνία</term>
-    <term name="math">μαθηματικά</term>
-    <term name="medicine">ιατρική</term>
-    <term name="philosophy">φιλοσοφία</term>
-    <term name="physics">φυσική</term>
-    <term name="psychology">ψυχολογία</term>
-    <term name="sociology">κοινωνιολογία</term>
-    <term name="science">θετικές επιστήμες</term>
-    <term name="political_science">πολιτικές επιστήμες</term>
-    <term name="social_science">κοινωνικές επιστήμες</term>
-    <term name="theology">θεολογία</term>
-    <term name="zoology">ζωολογία</term>
 
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
@@ -178,6 +156,8 @@
     <term name="figure" form="short">εικ.</term>
     <term name="folio" form="short">φάκ</term>
     <term name="issue" form="short">τχ.</term>
+    <term name="line" form="short">l.</term>
+    <term name="note" form="short">n.</term>
     <term name="opus" form="short">έργ.</term>
     <term name="page" form="short">
       <single>σ</single>
@@ -214,6 +194,10 @@
       <single>συγγραφέας</single>
       <multiple>συγγραφείς</multiple>
     </term>
+    <term name="director">
+      <single>director</single>
+      <multiple>directors</multiple>
+    </term>
     <term name="editor">
       <single>επιμελητής</single>
       <multiple>επιμελητές</multiple>
@@ -221,6 +205,10 @@
     <term name="editorial-director">
       <single>διευθυντής σειράς</single>
       <multiple>διευθυντές σειράς</multiple>
+    </term>
+    <term name="illustrator">
+      <single>illustrator</single>
+      <multiple>illustrators</multiple>
     </term>
     <term name="translator">
       <single>μεταφραστής</single>
@@ -236,6 +224,10 @@
       <single>συγγρ.</single>
       <multiple>συγγρ.</multiple>
     </term>
+    <term name="director" form="short">
+      <single>dir.</single>
+      <multiple>dirs.</multiple>
+    </term>
     <term name="editor" form="short">
       <single>επιμ.</single>
       <multiple>επιμ.</multiple>
@@ -243,6 +235,10 @@
     <term name="editorial-director" form="short">
       <single>δ/ντής σειράς</single>
       <multiple>δ/ντές σειρας</multiple>
+    </term>
+    <term name="illustrator" form="short">
+      <single>ill.</single>
+      <multiple>ills.</multiple>
     </term>
     <term name="translator" form="short">
       <single>μτφ.</single>
@@ -254,17 +250,22 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
+    <term name="director" form="verb">directed by</term>
     <term name="editor" form="verb">επιμέλεια</term>
     <term name="editorial-director" form="verb">διεύθυνση σειράς</term>
+    <term name="illustrator" form="verb">illustrated by</term>
+    <term name="interviewer" form="verb">συνέντευξη</term>
+    <term name="recipient" form="verb">παραλήπτης</term>
+    <term name="reviewed-author" form="verb">by</term>
     <term name="translator" form="verb">μετάφραση</term>
     <term name="editortranslator" form="verb">μετάφραση και επιμέλεια</term>
-    <term name="recipient" form="verb">παραλήπτης</term>
-    <term name="interviewer" form="verb">συνέντευξη</term>
 
     <!-- SHORT VERB ROLE FORMS -->
     <term name="container-author" form="verb-short">στον συλλ. τόμο</term>
+    <term name="director" form="verb-short">dir.</term>
     <term name="editor" form="verb-short">επιμέλ.</term>
     <term name="editorial-director" form="verb-short">δ/νση σειράς</term>
+    <term name="illustrator" form="verb-short">illus.</term>
     <term name="translator" form="verb-short">μετάφρ.</term>
     <term name="editortranslator" form="verb-short">μετάφρ. και επιμέλ.</term>
 

@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="sl-SI">
+  <info>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2012-07-04T23:31:02+00:00</updated>
+  </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
     <date-part name="day" form="numeric-leading-zeros" suffix=". "/>
@@ -18,6 +22,7 @@
     <term name="anonymous">anonimni</term>
     <term name="anonymous" form="short">anon</term>
     <term name="at">pri</term>
+    <term name="available at">available at</term>
     <term name="by">by</term>
     <term name="circa">circa</term>
     <term name="circa" form="short">c.</term>
@@ -49,23 +54,28 @@
       <multiple>refs.</multiple>
     </term>
     <term name="retrieved">pridobljeno</term>
+    <term name="scale">scale</term>
+    <term name="version">version</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
     <term name="ad">AD</term>
     <term name="bc">BC</term>
 
-    <!-- QUOTES -->
-    <!-- Source: http://en.wikipedia.org/wiki/Non-English_usage_of_quotation_marks -->
+    <!-- PUNCTUATION -->
     <term name="open-quote">„</term>
     <term name="close-quote">“</term>
     <term name="open-inner-quote">‚</term>
     <term name="close-inner-quote">‘</term>
+    <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
+    <term name="ordinal">th</term>
     <term name="ordinal-01">st</term>
     <term name="ordinal-02">nd</term>
     <term name="ordinal-03">rd</term>
-    <term name="ordinal-04">th</term>
+    <term name="ordinal-11">th</term>
+    <term name="ordinal-12">th</term>
+    <term name="ordinal-13">th</term>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">first</term>
@@ -78,32 +88,6 @@
     <term name="long-ordinal-08">eighth</term>
     <term name="long-ordinal-09">ninth</term>
     <term name="long-ordinal-10">tenth</term>
-
-    <!-- CATEGORIES -->
-    <term name="anthropology">antropologija</term>
-    <term name="astronomy">astronomija</term>
-    <term name="biology">biologija</term>
-    <term name="botany">botanika</term>
-    <term name="chemistry">kemija</term>
-    <term name="engineering">strojništvo</term>
-    <term name="generic-base">splošno</term>
-    <term name="geography">geografija</term>
-    <term name="geology">geologija</term>
-    <term name="history">zgodovina</term>
-    <term name="humanities">humanistika</term>
-    <term name="linguistics">linguistics</term>
-    <term name="literature">literatura</term>
-    <term name="math">matematika</term>
-    <term name="medicine">medicina</term>
-    <term name="philosophy">filozofija</term>
-    <term name="physics">fizika</term>
-    <term name="psychology">psihologija</term>
-    <term name="sociology">sociologija</term>
-    <term name="science">znanost</term>
-    <term name="political_science">politologija</term>
-    <term name="social_science">družbene vede</term>
-    <term name="theology">teologija</term>
-    <term name="zoology">zoologija</term>
 
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
@@ -178,6 +162,8 @@
     <term name="figure" form="short">sl</term>
     <term name="folio" form="short">f</term>
     <term name="issue" form="short">št</term>
+    <term name="line" form="short">l.</term>
+    <term name="note" form="short">n.</term>
     <term name="opus" form="short">op</term>
     <term name="page" form="short">
       <single>str</single>
@@ -214,6 +200,10 @@
       <single/>
       <multiple/>
     </term>
+    <term name="director">
+      <single>director</single>
+      <multiple>directors</multiple>
+    </term>
     <term name="editor">
       <single>urednik</single>
       <multiple>uredniki</multiple>
@@ -221,6 +211,10 @@
     <term name="editorial-director">
       <single>editor</single>
       <multiple>editors</multiple>
+    </term>
+    <term name="illustrator">
+      <single>illustrator</single>
+      <multiple>illustrators</multiple>
     </term>
     <term name="translator">
       <single>prevajalec</single>
@@ -236,6 +230,10 @@
       <single/>
       <multiple/>
     </term>
+    <term name="director" form="short">
+      <single>dir.</single>
+      <multiple>dirs.</multiple>
+    </term>
     <term name="editor" form="short">
       <single>ur</single>
       <multiple>ur</multiple>
@@ -243,6 +241,10 @@
     <term name="editorial-director" form="short">
       <single>ed.</single>
       <multiple>eds.</multiple>
+    </term>
+    <term name="illustrator" form="short">
+      <single>ill.</single>
+      <multiple>ills.</multiple>
     </term>
     <term name="translator" form="short">
       <single>prev</single>
@@ -254,17 +256,22 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
+    <term name="director" form="verb">directed by</term>
     <term name="editor" form="verb">uredil</term>
     <term name="editorial-director" form="verb">edited by</term>
+    <term name="illustrator" form="verb">illustrated by</term>
+    <term name="interviewer" form="verb">intervjuval</term>
+    <term name="recipient" form="verb">za</term>
+    <term name="reviewed-author" form="verb">by</term>
     <term name="translator" form="verb">prevedel</term>
     <term name="editortranslator" form="verb">edited &amp; translated by</term>
-    <term name="recipient" form="verb">za</term>
-    <term name="interviewer" form="verb">intervjuval</term>
 
     <!-- SHORT VERB ROLE FORMS -->
     <term name="container-author" form="verb-short">by</term>
+    <term name="director" form="verb-short">dir.</term>
     <term name="editor" form="verb-short">ur</term>
     <term name="editorial-director" form="verb-short">ed.</term>
+    <term name="illustrator" form="verb-short">illus.</term>
     <term name="translator" form="verb-short">prev</term>
     <term name="editortranslator" form="verb-short">ed. &amp; trans. by</term>
 

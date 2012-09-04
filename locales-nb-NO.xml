@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="nb-NO">
+  <info>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2012-07-04T23:31:02+00:00</updated>
+  </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
     <date-part name="day" suffix=". "/>
@@ -18,6 +22,7 @@
     <term name="anonymous">anonym</term>
     <term name="anonymous" form="short">anon.</term>
     <term name="at">på</term>
+    <term name="available at">available at</term>
     <term name="by">av</term>
     <term name="circa">circa</term>
     <term name="circa" form="short">ca.</term>
@@ -49,22 +54,22 @@
       <multiple>refr.</multiple>
     </term>
     <term name="retrieved">hentet</term>
+    <term name="scale">scale</term>
+    <term name="version">version</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
     <term name="ad">f.Kr</term>
     <term name="bc">e.Kr</term>
 
-    <!-- QUOTES -->
+    <!-- PUNCTUATION -->
     <term name="open-quote">«</term>
     <term name="close-quote">»</term>
     <term name="open-inner-quote">‘</term>
     <term name="close-inner-quote">’</term>
+    <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
-    <term name="ordinal-01">.</term>
-    <term name="ordinal-02">.</term>
-    <term name="ordinal-03">.</term>
-    <term name="ordinal-04">.</term>
+    <term name="ordinal">.</term>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">første</term>
@@ -77,32 +82,6 @@
     <term name="long-ordinal-08">åttende</term>
     <term name="long-ordinal-09">niende</term>
     <term name="long-ordinal-10">tiende</term>
-
-    <!-- CATEGORIES -->
-    <term name="anthropology">antropologi</term>
-    <term name="astronomy">astronomi</term>
-    <term name="biology">biologi</term>
-    <term name="botany">botanikk</term>
-    <term name="chemistry">kjemi</term>
-    <term name="engineering">ingeniørvitenskap</term>
-    <term name="generic-base">generell</term>
-    <term name="geography">geografi</term>
-    <term name="geology">geologi</term>
-    <term name="history">historie</term>
-    <term name="humanities">humanistiske fag</term>
-    <term name="linguistics">lingvistikk</term>
-    <term name="literature">litteratur</term>
-    <term name="math">mattematikk</term>
-    <term name="medicine">medisin</term>
-    <term name="philosophy">filosofi</term>
-    <term name="physics">fysikk</term>
-    <term name="psychology">fysiologi</term>
-    <term name="sociology">sosiologi</term>
-    <term name="science">naturvitenskap</term>
-    <term name="political_science">statsvitenskap</term>
-    <term name="social_science">samfunnsvitenskap</term>
-    <term name="theology">teologi</term>
-    <term name="zoology">zoologi</term>
 
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
@@ -177,6 +156,8 @@
     <term name="figure" form="short">fig.</term>
     <term name="folio" form="short">fol.</term>
     <term name="issue" form="short">nr.</term>
+    <term name="line" form="short">l.</term>
+    <term name="note" form="short">n.</term>
     <term name="opus" form="short">op.</term>
     <term name="page" form="short">
       <single>s.</single>
@@ -213,6 +194,10 @@
       <single/>
       <multiple/>
     </term>
+    <term name="director">
+      <single>director</single>
+      <multiple>directors</multiple>
+    </term>
     <term name="editor">
       <single>redaktør</single>
       <multiple>redaktører</multiple>
@@ -220,6 +205,10 @@
     <term name="editorial-director">
       <single>redaktør</single>
       <multiple>redaktører</multiple>
+    </term>
+    <term name="illustrator">
+      <single>illustrator</single>
+      <multiple>illustrators</multiple>
     </term>
     <term name="translator">
       <single>oversetter</single>
@@ -235,6 +224,10 @@
       <single/>
       <multiple/>
     </term>
+    <term name="director" form="short">
+      <single>dir.</single>
+      <multiple>dirs.</multiple>
+    </term>
     <term name="editor" form="short">
       <single>red.</single>
       <multiple>red.</multiple>
@@ -242,6 +235,10 @@
     <term name="editorial-director" form="short">
       <single>red.</single>
       <multiple>red.</multiple>
+    </term>
+    <term name="illustrator" form="short">
+      <single>ill.</single>
+      <multiple>ills.</multiple>
     </term>
     <term name="translator" form="short">
       <single>overs.</single>
@@ -253,17 +250,22 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
+    <term name="director" form="verb">directed by</term>
     <term name="editor" form="verb">redigert av</term>
     <term name="editorial-director" form="verb">redigert av</term>
+    <term name="illustrator" form="verb">illustrated by</term>
+    <term name="interviewer" form="verb">intervjuet av</term>
+    <term name="recipient" form="verb">mottatt av</term>
+    <term name="reviewed-author" form="verb">by</term>
     <term name="translator" form="verb">oversatt av</term>
     <term name="editortranslator" form="verb">redigert &amp; oversatt av</term>
-    <term name="recipient" form="verb">mottatt av</term>
-    <term name="interviewer" form="verb">intervjuet av</term>
 
     <!-- SHORT VERB ROLE FORMS -->
     <term name="container-author" form="verb-short">av</term>
+    <term name="director" form="verb-short">dir.</term>
     <term name="editor" form="verb-short">red.</term>
     <term name="editorial-director" form="verb-short">red.</term>
+    <term name="illustrator" form="verb-short">illus.</term>
     <term name="translator" form="verb-short">overs.</term>
     <term name="editortranslator" form="verb-short">red. &amp; overs. av</term>
 

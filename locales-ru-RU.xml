@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="ru-RU">
-  <!-- Translation by Alexei Kouprianov alexei.kouprianov@gmail.com -->
+  <info>
+    <translator>
+      <name>Alexei Kouprianov</name>
+      <email>alexei.kouprianov@gmail.com</email>
+    </translator>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2012-07-04T23:31:02+00:00</updated>
+  </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
     <date-part name="day" suffix=" "/>
@@ -19,6 +26,7 @@
     <term name="anonymous">аноним</term>
     <term name="anonymous" form="short">анон.</term>
     <term name="at">на</term>
+    <term name="available at">available at</term>
     <term name="by"/>
     <term name="circa">circa</term>
     <term name="circa" form="short">ca.</term>
@@ -51,22 +59,22 @@
       <multiple>refs.</multiple>
     </term>
     <term name="retrieved">извлечено</term>
+    <term name="scale">scale</term>
+    <term name="version">version</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
     <term name="ad">н. э.</term>
     <term name="bc">до н. э.</term>
 
-    <!-- QUOTES -->
+    <!-- PUNCTUATION -->
     <term name="open-quote">«</term>
     <term name="close-quote">»</term>
     <term name="open-inner-quote">„</term>
     <term name="close-inner-quote">“</term>
+    <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
-    <term name="ordinal-01">й</term>
-    <term name="ordinal-02">й</term>
-    <term name="ordinal-03">й</term>
-    <term name="ordinal-04">й</term>
+    <term name="ordinal">й</term>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">первый</term>
@@ -79,32 +87,6 @@
     <term name="long-ordinal-08">восьмой</term>
     <term name="long-ordinal-09">девятый</term>
     <term name="long-ordinal-10">десятый</term>
-
-    <!-- CATEGORIES -->
-    <term name="anthropology">антропология</term>
-    <term name="astronomy">астрономия</term>
-    <term name="biology">биология</term>
-    <term name="botany">ботаника</term>
-    <term name="chemistry">химия</term>
-    <term name="engineering">инженерное дело</term>
-    <term name="generic-base">общий</term>
-    <term name="geography">география</term>
-    <term name="geology">геология</term>
-    <term name="history">история</term>
-    <term name="humanities">гуманитарные науки</term>
-    <term name="linguistics">лингвистика</term>
-    <term name="literature">литературоведение</term>
-    <term name="math">математика</term>
-    <term name="medicine">медицина</term>
-    <term name="philosophy">философия</term>
-    <term name="physics">физика</term>
-    <term name="psychology">психология</term>
-    <term name="sociology">социология</term>
-    <term name="science">естественные науки</term>
-    <term name="political_science">политические науки</term>
-    <term name="social_science">социальные науки</term>
-    <term name="theology">теология</term>
-    <term name="zoology">зоология</term>
 
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
@@ -179,6 +161,8 @@
     <term name="figure" form="short">рис.</term>
     <term name="folio" form="short">л.</term>
     <term name="issue" form="short">№</term>
+    <term name="line" form="short">l.</term>
+    <term name="note" form="short">n.</term>
     <term name="opus" form="short">соч.</term>
     <term name="page" form="short">
       <single>с.</single>
@@ -215,6 +199,10 @@
       <single/>
       <multiple/>
     </term>
+    <term name="director">
+      <single>director</single>
+      <multiple>directors</multiple>
+    </term>
     <term name="editor">
       <single>редактор</single>
       <multiple>редакторы</multiple>
@@ -222,6 +210,10 @@
     <term name="editorial-director">
       <single>ответственный редактор</single>
       <multiple>ответственные редакторы</multiple>
+    </term>
+    <term name="illustrator">
+      <single>illustrator</single>
+      <multiple>illustrators</multiple>
     </term>
     <term name="translator">
       <single>переводчик</single>
@@ -237,6 +229,10 @@
       <single/>
       <multiple/>
     </term>
+    <term name="director" form="short">
+      <single>dir.</single>
+      <multiple>dirs.</multiple>
+    </term>
     <term name="editor" form="short">
       <single>ред.</single>
       <multiple>ред.</multiple>
@@ -244,6 +240,10 @@
     <term name="editorial-director" form="short">
       <single>отв. ред.</single>
       <multiple>отв. ред.</multiple>
+    </term>
+    <term name="illustrator" form="short">
+      <single>ill.</single>
+      <multiple>ills.</multiple>
     </term>
     <term name="translator" form="short">
       <single>перев.</single>
@@ -255,17 +255,22 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
+    <term name="director" form="verb">directed by</term>
     <term name="editor" form="verb">отредактировано</term>
     <term name="editorial-director" form="verb">отредактировано</term>
+    <term name="illustrator" form="verb">illustrated by</term>
+    <term name="interviewer" form="verb">интервью</term>
+    <term name="recipient" form="verb">к</term>
+    <term name="reviewed-author" form="verb">by</term>
     <term name="translator" form="verb">переведено</term>
     <term name="editortranslator" form="verb">отредактировано и переведено</term>
-    <term name="recipient" form="verb">к</term>
-    <term name="interviewer" form="verb">интервью</term>
 
     <!-- SHORT VERB ROLE FORMS -->
     <term name="container-author" form="verb-short"/>
+    <term name="director" form="verb-short">dir.</term>
     <term name="editor" form="verb-short">ред.</term>
     <term name="editorial-director" form="verb-short">отв. ред.</term>
+    <term name="illustrator" form="verb-short">illus.</term>
     <term name="translator" form="verb-short">перев.</term>
     <term name="editortranslator" form="verb-short">ред. и перев.</term>
 

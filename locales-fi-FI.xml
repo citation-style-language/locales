@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="fi-FI">
+  <info>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2012-07-04T23:31:02+00:00</updated>
+  </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
     <date-part name="day" suffix=". "/>
@@ -18,6 +22,7 @@
     <term name="anonymous">tuntematon</term>
     <term name="anonymous" form="short">tuntematon</term>
     <term name="at">osoitteessa</term>
+    <term name="available at">available at</term>
     <term name="by">tekijä</term>
     <term name="circa">noin</term>
     <term name="circa" form="short">n.</term>
@@ -49,22 +54,22 @@
       <multiple>viit.</multiple>
     </term>
     <term name="retrieved">noudettu</term>
+    <term name="scale">scale</term>
+    <term name="version">version</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
     <term name="ad">eaa.</term>
     <term name="bc">jaa.</term>
 
-    <!-- QUOTES -->
+    <!-- PUNCTUATION -->
     <term name="open-quote">”</term>
     <term name="close-quote">”</term>
     <term name="open-inner-quote">’</term>
     <term name="close-inner-quote">’</term>
+    <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
-    <term name="ordinal-01">.</term>
-    <term name="ordinal-02">.</term>
-    <term name="ordinal-03">.</term>
-    <term name="ordinal-04">.</term>
+    <term name="ordinal">.</term>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">ensimmäinen</term>
@@ -77,32 +82,6 @@
     <term name="long-ordinal-08">kahdeksas</term>
     <term name="long-ordinal-09">yhdeksäs</term>
     <term name="long-ordinal-10">kymmenes</term>
-
-    <!-- CATEGORIES -->
-    <term name="anthropology">antropologia</term>
-    <term name="astronomy">tähtitiede</term>
-    <term name="biology">biologia</term>
-    <term name="botany">kasvitiede</term>
-    <term name="chemistry">kemia</term>
-    <term name="engineering">tekniikka</term>
-    <term name="generic-base">yleinen</term>
-    <term name="geography">maantiede</term>
-    <term name="geology">geologia</term>
-    <term name="history">historia</term>
-    <term name="humanities">humanistiset tieteet</term>
-    <term name="linguistics">kielitiede</term>
-    <term name="literature">kirjallisuus</term>
-    <term name="math">matematiikka</term>
-    <term name="medicine">lääketiede</term>
-    <term name="philosophy">filosofia</term>
-    <term name="physics">fysiikka</term>
-    <term name="psychology">psykologia</term>
-    <term name="sociology">sosiologia</term>
-    <term name="science">luonnontieteet</term>
-    <term name="political_science">politiikan tutkimus</term>
-    <term name="social_science">yhteiskuntatieteet</term>
-    <term name="theology">teologia</term>
-    <term name="zoology">eläintiede</term>
 
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
@@ -177,6 +156,8 @@
     <term name="figure" form="short">kuv.</term>
     <term name="folio" form="short">fol.</term>
     <term name="issue" form="short">nro</term>
+    <term name="line" form="short">l.</term>
+    <term name="note" form="short">n.</term>
     <term name="opus" form="short">op.</term>
     <term name="page" form="short">
       <single>s.</single>
@@ -213,6 +194,10 @@
       <single/>
       <multiple/>
     </term>
+    <term name="director">
+      <single>director</single>
+      <multiple>directors</multiple>
+    </term>
     <term name="editor">
       <single>toimittaja</single>
       <multiple>toimittajat</multiple>
@@ -220,6 +205,10 @@
     <term name="editorial-director">
       <single>toimittaja</single>
       <multiple>toimittajat</multiple>
+    </term>
+    <term name="illustrator">
+      <single>illustrator</single>
+      <multiple>illustrators</multiple>
     </term>
     <term name="translator">
       <single>suomentaja</single>
@@ -235,6 +224,10 @@
       <single/>
       <multiple/>
     </term>
+    <term name="director" form="short">
+      <single>dir.</single>
+      <multiple>dirs.</multiple>
+    </term>
     <term name="editor" form="short">
       <single>toim.</single>
       <multiple>toim.</multiple>
@@ -242,6 +235,10 @@
     <term name="editorial-director" form="short">
       <single>toim.</single>
       <multiple>toim.</multiple>
+    </term>
+    <term name="illustrator" form="short">
+      <single>ill.</single>
+      <multiple>ills.</multiple>
     </term>
     <term name="translator" form="short">
       <single>suom.</single>
@@ -253,17 +250,22 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
+    <term name="director" form="verb">directed by</term>
     <term name="editor" form="verb">toimittanut</term>
     <term name="editorial-director" form="verb">toimittanut</term>
+    <term name="illustrator" form="verb">illustrated by</term>
+    <term name="interviewer" form="verb">haastatellut</term>
+    <term name="recipient" form="verb">vastaanottaja</term>
+    <term name="reviewed-author" form="verb">by</term>
     <term name="translator" form="verb">suomentanut</term>
     <term name="editortranslator" form="verb">toimittanut ja suomentanut</term>
-    <term name="recipient" form="verb">vastaanottaja</term>
-    <term name="interviewer" form="verb">haastatellut</term>
 
     <!-- SHORT VERB ROLE FORMS -->
-    <term name="container-author" form="verb-short"></term>
+    <term name="container-author" form="verb-short"/>
+    <term name="director" form="verb-short">dir.</term>
     <term name="editor" form="verb-short">toim.</term>
     <term name="editorial-director" form="verb-short">toim.</term>
+    <term name="illustrator" form="verb-short">illus.</term>
     <term name="translator" form="verb-short">suom.</term>
     <term name="editortranslator" form="verb-short">toim. ja suom.</term>
 

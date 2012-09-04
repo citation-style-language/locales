@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="nl-NL">
+  <info>
+    <translator>
+      <name>Rintze Zelle</name>
+      <uri>http://twitter.com/rintzezelle</uri>
+    </translator>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2012-07-04T23:31:02+00:00</updated>
+  </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
     <date-part name="day" suffix=" "/>
@@ -18,6 +26,7 @@
     <term name="anonymous">anoniem</term>
     <term name="anonymous" form="short">anon.</term>
     <term name="at">bij</term>
+    <term name="available at">available at</term>
     <term name="by">door</term>
     <term name="circa">circa</term>
     <term name="circa" form="short">c.</term>
@@ -49,22 +58,40 @@
       <multiple>refs.</multiple>
     </term>
     <term name="retrieved">verkregen</term>
+    <term name="scale">scale</term>
+    <term name="version">version</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
     <term name="ad">AD</term>
     <term name="bc">BC</term>
 
-    <!-- QUOTES -->
+    <!-- PUNCTUATION -->
     <term name="open-quote">“</term>
     <term name="close-quote">”</term>
     <term name="open-inner-quote">‘</term>
     <term name="close-inner-quote">’</term>
+    <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
-    <term name="ordinal-01">e</term>
-    <term name="ordinal-02">e</term>
-    <term name="ordinal-03">e</term>
-    <term name="ordinal-04">e</term>
+    <term name="ordinal">ste</term>
+    <term name="ordinal-00" match="whole-number">de</term>
+    <term name="ordinal-02" match="last-two-digits">de</term>
+    <term name="ordinal-03" match="last-two-digits">de</term>
+    <term name="ordinal-04" match="last-two-digits">de</term>
+    <term name="ordinal-05" match="last-two-digits">de</term>
+    <term name="ordinal-06" match="last-two-digits">de</term>
+    <term name="ordinal-07" match="last-two-digits">de</term>
+    <term name="ordinal-09" match="last-two-digits">de</term>
+    <term name="ordinal-10">de</term>
+    <term name="ordinal-11">de</term>
+    <term name="ordinal-12">de</term>
+    <term name="ordinal-13">de</term>
+    <term name="ordinal-14">de</term>
+    <term name="ordinal-15">de</term>
+    <term name="ordinal-16">de</term>
+    <term name="ordinal-17">de</term>
+    <term name="ordinal-18">de</term>
+    <term name="ordinal-19">de</term>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">eerste</term>
@@ -77,32 +104,6 @@
     <term name="long-ordinal-08">achtste</term>
     <term name="long-ordinal-09">negende</term>
     <term name="long-ordinal-10">tiende</term>
-
-    <!-- CATEGORIES -->
-    <term name="anthropology">anthropologie</term>
-    <term name="astronomy">astronomie</term>
-    <term name="biology">biologie</term>
-    <term name="botany">botanie</term>
-    <term name="chemistry">scheikunde</term>
-    <term name="engineering">techniek</term>
-    <term name="generic-base">generiek</term>
-    <term name="geography">geografie</term>
-    <term name="geology">geologie</term>
-    <term name="history">geschiedenis</term>
-    <term name="humanities">geesteswetenschappen</term>
-    <term name="linguistics">taalkunde</term>
-    <term name="literature">literatuur</term>
-    <term name="math">wiskunde</term>
-    <term name="medicine">medicijnen</term>
-    <term name="philosophy">filosofie</term>
-    <term name="physics">natuurkunde</term>
-    <term name="psychology">psychologie</term>
-    <term name="sociology">sociologie</term>
-    <term name="science">wetenschap</term>
-    <term name="political_science">politieke wetenschappen</term>
-    <term name="social_science">sociale wetenschappen</term>
-    <term name="theology">theologie</term>
-    <term name="zoology">zoologie</term>
 
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
@@ -177,6 +178,8 @@
     <term name="figure" form="short">fig.</term>
     <term name="folio" form="short">f.</term>
     <term name="issue" form="short">nr.</term>
+    <term name="line" form="short">l.</term>
+    <term name="note" form="short">n.</term>
     <term name="opus" form="short">op.</term>
     <term name="page" form="short">
       <single>p.</single>
@@ -213,6 +216,10 @@
       <single/>
       <multiple/>
     </term>
+    <term name="director">
+      <single>director</single>
+      <multiple>directors</multiple>
+    </term>
     <term name="editor">
       <single>redacteur</single>
       <multiple>redacteuren</multiple>
@@ -220,6 +227,10 @@
     <term name="editorial-director">
       <single>redacteur</single>
       <multiple>redacteuren</multiple>
+    </term>
+    <term name="illustrator">
+      <single>illustrator</single>
+      <multiple>illustrators</multiple>
     </term>
     <term name="translator">
       <single>vertaler</single>
@@ -235,6 +246,10 @@
       <single/>
       <multiple/>
     </term>
+    <term name="director" form="short">
+      <single>dir.</single>
+      <multiple>dirs.</multiple>
+    </term>
     <term name="editor" form="short">
       <single>red.</single>
       <multiple>red.</multiple>
@@ -242,6 +257,10 @@
     <term name="editorial-director" form="short">
       <single>red.</single>
       <multiple>red.</multiple>
+    </term>
+    <term name="illustrator" form="short">
+      <single>ill.</single>
+      <multiple>ills.</multiple>
     </term>
     <term name="translator" form="short">
       <single>vert.</single>
@@ -253,17 +272,22 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
+    <term name="director" form="verb">directed by</term>
     <term name="editor" form="verb">bewerkt door</term>
     <term name="editorial-director" form="verb">bewerkt door</term>
+    <term name="illustrator" form="verb">illustrated by</term>
+    <term name="interviewer" form="verb">geïnterviewd door</term>
+    <term name="recipient" form="verb">ontvangen door</term>
+    <term name="reviewed-author" form="verb">by</term>
     <term name="translator" form="verb">vertaald door</term>
     <term name="editortranslator" form="verb">bewerkt &amp; vertaald door</term>
-    <term name="recipient" form="verb">ontvangen door</term>
-    <term name="interviewer" form="verb">geïnterviewd door</term>
 
     <!-- SHORT VERB ROLE FORMS -->
     <term name="container-author" form="verb-short">door</term>
+    <term name="director" form="verb-short">dir.</term>
     <term name="editor" form="verb-short">bewerkt door</term>
     <term name="editorial-director" form="verb-short">bewerkt door</term>
+    <term name="illustrator" form="verb-short">illus.</term>
     <term name="translator" form="verb-short">vertaald door</term>
     <term name="editortranslator" form="verb-short">bewerkt &amp; vertaald door</term>
 

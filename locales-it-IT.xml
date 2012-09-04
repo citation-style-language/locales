@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="it-IT">
+  <info>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2012-07-04T23:31:02+00:00</updated>
+  </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
     <date-part name="day" suffix=" "/>
@@ -16,9 +20,10 @@
     <term name="and">e</term>
     <term name="and others">e altri</term>
     <term name="anonymous">anonimo</term>
-    <term name="anonymous" form="short">anon.</term>
+    <term name="anonymous" form="short">anon</term>
     <term name="at">a</term>
-    <term name="by">di</term>
+    <term name="available at">available at</term>
+    <term name="by">by</term>
     <term name="circa">circa</term>
     <term name="circa" form="short">c.</term>
     <term name="cited">citato</term>
@@ -26,7 +31,7 @@
       <single>edizione</single>
       <multiple>edizioni</multiple>
     </term>
-    <term name="edition" form="short">ed.</term>
+    <term name="edition" form="short">ed</term>
     <term name="et-al">et al.</term>
     <term name="forthcoming">futuro</term>
     <term name="from">da</term>
@@ -36,8 +41,8 @@
     <term name="internet">internet</term>
     <term name="interview">intervista</term>
     <term name="letter">lettera</term>
-    <term name="no date">senza data</term>
-    <term name="no date" form="short">s.d.</term>
+    <term name="no date">no date</term>
+    <term name="no date" form="short">S.d.</term>
     <term name="online">in linea</term>
     <term name="presented at">presentato al</term>
     <term name="reference">
@@ -49,61 +54,40 @@
       <multiple>refs.</multiple>
     </term>
     <term name="retrieved">recuperato</term>
+    <term name="scale">scale</term>
+    <term name="version">version</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
-    <term name="ad">d.C.</term>
-    <term name="bc">a.C.</term>
+    <term name="ad">AD</term>
+    <term name="bc">BC</term>
 
-    <!-- QUOTES -->
-    <!-- Source: http://en.wikipedia.org/wiki/Non-English_usage_of_quotation_marks -->
+    <!-- PUNCTUATION -->
     <term name="open-quote">«</term>
     <term name="close-quote">»</term>
-    <term name="open-inner-quote">“</term>
-    <term name="close-inner-quote">”</term>
+    <term name="open-inner-quote">‘</term>
+    <term name="close-inner-quote">’</term>
+    <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
-    <term name="ordinal-01">°</term>
-    <term name="ordinal-02">°</term>
-    <term name="ordinal-03">°</term>
-    <term name="ordinal-04">°</term>
+    <term name="ordinal">th</term>
+    <term name="ordinal-01">st</term>
+    <term name="ordinal-02">nd</term>
+    <term name="ordinal-03">rd</term>
+    <term name="ordinal-11">th</term>
+    <term name="ordinal-12">th</term>
+    <term name="ordinal-13">th</term>
 
     <!-- LONG ORDINALS -->
-    <term name="long-ordinal-01">prima</term>
-    <term name="long-ordinal-02">seconda</term>
-    <term name="long-ordinal-03">terza</term>
-    <term name="long-ordinal-04">quarta</term>
-    <term name="long-ordinal-05">quinta</term>
-    <term name="long-ordinal-06">sesta</term>
-    <term name="long-ordinal-07">settima</term>
-    <term name="long-ordinal-08">ottava</term>
-    <term name="long-ordinal-09">nona</term>
-    <term name="long-ordinal-10">decima</term>
-
-    <!-- CATEGORIES -->
-    <term name="anthropology">antropologia</term>
-    <term name="astronomy">astronomia</term>
-    <term name="biology">biologia</term>
-    <term name="botany">botanica</term>
-    <term name="chemistry">chimica</term>
-    <term name="engineering">ingegneria</term>
-    <term name="generic-base">generica</term>
-    <term name="geography">geografia</term>
-    <term name="geology">geologia</term>
-    <term name="history">storia</term>
-    <term name="humanities">discipline umanistiche</term>
-    <term name="linguistics">linguistics</term>
-    <term name="literature">letteratura</term>
-    <term name="math">matematica</term>
-    <term name="medicine">medicina</term>
-    <term name="philosophy">filosofia</term>
-    <term name="physics">fisica</term>
-    <term name="psychology">psicologia</term>
-    <term name="sociology">sociologia</term>
-    <term name="science">scienze</term>
-    <term name="political_science">scienze politiche</term>
-    <term name="social_science">sociologia</term>
-    <term name="theology">teologia</term>
-    <term name="zoology">zoologia</term>
+    <term name="long-ordinal-01">first</term>
+    <term name="long-ordinal-02">second</term>
+    <term name="long-ordinal-03">third</term>
+    <term name="long-ordinal-04">fourth</term>
+    <term name="long-ordinal-05">fifth</term>
+    <term name="long-ordinal-06">sixth</term>
+    <term name="long-ordinal-07">seventh</term>
+    <term name="long-ordinal-08">eighth</term>
+    <term name="long-ordinal-09">ninth</term>
+    <term name="long-ordinal-10">tenth</term>
 
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
@@ -172,31 +156,33 @@
     </term>
 
     <!-- SHORT LOCATOR FORMS -->
-    <term name="book" form="short">lib.</term>
-    <term name="chapter" form="short">cap.</term>
-    <term name="column" form="short">col.</term>
-    <term name="figure" form="short">fig.</term>
-    <term name="folio" form="short">fgl.</term>
-    <term name="issue" form="short">n.</term>
-    <term name="opus" form="short">op.</term>
+    <term name="book" form="short">lib</term>
+    <term name="chapter" form="short">cap</term>
+    <term name="column" form="short">col</term>
+    <term name="figure" form="short">fig</term>
+    <term name="folio" form="short">fgl</term>
+    <term name="issue" form="short">n°</term>
+    <term name="line" form="short">l.</term>
+    <term name="note" form="short">n.</term>
+    <term name="opus" form="short">op</term>
     <term name="page" form="short">
-      <single>pag.</single>
-      <multiple>pagg.</multiple>
+      <single>pag</single>
+      <multiple>pagg</multiple>
     </term>
-    <term name="paragraph" form="short">cpv.</term>
-    <term name="part" form="short">pt.</term>
-    <term name="section" form="short">par.</term>
+    <term name="paragraph" form="short">cpv</term>
+    <term name="part" form="short">pt</term>
+    <term name="section" form="short">par</term>
     <term name="sub verbo" form="short">
       <single>s.v.</single>
       <multiple>s.vv.</multiple>
     </term>
     <term name="verse" form="short">
-      <single>v.</single>
-      <multiple>vv.</multiple>
+      <single>v</single>
+      <multiple>vv</multiple>
     </term>
     <term name="volume" form="short">
-      <single>vol.</single>
-      <multiple>vol.</multiple>
+      <single>vol</single>
+      <multiple>vol</multiple>
     </term>
 
     <!-- SYMBOL LOCATOR FORMS -->
@@ -214,6 +200,10 @@
       <single/>
       <multiple/>
     </term>
+    <term name="director">
+      <single>director</single>
+      <multiple>directors</multiple>
+    </term>
     <term name="editor">
       <single>curatore</single>
       <multiple>curatori</multiple>
@@ -222,13 +212,17 @@
       <single>editor</single>
       <multiple>editors</multiple>
     </term>
+    <term name="illustrator">
+      <single>illustrator</single>
+      <multiple>illustrators</multiple>
+    </term>
     <term name="translator">
       <single>traduttore</single>
       <multiple>traduttori</multiple>
     </term>
     <term name="editortranslator">
-      <single>curatore e traduttore</single>
-      <multiple>curatori e tradutori</multiple>
+      <single>editor &amp; translator</single>
+      <multiple>editors &amp; translators</multiple>
     </term>
 
     <!-- SHORT ROLE FORMS -->
@@ -236,70 +230,83 @@
       <single/>
       <multiple/>
     </term>
+    <term name="director" form="short">
+      <single>dir.</single>
+      <multiple>dirs.</multiple>
+    </term>
     <term name="editor" form="short">
-      <single>a c. di</single>
-      <multiple>a c. di</multiple>
+      <single>cur</single>
+      <multiple>cur</multiple>
     </term>
     <term name="editorial-director" form="short">
       <single>ed.</single>
       <multiple>eds.</multiple>
     </term>
+    <term name="illustrator" form="short">
+      <single>ill.</single>
+      <multiple>ills.</multiple>
+    </term>
     <term name="translator" form="short">
-      <single>trad.</single>
-      <multiple>trad.</multiple>
+      <single>trad</single>
+      <multiple>trad</multiple>
     </term>
     <term name="editortranslator" form="short">
-      <single>a c. di e trad. da</single>
-      <multiple>a c. di e trad. da</multiple>
+      <single>ed. &amp; tran.</single>
+      <multiple>eds. &amp; trans.</multiple>
     </term>
 
     <!-- VERB ROLE FORMS -->
+    <term name="director" form="verb">directed by</term>
     <term name="editor" form="verb">a cura di</term>
     <term name="editorial-director" form="verb">edited by</term>
-    <term name="translator" form="verb">tradotto da</term>
-    <term name="editortranslator" form="verb">a cura di e tradotto da</term>
-    <term name="recipient" form="verb">a</term>
+    <term name="illustrator" form="verb">illustrated by</term>
     <term name="interviewer" form="verb">intervista di</term>
+    <term name="recipient" form="verb">a</term>
+    <term name="reviewed-author" form="verb">by</term>
+    <term name="translator" form="verb">tradotto da</term>
+    <term name="editortranslator" form="verb">edited &amp; translated by</term>
 
     <!-- SHORT VERB ROLE FORMS -->
-    <term name="container-author" form="verb-short">di</term>
-    <term name="editor" form="verb-short">a c. di</term>
+    <term name="container-author" form="verb-short">by</term>
+    <term name="director" form="verb-short">dir.</term>
+    <term name="editor" form="verb-short">cur. da</term>
     <term name="editorial-director" form="verb-short">ed.</term>
+    <term name="illustrator" form="verb-short">illus.</term>
     <term name="translator" form="verb-short">trad. da</term>
-    <term name="editortranslator" form="verb-short">a c. di e trad. da</term>
+    <term name="editortranslator" form="verb-short">ed. &amp; trans. by</term>
 
     <!-- LONG MONTH FORMS -->
-    <term name="month-01">gennaio</term>
-    <term name="month-02">febbraio</term>
-    <term name="month-03">marzo</term>
-    <term name="month-04">aprile</term>
-    <term name="month-05">maggio</term>
-    <term name="month-06">giugno</term>
-    <term name="month-07">luglio</term>
-    <term name="month-08">agosto</term>
-    <term name="month-09">settembre</term>
-    <term name="month-10">ottobre</term>
-    <term name="month-11">novembre</term>
-    <term name="month-12">dicembre</term>
+    <term name="month-01">Gennaio</term>
+    <term name="month-02">Febbraio</term>
+    <term name="month-03">Marzo</term>
+    <term name="month-04">Aprile</term>
+    <term name="month-05">Maggio</term>
+    <term name="month-06">Giugno</term>
+    <term name="month-07">Luglio</term>
+    <term name="month-08">Agosto</term>
+    <term name="month-09">Settembre</term>
+    <term name="month-10">Ottobre</term>
+    <term name="month-11">Novembre</term>
+    <term name="month-12">Dicembre</term>
 
     <!-- SHORT MONTH FORMS -->
-    <term name="month-01" form="short">gen.</term>
-    <term name="month-02" form="short">feb.</term>
-    <term name="month-03" form="short">mar.</term>
-    <term name="month-04" form="short">apr.</term>
-    <term name="month-05" form="short">mag.</term>
-    <term name="month-06" form="short">giu.</term>
-    <term name="month-07" form="short">lug.</term>
-    <term name="month-08" form="short">ago.</term>
-    <term name="month-09" form="short">set.</term>
-    <term name="month-10" form="short">ott.</term>
-    <term name="month-11" form="short">nov.</term>
-    <term name="month-12" form="short">dic.</term>
+    <term name="month-01" form="short">Gen</term>
+    <term name="month-02" form="short">Feb</term>
+    <term name="month-03" form="short">Mar</term>
+    <term name="month-04" form="short">Apr</term>
+    <term name="month-05" form="short">Mag</term>
+    <term name="month-06" form="short">Giu</term>
+    <term name="month-07" form="short">Lug</term>
+    <term name="month-08" form="short">Ago</term>
+    <term name="month-09" form="short">Set</term>
+    <term name="month-10" form="short">Ott</term>
+    <term name="month-11" form="short">Nov</term>
+    <term name="month-12" form="short">Dic</term>
 
     <!-- SEASONS -->
-    <term name="season-01">primavera</term>
-    <term name="season-02">estate</term>
-    <term name="season-03">autunno</term>
-    <term name="season-04">inverno</term>
+    <term name="season-01">Spring</term>
+    <term name="season-02">Summer</term>
+    <term name="season-03">Autumn</term>
+    <term name="season-04">Winter</term>
   </terms>
 </locale>

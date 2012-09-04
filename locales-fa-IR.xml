@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="fa-IR">
+  <info>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2012-07-04T23:31:02+00:00</updated>
+  </info>
   <style-options punctuation-in-quote="true"/>
   <date form="text">
     <date-part name="month" suffix=" "/>
@@ -18,6 +22,7 @@
     <term name="anonymous">ناشناس</term>
     <term name="anonymous" form="short">ناشناس</term>
     <term name="at">در</term>
+    <term name="available at">available at</term>
     <term name="by">توسط</term>
     <term name="circa">circa</term>
     <term name="circa" form="short">c.</term>
@@ -49,24 +54,30 @@
       <multiple>مراجع</multiple>
     </term>
     <term name="retrieved">retrieved</term>
+    <term name="scale">scale</term>
+    <term name="version">version</term>
 
-      <!-- ANNO DOMINI; BEFORE CHRIST -->
+    <!-- ANNO DOMINI; BEFORE CHRIST -->
     <term name="ad">AD</term>
     <term name="bc">BC</term>
 
-      <!-- QUOTES -->
+    <!-- PUNCTUATION -->
     <term name="open-quote">“</term>
     <term name="close-quote">”</term>
     <term name="open-inner-quote">‘</term>
     <term name="close-inner-quote">’</term>
+    <term name="page-range-delimiter">–</term>
 
-      <!-- ORDINALS -->
+    <!-- ORDINALS -->
+    <term name="ordinal">th</term>
     <term name="ordinal-01">st</term>
     <term name="ordinal-02">nd</term>
     <term name="ordinal-03">rd</term>
-    <term name="ordinal-04">th</term>
+    <term name="ordinal-11">th</term>
+    <term name="ordinal-12">th</term>
+    <term name="ordinal-13">th</term>
 
-      <!-- LONG ORDINALS -->
+    <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">اول</term>
     <term name="long-ordinal-02">دوم</term>
     <term name="long-ordinal-03">سوم</term>
@@ -78,32 +89,6 @@
     <term name="long-ordinal-09">نهم</term>
     <term name="long-ordinal-10">دهم</term>
 
-   <!-- CATEGORIES -->
-    <term name="anthropology">مردمشناسی</term>
-    <term name="astronomy">ستاره‌شناسی</term>
-    <term name="biology">زیستشناسی</term>
-    <term name="botany">گیاه‌شناسی</term>
-    <term name="chemistry">شیمی</term>
-    <term name="engineering">مهندسی</term>
-    <term name="generic-base">کلیات</term>
-    <term name="geography">جغرافیا</term>
-    <term name="geology">زمینشناسی</term>
-    <term name="history">تاریخ</term>
-    <term name="humanities">علوم انسانی</term>
-    <term name="linguistics">زبان‌شناسی</term>
-    <term name="literature">ادبیات</term>
-    <term name="math">ریاضیات</term>
-    <term name="medicine">پزشکی</term>
-    <term name="philosophy">فلسفه</term>
-    <term name="physics">فیزیک</term>
-    <term name="psychology">روانشناسی</term>
-    <term name="sociology">جامعه‌شناسی</term>
-    <term name="science">علوم</term>
-    <term name="political_science">علوم سیاسی</term>
-    <term name="social_science">علوم اجتماعی</term>
-    <term name="theology">الهیات</term>
-    <term name="zoology">جانورشناسی</term>
- 
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
       <single>کتاب</single>
@@ -177,6 +162,8 @@
     <term name="figure" form="short">تصویر</term>
     <term name="folio" form="short">برگ</term>
     <term name="issue" form="short">ش</term>
+    <term name="line" form="short">l.</term>
+    <term name="note" form="short">n.</term>
     <term name="opus" form="short">قطعه</term>
     <term name="page" form="short">
       <single>ص</single>
@@ -198,7 +185,7 @@
       <multiple>جج</multiple>
     </term>
 
-      <!-- SYMBOL LOCATOR FORMS -->
+    <!-- SYMBOL LOCATOR FORMS -->
     <term name="paragraph" form="symbol">
       <single>¶</single>
       <multiple>¶¶</multiple>
@@ -208,10 +195,14 @@
       <multiple>§§</multiple>
     </term>
 
-      <!-- LONG ROLE FORMS -->
+    <!-- LONG ROLE FORMS -->
     <term name="author">
       <single/>
       <multiple/>
+    </term>
+    <term name="director">
+      <single>director</single>
+      <multiple>directors</multiple>
     </term>
     <term name="editor">
       <single>ویرایشگر</single>
@@ -220,6 +211,10 @@
     <term name="editorial-director">
       <single>ویرایشگر</single>
       <multiple>ویرایشگران</multiple>
+    </term>
+    <term name="illustrator">
+      <single>illustrator</single>
+      <multiple>illustrators</multiple>
     </term>
     <term name="translator">
       <single>مترجم</single>
@@ -230,10 +225,14 @@
       <multiple>ویرایشگران و مترجمین</multiple>
     </term>
 
-      <!-- SHORT ROLE FORMS -->
+    <!-- SHORT ROLE FORMS -->
     <term name="author" form="short">
       <single/>
       <multiple/>
+    </term>
+    <term name="director" form="short">
+      <single>dir.</single>
+      <multiple>dirs.</multiple>
     </term>
     <term name="editor" form="short">
       <single>ویرایشگر</single>
@@ -242,6 +241,10 @@
     <term name="editorial-director" form="short">
       <single>ویرایشگر</single>
       <multiple>ویرایشگران</multiple>
+    </term>
+    <term name="illustrator" form="short">
+      <single>ill.</single>
+      <multiple>ills.</multiple>
     </term>
     <term name="translator" form="short">
       <single>مترجم</single>
@@ -252,18 +255,23 @@
       <multiple>ویرایشگران و مترجمین</multiple>
     </term>
 
-      <!-- VERB ROLE FORMS -->
+    <!-- VERB ROLE FORMS -->
+    <term name="director" form="verb">directed by</term>
     <term name="editor" form="verb">edited by</term>
     <term name="editorial-director" form="verb">ویراسته‌ی</term>
+    <term name="illustrator" form="verb">illustrated by</term>
+    <term name="interviewer" form="verb">مصاحبه توسط</term>
+    <term name="recipient" form="verb">به</term>
+    <term name="reviewed-author" form="verb">by</term>
     <term name="translator" form="verb">ترجمه‌ی</term>
     <term name="editortranslator" form="verb">ترجمه و ویراسته‌ی</term>
-    <term name="recipient" form="verb">به</term>
-    <term name="interviewer" form="verb">مصاحبه توسط</term>
 
-      <!-- SHORT VERB ROLE FORMS -->
+    <!-- SHORT VERB ROLE FORMS -->
     <term name="container-author" form="verb-short">توسط</term>
+    <term name="director" form="verb-short">dir.</term>
     <term name="editor" form="verb-short">ویراسته‌ی</term>
     <term name="editorial-director" form="verb-short">ویراسته‌ی</term>
+    <term name="illustrator" form="verb-short">illus.</term>
     <term name="translator" form="verb-short">ترجمه‌ی</term>
     <term name="editortranslator" form="verb-short">ترجمه و ویراسته‌ی</term>
 
@@ -280,7 +288,7 @@
     <term name="month-10">اکتبر</term>
     <term name="month-11">نوامبر</term>
     <term name="month-12">دسامبر</term>
-    
+
     <!-- SHORT MONTH FORMS -->
     <term name="month-01" form="short">ژانویه</term>
     <term name="month-02" form="short">فوریه</term>
@@ -295,7 +303,7 @@
     <term name="month-11" form="short">نوامبر</term>
     <term name="month-12" form="short">دسامبر</term>
 
-      <!-- SEASONS -->
+    <!-- SEASONS -->
     <term name="season-01">بهار</term>
     <term name="season-02">تابستان</term>
     <term name="season-03">پاییز</term>

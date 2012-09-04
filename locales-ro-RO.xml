@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="ro-RO">
+  <info>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2012-07-04T23:31:02+00:00</updated>
+  </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
     <date-part name="day" suffix=" "/>
@@ -18,6 +22,7 @@
     <term name="anonymous">anonim</term>
     <term name="anonymous" form="short">anon.</term>
     <term name="at">la</term>
+    <term name="available at">available at</term>
     <term name="by">de</term>
     <term name="circa">circa</term>
     <term name="circa" form="short">cca.</term>
@@ -49,23 +54,23 @@
       <multiple>ref.</multiple>
     </term>
     <term name="retrieved">preluat în</term>
+    <term name="scale">scale</term>
+    <term name="version">version</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
     <term name="ad">d.Hr.</term>
     <term name="bc">î.Hr.</term>
 
-    <!-- QUOTES -->
-    <!-- Source: http://en.wikipedia.org/wiki/Non-English_usage_of_quotation_marks -->
+    <!-- PUNCTUATION -->
     <term name="open-quote">„</term>
     <term name="close-quote">”</term>
     <term name="open-inner-quote">«</term>
     <term name="close-inner-quote">»</term>
+    <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
-    <term name="ordinal-01"/>
-    <term name="ordinal-02">-lea</term>
-    <term name="ordinal-03">-lea</term>
-    <term name="ordinal-04">-lea</term>
+    <term name="ordinal">-lea</term>
+    <term name="ordinal-01" match="whole-number"/>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">primul</term>
@@ -78,32 +83,6 @@
     <term name="long-ordinal-08">al optulea</term>
     <term name="long-ordinal-09">al nouălea</term>
     <term name="long-ordinal-10">al zecelea</term>
-
-    <!-- CATEGORIES -->
-    <term name="anthropology">antropologie</term>
-    <term name="astronomy">astronomie</term>
-    <term name="biology">biologie</term>
-    <term name="botany">botanică</term>
-    <term name="chemistry">chimie</term>
-    <term name="engineering">inginerie</term>
-    <term name="generic-base">general (de bază)</term>
-    <term name="geography">geografie</term>
-    <term name="geology">geologie</term>
-    <term name="history">istorie</term>
-    <term name="humanities">științe umaniste</term>
-    <term name="linguistics">lingvistică</term>
-    <term name="literature">literatură</term>
-    <term name="math">matematică</term>
-    <term name="medicine">medicină</term>
-    <term name="philosophy">filosofie</term>
-    <term name="physics">fizică</term>
-    <term name="psychology">psihologie</term>
-    <term name="sociology">sociologie</term>
-    <term name="science">știință</term>
-    <term name="political_science">științe politice</term>
-    <term name="social_science">științe sociale</term>
-    <term name="theology">teologie</term>
-    <term name="zoology">zoologie</term>
 
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
@@ -178,6 +157,8 @@
     <term name="figure" form="short">fig.</term>
     <term name="folio" form="short">fol.</term>
     <term name="issue" form="short">nr.</term>
+    <term name="line" form="short">l.</term>
+    <term name="note" form="short">n.</term>
     <term name="opus" form="short">op.</term>
     <term name="page" form="short">
       <single>p.</single>
@@ -214,6 +195,10 @@
       <single>autor</single>
       <multiple>autori</multiple>
     </term>
+    <term name="director">
+      <single>director</single>
+      <multiple>directors</multiple>
+    </term>
     <term name="editor">
       <single>editor</single>
       <multiple>editori</multiple>
@@ -221,6 +206,10 @@
     <term name="editorial-director">
       <single>editor</single>
       <multiple>editori</multiple>
+    </term>
+    <term name="illustrator">
+      <single>illustrator</single>
+      <multiple>illustrators</multiple>
     </term>
     <term name="translator">
       <single>traducător</single>
@@ -236,6 +225,10 @@
       <single>aut.</single>
       <multiple>aut.</multiple>
     </term>
+    <term name="director" form="short">
+      <single>dir.</single>
+      <multiple>dirs.</multiple>
+    </term>
     <term name="editor" form="short">
       <single>ed.</single>
       <multiple>ed.</multiple>
@@ -243,6 +236,10 @@
     <term name="editorial-director" form="short">
       <single>ed.</single>
       <multiple>ed.</multiple>
+    </term>
+    <term name="illustrator" form="short">
+      <single>ill.</single>
+      <multiple>ills.</multiple>
     </term>
     <term name="translator" form="short">
       <single>trad.</single>
@@ -254,17 +251,22 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
+    <term name="director" form="verb">directed by</term>
     <term name="editor" form="verb">ediție de</term>
     <term name="editorial-director" form="verb">ediție de</term>
+    <term name="illustrator" form="verb">illustrated by</term>
+    <term name="interviewer" form="verb">interviu de</term>
+    <term name="recipient" form="verb">în</term>
+    <term name="reviewed-author" form="verb">by</term>
     <term name="translator" form="verb">traducere de</term>
     <term name="editortranslator" form="verb">ediție &amp; traducere de</term>
-    <term name="recipient" form="verb">în</term>
-    <term name="interviewer" form="verb">interviu de</term>
 
     <!-- SHORT VERB ROLE FORMS -->
     <term name="container-author" form="verb-short">de</term>
+    <term name="director" form="verb-short">dir.</term>
     <term name="editor" form="verb-short">ed.</term>
     <term name="editorial-director" form="verb-short">ed.</term>
+    <term name="illustrator" form="verb-short">illus.</term>
     <term name="translator" form="verb-short">trad.</term>
     <term name="editortranslator" form="verb-short">ed. &amp; trad. de</term>
 

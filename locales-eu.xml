@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="eu">
+  <info>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2012-07-04T23:31:02+00:00</updated>
+  </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
     <date-part name="year" suffix="(e)ko "/>
@@ -18,6 +22,7 @@
     <term name="anonymous">ezezaguna</term>
     <term name="anonymous" form="short">ezez.</term>
     <term name="at">-(e)n</term>
+    <term name="available at">available at</term>
     <term name="by">-(e)k egina</term>
     <term name="circa">inguru</term>
     <term name="circa" form="short">ing.</term>
@@ -49,23 +54,22 @@
       <multiple>aip.</multiple>
     </term>
     <term name="retrieved">berreskuratua</term>
+    <term name="scale">scale</term>
+    <term name="version">version</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
     <term name="ad">K.a.</term>
     <term name="bc">K.o.</term>
 
-    <!-- QUOTES -->
-    <!-- Source: http://en.wikipedia.org/wiki/Non-English_usage_of_quotation_marks -->
+    <!-- PUNCTUATION -->
     <term name="open-quote">«</term>
     <term name="close-quote">»</term>
     <term name="open-inner-quote">“</term>
     <term name="close-inner-quote">”</term>
+    <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
-    <term name="ordinal-01">.</term>
-    <term name="ordinal-02">.</term>
-    <term name="ordinal-03">.</term>
-    <term name="ordinal-04">.</term>
+    <term name="ordinal">.</term>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">lehengo</term>
@@ -78,32 +82,6 @@
     <term name="long-ordinal-08">zortzigarren</term>
     <term name="long-ordinal-09">bederatzigarren</term>
     <term name="long-ordinal-10">hamargarren</term>
-
-    <!-- CATEGORIES -->
-    <term name="anthropology">antropologia</term>
-    <term name="astronomy">astronomia</term>
-    <term name="biology">biologia</term>
-    <term name="botany">botanika</term>
-    <term name="chemistry">kimika</term>
-    <term name="engineering">ingenieritza</term>
-    <term name="generic-base">oinarri orokorra</term>
-    <term name="geography">geografia</term>
-    <term name="geology">geologia</term>
-    <term name="history">historia</term>
-    <term name="humanities">giza-gaiak</term>
-    <term name="linguistics">hizkuntzalaritza</term>
-    <term name="literature">literatura</term>
-    <term name="math">matematika</term>
-    <term name="medicine">medikuntza</term>
-    <term name="philosophy">filosofia</term>
-    <term name="physics">fiska</term>
-    <term name="psychology">psicologia</term>
-    <term name="sociology">soziologia</term>
-    <term name="science">zientziak</term>
-    <term name="political_science">politika zientziak</term>
-    <term name="social_science">gizarte zientziak</term>
-    <term name="theology">teologia</term>
-    <term name="zoology">zoologia</term>
 
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
@@ -178,6 +156,8 @@
     <term name="figure" form="short">iru.</term>
     <term name="folio" form="short">or.</term>
     <term name="issue" form="short">zenb.</term>
+    <term name="line" form="short">l.</term>
+    <term name="note" form="short">n.</term>
     <term name="opus" form="short">op.</term>
     <term name="page" form="short">
       <single>or.</single>
@@ -214,6 +194,10 @@
       <single/>
       <multiple/>
     </term>
+    <term name="director">
+      <single>director</single>
+      <multiple>directors</multiple>
+    </term>
     <term name="editor">
       <single>argitaratzailea</single>
       <multiple>argitaratzaileak</multiple>
@@ -221,6 +205,10 @@
     <term name="editorial-director">
       <single>argitaratzailea</single>
       <multiple>argitaratzaileak</multiple>
+    </term>
+    <term name="illustrator">
+      <single>illustrator</single>
+      <multiple>illustrators</multiple>
     </term>
     <term name="translator">
       <single>itzultzailea</single>
@@ -236,6 +224,10 @@
       <single/>
       <multiple/>
     </term>
+    <term name="director" form="short">
+      <single>dir.</single>
+      <multiple>dirs.</multiple>
+    </term>
     <term name="editor" form="short">
       <single>arg.</single>
       <multiple>arg.</multiple>
@@ -243,6 +235,10 @@
     <term name="editorial-director" form="short">
       <single>arg.</single>
       <multiple>arg.</multiple>
+    </term>
+    <term name="illustrator" form="short">
+      <single>ill.</single>
+      <multiple>ills.</multiple>
     </term>
     <term name="translator" form="short">
       <single>itzul.</single>
@@ -254,17 +250,22 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
+    <term name="director" form="verb">directed by</term>
     <term name="editor" form="verb">-(e)k argitaratua</term>
     <term name="editorial-director" form="verb">-(e)k argitaratua</term>
+    <term name="illustrator" form="verb">illustrated by</term>
+    <term name="interviewer" form="verb">-(e)k elkarrizketatua</term>
+    <term name="recipient" form="verb">-(r)entzat</term>
+    <term name="reviewed-author" form="verb">by</term>
     <term name="translator" form="verb">-(e)k itzulia</term>
     <term name="editortranslator" form="verb">-(e)k argitaratu eta itzulia</term>
-    <term name="recipient" form="verb">-(r)entzat</term>
-    <term name="interviewer" form="verb">-(e)k elkarrizketatua</term>
 
     <!-- SHORT VERB ROLE FORMS -->
-    <term name="container-author" form="verb-short"></term>
+    <term name="container-author" form="verb-short"/>
+    <term name="director" form="verb-short">dir.</term>
     <term name="editor" form="verb-short">arg.</term>
     <term name="editorial-director" form="verb-short">arg.</term>
+    <term name="illustrator" form="verb-short">illus.</term>
     <term name="translator" form="verb-short">itzul.</term>
     <term name="editortranslator" form="verb-short">-(e)k arg. eta itzul.</term>
 
