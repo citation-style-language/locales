@@ -55,7 +55,7 @@
     </term>
     <term name="retrieved">consulté</term>
     <term name="scale">échelle</term>
-    <term name="version" gender="feminine">version</term>
+    <term name="version">version</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
     <term name="ad">apr. J.-C.</term>
@@ -89,7 +89,7 @@
       <single>livre</single>
       <multiple>livres</multiple>
     </term>
-    <term name="chapter" gender="masculine">
+    <term name="chapter">
       <single>chapitre</single>
       <multiple>chapitres</multiple>
     </term>
