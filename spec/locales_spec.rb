@@ -7,7 +7,7 @@ Locales.each_pair do |id, (filename, path, locale)|
     end
 
     it "has a conventional file name" do
-      filename.should match(/^locales-[a-z]{2}-[A-Z]{2}\.xml$/)
+      filename.should match(/^locales-[a-z]{2}(-[A-Z]{2})?\.xml$/)
     end
 
     it "was successfully parsed" do
@@ -25,7 +25,7 @@ Locales.each_pair do |id, (filename, path, locale)|
 
       it "has a region" do
         locale.region.should_not be_empty
-      end
+      end unless id == 'locales-eu'
       
       it "its language and region match the filename" do
         locale.to_s.should == id[8,5]
