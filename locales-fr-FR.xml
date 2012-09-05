@@ -55,7 +55,7 @@
     </term>
     <term name="retrieved">consulté</term>
     <term name="scale">échelle</term>
-    <term name="version">version</term>
+    <term name="version" gender="feminine">version</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
     <term name="ad">apr. J.-C.</term>
@@ -66,7 +66,7 @@
     <term name="close-quote">&#160;»</term>
     <term name="open-inner-quote">“</term>
     <term name="close-inner-quote">”</term>
-    <term name="page-range-delimiter">–</term>
+    <term name="page-range-delimiter">&#8209;</term> <!-- non-breaking hyphen -->
 
     <!-- ORDINALS -->
     <term name="ordinal">ᵉ</term>
@@ -89,7 +89,7 @@
       <single>livre</single>
       <multiple>livres</multiple>
     </term>
-    <term name="chapter">
+    <term name="chapter" gender="masculine">
       <single>chapitre</single>
       <multiple>chapitres</multiple>
     </term>
@@ -105,7 +105,7 @@
       <single>folio</single>
       <multiple>folios</multiple>
     </term>
-    <term name="issue">
+    <term name="issue" gender="masculine">
       <single>numéro</single>
       <multiple>numéros</multiple>
     </term>
@@ -145,7 +145,7 @@
       <single>verset</single>
       <multiple>versets</multiple>
     </term>
-    <term name="volume">
+    <term name="volume" gender="masculine">
       <single>volume</single>
       <multiple>volumes</multiple>
     </term>
