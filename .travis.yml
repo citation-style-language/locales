@@ -1,0 +1,10 @@
+language: ruby
+rvm:
+  - 1.9.3
+notifications:
+  email:
+    recipients:
+      - rintze.zelle@gmail.com
+      - sylvester@keil.or.at
+    on_success: change
+    on_failure: always
