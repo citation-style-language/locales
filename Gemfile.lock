@@ -1,7 +1,7 @@
 GEM
   remote: http://rubygems.org/
   specs:
-    csl (1.0.0.pre9)
+    csl (1.0.0.pre10)
       namae (~> 0.3)
     diff-lcs (1.1.3)
     fuubar (1.0.0)
@@ -26,7 +26,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  csl (= 1.0.0.pre9)
+  csl (= 1.0.0.pre10)
   fuubar
   nokogiri
   rake
