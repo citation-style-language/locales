@@ -66,7 +66,7 @@
     <term name="close-quote">&#160;»</term>
     <term name="open-inner-quote">“</term>
     <term name="close-inner-quote">”</term>
-    <term name="page-range-delimiter">–</term>
+    <term name="page-range-delimiter">‑</term>
 
     <!-- ORDINALS -->
     <term name="ordinal">ᵉ</term>
