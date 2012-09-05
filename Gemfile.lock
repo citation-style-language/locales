@@ -10,6 +10,7 @@ GEM
       ruby-progressbar (~> 0.0.10)
     namae (0.3.0)
     nokogiri (1.5.5)
+    nokogiri (1.5.5-x86-mingw32)
     rake (0.9.2.2)
     rspec (2.11.0)
       rspec-core (~> 2.11.0)
@@ -24,6 +25,7 @@ GEM
 
 PLATFORMS
   ruby
+  x86-mingw32
 
 DEPENDENCIES
   csl (= 1.0.0.pre9)
