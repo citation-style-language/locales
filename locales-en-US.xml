@@ -7,7 +7,7 @@
   <style-options punctuation-in-quote="true"/>
   <date form="text">
     <date-part name="month" suffix=" "/>
-    <date-part name="day" form="numeric-leading-zeros" suffix=", "/>
+    <date-part name="day" suffix=", "/>
     <date-part name="year"/>
   </date>
   <date form="numeric">
