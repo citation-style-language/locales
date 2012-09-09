@@ -196,10 +196,6 @@
     </term>
 
     <!-- LONG ROLE FORMS -->
-    <term name="author">
-      <single/>
-      <multiple/>
-    </term>
     <term name="director">
       <single>director</single>
       <multiple>directors</multiple>
@@ -226,10 +222,6 @@
     </term>
 
     <!-- SHORT ROLE FORMS -->
-    <term name="author" form="short">
-      <single/>
-      <multiple/>
-    </term>
     <term name="director" form="short">
       <single>dir.</single>
       <multiple>dirs.</multiple>
