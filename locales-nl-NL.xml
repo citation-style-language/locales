@@ -26,7 +26,7 @@
     <term name="anonymous">anoniem</term>
     <term name="anonymous" form="short">anon.</term>
     <term name="at">bij</term>
-    <term name="available at">available at</term>
+    <term name="available at">beschikbaar op</term>
     <term name="by">door</term>
     <term name="circa">circa</term>
     <term name="circa" form="short">c.</term>
@@ -58,8 +58,8 @@
       <multiple>refs.</multiple>
     </term>
     <term name="retrieved">verkregen</term>
-    <term name="scale">scale</term>
-    <term name="version">version</term>
+    <term name="scale">schaal</term>
+    <term name="version">versie</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
     <term name="ad">AD</term>
@@ -213,8 +213,8 @@
 
     <!-- LONG ROLE FORMS -->
     <term name="director">
-      <single>director</single>
-      <multiple>directors</multiple>
+      <single>regisseur</single>
+      <multiple>regisseurs</multiple>
     </term>
     <term name="editor">
       <single>redacteur</single>
@@ -239,8 +239,8 @@
 
     <!-- SHORT ROLE FORMS -->
     <term name="director" form="short">
-      <single>dir.</single>
-      <multiple>dirs.</multiple>
+      <single>reg.</single>
+      <multiple>reg.</multiple>
     </term>
     <term name="editor" form="short">
       <single>red.</single>
@@ -252,7 +252,7 @@
     </term>
     <term name="illustrator" form="short">
       <single>ill.</single>
-      <multiple>ills.</multiple>
+      <multiple>ill.</multiple>
     </term>
     <term name="translator" form="short">
       <single>vert.</single>
@@ -264,22 +264,22 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
-    <term name="director" form="verb">directed by</term>
+    <term name="director" form="verb">geregisseerd door</term>
     <term name="editor" form="verb">bewerkt door</term>
     <term name="editorial-director" form="verb">bewerkt door</term>
-    <term name="illustrator" form="verb">illustrated by</term>
+    <term name="illustrator" form="verb">geïllustreerd door</term>
     <term name="interviewer" form="verb">geïnterviewd door</term>
     <term name="recipient" form="verb">ontvangen door</term>
-    <term name="reviewed-author" form="verb">by</term>
+    <term name="reviewed-author" form="verb">door</term>
     <term name="translator" form="verb">vertaald door</term>
     <term name="editortranslator" form="verb">bewerkt &amp; vertaald door</term>
 
     <!-- SHORT VERB ROLE FORMS -->
     <term name="container-author" form="verb-short">door</term>
-    <term name="director" form="verb-short">dir.</term>
+    <term name="director" form="verb-short">geregisseerd door</term>
     <term name="editor" form="verb-short">bewerkt door</term>
     <term name="editorial-director" form="verb-short">bewerkt door</term>
-    <term name="illustrator" form="verb-short">illus.</term>
+    <term name="illustrator" form="verb-short">geïllustreerd door</term>
     <term name="translator" form="verb-short">vertaald door</term>
     <term name="editortranslator" form="verb-short">bewerkt &amp; vertaald door</term>
 
