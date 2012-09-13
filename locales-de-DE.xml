@@ -22,7 +22,7 @@
     <term name="anonymous">ohne Autor</term>
     <term name="anonymous" form="short">o. A.</term>
     <term name="at">auf</term>
-    <term name="available at">available at</term>
+    <term name="available at">verfügbar unter</term>
     <term name="by">von</term>
     <term name="circa">circa</term>
     <term name="circa" form="short">ca.</term>
@@ -54,8 +54,8 @@
       <multiple>Ref.</multiple>
     </term>
     <term name="retrieved">abgerufen</term>
-    <term name="scale">scale</term>
-    <term name="version">version</term>
+    <term name="scale">Maßstab</term>
+    <term name="version">Version</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
     <term name="ad">n. Chr.</term>
@@ -191,8 +191,8 @@
 
     <!-- LONG ROLE FORMS -->
     <term name="director">
-      <single>director</single>
-      <multiple>directors</multiple>
+      <single>Regisseur</single>
+      <multiple>Regisseure</multiple>
     </term>
     <term name="editor">
       <single>Herausgeber</single>
@@ -203,8 +203,8 @@
       <multiple>Herausgeber</multiple>
     </term>
     <term name="illustrator">
-      <single>illustrator</single>
-      <multiple>illustrators</multiple>
+      <single>Illustrator</single>
+      <multiple>illustratoren</multiple>
     </term>
     <term name="translator">
       <single>Übersetzer</single>
@@ -217,8 +217,8 @@
 
     <!-- SHORT ROLE FORMS -->
     <term name="director" form="short">
-      <single>dir.</single>
-      <multiple>dirs.</multiple>
+      <single>Reg.</single>
+      <multiple>Reg..</multiple>
     </term>
     <term name="editor" form="short">
       <single>Hrsg.</single>
@@ -229,8 +229,8 @@
       <multiple>Hrsg.</multiple>
     </term>
     <term name="illustrator" form="short">
-      <single>ill.</single>
-      <multiple>ills.</multiple>
+      <single>Ill.</single>
+      <multiple>Ill.</multiple>
     </term>
     <term name="translator" form="short">
       <single>Übers.</single>
@@ -245,19 +245,19 @@
     <term name="director" form="verb">directed by</term>
     <term name="editor" form="verb">herausgegeben von</term>
     <term name="editorial-director" form="verb">herausgegeben von</term>
-    <term name="illustrator" form="verb">illustrated by</term>
+    <term name="illustrator" form="verb">illustriert von</term>
     <term name="interviewer" form="verb">interviewt von</term>
     <term name="recipient" form="verb">an</term>
-    <term name="reviewed-author" form="verb">by</term>
+    <term name="reviewed-author" form="verb">von</term>
     <term name="translator" form="verb">übersetzt von</term>
     <term name="editortranslator" form="verb">herausgegeben und übersetzt von</term>
 
     <!-- SHORT VERB ROLE FORMS -->
     <term name="container-author" form="verb-short">von</term>
-    <term name="director" form="verb-short">dir.</term>
+    <term name="director" form="verb-short">Reg.</term>
     <term name="editor" form="verb-short">hg. von</term>
     <term name="editorial-director" form="verb-short">hg. von</term>
-    <term name="illustrator" form="verb-short">illus.</term>
+    <term name="illustrator" form="verb-short">illus. von</term>
     <term name="translator" form="verb-short">übers. von</term>
     <term name="editortranslator" form="verb-short">hg. &amp; übers. von</term>
 
