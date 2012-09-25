@@ -22,8 +22,8 @@
     <term name="anonymous">anónimo</term>
     <term name="anonymous" form="short">anón</term>
     <term name="at">em</term>
-    <term name="available at">available at</term>
-    <term name="by">by</term>
+    <term name="available at">disponível em</term>
+    <term name="by">por</term>
     <term name="circa">circa</term>
     <term name="circa" form="short">c.</term>
     <term name="cited">citado</term>
@@ -41,7 +41,7 @@
     <term name="internet">internet</term>
     <term name="interview">entrevista</term>
     <term name="letter">carta</term>
-    <term name="no date">no date</term>
+    <term name="no date">sem data</term>
     <term name="no date" form="short">sem data</term>
     <term name="online">em linha</term>
     <term name="presented at">apresentado na</term>
@@ -55,7 +55,7 @@
     </term>
     <term name="retrieved">obtido</term>
     <term name="scale">scale</term>
-    <term name="version">version</term>
+    <term name="version">versão</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
     <term name="ad">AD</term>
@@ -78,16 +78,16 @@
     <term name="ordinal-13">th</term>
 
     <!-- LONG ORDINALS -->
-    <term name="long-ordinal-01">first</term>
-    <term name="long-ordinal-02">second</term>
-    <term name="long-ordinal-03">third</term>
-    <term name="long-ordinal-04">fourth</term>
-    <term name="long-ordinal-05">fifth</term>
-    <term name="long-ordinal-06">sixth</term>
-    <term name="long-ordinal-07">seventh</term>
-    <term name="long-ordinal-08">eighth</term>
-    <term name="long-ordinal-09">ninth</term>
-    <term name="long-ordinal-10">tenth</term>
+    <term name="long-ordinal-01">primeiro</term>
+    <term name="long-ordinal-02">segundo</term>
+    <term name="long-ordinal-03">terceiro</term>
+    <term name="long-ordinal-04">quarto</term>
+    <term name="long-ordinal-05">quinto</term>
+    <term name="long-ordinal-06">sexto</term>
+    <term name="long-ordinal-07">sétimo</term>
+    <term name="long-ordinal-08">oitavo</term>
+    <term name="long-ordinal-09">nono</term>
+    <term name="long-ordinal-10">décimo</term>
 
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
@@ -296,9 +296,9 @@
     <term name="month-12" form="short">Dez</term>
 
     <!-- SEASONS -->
-    <term name="season-01">Spring</term>
-    <term name="season-02">Summer</term>
-    <term name="season-03">Autumn</term>
-    <term name="season-04">Winter</term>
+    <term name="season-01">Primavera</term>
+    <term name="season-02">Verão</term>
+    <term name="season-03">Outono</term>
+    <term name="season-04">Inverno</term>
   </terms>
 </locale>
