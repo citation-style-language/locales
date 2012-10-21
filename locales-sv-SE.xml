@@ -69,13 +69,25 @@
     <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
-    <term name="ordinal">th</term>
-    <term name="ordinal-01">st</term>
-    <term name="ordinal-02">nd</term>
-    <term name="ordinal-03">rd</term>
-    <term name="ordinal-11">th</term>
-    <term name="ordinal-12">th</term>
-    <term name="ordinal-13">th</term>
+    <term name="ordinal">e</term>
+    <term name="ordinal-01">a</term>
+    <term name="ordinal-02">a</term>
+    <term name="ordinal-21">a</term>
+    <term name="ordinal-22">a</term>
+    <term name="ordinal-31">a</term>
+    <term name="ordinal-32">a</term>
+    <term name="ordinal-41">a</term>
+    <term name="ordinal-42">a</term>
+    <term name="ordinal-51">a</term>
+    <term name="ordinal-52">a</term>
+    <term name="ordinal-61">a</term>
+    <term name="ordinal-62">a</term>
+    <term name="ordinal-71">a</term>
+    <term name="ordinal-72">a</term>
+    <term name="ordinal-81">a</term>
+    <term name="ordinal-82">a</term>
+    <term name="ordinal-91">a</term>
+    <term name="ordinal-92">a</term>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">första</term>
