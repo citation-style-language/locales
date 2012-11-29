@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="sr-RS">
+<locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="cr-RC">
   <info>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
     <updated>2012-07-04T23:31:02+00:00</updated>
@@ -16,35 +16,35 @@
     <date-part name="day" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
   </date>
   <terms>
-    <term name="accessed">приступљено</term>
-    <term name="and">и</term>
-    <term name="and others">и остали</term>
-    <term name="anonymous">анонимна</term>
-    <term name="anonymous" form="short">анон.</term>
-    <term name="at">на</term>
+    <term name="accessed">pristupljeno</term>
+    <term name="and">i</term>
+    <term name="and others">i ostali</term>
+    <term name="anonymous">anonim</term>
+    <term name="anonymous" form="short">anon.</term>
+    <term name="at">na</term>
     <term name="available at">available at</term>
     <term name="by">by</term>
     <term name="circa">circa</term>
     <term name="circa" form="short">c.</term>
-    <term name="cited">цитирано</term>
+    <term name="cited">citirano</term>
     <term name="edition">
-      <single>издање</single>
-      <multiple>издања</multiple>
+      <single>izdanje</single>
+      <multiple>izdanja</multiple>
     </term>
-    <term name="edition" form="short">изд.</term>
-    <term name="et-al">и остали</term>
+    <term name="edition" form="short">izd.</term>
+    <term name="et-al">i ostali</term>
     <term name="forthcoming">долазећи</term>
     <term name="from">од</term>
     <term name="ibid">ibid.</term>
-    <term name="in">у</term>
-    <term name="in press">у штампи</term>
-    <term name="internet">Интернет</term>
-    <term name="interview">интервју</term>
-    <term name="letter">писмо</term>
+    <term name="in">u</term>
+    <term name="in press">u štampi</term>
+    <term name="internet">Internet</term>
+    <term name="interview">intervju</term>
+    <term name="letter">pismo</term>
     <term name="no date">no date</term>
-    <term name="no date" form="short">без датума</term>
-    <term name="online">на Интернету</term>
-    <term name="presented at">представљено на</term>
+    <term name="no date" form="short">bez datuma</term>
+    <term name="online">na Internetu</term>
+    <term name="presented at">predstavljeno na</term>
     <term name="reference">
       <single>reference</single>
       <multiple>references</multiple>
@@ -91,16 +91,16 @@
 
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
-      <single>књига</single>
-      <multiple>књиге</multiple>
+      <single>knjiga</single>
+      <multiple>knjige</multiple>
     </term>
     <term name="chapter">
-      <single>поглавље</single>
-      <multiple>поглавља</multiple>
+      <single>poglavlje</single>
+      <multiple>poglavlja</multiple>
     </term>
     <term name="column">
-      <single>колона</single>
-      <multiple>колоне</multiple>
+      <single>kolona</single>
+      <multiple>kolone</multiple>
     </term>
     <term name="figure">
       <single>цртеж</single>
@@ -111,8 +111,8 @@
       <multiple>фолији</multiple>
     </term>
     <term name="issue">
-      <single>број</single>
-      <multiple>бројеви</multiple>
+      <single>broj</single>
+      <multiple>brojevi</multiple>
     </term>
     <term name="line">
       <single>линија</single>
@@ -123,24 +123,24 @@
       <multiple>белешке</multiple>
     </term>
     <term name="opus">
-      <single>опус</single>
-      <multiple>опера</multiple>
+      <single>opus</single>
+      <multiple>opera</multiple>
     </term>
     <term name="page">
-      <single>страница</single>
-      <multiple>странице</multiple>
+      <single>stranica</single>
+      <multiple>stranice</multiple>
     </term>
     <term name="paragraph">
-      <single>параграф</single>
-      <multiple>параграфи</multiple>
+      <single>paragraf</single>
+      <multiple>paragrafi</multiple>
     </term>
     <term name="part">
-      <single>део</single>
-      <multiple>делова</multiple>
+      <single>deo</single>
+      <multiple>delova</multiple>
     </term>
     <term name="section">
-      <single>одељак</single>
-      <multiple>одељака</multiple>
+      <single>odeljak</single>
+      <multiple>odeljaka</multiple>
     </term>
     <term name="sub verbo">
       <single>sub verbo</single>
@@ -151,38 +151,38 @@
       <multiple>строфе</multiple>
     </term>
     <term name="volume">
-      <single>том</single>
-      <multiple>томова</multiple>
+      <single>tom</single>
+      <multiple>tomova</multiple>
     </term>
 
     <!-- SHORT LOCATOR FORMS -->
-    <term name="book" form="short">књига</term>
-    <term name="chapter" form="short">Пог.</term>
-    <term name="column" form="short">кол.</term>
+    <term name="book" form="short">knjiga</term>
+    <term name="chapter" form="short">Pog.</term>
+    <term name="column" form="short">kol.</term>
     <term name="figure" form="short">црт.</term>
     <term name="folio" form="short">фолио</term>
-    <term name="issue" form="short">изд.</term>
+    <term name="issue" form="short">izd.</term>
     <term name="line" form="short">l.</term>
     <term name="note" form="short">n.</term>
-    <term name="opus" form="short">оп.</term>
+    <term name="opus" form="short">op.</term>
     <term name="page" form="short">
-      <single>стр.</single>
-      <multiple>стр.</multiple>
+      <single>str.</single>
+      <multiple>str.</multiple>
     </term>
-    <term name="paragraph" form="short">пар.</term>
-    <term name="part" form="short">део</term>
-    <term name="section" form="short">од.</term>
+    <term name="paragraph" form="short">par.</term>
+    <term name="part" form="short">deo</term>
+    <term name="section" form="short">od.</term>
     <term name="sub verbo" form="short">
       <single>s.v.</single>
       <multiple>s.vv.</multiple>
     </term>
     <term name="verse" form="short">
-      <single>стр.</single>
-      <multiple>стр.</multiple>
+      <single>str.</single>
+      <multiple>str.</multiple>
     </term>
     <term name="volume" form="short">
-      <single>том</single>
-      <multiple>томови</multiple>
+      <single>tom</single>
+      <multiple>tomovi</multiple>
     </term>
 
     <!-- SYMBOL LOCATOR FORMS -->
@@ -201,8 +201,8 @@
       <multiple>directors</multiple>
     </term>
     <term name="editor">
-      <single>уредник</single>
-      <multiple>урединици</multiple>
+      <single>urednik</single>
+      <multiple>urednici</multiple>
     </term>
     <term name="editorial-director">
       <single>editor</single>
@@ -213,8 +213,8 @@
       <multiple>illustrators</multiple>
     </term>
     <term name="translator">
-      <single>преводилац</single>
-      <multiple>преводиоци</multiple>
+      <single>prevodilac</single>
+      <multiple>prevodioci</multiple>
     </term>
     <term name="editortranslator">
       <single>editor &amp; translator</single>
@@ -227,12 +227,12 @@
       <multiple>dirs.</multiple>
     </term>
     <term name="editor" form="short">
-      <single>ур.</single>
-      <multiple>ур.</multiple>
+      <single>prir.</single>
+      <multiple>prir.</multiple>
     </term>
     <term name="editorial-director" form="short">
-      <single>ed.</single>
-      <multiple>eds.</multiple>
+      <single>prir.</single>
+      <multiple>prir.</multiple>
     </term>
     <term name="illustrator" form="short">
       <single>ill.</single>
@@ -249,20 +249,20 @@
 
     <!-- VERB ROLE FORMS -->
     <term name="director" form="verb">directed by</term>
-    <term name="editor" form="verb">уредио</term>
+    <term name="editor" form="verb">priredio</term>
     <term name="editorial-director" form="verb">edited by</term>
     <term name="illustrator" form="verb">illustrated by</term>
     <term name="interviewer" form="verb">интервјуисао</term>
     <term name="recipient" form="verb">прима</term>
     <term name="reviewed-author" form="verb">by</term>
-    <term name="translator" form="verb">превео</term>
+    <term name="translator" form="verb">preveo</term>
     <term name="editortranslator" form="verb">edited &amp; translated by</term>
 
     <!-- SHORT VERB ROLE FORMS -->
     <term name="container-author" form="verb-short">by</term>
     <term name="director" form="verb-short">dir.</term>
-    <term name="editor" form="verb-short">ур.</term>
-    <term name="editorial-director" form="verb-short">ed.</term>
+    <term name="editor" form="verb-short">prir.</term>
+    <term name="editorial-director" form="verb-short">prir.</term>
     <term name="illustrator" form="verb-short">illus.</term>
     <term name="translator" form="verb-short">прев.</term>
     <term name="editortranslator" form="verb-short">ed. &amp; trans. by</term>
