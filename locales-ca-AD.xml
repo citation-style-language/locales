@@ -22,7 +22,7 @@
     <term name="anonymous">anònim</term>
     <term name="anonymous" form="short">anòn.</term>
     <term name="at">a</term>
-    <term name="available at">available at</term>
+    <term name="available at">disponible a</term>
     <term name="by">per</term>
     <term name="circa">circa</term>
     <term name="circa" form="short">c.</term>
@@ -54,8 +54,8 @@
       <multiple>ref.</multiple>
     </term>
     <term name="retrieved">recuperat</term>
-    <term name="scale">scale</term>
-    <term name="version">version</term>
+    <term name="scale">escala</term>
+    <term name="version">versió</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
     <term name="ad">dC</term>
@@ -66,7 +66,7 @@
     <term name="close-quote">»</term>
     <term name="open-inner-quote">“</term>
     <term name="close-inner-quote">”</term>
-    <term name="page-range-delimiter">–</term>
+    <term name="page-range-delimiter">-</term>
 
     <!-- ORDINALS -->
     <term name="ordinal">a</term>
@@ -203,8 +203,8 @@
       <multiple>editors</multiple>
     </term>
     <term name="illustrator">
-      <single>illustrator</single>
-      <multiple>illustrators</multiple>
+      <single>il·lustrador</single>
+      <multiple>il·lustradors</multiple>
     </term>
     <term name="translator">
       <single>traductor</single>
@@ -218,7 +218,7 @@
     <!-- SHORT ROLE FORMS -->
     <term name="director" form="short">
       <single>dir.</single>
-      <multiple>dirs.</multiple>
+      <multiple>dir.</multiple>
     </term>
     <term name="editor" form="short">
       <single>ed.</single>
@@ -229,8 +229,8 @@
       <multiple>ed.</multiple>
     </term>
     <term name="illustrator" form="short">
-      <single>ill.</single>
-      <multiple>ills.</multiple>
+      <single>il·lust.</single>
+      <multiple>il·lust.</multiple>
     </term>
     <term name="translator" form="short">
       <single>trad.</single>
@@ -242,13 +242,13 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
-    <term name="director" form="verb">directed by</term>
+    <term name="director" form="verb">dirigit per</term>
     <term name="editor" form="verb">editat per</term>
     <term name="editorial-director" form="verb">editat per</term>
-    <term name="illustrator" form="verb">illustrated by</term>
+    <term name="illustrator" form="verb">il·lustrat per</term>
     <term name="interviewer" form="verb">entrevistat per</term>
     <term name="recipient" form="verb">a</term>
-    <term name="reviewed-author" form="verb">by</term>
+    <term name="reviewed-author" form="verb">per</term>
     <term name="translator" form="verb">traduït per</term>
     <term name="editortranslator" form="verb">editat i traduït per</term>
 
@@ -257,7 +257,7 @@
     <term name="director" form="verb-short">dir.</term>
     <term name="editor" form="verb-short">ed.</term>
     <term name="editorial-director" form="verb-short">ed.</term>
-    <term name="illustrator" form="verb-short">illus.</term>
+    <term name="illustrator" form="verb-short">il·lust.</term>
     <term name="translator" form="verb-short">trad.</term>
     <term name="editortranslator" form="verb-short">ed. i trad. per</term>
 
@@ -277,13 +277,13 @@
 
     <!-- SHORT MONTH FORMS -->
     <term name="month-01" form="short">gen.</term>
-    <term name="month-02" form="short">febr.</term>
+    <term name="month-02" form="short">feb.</term>
     <term name="month-03" form="short">març</term>
     <term name="month-04" form="short">abr.</term>
     <term name="month-05" form="short">maig</term>
     <term name="month-06" form="short">juny</term>
     <term name="month-07" form="short">jul.</term>
-    <term name="month-08" form="short">ag.</term>
+    <term name="month-08" form="short">ago.</term>
     <term name="month-09" form="short">set.</term>
     <term name="month-10" form="short">oct.</term>
     <term name="month-11" form="short">nov.</term>

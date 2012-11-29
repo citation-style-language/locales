@@ -22,7 +22,7 @@
     <term name="anonymous">anónimo</term>
     <term name="anonymous" form="short">anón.</term>
     <term name="at">en</term>
-    <term name="available at">available at</term>
+    <term name="available at">disponible en</term>
     <term name="by">de</term>
     <term name="circa">circa</term>
     <term name="circa" form="short">c.</term>
@@ -54,8 +54,8 @@
       <multiple>refs.</multiple>
     </term>
     <term name="retrieved">recuperado</term>
-    <term name="scale">scale</term>
-    <term name="version">version</term>
+    <term name="scale">escala</term>
+    <term name="version">versión</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
     <term name="ad">d.&#160;C.</term>
@@ -66,7 +66,7 @@
     <term name="close-quote">»</term>
     <term name="open-inner-quote">“</term>
     <term name="close-inner-quote">”</term>
-    <term name="page-range-delimiter">–</term>
+    <term name="page-range-delimiter">-</term>
 
     <!-- ORDINALS -->
     <term name="ordinal">.ª</term>
@@ -192,7 +192,7 @@
     <!-- LONG ROLE FORMS -->
     <term name="director">
       <single>director</single>
-      <multiple>directors</multiple>
+      <multiple>directores</multiple>
     </term>
     <term name="editor">
       <single>editor</single>
@@ -203,8 +203,8 @@
       <multiple>editores</multiple>
     </term>
     <term name="illustrator">
-      <single>illustrator</single>
-      <multiple>illustrators</multiple>
+      <single>ilustrador</single>
+      <multiple>ilustradores</multiple>
     </term>
     <term name="translator">
       <single>traductor</single>
@@ -229,8 +229,8 @@
       <multiple>eds.</multiple>
     </term>
     <term name="illustrator" form="short">
-      <single>ill.</single>
-      <multiple>ills.</multiple>
+      <single>ilust.</single>
+      <multiple>ilusts.</multiple>
     </term>
     <term name="translator" form="short">
       <single>trad.</single>
@@ -242,13 +242,13 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
-    <term name="director" form="verb">directed by</term>
+    <term name="director" form="verb">dirigido por</term>
     <term name="editor" form="verb">editado por</term>
     <term name="editorial-director" form="verb">editado por</term>
-    <term name="illustrator" form="verb">illustrated by</term>
+    <term name="illustrator" form="verb">ilustrado por</term>
     <term name="interviewer" form="verb">entrevistado por</term>
     <term name="recipient" form="verb">a</term>
-    <term name="reviewed-author" form="verb">by</term>
+    <term name="reviewed-author" form="verb">por</term>
     <term name="translator" form="verb">traducido por</term>
     <term name="editortranslator" form="verb">editado y traducido por</term>
 
@@ -257,7 +257,7 @@
     <term name="director" form="verb-short">dir.</term>
     <term name="editor" form="verb-short">ed.</term>
     <term name="editorial-director" form="verb-short">ed.</term>
-    <term name="illustrator" form="verb-short">illus.</term>
+    <term name="illustrator" form="verb-short">ilust.</term>
     <term name="translator" form="verb-short">trad.</term>
     <term name="editortranslator" form="verb-short">ed. y trad.</term>
 
