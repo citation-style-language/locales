@@ -22,7 +22,7 @@
     <term name="anonymous">anonym</term>
     <term name="anonymous" form="short">anon.</term>
     <term name="at">på</term>
-    <term name="available at">available at</term>
+    <term name="available at">tilgjengeleg på</term>
     <term name="by">av</term>
     <term name="circa">circa</term>
     <term name="circa" form="short">ca.</term>
@@ -54,12 +54,12 @@
       <multiple>refr.</multiple>
     </term>
     <term name="retrieved">henta</term>
-    <term name="scale">scale</term>
-    <term name="version">version</term>
+    <term name="scale">målestokk</term>
+    <term name="version">versjon</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
-    <term name="ad">f.Kr</term>
-    <term name="bc">e.Kr</term>
+    <term name="ad">fvt.</term>
+    <term name="bc">evt.</term>
 
     <!-- PUNCTUATION -->
     <term name="open-quote">«</term>
@@ -191,8 +191,8 @@
 
     <!-- LONG ROLE FORMS -->
     <term name="director">
-      <single>director</single>
-      <multiple>directors</multiple>
+      <single>regissør</single>
+      <multiple>regissørar</multiple>
     </term>
     <term name="editor">
       <single>redaktør</single>
@@ -203,8 +203,8 @@
       <multiple>redaktørar</multiple>
     </term>
     <term name="illustrator">
-      <single>illustrator</single>
-      <multiple>illustrators</multiple>
+      <single>illustratør</single>
+      <multiple>illustratørar</multiple>
     </term>
     <term name="translator">
       <single>omsetjar</single>
@@ -242,13 +242,13 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
-    <term name="director" form="verb">directed by</term>
+    <term name="director" form="verb">regissert av</term>
     <term name="editor" form="verb">redigert av</term>
     <term name="editorial-director" form="verb">redigert av</term>
-    <term name="illustrator" form="verb">illustrated by</term>
+    <term name="illustrator" form="verb">illustrert av</term>
     <term name="interviewer" form="verb">intervjua av</term>
     <term name="recipient" form="verb">motteke av</term>
-    <term name="reviewed-author" form="verb">by</term>
+    <term name="reviewed-author" form="verb">av</term>
     <term name="translator" form="verb">omsett av</term>
     <term name="editortranslator" form="verb">redigert &amp; omsett av</term>
 
