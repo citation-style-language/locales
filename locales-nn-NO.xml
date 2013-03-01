@@ -2,7 +2,7 @@
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="nn-NO">
   <info>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2012-07-04T23:31:02+00:00</updated>
+    <updated>2013-03-01T12:20:00+01:00</updated>
   </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
@@ -217,8 +217,8 @@
 
     <!-- SHORT ROLE FORMS -->
     <term name="director" form="short">
-      <single>dir.</single>
-      <multiple>dirs.</multiple>
+      <single>regi</single>
+      <multiple>regi</multiple>
     </term>
     <term name="editor" form="short">
       <single>red.</single>
@@ -247,14 +247,14 @@
     <term name="editorial-director" form="verb">redigert av</term>
     <term name="illustrator" form="verb">illustrert av</term>
     <term name="interviewer" form="verb">intervjua av</term>
-    <term name="recipient" form="verb">motteke av</term>
+    <term name="recipient" form="verb">til</term>
     <term name="reviewed-author" form="verb">av</term>
     <term name="translator" form="verb">omsett av</term>
     <term name="editortranslator" form="verb">redigert &amp; omsett av</term>
 
     <!-- SHORT VERB ROLE FORMS -->
     <term name="container-author" form="verb-short">av</term>
-    <term name="director" form="verb-short">dir.</term>
+    <term name="director" form="verb-short">regi</term>
     <term name="editor" form="verb-short">red.</term>
     <term name="editorial-director" form="verb-short">red.</term>
     <term name="illustrator" form="verb-short">illus.</term>
