@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="ro-RO">
   <info>
+    <translator>
+      <name>Nicolae Turcan</name>
+      <email>nturcan@gmail.com</email>
+    </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
     <updated>2012-07-04T23:31:02+00:00</updated>
   </info>
@@ -16,13 +20,13 @@
     <date-part name="year"/>
   </date>
   <terms>
-    <term name="accessed">data accesării:</term>
+    <term name="accessed">data accesării</term>
     <term name="and">și</term>
     <term name="and others">și alții</term>
     <term name="anonymous">anonim</term>
     <term name="anonymous" form="short">anon.</term>
     <term name="at">la</term>
-    <term name="available at">available at</term>
+    <term name="available at">valabil la</term>
     <term name="by">de</term>
     <term name="circa">circa</term>
     <term name="circa" form="short">cca.</term>
@@ -54,8 +58,8 @@
       <multiple>ref.</multiple>
     </term>
     <term name="retrieved">preluat în</term>
-    <term name="scale">scale</term>
-    <term name="version">version</term>
+    <term name="scale">scală</term>
+    <term name="version">versiunea</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
     <term name="ad">d.Hr.</term>
@@ -66,7 +70,7 @@
     <term name="close-quote">”</term>
     <term name="open-inner-quote">«</term>
     <term name="close-inner-quote">»</term>
-    <term name="page-range-delimiter">–</term>
+    <term name="page-range-delimiter">-</term>
 
     <!-- ORDINALS -->
     <term name="ordinal">-lea</term>
@@ -193,7 +197,7 @@
     <!-- LONG ROLE FORMS -->
     <term name="director">
       <single>director</single>
-      <multiple>directors</multiple>
+      <multiple>directori</multiple>
     </term>
     <term name="editor">
       <single>editor</single>
@@ -204,8 +208,8 @@
       <multiple>editori</multiple>
     </term>
     <term name="illustrator">
-      <single>illustrator</single>
-      <multiple>illustrators</multiple>
+      <single>ilustrator</single>
+      <multiple>ilustratori</multiple>
     </term>
     <term name="translator">
       <single>traducător</single>
@@ -219,7 +223,7 @@
     <!-- SHORT ROLE FORMS -->
     <term name="director" form="short">
       <single>dir.</single>
-      <multiple>dirs.</multiple>
+      <multiple>dir.</multiple>
     </term>
     <term name="editor" form="short">
       <single>ed.</single>
@@ -230,8 +234,8 @@
       <multiple>ed.</multiple>
     </term>
     <term name="illustrator" form="short">
-      <single>ill.</single>
-      <multiple>ills.</multiple>
+      <single>ilustr.</single>
+      <multiple>ilustr.</multiple>
     </term>
     <term name="translator" form="short">
       <single>trad.</single>
@@ -243,13 +247,13 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
-    <term name="director" form="verb">directed by</term>
+    <term name="director" form="verb">coordonat de</term>
     <term name="editor" form="verb">ediție de</term>
     <term name="editorial-director" form="verb">ediție de</term>
-    <term name="illustrator" form="verb">illustrated by</term>
+    <term name="illustrator" form="verb">ilustrații de</term>
     <term name="interviewer" form="verb">interviu de</term>
     <term name="recipient" form="verb">în</term>
-    <term name="reviewed-author" form="verb">by</term>
+    <term name="reviewed-author" form="verb">de</term>
     <term name="translator" form="verb">traducere de</term>
     <term name="editortranslator" form="verb">ediție &amp; traducere de</term>
 
@@ -258,7 +262,7 @@
     <term name="director" form="verb-short">dir.</term>
     <term name="editor" form="verb-short">ed.</term>
     <term name="editorial-director" form="verb-short">ed.</term>
-    <term name="illustrator" form="verb-short">illus.</term>
+    <term name="illustrator" form="verb-short">ilustr.</term>
     <term name="translator" form="verb-short">trad.</term>
     <term name="editortranslator" form="verb-short">ed. &amp; trad. de</term>
 
