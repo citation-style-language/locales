@@ -11,9 +11,9 @@
     <date-part name="year"/>
   </date>
   <date form="numeric">
-    <date-part name="year"/>
-    <date-part name="month" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
-    <date-part name="day" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
+    <date-part name="day" form="numeric" suffix=". " range-delimiter="-"/>
+    <date-part name="month" form="numeric" suffix=". " range-delimiter="-"/>
+    <date-part name="year" range-delimiter="-"/>
   </date>
   <terms>
     <term name="accessed">přístup</term>
