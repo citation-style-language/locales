@@ -13,7 +13,7 @@
   <date form="numeric">
     <date-part name="day" form="numeric" suffix=". " range-delimiter="-"/>
     <date-part name="month" form="numeric" suffix=". " range-delimiter="-"/>
-    <date-part name="year" form="numeric" range-delimiter="-"/>
+    <date-part name="year" range-delimiter="-"/>
   </date>
   <terms>
     <term name="accessed">přístup</term>
