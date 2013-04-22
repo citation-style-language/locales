@@ -16,16 +16,17 @@
     <date-part name="year" range-delimiter="-"/>
   </date>
   <terms>
-    <term name="accessed">přístup</term>
+    <term name="accessed">viděno</term>
+    <term name="accessed" form="short">vid.</term>
     <term name="and">a</term>
     <term name="and others">a další</term>
-    <term name="anonymous">anonymous</term>
-    <term name="anonymous" form="short">anon.</term>
+    <term name="anonymous">Anonym</term>
+    <term name="anonymous" form="short">Anon.</term>
     <term name="at">v</term>
-    <term name="available at">available at</term>
+    <term name="available at">dostupné z</term>
     <term name="by">by</term>
     <term name="circa">circa</term>
-    <term name="circa" form="short">c.</term>
+    <term name="circa" form="short">cca</term>
     <term name="cited">citován</term>
     <term name="edition">
       <single>vydání</single>
@@ -36,26 +37,26 @@
     <term name="forthcoming">nadcházející</term>
     <term name="from">z</term>
     <term name="ibid">ibid.</term>
-    <term name="in">v</term>
+    <term name="in">in</term>
     <term name="in press">v tisku</term>
     <term name="internet">internet</term>
     <term name="interview">interview</term>
     <term name="letter">dopis</term>
-    <term name="no date">bez data</term>
-    <term name="no date" form="short">nedatováno</term>
+    <term name="no date">nedatováno</term>
+    <term name="no date" form="short">b.r.</term>
     <term name="online">online</term>
     <term name="presented at">prezentován v</term>
     <term name="reference">
       <single>reference</single>
-      <multiple>references</multiple>
+      <multiple>reference</multiple>
     </term>
     <term name="reference" form="short">
       <single>ref.</single>
-      <multiple>refs.</multiple>
+      <multiple>ref.</multiple>
     </term>
-    <term name="retrieved">získáno</term>
+    <term name="retrieved">Dostupné</term>
     <term name="scale">scale</term>
-    <term name="version">version</term>
+    <term name="version">verze</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
     <term name="ad">n. l.</term>
@@ -63,9 +64,9 @@
 
     <!-- PUNCTUATION -->
     <term name="open-quote">„</term>
-    <term name="close-quote">“</term>
+    <term name="close-quote">"</term>
     <term name="open-inner-quote">‚</term>
-    <term name="close-inner-quote">‘</term>
+    <term name="close-inner-quote">´</term>
     <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
@@ -200,11 +201,11 @@
     </term>
     <term name="editorial-director">
       <single>editor</single>
-      <multiple>editors</multiple>
+      <multiple>editoři</multiple>
     </term>
     <term name="illustrator">
-      <single>illustrator</single>
-      <multiple>illustrators</multiple>
+      <single>ilustrátor</single>
+      <multiple>ilustrátoři</multiple>
     </term>
     <term name="translator">
       <single>překladatel</single>
@@ -229,8 +230,8 @@
       <multiple>ed.</multiple>
     </term>
     <term name="illustrator" form="short">
-      <single>ill.</single>
-      <multiple>ills.</multiple>
+      <single>il.</single>
+      <multiple>il.</multiple>
     </term>
     <term name="translator" form="short">
       <single>překl.</single>
@@ -242,10 +243,10 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
-    <term name="director" form="verb">directed by</term>
+    <term name="director" form="verb">řídil</term>
     <term name="editor" form="verb">editoval</term>
     <term name="editorial-director" form="verb">editoval</term>
-    <term name="illustrator" form="verb">illustrated by</term>
+    <term name="illustrator" form="verb">ilustroval</term>
     <term name="interviewer" form="verb">rozhovor vedl</term>
     <term name="recipient" form="verb">pro</term>
     <term name="reviewed-author" form="verb">by</term>
@@ -254,11 +255,11 @@
 
     <!-- SHORT VERB ROLE FORMS -->
     <term name="container-author" form="verb-short">by</term>
-    <term name="director" form="verb-short">dir.</term>
+    <term name="director" form="verb-short">ř.</term>
     <term name="editor" form="verb-short">ed.</term>
     <term name="editorial-director" form="verb-short">ed.</term>
-    <term name="illustrator" form="verb-short">illus.</term>
-    <term name="translator" form="verb-short">překl.</term>
+    <term name="illustrator" form="verb-short">ilus.</term>
+    <term name="translator" form="verb-short">přel.</term>
     <term name="editortranslator" form="verb-short">ed. a přel.</term>
 
     <!-- LONG MONTH FORMS -->
