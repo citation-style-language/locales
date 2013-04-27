@@ -15,6 +15,10 @@ def load_locale(path)
   [id, [filename, path, locale]]
 end
 
+CSL::Schema.default_license = 'http://creativecommons.org/licenses/by-sa/3.0/'
+CSL::Schema.default_rights_string =
+  'This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License'
+
 
 print "\nLoading locales"
 

@@ -36,10 +36,7 @@ Locales.each_pair do |id, (filename, path, locale)|
       end
 
       it "is licensed under a CC BY-SA license" do
-        locale.info.rights.to_s.strip.should ==
-          'This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License'
-
-        locale.info.rights[:license].should == 'http://creativecommons.org/licenses/by-sa/3.0/'
+        locale.info.should be_default_license
       end
     end
 
