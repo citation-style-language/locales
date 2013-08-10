@@ -124,6 +124,10 @@
       <single>σελίδα</single>
       <multiple>σελίδες</multiple>
     </term>
+    <term name="number-of-pages">
+      <single>σελίδα</single>
+      <multiple>σελίδες</multiple>
+    </term>
     <term name="paragraph">
       <single>παράγραφος</single>
       <multiple>παράγραφοι</multiple>
@@ -160,6 +164,10 @@
     <term name="note" form="short">n.</term>
     <term name="opus" form="short">έργ.</term>
     <term name="page" form="short">
+      <single>σ</single>
+      <multiple>σσ</multiple>
+    </term>
+    <term name="number-of-pages" form="short">
       <single>σ</single>
       <multiple>σσ</multiple>
     </term>
