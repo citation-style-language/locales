@@ -69,13 +69,13 @@
     <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
-    <term name="ordinal">th</term>
-    <term name="ordinal-01">st</term>
-    <term name="ordinal-02">nd</term>
-    <term name="ordinal-03">rd</term>
-    <term name="ordinal-11">th</term>
-    <term name="ordinal-12">th</term>
-    <term name="ordinal-13">th</term>
+    <term name="ordinal">.º</term>
+    <term name="ordinal-01">.º</term>
+    <term name="ordinal-02">.º</term>
+    <term name="ordinal-03">.º</term>
+    <term name="ordinal-11">.º</term>
+    <term name="ordinal-12">.º</term>
+    <term name="ordinal-13">.º</term>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">primeiro</term>
@@ -112,7 +112,7 @@
     </term>
     <term name="issue">
       <single>número</single>
-      <multiple>número</multiple>
+      <multiple>números</multiple>
     </term>
     <term name="line">
       <single>linha</single>
@@ -206,7 +206,7 @@
     <!-- LONG ROLE FORMS -->
     <term name="director">
       <single>director</single>
-      <multiple>directors</multiple>
+      <multiple>directores</multiple>
     </term>
     <term name="editor">
       <single>editor</single>
@@ -214,19 +214,19 @@
     </term>
     <term name="editorial-director">
       <single>editor</single>
-      <multiple>editors</multiple>
+      <multiple>editores</multiple>
     </term>
     <term name="illustrator">
-      <single>illustrator</single>
-      <multiple>illustrators</multiple>
+      <single>ilustrador</single>
+      <multiple>ilustradores</multiple>
     </term>
     <term name="translator">
       <single>tradutor</single>
       <multiple>tradutores</multiple>
     </term>
     <term name="editortranslator">
-      <single>editor &amp; translator</single>
-      <multiple>editors &amp; translators</multiple>
+      <single>editor &amp; tradutor</single>
+      <multiple>editors &amp; tradutores</multiple>
     </term>
 
     <!-- SHORT ROLE FORMS -->
@@ -243,37 +243,37 @@
       <multiple>eds.</multiple>
     </term>
     <term name="illustrator" form="short">
-      <single>ill.</single>
-      <multiple>ills.</multiple>
+      <single>il.</single>
+      <multiple>ils.</multiple>
     </term>
     <term name="translator" form="short">
       <single>trad</single>
       <multiple>trads</multiple>
     </term>
     <term name="editortranslator" form="short">
-      <single>ed. &amp; tran.</single>
-      <multiple>eds. &amp; trans.</multiple>
+      <single>ed. &amp; trad.</single>
+      <multiple>eds. &amp; trads.</multiple>
     </term>
 
     <!-- VERB ROLE FORMS -->
-    <term name="director" form="verb">directed by</term>
+    <term name="director" form="verb">dirigido por</term>
     <term name="editor" form="verb">editado por</term>
-    <term name="editorial-director" form="verb">edited by</term>
-    <term name="illustrator" form="verb">illustrated by</term>
+    <term name="editorial-director" form="verb">editado por</term>
+    <term name="illustrator" form="verb">ilustrado por</term>
     <term name="interviewer" form="verb">entrevistado por</term>
     <term name="recipient" form="verb">para</term>
-    <term name="reviewed-author" form="verb">by</term>
+    <term name="reviewed-author" form="verb">revisto por</term>
     <term name="translator" form="verb">traduzido por</term>
-    <term name="editortranslator" form="verb">edited &amp; translated by</term>
+    <term name="editortranslator" form="verb">editado &amp; traduzido por</term>
 
     <!-- SHORT VERB ROLE FORMS -->
-    <term name="container-author" form="verb-short">by</term>
+    <term name="container-author" form="verb-short">por</term>
     <term name="director" form="verb-short">dir.</term>
-    <term name="editor" form="verb-short">ed</term>
+    <term name="editor" form="verb-short">ed.</term>
     <term name="editorial-director" form="verb-short">ed.</term>
-    <term name="illustrator" form="verb-short">illus.</term>
-    <term name="translator" form="verb-short">trad</term>
-    <term name="editortranslator" form="verb-short">ed. &amp; trans. by</term>
+    <term name="illustrator" form="verb-short">ilus.</term>
+    <term name="translator" form="verb-short">trad.</term>
+    <term name="editortranslator" form="verb-short">ed. &amp; trad. por</term>
 
     <!-- LONG MONTH FORMS -->
     <term name="month-01">Janeiro</term>
