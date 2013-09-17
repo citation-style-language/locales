@@ -73,16 +73,26 @@
     <term name="ordinal" gender-form="feminine" match="whole-number">.ª</term>
 
     <!-- LONG ORDINALS -->
-    <term name="long-ordinal-01">primeiro</term>
-    <term name="long-ordinal-02">segundo</term>
-    <term name="long-ordinal-03">terceiro</term>
-    <term name="long-ordinal-04">quarto</term>
-    <term name="long-ordinal-05">quinto</term>
-    <term name="long-ordinal-06">sexto</term>
-    <term name="long-ordinal-07">sétimo</term>
-    <term name="long-ordinal-08">oitavo</term>
-    <term name="long-ordinal-09">nono</term>
-    <term name="long-ordinal-10">décimo</term>
+    <term name="long-ordinal-01" gender-form="masculine">primeiro</term>
+    <term name="long-ordinal-01" gender-form="feminine">primeira</term>
+    <term name="long-ordinal-02" gender-form="masculine">segundo</term>
+    <term name="long-ordinal-02" gender-form="feminine">segunda</term>    
+    <term name="long-ordinal-03" gender-form="masculine">terceiro</term>
+    <term name="long-ordinal-03" gender-form="feminine">terceira</term>    
+    <term name="long-ordinal-04" gender-form="masculine">quarto</term>
+    <term name="long-ordinal-04" gender-form="feminine">quarta</term>
+    <term name="long-ordinal-05" gender-form="masculine">quinto</term>
+    <term name="long-ordinal-05" gender-form="feminine">quinta</term>
+    <term name="long-ordinal-06" gender-form="masculine">sexto</term>
+    <term name="long-ordinal-06" gender-form="feminine">sexta</term>
+    <term name="long-ordinal-07" gender-form="masculine">sétimo</term>
+    <term name="long-ordinal-07" gender-form="feminine">sétima</term>
+    <term name="long-ordinal-08" gender-form="masculine">oitavo</term>
+    <term name="long-ordinal-08" gender-form="feminine">oitava</term>
+    <term name="long-ordinal-09" gender-form="masculine">nono</term>
+    <term name="long-ordinal-09" gender-form="feminine">nona</term>
+    <term name="long-ordinal-10" gender-form="masculine">décimo</term>
+    <term name="long-ordinal-10" gender-form="feminine">décima</term>
 
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
