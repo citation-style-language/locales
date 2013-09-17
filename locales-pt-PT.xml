@@ -20,7 +20,7 @@
     <term name="and">e</term>
     <term name="and others">e outros</term>
     <term name="anonymous">anónimo</term>
-    <term name="anonymous" form="short">anón</term>
+    <term name="anonymous" form="short">anón.</term>
     <term name="at">em</term>
     <term name="available at">disponível em</term>
     <term name="by">por</term>
@@ -31,7 +31,7 @@
       <single>edição</single>
       <multiple>edições</multiple>
     </term>
-    <term name="edition" form="short">ed</term>
+    <term name="edition" form="short">ed.</term>
     <term name="et-al">et al.</term>
     <term name="forthcoming">a publicar</term>
     <term name="from">de</term>
@@ -46,8 +46,8 @@
     <term name="online">em linha</term>
     <term name="presented at">apresentado na</term>
     <term name="reference">
-      <single>reference</single>
-      <multiple>references</multiple>
+      <single>referência</single>
+      <multiple>referências</multiple>
     </term>
     <term name="reference" form="short">
       <single>ref.</single>
@@ -69,13 +69,8 @@
     <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
-    <term name="ordinal">.º</term>
-    <term name="ordinal-01">.º</term>
-    <term name="ordinal-02">.º</term>
-    <term name="ordinal-03">.º</term>
-    <term name="ordinal-11">.º</term>
-    <term name="ordinal-12">.º</term>
-    <term name="ordinal-13">.º</term>
+    <term name="ordinal" gender-form="masculine" match="whole-number">.º</term>
+    <term name="ordinal" gender-form="feminine" match="whole-number">.ª</term>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">primeiro</term>
@@ -160,26 +155,26 @@
     </term>
 
     <!-- SHORT LOCATOR FORMS -->
-    <term name="book" form="short">liv</term>
-    <term name="chapter" form="short">cap</term>
-    <term name="column" form="short">col</term>
-    <term name="figure" form="short">fig</term>
-    <term name="folio" form="short">f</term>
-    <term name="issue" form="short">n</term>
+    <term name="book" form="short">liv.</term>
+    <term name="chapter" form="short">cap.</term>
+    <term name="column" form="short">col.</term>
+    <term name="figure" form="short">fig.</term>
+    <term name="folio" form="short">f.</term>
+    <term name="issue" form="short">n.</term>
     <term name="line" form="short">l.</term>
     <term name="note" form="short">n.</term>
-    <term name="opus" form="short">op</term>
+    <term name="opus" form="short">op.</term>
     <term name="page" form="short">
-      <single>p</single>
-      <multiple>pp</multiple>
+      <single>p.</single>
+      <multiple>pp.</multiple>
     </term>
     <term name="number-of-pages" form="short">
-      <single>p</single>
-      <multiple>pp</multiple>
+      <single>p.</single>
+      <multiple>pp.</multiple>
     </term>
-    <term name="paragraph" form="short">par</term>
-    <term name="part" form="short">pt</term>
-    <term name="section" form="short">sec</term>
+    <term name="paragraph" form="short">par.</term>
+    <term name="part" form="short">pt.</term>
+    <term name="section" form="short">sec.</term>
     <term name="sub verbo" form="short">
       <single>s.v.</single>
       <multiple>s.vv.</multiple>
@@ -189,8 +184,8 @@
       <multiple>vv</multiple>
     </term>
     <term name="volume" form="short">
-      <single>vol</single>
-      <multiple>vols</multiple>
+      <single>vol.</single>
+      <multiple>vols.</multiple>
     </term>
 
     <!-- SYMBOL LOCATOR FORMS -->
@@ -226,7 +221,7 @@
     </term>
     <term name="editortranslator">
       <single>editor &amp; tradutor</single>
-      <multiple>editors &amp; tradutores</multiple>
+      <multiple>editores &amp; tradutores</multiple>
     </term>
 
     <!-- SHORT ROLE FORMS -->
@@ -235,8 +230,8 @@
       <multiple>dirs.</multiple>
     </term>
     <term name="editor" form="short">
-      <single>ed</single>
-      <multiple>eds</multiple>
+      <single>ed.</single>
+      <multiple>eds.</multiple>
     </term>
     <term name="editorial-director" form="short">
       <single>ed.</single>
@@ -247,8 +242,8 @@
       <multiple>ils.</multiple>
     </term>
     <term name="translator" form="short">
-      <single>trad</single>
-      <multiple>trads</multiple>
+      <single>trad.</single>
+      <multiple>trads.</multiple>
     </term>
     <term name="editortranslator" form="short">
       <single>ed. &amp; trad.</single>
@@ -290,18 +285,18 @@
     <term name="month-12">Dezembro</term>
 
     <!-- SHORT MONTH FORMS -->
-    <term name="month-01" form="short">Jan</term>
-    <term name="month-02" form="short">Fev</term>
-    <term name="month-03" form="short">Mar</term>
-    <term name="month-04" form="short">Abr</term>
-    <term name="month-05" form="short">Mai</term>
-    <term name="month-06" form="short">Jun</term>
-    <term name="month-07" form="short">Jul</term>
-    <term name="month-08" form="short">Ago</term>
-    <term name="month-09" form="short">Set</term>
-    <term name="month-10" form="short">Out</term>
-    <term name="month-11" form="short">Nov</term>
-    <term name="month-12" form="short">Dez</term>
+    <term name="month-01" form="short">Jan.</term>
+    <term name="month-02" form="short">Fev.</term>
+    <term name="month-03" form="short">Mar.</term>
+    <term name="month-04" form="short">Abr.</term>
+    <term name="month-05" form="short">Mai.</term>
+    <term name="month-06" form="short">Jun.</term>
+    <term name="month-07" form="short">Jul.</term>
+    <term name="month-08" form="short">Ago.</term>
+    <term name="month-09" form="short">Set.</term>
+    <term name="month-10" form="short">Out.</term>
+    <term name="month-11" form="short">Nov.</term>
+    <term name="month-12" form="short">Dez.</term>
 
     <!-- SEASONS -->
     <term name="season-01">Primavera</term>
