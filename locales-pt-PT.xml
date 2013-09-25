@@ -2,7 +2,10 @@
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="pt-PT">
   <info>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2012-07-04T23:31:02+00:00</updated>
+    <updated>2013-09-20T23:31:02+00:00</updated>
+    <translator>
+      <name>Jonadabe PT</name>
+    </translator>
   </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
@@ -263,7 +266,7 @@
     <!-- VERB ROLE FORMS -->
     <term name="director" form="verb">dirigido por</term>
     <term name="editor" form="verb">editado por</term>
-    <term name="editorial-director" form="verb">editado por</term>
+    <term name="editorial-director" form="verb">editorial de</term>
     <term name="illustrator" form="verb">ilustrado por</term>
     <term name="interviewer" form="verb">entrevistado por</term>
     <term name="recipient" form="verb">para</term>
