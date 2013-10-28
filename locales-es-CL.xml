@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="es-CL">
   <info>
+  	<translator>
+		  <name>Scott Sadowsky</name>
+		  <uri>http://sadowsky.cl/</uri>
+    </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
     <updated>2013-10-28T13:25:11-04:00</updated>
   </info>
