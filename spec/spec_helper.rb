@@ -2,6 +2,10 @@ require 'csl'
 
 LOCALE_ROOT = File.expand_path('../..', __FILE__)
 
+NO_REGIONS = %w{
+  eu ar
+}
+
 def load_locale(path)
   filename = File.basename(path)
   id = filename[0..-5]

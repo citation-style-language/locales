@@ -25,7 +25,7 @@ Locales.each_pair do |id, (filename, path, locale)|
 
       it "has a region" do
         locale.region.should_not be_empty
-      end unless id == 'locales-eu'
+      end unless NO_REGIONS.include?(locale.language.to_s)
 
       it "its language and region match the filename" do
         locale.to_s.should == id[8,5]
