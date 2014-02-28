@@ -183,7 +183,7 @@
       <multiple>s</multiple>
     </term>
     <term name="paragraph" form="short">par</term>
-    <term name="part" form="short">č</term>
+    <term name="part" form="short"></term>
     <term name="section" form="short">sek</term>
     <term name="sub verbo" form="short">
       <single>s.v.</single>
