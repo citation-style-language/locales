@@ -127,8 +127,8 @@
       <multiple>folio's</multiple>
     </term>
     <term name="issue">
-      <single>nummer</single>
-      <multiple>nummers</multiple>
+      <single>editie</single>
+      <multiple>edities</multiple>
     </term>
     <term name="line">
       <single>regel</single>
@@ -171,8 +171,8 @@
       <multiple>versen</multiple>
     </term>
     <term name="volume">
-      <single>volume</single>
-      <multiple>volumes</multiple>
+      <single>jaargang</single>
+      <multiple>jaargangen</multiple>
     </term>
 
     <!-- SHORT LOCATOR FORMS -->
@@ -181,7 +181,7 @@
     <term name="column" form="short">col.</term>
     <term name="figure" form="short">fig.</term>
     <term name="folio" form="short">f.</term>
-    <term name="issue" form="short">nr.</term>
+    <term name="issue" form="short">ed.</term>
     <term name="line" form="short">l.</term>
     <term name="note" form="short">n.</term>
     <term name="opus" form="short">op.</term>
@@ -205,8 +205,8 @@
       <multiple>vv.</multiple>
     </term>
     <term name="volume" form="short">
-      <single>vol.</single>
-      <multiple>vols.</multiple>
+      <single>jrg.</single>
+      <multiple>jrg(n).</multiple>
     </term>
 
     <!-- SYMBOL LOCATOR FORMS -->
