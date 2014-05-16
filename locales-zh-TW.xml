@@ -2,7 +2,7 @@
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="zh-TW">
   <info>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2014-05-15</updated>
+    <updated>2014-05-15T23:31:02+00:00</updated>
   </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
@@ -29,8 +29,7 @@
     <term name="cited">見引於</term>
     <term name="edition">版本</term>
     <term name="edition" form="short">本</term>
-    <term name="et-al">等人</term>
- 　<term name="et-al" form="short">等</term>
+    <term name="et-al">等</term>
     <term name="forthcoming">即將出版</term>
     <term name="from">從</term>
     <term name="ibid">同上</term>
@@ -61,7 +60,7 @@
     <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
-    <term name="ordinal" suffix="第">""</term>
+    <term name="ordinal">""</term>
   
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">一</term>
