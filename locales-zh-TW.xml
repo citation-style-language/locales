@@ -60,7 +60,7 @@
     <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
-    <term name="ordinal">""</term>
+    <term name="ordinal"></term>
   
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">一</term>
