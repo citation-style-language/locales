@@ -31,7 +31,10 @@
     <term name="circa">circa</term>
     <term name="circa" form="short">c.</term>
     <term name="cited">geciteerd</term>
-    <term name="edition">druk</term>
+    <term name="edition">
+      <single>druk</single>
+      <multiple>drukken</multiple>
+    </term>
     <term name="edition" form="short">dr.</term>
     <term name="et-al">e.a.</term>
     <term name="forthcoming">in voorbereiding</term>
@@ -168,8 +171,8 @@
       <multiple>versen</multiple>
     </term>
     <term name="volume">
-      <single>jaargang</single>
-      <multiple>jaargangen</multiple>
+      <single>deel</single>
+      <multiple>delen</multiple>
     </term>
 
     <!-- SHORT LOCATOR FORMS -->
