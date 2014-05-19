@@ -127,11 +127,24 @@
     <term name="editor">編輯</term> 
     <term name="editorial-director">主編</term>     
     <term name="illustrator">繪圖師</term>
-    <term name="interviewer" form="verb">採訪員</term>
-    <term name="recipient" form="verb">收信人</term>     
+    <term name="interviewer">採訪員</term>
+    <term name="recipient">收信人</term>     
     <term name="translator">翻譯員</term>      
     <term name="editortranslator">編譯員</term>
     <term name="reviewed-author">評論人</term>
+
+    <!-- SHORT ROLE FORMS -->
+    <term name="author" form="short">作者</term>     
+    <term name="director" form="short">導演</term>     
+    <term name="editor" form="short">編輯</term> 
+    <term name="editorial-director" form="short">主編</term>     
+    <term name="illustrator" form="short">繪圖師</term>
+    <term name="interviewer" form="short">採訪員</term>
+    <term name="recipient" form="short">收信人</term>     
+    <term name="translator" form="short">翻譯員</term>      
+    <term name="editortranslator" form="short">編譯員</term>
+    <term name="reviewed-author" form="short">評論人</term>
+
 
     <!-- VERB ROLE FORMS -->
     <term name="author" form="verb">著</term>
