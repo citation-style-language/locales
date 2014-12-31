@@ -11,8 +11,8 @@
     <date-part name="year"/>
   </date>
   <date form="numeric">
-    <date-part name="day" form="numeric-leading-zeros" suffix="/"/>
-    <date-part name="month" form="numeric-leading-zeros" suffix="/"/>
+    <date-part name="day" form="numeric-leading-zeros" suffix="."/>
+    <date-part name="month" form="numeric-leading-zeros" suffix="."/>
     <date-part name="year"/>
   </date>
   <terms>
@@ -32,8 +32,7 @@
       <multiple>baskı</multiple>
     </term>
     <term name="edition" form="short">baskı</term>
-    <term name="et-al">ve diğerleri</term>
-    <term name="et-al" form="short">vd.</term> 
+    <term name="et-al">vd.</term>
     <term name="forthcoming">gelecek</term>
     <term name="from">adresinden erişildi</term>
     <term name="ibid">a.g.e.</term>
@@ -285,18 +284,18 @@
     <term name="month-12">Aralık</term>
 
     <!-- SHORT MONTH FORMS -->
-    <term name="month-01" form="short">Oca</term>
-    <term name="month-02" form="short">Şub</term>
-    <term name="month-03" form="short">Mar</term>
-    <term name="month-04" form="short">Nis</term>
-    <term name="month-05" form="short">May</term>
-    <term name="month-06" form="short">Haz</term>
-    <term name="month-07" form="short">Tem</term>
-    <term name="month-08" form="short">Ağu</term>
-    <term name="month-09" form="short">Eyl</term>
-    <term name="month-10" form="short">Eki</term>
-    <term name="month-11" form="short">Kas</term>
-    <term name="month-12" form="short">Ara</term>
+    <term name="month-01" form="short">Oca.</term>
+    <term name="month-02" form="short">Şub.</term>
+    <term name="month-03" form="short">Mar.</term>
+    <term name="month-04" form="short">Nis.</term>
+    <term name="month-05" form="short">May.</term>
+    <term name="month-06" form="short">Haz.</term>
+    <term name="month-07" form="short">Tem.</term>
+    <term name="month-08" form="short">Ağu.</term>
+    <term name="month-09" form="short">Eyl.</term>
+    <term name="month-10" form="short">Eki.</term>
+    <term name="month-11" form="short">Kas.</term>
+    <term name="month-12" form="short">Ara.</term>
 
     <!-- SEASONS -->
     <term name="season-01">Bahar</term>
