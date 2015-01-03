@@ -62,10 +62,10 @@
     <term name="bc">M.Ö.</term>
 
     <!-- PUNCTUATION -->
-    <term name="open-quote">"</term>
-    <term name="close-quote">"</term>
-    <term name="open-inner-quote">'</term>
-    <term name="close-inner-quote">'</term>
+    <term name="open-quote">“</term>
+    <term name="close-quote">”</term>
+    <term name="open-inner-quote">‘</term>
+    <term name="close-inner-quote">’</term>
     <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
@@ -179,8 +179,8 @@
       <multiple>s.vv.</multiple>
     </term>
     <term name="verse" form="short">
-      <single>v</single>
-      <multiple>vv</multiple>
+      <single>v.</single>
+      <multiple>vv.</multiple>
     </term>
     <term name="volume" form="short">
       <single>c.</single>
@@ -199,8 +199,8 @@
 
     <!-- LONG ROLE FORMS -->
     <term name="director">
-      <single>director</single>
-      <multiple>directors</multiple>
+      <single>direktör</single>
+      <multiple>direktörler</multiple>
     </term>
     <term name="editor">
       <single>editör</single>
@@ -208,11 +208,11 @@
     </term>
     <term name="editorial-director">
       <single>editör</single>
-      <multiple>editör</multiple>
+      <multiple>editörler</multiple>
     </term>
     <term name="illustrator">
-      <single>illustrator</single>
-      <multiple>illustrators</multiple>
+      <single>illüstrasyon</single>
+      <multiple>illüstrasyon</multiple>
     </term>
     <term name="translator">
       <single>çeviren</single>
@@ -226,7 +226,7 @@
     <!-- SHORT ROLE FORMS -->
     <term name="director" form="short">
       <single>dir.</single>
-      <multiple>dirs.</multiple>
+      <multiple>dir.</multiple>
     </term>
     <term name="editor" form="short">
       <single>ed.</single>
@@ -238,7 +238,7 @@
     </term>
     <term name="illustrator" form="short">
       <single>ill.</single>
-      <multiple>ills.</multiple>
+      <multiple>ill.</multiple>
     </term>
     <term name="translator" form="short">
       <single>çev.</single>
@@ -250,7 +250,7 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
-    <term name="director" form="verb">directed by</term>
+    <term name="director" form="verb">direktör</term>
     <term name="editor" form="verb">editör</term>
     <term name="editorial-director" form="verb">düzenleyen</term>
     <term name="illustrator" form="verb">illustrated by</term>
@@ -265,7 +265,7 @@
     <term name="director" form="verb-short">dir.</term>
     <term name="editor" form="verb-short">ed.</term>
     <term name="editorial-director" form="verb-short">ed.</term>
-    <term name="illustrator" form="verb-short">illus.</term>
+    <term name="illustrator" form="verb-short">illüs.</term>
     <term name="translator" form="verb-short">çev.</term>
     <term name="editortranslator" form="verb-short">ed. &amp; çev.</term>
 
