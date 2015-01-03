@@ -47,11 +47,11 @@
     <term name="presented at">sunulan</term>
     <term name="reference">
       <single>kaynak</single>
-      <multiple>kaynakça</multiple>
+      <multiple>kaynaklar</multiple>
     </term>
     <term name="reference" form="short">
-      <single>ref.</single>
-      <multiple>refs.</multiple>
+      <single>kay.</single>
+      <multiple>kay.</multiple>
     </term>
     <term name="retrieved">tarihinde</term>
     <term name="scale">scale</term>
