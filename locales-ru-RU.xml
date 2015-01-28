@@ -32,7 +32,7 @@
     <term name="circa" form="short">ок.</term>
     <term name="cited">цитируется по</term>
     <term name="cited" form="short">цит. по</term>
-    <term name="edition">
+    <term name="edition"> <!-- gender="neuter" -->
       <single>издание</single>
       <multiple>издания</multiple>
     </term>
@@ -112,23 +112,24 @@
     <term name="long-ordinal-09" gender-form="feminine">девятая</term>
     <term name="long-ordinal-10" gender-form="feminine">десятая</term>
     <!-- LONG LOCATOR FORMS -->
-    <term name="book" gender="feminine">
+    <!-- Currently only a few of locator terms are gender-assignable -->
+    <term name="book">
       <single>книга</single>
       <multiple>книги</multiple>
     </term>
-    <term name="chapter" gender="feminine">
+    <term name="chapter">
       <single>глава</single>
       <multiple>главы</multiple>
     </term>
-    <term name="column" gender="masculine">
+    <term name="column">
       <single>столбец</single>
       <multiple>столбцы</multiple>
     </term>
-    <term name="figure" gender="masculine">
+    <term name="figure">
       <single>рисунок</single>
       <multiple>рисунки</multiple>
     </term>
-    <term name="folio" gender="masculine">
+    <term name="folio">
       <single>лист</single>
       <multiple>листы</multiple>
     </term>
@@ -136,7 +137,7 @@
       <single>выпуск</single>
       <multiple>выпуски</multiple>
     </term>
-    <term name="line" gender="feminine">
+    <term name="line">
       <single>строка</single>
       <multiple>строки</multiple>
     </term>
@@ -148,7 +149,7 @@
       <single>сочинение</single>
       <multiple>сочинения</multiple>
     </term>
-    <term name="page" gender="feminine">
+    <term name="page">
       <single>страница</single>
       <multiple>страницы</multiple>
     </term>
@@ -157,20 +158,20 @@
       <single>страница</single>
       <multiple>страницы</multiple>
     </term>
-    <term name="paragraph" gender="masculine">
+    <term name="paragraph">
       <single>параграф</single>
       <multiple>параграфы</multiple>
     </term>
-    <term name="part" gender="feminine">
+    <term name="part">
       <single>часть</single>
       <multiple>части</multiple>
     </term>
-    <term name="section" gender="masculine">
+    <term name="section">
       <single>раздел</single>
       <multiple>разделы</multiple>
     </term>
     <term name="sub verbo">смотри</term>
-    <term name="verse" gender="masculine">
+    <term name="verse">
       <single>стих</single>
       <multiple>стихи</multiple>
     </term>
