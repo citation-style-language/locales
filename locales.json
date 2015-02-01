@@ -1,53 +1,203 @@
 {
-  "description": "Conversion table for languages and locale codes",
-  "af-ZA": "Afrikaans",
-  "ar": "Arabic",
-  "bg-BG": "Bulgarian",
-  "ca-AD": "Catalan",
-  "cs-CZ": "Czech",
-  "cy-GB": "Welsh",
-  "da-DK": "Danish",
-  "de-AT": "German (Austria)",
-  "de-CH": "German (Switzerland)",
-  "de-DE": "German (Germany)",
-  "el-GR": "Greek",
-  "en-GB": "English (British)",
-  "en-US": "English (US)",
-  "es-CL": "Spanish (Chile)",
-  "es-ES": "Spanish (Spain)",
-  "et-EE": "Estonian",
-  "eu": "Basque",
-  "fa-IR": "Persian",
-  "fi-FI": "Finnish",
-  "fr-CA": "French (Canada)",
-  "fr-FR": "French (France)",
-  "he-IL": "Hebrew",
-  "hr-HR": "Croatian",
-  "hu-HU": "Hungarian",
-  "is-IS": "Icelandic",
-  "it-IT": "Italian",
-  "ja-JP": "Japanese",
-  "km-KH": "Khmer",
-  "ko-KR": "Korean",
-  "lt-LT": "Lithuanian",
-  "lv-LV": "Latvian",
-  "mn-MN": "Mongolian",
-  "nb-NO": "Norwegian (Bokmål)",
-  "nl-NL": "Dutch",
-  "nn-NO": "Norwegian (Nynorsk)",
-  "pl-PL": "Polish",
-  "pt-BR": "Portuguese (Brazil)",
-  "pt-PT": "Portuguese (Portugal)",
-  "ro-RO": "Romanian",
-  "ru-RU": "Russian",
-  "sk-SK": "Slovak",
-  "sl-SL": "Slovenian",
-  "sr-RS": "Serbian",
-  "sv-SE": "Swedish",
-  "th-TH": "Thai",
-  "tr-TR": "Turkish",
-  "uk-UA": "Ukrainian",
-  "vi-VN": "Vietnamese",
-  "zh-CN": "Chinese (PRC)",
-  "zh-TW": "Chinese (Taiwan)"
+    "description": "Conversion table for languages and locale codes",
+    "af-ZA": [
+        "Afrikaans",
+        "Afrikaans"
+    ],
+    "ar": [
+        "العربية",
+        "Arabic"
+    ],
+    "bg-BG": [
+        "Български",
+        "Bulgarian"
+    ],
+    "ca-AD": [
+        "Català",
+        "Catalan"
+    ],
+    "cs-CZ": [
+        "Čeština",
+        "Czech"
+    ],
+    "cy-GB": [
+        "Cymraeg",
+        "Welsh"
+    ],
+    "da-DK": [
+        "Dansk",
+        "Danish"
+    ],
+    "de-AT": [
+        "Deutsch (Österreich)",
+        "German (Austria)"
+    ],
+    "de-CH": [
+        "Deutsch (Schweiz)",
+        "German (Switzerland)"
+    ],
+    "de-DE": [
+        "Deutsch (Deutschland)",
+        "German (Germany)"
+    ],
+    "el-GR": [
+        "Ελληνικά",
+        "Greek"
+    ],
+    "en-GB": [
+        "English, British",
+        "English, British"
+    ],
+    "en-US": [
+        "English, US",
+        "English, US"
+    ],
+    "es-CL": [
+        "Español (Chile)",
+        "Spanish (Chile)"
+    ],
+    "es-ES": [
+        "Español (España)",
+        "Spanish (Spain)"
+    ],
+    "et-EE": [
+        "Eesti",
+        "Estonian"
+    ],
+    "eu": [
+        "Euskara",
+        "Basque"
+    ],
+    "fa-IR": [
+        "فارسی",
+        "Persian"
+    ],
+    "fi-FI": [
+        "Suomi",
+        "Finnish"
+    ],
+    "fr-CA": [
+        "Français (Canada)",
+        "French (Canada)"
+    ],
+    "fr-FR": [
+        "Français (France)",
+        "French (France)"
+    ],
+    "he-IL": [
+        "עברית",
+        "Hebrew"
+    ],
+    "hr-HR": [
+        "Hrvatski",
+        "Croatian"
+    ],
+    "hu-HU": [
+        "Magyar",
+        "Hungarian"
+    ],
+    "is-IS": [
+        "Íslenska",
+        "Icelandic"
+    ],
+    "it-IT": [
+        "Italiano",
+        "Italian"
+    ],
+    "ja-JP": [
+        "日本語",
+        "Japanese"
+    ],
+    "km-KH": [
+        "ភាសាខ្មែរ",
+        "Khmer"
+    ],
+    "ko-KR": [
+        "한국어",
+        "Korean"
+    ],
+    "lt-LT": [
+        "Lietuvių",
+        "Lithuanian"
+    ],
+    "lv-LV": [
+        "Latviešu",
+        "Latvian"
+    ],
+    "mn-MN": [
+        "Монгол",
+        "Mongolian"
+    ],
+    "nb-NO": [
+        "Norsk bokmål",
+        "Norwegian (Bokmål)"
+    ],
+    "nl-NL": [
+        "Nederlands",
+        "Dutch"
+    ],
+    "nn-NO": [
+        "Norsk nynorsk",
+        "Norwegian (Nynorsk)"
+    ],
+    "pl-PL": [
+        "Polski",
+        "Polish"
+    ],
+    "pt-BR": [
+        "Português (Brasil)",
+        "Portuguese (Brazil)"
+    ],
+    "pt-PT": [
+        "Português (Portugal)",
+        "Portuguese (Portugal)"
+    ],
+    "ro-RO": [
+        "Română",
+        "Romanian"
+    ],
+    "ru-RU": [
+        "Русский",
+        "Russian"
+    ],
+    "sk-SK": [
+        "Slovenčina",
+        "Slovak"
+    ],
+    "sl-SL": [
+        "Slovenščina",
+        "Slovenian"
+    ],
+    "sr-RS": [
+        "Српски / Srpski",
+        "Serbian"
+    ],
+    "sv-SE": [
+        "Svenska",
+        "Swedish"
+    ],
+    "th-TH": [
+        "ไทย",
+        "Thai"
+    ],
+    "tr-TR": [
+        "Türkçe",
+        "Turkish"
+    ],
+    "uk-UA": [
+        "Українська",
+        "Ukrainian"
+    ],
+    "vi-VN": [
+        "Tiếng Việt",
+        "Vietnamese"
+    ],
+    "zh-CN": [
+        "中文 (中国大陆)",
+        "Chinese (PRC)"
+    ],
+    "zh-TW": [
+        "中文 (台灣)",
+        "Chinese (Taiwan)"
+    ]
 }
