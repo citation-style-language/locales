@@ -199,7 +199,7 @@
 
     <!-- LONG ROLE FORMS -->
     <term name="director">
-      <single>Regisseure</single>
+      <single>Regisseur</single>
       <multiple>Regisseure</multiple>
     </term>
     <term name="editor">
