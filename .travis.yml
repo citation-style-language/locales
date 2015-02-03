@@ -1,10 +1,11 @@
+sudo: false
 language: ruby
 rvm:
-  - 2.1.0
+  - 2.2
 notifications:
   email:
     recipients:
       - rintze.zelle@gmail.com
-      - sylvester@keil.or.at
+      - karcher@u.northwestern.edu
     on_success: change
     on_failure: always
