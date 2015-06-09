@@ -175,7 +175,10 @@
     </term>
 
     <!-- SHORT LOCATOR FORMS -->
-    <term name="book" form="short">lib.</term>
+    <term name="book" form="short">
+    	<single>lib.</single>
+    	<multiple>libs.</multiple>
+    </term>
     <term name="chapter" form="short">
 	  <single>cap.</single>
       <multiple>caps.</multiple>
@@ -212,7 +215,7 @@
     </term>
     <term name="paragraph" form="short">
 	  <single>párr.</single>
-      <multiple></multiple>
+      <multiple>párrs.</multiple>
     </term>
     <term name="part" form="short">
 	 <single>pt.</single>
