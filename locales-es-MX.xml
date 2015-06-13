@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="es-MX">
   <info>
-    <translator>
-      <name>Juan Ignacio Flores Salgado</name>
-      <uri>https://www.mendeley.com/profiles/juan-ignacio-flores-salgado/</uri>
-      <link href="https://github.com/citation-style-language/locales/blob/master/locales-es-CL.xml" rel="templete"/>
-    </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2015-06-06T17:34:15-04:00</updated>
+    <updated>2015-06-13T13:27:31-06:00</updated>
   </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
@@ -21,12 +16,11 @@
     <date-part name="year"/>
   </date>
   <terms>
-    <term name="accessed">consultado</term>
+    <term name="accessed">consultado el</term>
     <term name="and">y</term>
     <term name="and others">et&#160;al.</term>
     <term name="anonymous">anónimo</term>
     <term name="anonymous" form="short">anón.</term>
-    <term name="art-cit">art.&#160;cit.</term>
     <term name="at">en</term>
     <term name="available at">disponible en</term>
     <term name="by">de</term>
@@ -39,24 +33,20 @@
     </term>
     <term name="edition" form="short">
 	  <single>ed.</single>
-      <multiple>eds.</multiple>
-    </term>
+      <multiple>eds.</multiple></term>
     <term name="et-al">et&#160;al.</term>
-    <term name="forthcoming">en prensa</term>
+    <term name="forthcoming">en preparación</term>
     <term name="from">a partir de</term>
     <term name="ibid">ibid.</term>
-    <term name="id">id.</term>
     <term name="in">en</term>
     <term name="in press">en imprenta</term>
     <term name="internet">internet</term>
     <term name="interview">entrevista</term>
     <term name="letter">carta</term>
-    <term name="loc-cit">loc.&#160;cit.<term>
     <term name="no date">sin fecha</term>
     <term name="no date" form="short">s/f</term>
     <term name="online">en línea</term>
     <term name="presented at">presentado en</term>
-	<term name="thesis">tesis</term>
     <term name="reference">
       <single>referencia</single>
       <multiple>referencias</multiple>
@@ -67,12 +57,7 @@
     </term>
     <term name="retrieved">recuperado</term>
     <term name="scale">escala</term>
-    <term name="videtur">
-      <single>véase</single>
-      <multiple>véanse</multiple>
-    </term>
     <term name="version">versión</term>
-    <term name="versus">versus</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
     <term name="ad">d.&#160;C.</term>
@@ -161,10 +146,6 @@
       <single>sub voce</single>
       <multiple>sub vocibus</multiple>
     </term>
-	<term name="videtur">
-      <single>véase</single>
-      <multiple>véanse</multiple>
-    </term>
     <term name="verse">
       <single>verso</single>
       <multiple>versos</multiple>
@@ -176,35 +157,41 @@
 
     <!-- SHORT LOCATOR FORMS -->
     <term name="book" form="short">
-    	<single>lib.</single>
-    	<multiple>libs</multiple>
-    	</term>
+	  <single>lib.</single>
+      <multiple>libs.</multiple>
+	</term>
     <term name="chapter" form="short">
 	  <single>cap.</single>
-      <multiple>caps.</multiple>
-    </term>
+	  <multiple>caps.</multiple>
+	</term>
     <term name="column" form="short">
 	  <single>col.</single>
-      <multiple>cols.</multiple>
-    </term>
+	  <multiple>cols.</multiple>
+	</term>
     <term name="figure" form="short">
 	  <single>fig.</single>
-      <multiple>figs.</multiple>
-    </term>
-	<term name="folio" form="short">
+	  <multiple>figs.</multiple>
+	</term>
+    <term name="folio" form="short">
 	  <single>f.</single>
-      <multiple>ff.</multiple>
-    </term>
+	  <multiple>ff.</multiple>
+	</term>
     <term name="issue" form="short">
 	  <single>núm.</single>
-      <multiple>núms.</multiple>
-    </term>
-    <term name="line" form="short">l.</term>
+	  <multiple>núms.</multiple>
+	</term>
+    <term name="line" form="short">
+	  <single>l.</single>
+	  <multiple>ls.</multiple>
+	</term>
     <term name="note" form="short">
 	  <single>n.</single>
-      <multiple>nn.</multiple>
-    </term>n.</term>
-    <term name="opus" form="short">op.</term>
+	  <multiple>nn.</multiple>
+	</term>
+    <term name="opus" form="short">
+	  <single>op.</single>
+	  <multiple>opp.</multiple>
+	</term>
     <term name="page" form="short">
       <single>p.</single>
       <multiple>pp.</multiple>
@@ -215,16 +202,16 @@
     </term>
     <term name="paragraph" form="short">
 	  <single>párr.</single>
-      <multiple>párrs.</multiple>
-    </term>
+	  <multiple>párrs.</multiple>
+	</term>
     <term name="part" form="short">
-	 <single>pt.</single>
-      <multiple>pts.</multiple>
-    </term>
+	  <single>pt.</single>
+	  <multiple>pts.</multiple>
+	</term>
     <term name="section" form="short">
-	 <single>sec.</single>
-      <multiple>secs.</multiple>
-    </term>
+	  <single>sec.</single>
+	  <multiple>secs.</multiple>
+	</term>
     <term name="sub verbo" form="short">
       <single>s.&#160;v.</single>
       <multiple>s.&#160;vv.</multiple>
@@ -232,10 +219,6 @@
     <term name="verse" form="short">
       <single>v.</single>
       <multiple>vv.</multiple>
-    </term>
-	<term name="videtur">
-      <single>v.</single>
-      <multiple>v.</multiple>
     </term>
     <term name="volume" form="short">
       <single>vol.</single>
