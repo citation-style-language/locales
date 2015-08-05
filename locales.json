@@ -19,6 +19,7 @@
         "he": "he-IL",
         "hr": "hr-HR",
         "hu": "hu-HU",
+        "id": "id-ID",
         "is": "is-IS",
         "it": "it-IT",
         "ja": "ja-JP",
@@ -144,6 +145,10 @@
         "hu-HU": [
             "Magyar",
             "Hungarian"
+        ],
+        "id-ID": [
+            "Bahasa Indonesia",
+            "Indonesian"    
         ],
         "is-IS": [
             "Íslenska",
