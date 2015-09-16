@@ -164,7 +164,10 @@
     <term name="chapter" form="short">chap.</term>
     <term name="column" form="short">col.</term>
     <term name="figure" form="short">fig.</term>
-    <term name="folio" form="short">f.</term>
+    <term name="folio" form="short">
+      <single>fol.</single>
+      <multiple>fols</multiple>
+    </term>
     <term name="issue" form="short">no.</term>
     <term name="line" form="short">l.</term>
     <term name="note" form="short">n.</term>
