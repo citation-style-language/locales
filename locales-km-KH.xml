@@ -213,7 +213,7 @@
       <multiple>editors</multiple>
     </term>
     <term name="editorial-director">
-      <single/>
+      <single></single>
       <multiple>editors</multiple>
     </term>
     <term name="illustrator">

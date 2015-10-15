@@ -23,7 +23,7 @@
     <term name="anonymous" form="short">anon.</term>
     <term name="at">pri</term>
     <term name="available at">dostopno</term>
-    <term name="by"/>
+    <term name="by"></term>
     <term name="circa">circa</term>
     <term name="circa" form="short">ca.</term>
     <term name="cited">citirano</term>
@@ -250,14 +250,14 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
-    <term name="container-author" form="verb"/>
+    <term name="container-author" form="verb"></term>
     <term name="director" form="verb">režiral</term>
     <term name="editor" form="verb">uredil</term>
     <term name="editorial-director" form="verb">uredil</term>
     <term name="illustrator" form="verb">ilustriral</term>
     <term name="interviewer" form="verb">intervjuval</term>
     <term name="recipient" form="verb">za</term>
-    <term name="reviewed-author" form="verb"/>
+    <term name="reviewed-author" form="verb"></term>
     <term name="translator" form="verb">prevedel</term>
     <term name="editortranslator" form="verb">uredil &amp; prevedel</term>
 

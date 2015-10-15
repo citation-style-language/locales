@@ -74,7 +74,7 @@
 
     <!-- ORDINALS -->
     <term name="ordinal">-lea</term>
-    <term name="ordinal-01" match="whole-number"/>
+    <term name="ordinal-01" match="whole-number"></term>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">primul</term>

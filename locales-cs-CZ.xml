@@ -251,7 +251,7 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
-    <term name="container-author" form="verb"/>
+    <term name="container-author" form="verb"></term>
     <term name="director" form="verb">řídil</term>
     <term name="editor" form="verb">editoval</term>
     <term name="editorial-director" form="verb">editoval</term>

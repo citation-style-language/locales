@@ -250,7 +250,7 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
-    <term name="container-author" form="verb"/>
+    <term name="container-author" form="verb"></term>
     <term name="director" form="verb">directed by</term>
     <term name="editor" form="verb">-(e)k argitaratua</term>
     <term name="editorial-director" form="verb">-(e)k argitaratua</term>

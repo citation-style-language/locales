@@ -250,7 +250,7 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
-    <term name="container-author" form="verb"/>
+    <term name="container-author" form="verb"></term>
     <term name="director" form="verb">direktör</term>
     <term name="editor" form="verb">editör</term>
     <term name="editorial-director" form="verb">düzenleyen</term>
