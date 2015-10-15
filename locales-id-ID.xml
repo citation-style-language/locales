@@ -69,13 +69,13 @@
     <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
-    <term name="ordinal"></term>
-    <term name="ordinal-01"></term>
-    <term name="ordinal-02"></term>
-    <term name="ordinal-03"></term>
-    <term name="ordinal-11"></term>
-    <term name="ordinal-12"></term>
-    <term name="ordinal-13"></term>
+    <term name="ordinal"/>
+    <term name="ordinal-01"/>
+    <term name="ordinal-02"/>
+    <term name="ordinal-03"/>
+    <term name="ordinal-11"/>
+    <term name="ordinal-12"/>
+    <term name="ordinal-13"/>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">pertama</term>
@@ -256,6 +256,7 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
+    <term name="container-author" form="verb">oleh</term>
     <term name="director" form="verb">directed by</term>
     <term name="editor" form="verb">diedit oleh</term>
     <term name="editorial-director" form="verb">diedit oleh</term>
@@ -267,7 +268,6 @@
     <term name="editortranslator" form="verb">disunting &amp; diterjemahkan oleh</term>
 
     <!-- SHORT VERB ROLE FORMS -->
-    <term name="container-author" form="verb-short">oleh</term>
     <term name="director" form="verb-short">dir. oleh</term>
     <term name="editor" form="verb-short">ed. oleh</term>
     <term name="editorial-director" form="verb-short">ed. oleh</term>

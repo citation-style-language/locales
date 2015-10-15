@@ -305,6 +305,7 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
+    <term name="container-author" form="verb"/>
     <term name="composer" form="verb">sastādīja</term>
     <term name="director" form="verb">vadīja</term>
     <term name="editor" form="verb">sagatavoja</term>
@@ -316,7 +317,6 @@
     <term name="translator" form="verb">tulkoja</term>
 
     <!-- SHORT VERB ROLE FORMS -->
-    <term name="container-author" form="verb-short"/>
     <term name="director" form="verb-short">sast.</term>
     <term name="editor" form="verb-short">sag.</term>
     <term name="editorial-director" form="verb-short">sag.</term>
