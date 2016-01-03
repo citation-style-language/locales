@@ -23,7 +23,7 @@
     <term name="anonymous" form="short">anon.</term>
     <term name="at">pada</term>
     <term name="available at">tersedia pada</term>
-    <term name="by">by</term>
+    <term name="by">oleh</term>
     <term name="circa">circa</term>
     <term name="circa" form="short">c.</term>
     <term name="cited">dikutip</term>
@@ -36,8 +36,8 @@
     <term name="forthcoming">mendatang</term>
     <term name="from">dari</term>
     <term name="ibid">ibid.</term>
-    <term name="in">in</term>
-    <term name="in press">in press</term>
+    <term name="in">dalam</term>
+    <term name="in press">dalam percetakan</term>
     <term name="internet">internet</term>
     <term name="interview">wawancara</term>
     <term name="letter">surat</term>
@@ -69,13 +69,13 @@
     <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
-    <term name="ordinal"></term>
-    <term name="ordinal-01"></term>
-    <term name="ordinal-02"></term>
-    <term name="ordinal-03"></term>
-    <term name="ordinal-11"></term>
-    <term name="ordinal-12"></term>
-    <term name="ordinal-13"></term>
+    <term name="ordinal">bilangan bertingkat</term>
+    <term name="ordinal-01">ke-1</term>
+    <term name="ordinal-02">ke-2</term>
+    <term name="ordinal-03">ke-3</term>
+    <term name="ordinal-11">ke-11</term>
+    <term name="ordinal-12">ke-12</term>
+    <term name="ordinal-13">ke-13</term>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">pertama</term>
@@ -143,8 +143,8 @@
       <multiple>bagian</multiple>
     </term>
     <term name="section">
-      <single>section</single>
-      <multiple>section</multiple>
+      <single>seksi</single>
+      <multiple>seksi</multiple>
     </term>
     <term name="sub verbo">
       <single>sub verbo</single>
@@ -161,13 +161,13 @@
 
     <!-- SHORT LOCATOR FORMS -->
     <term name="book" form="short">bk.</term>
-    <term name="chapter" form="short">chap.</term>
-    <term name="column" form="short">col.</term>
+    <term name="chapter" form="short">bab</term>
+    <term name="column" form="short">kol.</term>
     <term name="figure" form="short">gam.</term>
     <term name="folio" form="short">f.</term>
     <term name="issue" form="short">no.</term>
-    <term name="line" form="short">l.</term>
-    <term name="note" form="short">n.</term>
+    <term name="line" form="short">bar.</term>
+    <term name="note" form="short">cat.</term>
     <term name="opus" form="short">op.</term>
     <term name="page" form="short">
       <single>hal.</single>
@@ -271,8 +271,8 @@
     <term name="director" form="verb-short">dir. oleh</term>
     <term name="editor" form="verb-short">ed. oleh</term>
     <term name="editorial-director" form="verb-short">ed. oleh</term>
-    <term name="illustrator" form="verb-short">illus. oleh</term>
-    <term name="translator" form="verb-short">trans. oleh</term>
+    <term name="illustrator" form="verb-short">ilus. oleh</term>
+    <term name="translator" form="verb-short">penerjemah. oleh</term>
     <term name="editortranslator" form="verb-short">ed. &amp; trans. oleh</term>
 
     <!-- LONG MONTH FORMS -->
