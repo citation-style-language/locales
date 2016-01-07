@@ -10,7 +10,7 @@ notifications:
       - karcher@u.northwestern.edu
     on_success: change
     on_failure: always
-webhooks:
+  webhooks:
     urls:
       - https://shelbot.herokuapp.com/build
     on_success: always
