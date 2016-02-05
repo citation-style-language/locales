@@ -20,7 +20,7 @@
     <date-part name="year"/>
   </date>
   <terms>
-    <term name="accessed">geraadpleegd</term>
+    <term name="accessed">geraadpleegd op</term>
     <term name="and">en</term>
     <term name="and others">en anderen</term>
     <term name="anonymous">anoniem</term>
@@ -57,7 +57,7 @@
       <single>ref.</single>
       <multiple>refs.</multiple>
     </term>
-    <term name="retrieved">geraadpleegd</term>
+    <term name="retrieved">geraadpleegd op</term>
     <term name="scale">schaal</term>
     <term name="version">versie</term>
 
