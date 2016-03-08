@@ -62,10 +62,10 @@
     <term name="bc">f.v.t.</term>
 
     <!-- PUNCTUATION -->
-    <term name="open-quote">"</term>
-    <term name="close-quote">»"</term>
-    <term name="open-inner-quote">'</term>
-    <term name="close-inner-quote">'</term>
+    <term name="open-quote">“</term>
+    <term name="close-quote">”</term>
+    <term name="open-inner-quote">‘</term>
+    <term name="close-inner-quote">’</term>
     <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
@@ -141,8 +141,8 @@
       <multiple>paragraffer</multiple>
     </term>
     <term name="sub verbo">
-      <single>sub verbo</single>
-      <multiple>sub verbis</multiple>
+      <single>sub voce</single>
+      <multiple>sub voce</multiple>
     </term>
     <term name="verse">
       <single>vers</single>
@@ -176,7 +176,7 @@
     <term name="section" form="short">par.</term>
     <term name="sub verbo" form="short">
       <single>s.v.</single>
-      <multiple>s.vv.</multiple>
+      <multiple>s.v.</multiple>
     </term>
     <term name="verse" form="short">
       <single>v.</single>
