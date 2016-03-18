@@ -199,8 +199,8 @@
 
     <!-- LONG ROLE FORMS -->
     <term name="director">
-      <single>director</single>
-      <multiple>directors</multiple>
+      <single>مدور</single>
+      <multiple>مدورين</multiple>
     </term>
     <term name="editor">
       <single>محرر</single>
@@ -257,7 +257,7 @@
     <term name="illustrator" form="verb">illustrated by</term>
     <term name="interviewer" form="verb">مقابلة بواسطة</term>
     <term name="recipient" form="verb">مرسل الى</term>
-    <term name="reviewed-author" form="verb">by</term>
+    <term name="reviewed-author" form="verb">بـ</term>
     <term name="translator" form="verb">ترجمة</term>
     <term name="editortranslator" form="verb">اعداد وترجمة</term>
 
