@@ -70,12 +70,6 @@
 
     <!-- ORDINALS -->
     <term name="ordinal"></term>
-    <term name="ordinal-01"></term>
-    <term name="ordinal-02"></term>
-    <term name="ordinal-03"></term>
-    <term name="ordinal-11"></term>
-    <term name="ordinal-12"></term>
-    <term name="ordinal-13"></term>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">اول</term>
