@@ -22,7 +22,7 @@
     <term name="anonymous">مجهول</term>
     <term name="anonymous" form="short">مجهول</term>
     <term name="at">عند</term>
-    <term name="available at">available at</term>
+    <term name="available at">موجود في</term>
     <term name="by">عن طريق</term>
     <term name="circa">حوالي</term>
     <term name="circa" form="short">حو.</term>
@@ -70,6 +70,12 @@
 
     <!-- ORDINALS -->
     <term name="ordinal"></term>
+    <term name="ordinal-01"></term>
+    <term name="ordinal-02"></term>
+    <term name="ordinal-03"></term>
+    <term name="ordinal-11"></term>
+    <term name="ordinal-12"></term>
+    <term name="ordinal-13"></term>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">الاول</term>
