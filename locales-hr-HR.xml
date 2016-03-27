@@ -22,7 +22,7 @@
     <term name="anonymous">anonim</term>
     <term name="anonymous" form="short">anon.</term>
     <term name="at">na</term>
-    <term name="available at">pristupačno na</term>
+    <term name="available at">dostupno na</term>
     <term name="by">od</term>
     <term name="circa">circa</term>
     <term name="circa" form="short">c.</term>
@@ -37,7 +37,7 @@
     <term name="from">od</term>
     <term name="ibid">ibid.</term>
     <term name="in">u</term>
-    <term name="in press">u štampi</term>
+    <term name="in press">u tisku</term>
     <term name="internet">internet</term>
     <term name="interview">intervju</term>
     <term name="letter">pismo</term>
@@ -99,8 +99,8 @@
       <multiple>poglavlja</multiple>
     </term>
     <term name="column">
-      <single>kolona</single>
-      <multiple>kolone</multiple>
+      <single>stupac</single>
+      <multiple>stupci</multiple>
     </term>
     <term name="figure">
       <single>crtež</single>
@@ -119,12 +119,12 @@
       <multiple>linije</multiple>
     </term>
     <term name="note">
-      <single>beleška</single>
-      <multiple>beleške</multiple>
+      <single>bilješka</single>
+      <multiple>bilješke</multiple>
     </term>
     <term name="opus">
       <single>opus</single>
-      <multiple>opera</multiple>
+      <multiple>opusi</multiple>
     </term>
     <term name="page">
       <single>stranica</single>
@@ -139,12 +139,12 @@
       <multiple>paragrafi</multiple>
     </term>
     <term name="part">
-      <single>deo</single>
-      <multiple>delova</multiple>
+      <single>dio</single>
+      <multiple>dijelova</multiple>
     </term>
     <term name="section">
-      <single>odeljak</single>
-      <multiple>odeljaka</multiple>
+      <single>sekcija</single>
+      <multiple>sekcije</multiple>
     </term>
     <term name="sub verbo">
       <single>sub verbo</single>
@@ -163,7 +163,7 @@
     <term name="book" form="short">knj</term>
     <term name="chapter" form="short">pog</term>
     <term name="column" form="short">kol</term>
-    <term name="figure" form="short">црт</term>
+    <term name="figure" form="short">crt</term>
     <term name="folio" form="short">fol</term>
     <term name="issue" form="short">izd</term>
     <term name="line" form="short">l</term>
@@ -178,7 +178,7 @@
       <multiple>str.</multiple>
     </term>
     <term name="paragraph" form="short">par</term>
-    <term name="part" form="short">deo</term>
+    <term name="part" form="short">dio</term>
     <term name="section" form="short">od</term>
     <term name="sub verbo" form="short">
       <single>s.v.</single>
@@ -209,24 +209,24 @@
       <multiple>directors</multiple>
     </term>
     <term name="editor">
-      <single>priređivač</single>
-      <multiple>priređivači</multiple>
+      <single>urednik</single>
+      <multiple>urednici</multiple>
     </term>
     <term name="editorial-director">
-      <single>priređivač</single>
-      <multiple>priređivači</multiple>
+      <single>urednik</single>
+      <multiple>urednici</multiple>
     </term>
     <term name="illustrator">
       <single>ilustrator</single>
       <multiple>ilustratori</multiple>
     </term>
     <term name="translator">
-      <single>prevodilac</single>
-      <multiple>prevodioci</multiple>
+      <single>prevoditelj</single>
+      <multiple>prevoditelji</multiple>
     </term>
     <term name="editortranslator">
-      <single>priređivač &amp; prevodilac</single>
-      <multiple>priređivači &amp; prevodioci</multiple>
+      <single>urednik &amp; prevoditelj</single>
+      <multiple>urednici &amp; prevoditelji</multiple>
     </term>
 
     <!-- SHORT ROLE FORMS -->
@@ -258,54 +258,54 @@
     <!-- VERB ROLE FORMS -->
     <term name="container-author" form="verb">by</term>
     <term name="director" form="verb">directed by</term>
-    <term name="editor" form="verb">priredio</term>
-    <term name="editorial-director" form="verb">priredio</term>
-    <term name="illustrator" form="verb">ilustrovao</term>
-    <term name="interviewer" form="verb">intervjuisao</term>
-    <term name="recipient" form="verb">prima</term>
+    <term name="editor" form="verb">uredio</term>
+    <term name="editorial-director" form="verb">uredio</term>
+    <term name="illustrator" form="verb">ilustrirao</term>
+    <term name="interviewer" form="verb">intervjuirao</term>
+    <term name="recipient" form="verb">primatelj</term>
     <term name="reviewed-author" form="verb">od</term>
     <term name="translator" form="verb">preveo</term>
-    <term name="editortranslator" form="verb">priredio &amp; preveo by</term>
+    <term name="editortranslator" form="verb">uredio &amp; preveo</term>
 
     <!-- SHORT VERB ROLE FORMS -->
     <term name="director" form="verb-short">dir.</term>
-    <term name="editor" form="verb-short">prir.</term>
-    <term name="editorial-director" form="verb-short">prir.</term>
+    <term name="editor" form="verb-short">ur.</term>
+    <term name="editorial-director" form="verb-short">ur.</term>
     <term name="illustrator" form="verb-short">ilus.</term>
     <term name="translator" form="verb-short">prev.</term>
-    <term name="editortranslator" form="verb-short">prir. &amp; prev. by</term>
+    <term name="editortranslator" form="verb-short">ur. &amp; prev.</term>
 
     <!-- LONG MONTH FORMS -->
-    <term name="month-01">januar</term>
-    <term name="month-02">februar</term>
-    <term name="month-03">mart</term>
-    <term name="month-04">april</term>
-    <term name="month-05">maj</term>
-    <term name="month-06">jun</term>
-    <term name="month-07">jul</term>
-    <term name="month-08">avgust</term>
-    <term name="month-09">septembar</term>
-    <term name="month-10">oktobar</term>
-    <term name="month-11">novembar</term>
-    <term name="month-12">decembar</term>
+    <term name="month-01">siječanj</term>
+    <term name="month-02">veljača</term>
+    <term name="month-03">ožujak</term>
+    <term name="month-04">travanj</term>
+    <term name="month-05">svibanj</term>
+    <term name="month-06">lipanj</term>
+    <term name="month-07">srpanj</term>
+    <term name="month-08">kolovoz</term>
+    <term name="month-09">rujan</term>
+    <term name="month-10">listopad</term>
+    <term name="month-11">studeni</term>
+    <term name="month-12">prosinac</term>
 
     <!-- SHORT MONTH FORMS -->
-    <term name="month-01" form="short">jan.</term>
-    <term name="month-02" form="short">feb.</term>
-    <term name="month-03" form="short">mart</term>
-    <term name="month-04" form="short">apr.</term>
-    <term name="month-05" form="short">maj</term>
-    <term name="month-06" form="short">jun</term>
-    <term name="month-07" form="short">jul</term>
-    <term name="month-08" form="short">avg.</term>
-    <term name="month-09" form="short">sep.</term>
-    <term name="month-10" form="short">okt.</term>
-    <term name="month-11" form="short">nov.</term>
-    <term name="month-12" form="short">dec.</term>
+    <term name="month-01" form="short">sij.</term>
+    <term name="month-02" form="short">velj.</term>
+    <term name="month-03" form="short">ožu.</term>
+    <term name="month-04" form="short">tra.</term>
+    <term name="month-05" form="short">svi.</term>
+    <term name="month-06" form="short">lip.</term>
+    <term name="month-07" form="short">srp.</term>
+    <term name="month-08" form="short">kol.</term>
+    <term name="month-09" form="short">ruj.</term>
+    <term name="month-10" form="short">lis.</term>
+    <term name="month-11" form="short">stu.</term>
+    <term name="month-12" form="short">pros.</term>
 
     <!-- SEASONS -->
-    <term name="season-01">proleće</term>
-    <term name="season-02">leto</term>
+    <term name="season-01">proljeće</term>
+    <term name="season-02">ljeto</term>
     <term name="season-03">jesen</term>
     <term name="season-04">zima</term>
   </terms>
