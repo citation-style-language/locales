@@ -19,13 +19,13 @@
     <term name="accessed">pristupljeno</term>
     <term name="and">i</term>
     <term name="and others">i ostali</term>
-    <term name="anonymous">anonim</term>
+    <term name="anonymous">anonimno</term>
     <term name="anonymous" form="short">anon.</term>
     <term name="at">na</term>
     <term name="available at">dostupno na</term>
     <term name="by">od</term>
-    <term name="circa">circa</term>
-    <term name="circa" form="short">c.</term>
+    <term name="circa">oko</term>
+    <term name="circa" form="short">oko</term>
     <term name="cited">citirano</term>
     <term name="edition">
       <single>izdanje</single>
@@ -42,7 +42,7 @@
     <term name="interview">intervju</term>
     <term name="letter">pismo</term>
     <term name="no date">bez datuma</term>
-    <term name="no date" form="short">bez datuma</term>
+    <term name="no date" form="short">bez dat.</term>
     <term name="online">na internetu</term>
     <term name="presented at">predstavljeno na</term>
     <term name="reference">
@@ -58,8 +58,8 @@
     <term name="version">verzija</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
-    <term name="ad">AD</term>
-    <term name="bc">BC</term>
+    <term name="ad"></term>
+    <term name="bc">pr. Kr.</term>
 
     <!-- PUNCTUATION -->
     <term name="open-quote">„</term>
@@ -69,13 +69,7 @@
     <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
-    <term name="ordinal">th</term>
-    <term name="ordinal-01">st</term>
-    <term name="ordinal-02">nd</term>
-    <term name="ordinal-03">rd</term>
-    <term name="ordinal-11">th</term>
-    <term name="ordinal-12">th</term>
-    <term name="ordinal-13">th</term>
+    <term name="ordinal">.</term>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">prvi</term>
@@ -111,20 +105,20 @@
       <multiple>folije</multiple>
     </term>
     <term name="issue">
-      <single>broj</single>
-      <multiple>brojevi</multiple>
+      <single>izdanje</single>
+      <multiple>izdanja</multiple>
     </term>
     <term name="line">
-      <single>linija</single>
-      <multiple>linije</multiple>
+      <single>red</single>
+      <multiple>redovi</multiple>
     </term>
     <term name="note">
       <single>bilješka</single>
       <multiple>bilješke</multiple>
     </term>
     <term name="opus">
-      <single>opus</single>
-      <multiple>opusi</multiple>
+      <single>djelo</single>
+      <multiple>djela</multiple>
     </term>
     <term name="page">
       <single>stranica</single>
@@ -135,40 +129,40 @@
       <multiple>stranice</multiple>
     </term>
     <term name="paragraph">
-      <single>paragraf</single>
-      <multiple>paragrafi</multiple>
+      <single>pasus</single>
+      <multiple>pasusi</multiple>
     </term>
     <term name="part">
       <single>dio</single>
       <multiple>dijelova</multiple>
     </term>
     <term name="section">
-      <single>sekcija</single>
-      <multiple>sekcije</multiple>
+      <single>odjeljak</single>
+      <multiple>odjeljci</multiple>
     </term>
     <term name="sub verbo">
       <single>sub verbo</single>
       <multiple>sub verbis</multiple>
     </term>
     <term name="verse">
-      <single>strofa</single>
-      <multiple>strofe</multiple>
+      <single>stih</single>
+      <multiple>stihovi</multiple>
     </term>
     <term name="volume">
-      <single>tom</single>
-      <multiple>tomova</multiple>
+      <single>svezak</single>
+      <multiple>svesci</multiple>
     </term>
 
     <!-- SHORT LOCATOR FORMS -->
-    <term name="book" form="short">knj</term>
-    <term name="chapter" form="short">pog</term>
-    <term name="column" form="short">kol</term>
-    <term name="figure" form="short">crt</term>
-    <term name="folio" form="short">fol</term>
-    <term name="issue" form="short">izd</term>
-    <term name="line" form="short">l</term>
-    <term name="note" form="short">n</term>
-    <term name="opus" form="short">op</term>
+    <term name="book" form="short">knj.</term>
+    <term name="chapter" form="short">pogl.</term>
+    <term name="column" form="short">stup.</term>
+    <term name="figure" form="short">crt.</term>
+    <term name="folio" form="short">fol.</term>
+    <term name="issue" form="short">izd.</term>
+    <term name="line" form="short">red</term>
+    <term name="note" form="short">bilj.</term>
+    <term name="opus" form="short">sv.</term>
     <term name="page" form="short">
       <single>str.</single>
       <multiple>str.</multiple>
@@ -177,20 +171,20 @@
       <single>str.</single>
       <multiple>str.</multiple>
     </term>
-    <term name="paragraph" form="short">par</term>
+    <term name="paragraph" form="short">par.</term>
     <term name="part" form="short">dio</term>
-    <term name="section" form="short">od</term>
+    <term name="section" form="short">od.</term>
     <term name="sub verbo" form="short">
       <single>s.v.</single>
       <multiple>s.vv.</multiple>
     </term>
     <term name="verse" form="short">
-      <single>s</single>
-      <multiple>s</multiple>
+      <single>st.</single>
+      <multiple>st.</multiple>
     </term>
     <term name="volume" form="short">
-      <single>tom</single>
-      <multiple>tomova</multiple>
+      <single>sv.</single>
+      <multiple>sv.</multiple>
     </term>
 
     <!-- SYMBOL LOCATOR FORMS -->
@@ -205,8 +199,8 @@
 
     <!-- LONG ROLE FORMS -->
     <term name="director">
-      <single>director</single>
-      <multiple>directors</multiple>
+      <single>voditelj</single>
+      <multiple>voditelji</multiple>
     </term>
     <term name="editor">
       <single>urednik</single>
@@ -231,16 +225,16 @@
 
     <!-- SHORT ROLE FORMS -->
     <term name="director" form="short">
-      <single>prir.</single>
-      <multiple>prir.</multiple>
+      <single>vod.</single>
+      <multiple>vod.</multiple>
     </term>
     <term name="editor" form="short">
-      <single>prir.</single>
-      <multiple>prir.</multiple>
+      <single>ur.</single>
+      <multiple>ur.</multiple>
     </term>
     <term name="editorial-director" form="short">
-      <single>prir.</single>
-      <multiple>prir.</multiple>
+      <single>ur.-vod.</single>
+      <multiple>ur.-vod.</multiple>
     </term>
     <term name="illustrator" form="short">
       <single>il.</single>
@@ -251,26 +245,26 @@
       <multiple>prev.</multiple>
     </term>
     <term name="editortranslator" form="short">
-      <single>prir. &amp; prev.</single>
-      <multiple>prir. &amp; prev.</multiple>
+      <single>ur. &amp; prev.</single>
+      <multiple>ur. &amp; prev.</multiple>
     </term>
 
     <!-- VERB ROLE FORMS -->
-    <term name="container-author" form="verb">by</term>
-    <term name="director" form="verb">directed by</term>
+    <term name="container-author" form="verb">od</term>
+    <term name="director" form="verb">vodio</term>
     <term name="editor" form="verb">uredio</term>
     <term name="editorial-director" form="verb">uredio</term>
     <term name="illustrator" form="verb">ilustrirao</term>
     <term name="interviewer" form="verb">intervjuirao</term>
     <term name="recipient" form="verb">primatelj</term>
-    <term name="reviewed-author" form="verb">od</term>
+    <term name="reviewed-author" form="verb">pregledao</term>
     <term name="translator" form="verb">preveo</term>
     <term name="editortranslator" form="verb">uredio &amp; preveo</term>
 
     <!-- SHORT VERB ROLE FORMS -->
-    <term name="director" form="verb-short">dir.</term>
+    <term name="director" form="verb-short">vod.</term>
     <term name="editor" form="verb-short">ur.</term>
-    <term name="editorial-director" form="verb-short">ur.</term>
+    <term name="editorial-director" form="verb-short">ur. vod.</term>
     <term name="illustrator" form="verb-short">ilus.</term>
     <term name="translator" form="verb-short">prev.</term>
     <term name="editortranslator" form="verb-short">ur. &amp; prev.</term>
