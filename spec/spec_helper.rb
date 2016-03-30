@@ -1,4 +1,5 @@
 require 'csl'
+require 'json'
 
 LOCALE_ROOT = File.expand_path('../..', __FILE__)
 
