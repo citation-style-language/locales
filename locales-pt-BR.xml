@@ -56,20 +56,24 @@
     <term name="retrieved">recuperado</term>
     <term name="scale">escala</term>
     <term name="version">versão</term>
-    <!-- ANTES DE CRISTO; DEPOIS DE CRISTO -->
+
+    <!-- ANNO DOMINI; BEFORE CHRIST -->
     <term name="ad">DC</term>
     <term name="bc">AC</term>
+
     <!-- PUNCTUATION -->
     <term name="open-quote">“</term>
     <term name="close-quote">”</term>
     <term name="open-inner-quote">‘</term>
     <term name="close-inner-quote">’</term>
     <term name="page-range-delimiter">&#8211;</term>
+
     <!-- ORDINALS -->
     <term name="ordinal">º</term>
     <term name="ordinal-01" gender-form="feminine" match="whole-number">ª</term>
     <term name="ordinal-01" gender-form="masculine" match="whole-number">º</term>
-    <!-- LONG ORDINALS MASCULINE-->
+
+    <!-- LONG ORDINALS -->
     <term name="long-ordinal-01" gender-form="masculine">primeiro</term>
     <term name="long-ordinal-02" gender-form="masculine">segundo</term>
     <term name="long-ordinal-03" gender-form="masculine">terceiro</term>
@@ -80,7 +84,6 @@
     <term name="long-ordinal-08" gender-form="masculine">oitavo</term>
     <term name="long-ordinal-09" gender-form="masculine">nono</term>
     <term name="long-ordinal-10" gender-form="masculine">décimo</term>
-    <!-- LONG ORDINALS FEMININE-->
     <term name="long-ordinal-01" gender-form="feminine">primeira</term>
     <term name="long-ordinal-02" gender-form="feminine">segunda</term>
     <term name="long-ordinal-03" gender-form="feminine">terceira</term>
@@ -91,6 +94,7 @@
     <term name="long-ordinal-08" gender-form="feminine">oitava</term>
     <term name="long-ordinal-09" gender-form="feminine">nona</term>
     <term name="long-ordinal-10" gender-form="feminine">décima</term>
+
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
       <single>livro</single>
@@ -160,6 +164,7 @@
       <single>volume</single>
       <multiple>volumes</multiple>
     </term>
+
     <!-- SHORT LOCATOR FORMS -->
     <term name="book" form="short">liv.</term>
     <term name="chapter" form="short">cap.</term>
@@ -193,6 +198,7 @@
       <single>vol.</single>
       <multiple>vols.</multiple>
     </term>
+
     <!-- SYMBOL LOCATOR FORMS -->
     <term name="paragraph" form="symbol">
       <single>¶</single>
@@ -202,6 +208,7 @@
       <single>§</single>
       <multiple>§§</multiple>
     </term>
+
     <!-- LONG ROLE FORMS -->
     <term name="director">
       <single>diretor</single>
@@ -227,6 +234,7 @@
       <single>editor e tradutor</single>
       <multiple>editores e tradutores</multiple>
     </term>
+
     <!-- SHORT ROLE FORMS -->
     <term name="director" form="short">
       <single>dir.</single>
@@ -252,6 +260,7 @@
       <single>ed. e trad.</single>
       <multiple>eds. e trads.</multiple>
     </term>
+
     <!-- VERB ROLE FORMS -->
     <term name="container-author" form="verb">por</term>
     <term name="director" form="verb">dirigido por</term>
@@ -263,6 +272,7 @@
     <term name="reviewed-author" form="verb">por</term>
     <term name="translator" form="verb">traduzido por</term>
     <term name="editortranslator" form="verb">editado e traduzido por</term>
+
     <!-- SHORT VERB ROLE FORMS -->
     <term name="director" form="verb-short">dir.</term>
     <term name="editor" form="verb-short">org.</term>
@@ -270,6 +280,7 @@
     <term name="illustrator" form="verb-short">ilus.</term>
     <term name="translator" form="verb-short">trad.</term>
     <term name="editortranslator" form="verb-short">ed. e trad. por</term>
+
     <!-- LONG MONTH FORMS -->
     <term name="month-01">janeiro</term>
     <term name="month-02">fevereiro</term>
@@ -283,6 +294,7 @@
     <term name="month-10">outubro</term>
     <term name="month-11">novembro</term>
     <term name="month-12">dezembro</term>
+
     <!-- SHORT MONTH FORMS -->
     <term name="month-01" form="short">jan.</term>
     <term name="month-02" form="short">fev.</term>
@@ -296,6 +308,7 @@
     <term name="month-10" form="short">out.</term>
     <term name="month-11" form="short">nov.</term>
     <term name="month-12" form="short">dez.</term>
+
     <!-- SEASONS -->
     <term name="season-01">Primavera</term>
     <term name="season-02">Verão</term>
