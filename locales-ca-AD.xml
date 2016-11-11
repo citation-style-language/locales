@@ -51,7 +51,7 @@
     </term>
     <term name="reference" form="short">
       <single>ref.</single>
-      <multiple>refs.</multiple>
+      <multiple>ref.</multiple>
     </term>
     <term name="retrieved">recuperat</term>
     <term name="scale">escala</term>
@@ -165,11 +165,11 @@
     <term name="opus" form="short">op.</term>
     <term name="page" form="short">
       <single>p.</single>
-      <multiple>pp.</multiple>
+      <multiple>p.</multiple>
     </term>
     <term name="number-of-pages" form="short">
       <single>p.</single>
-      <multiple>pp.</multiple>
+      <multiple>p.</multiple>
     </term>
     <term name="paragraph" form="short">par.</term>
     <term name="part" form="short">pt.</term>
@@ -180,11 +180,11 @@
     </term>
     <term name="verse" form="short">
       <single>v.</single>
-      <multiple>vv.</multiple>
+      <multiple>v.</multiple>
     </term>
     <term name="volume" form="short">
       <single>vol.</single>
-      <multiple>vols.</multiple>
+      <multiple>vol.</multiple>
     </term>
 
     <!-- SYMBOL LOCATOR FORMS -->
@@ -226,15 +226,15 @@
     <!-- SHORT ROLE FORMS -->
     <term name="director" form="short">
       <single>dir.</single>
-      <multiple>dirs.</multiple>
+      <multiple>dir.</multiple>
     </term>
     <term name="editor" form="short">
       <single>ed.</single>
-      <multiple>eds.</multiple>
+      <multiple>ed.</multiple>
     </term>
     <term name="editorial-director" form="short">
       <single>ed.</single>
-      <multiple>eds.</multiple>
+      <multiple>ed.</multiple>
     </term>
     <term name="illustrator" form="short">
       <single>il·lust.</single>
@@ -242,11 +242,11 @@
     </term>
     <term name="translator" form="short">
       <single>trad.</single>
-      <multiple>trads.</multiple>
+      <multiple>trad.</multiple>
     </term>
     <term name="editortranslator" form="short">
       <single>ed. i trad.</single>
-      <multiple>eds. i trads.</multiple>
+      <multiple>ed. i trad.</multiple>
     </term>
 
     <!-- VERB ROLE FORMS -->
