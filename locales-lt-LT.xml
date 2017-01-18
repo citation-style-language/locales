@@ -9,14 +9,12 @@
   </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text" delimiter=" ">
-
     <!-- "2011 m. lapkričio 1 d." -->
     <date-part name="year" suffix=" m."/>
     <date-part name="month"/>
     <date-part name="day" form="numeric" suffix=" d."/>
   </date>
   <date form="numeric" delimiter="-">
-
     <!-- "2011-11-01" -->
     <date-part name="year"/>
     <date-part name="month" form="numeric-leading-zeros"/>
@@ -31,8 +29,8 @@
     <term name="at"></term>
     <term name="available at">adresas</term>
     <term name="by"></term>
-    <term name="circa">circa</term>
-    <term name="circa" form="short">ca.</term>
+    <term name="circa">apie</term>
+    <term name="circa" form="short">apie</term>
     <term name="cited">žiūrėta</term>
     <term name="edition">
       <single>leidimas</single>
@@ -42,7 +40,7 @@
     <term name="et-al">ir kt.</term>
     <term name="forthcoming">ruošiamas</term>
     <term name="from"></term>
-    <term name="ibid">ibid.</term>
+    <term name="ibid">ten pat</term>
     <term name="in"></term>
     <term name="in press">priimta spaudai</term>
     <term name="internet">prieiga per internetą</term>
@@ -107,59 +105,59 @@
     <term name="long-ordinal-10" gender-form="feminine">dešimtoji</term>
     
     <!-- LONG LOCATOR FORMS -->
-    <term name="book">
+    <term name="book" gender="feminine">
       <single>knyga</single>
       <multiple>knygos</multiple>
     </term>
-    <term name="chapter">
+    <term name="chapter" gender="masculine">
       <single>skyrius</single>
       <multiple>skyriai</multiple>
     </term>
-    <term name="column">
+    <term name="column" gender="feminine">
       <single>skiltis</single>
       <multiple>skiltys</multiple>
     </term>
-    <term name="figure">
+    <term name="figure" gender="feminine">
       <single>iliustracija</single>
       <multiple>iliustracijos</multiple>
     </term>
-    <term name="folio">
+    <term name="folio" gender="masculine">
       <single>lapas</single>
       <multiple>lapai</multiple>
     </term>
-    <term name="issue">
+    <term name="issue" gender="masculine">
       <single>numeris</single>
       <multiple>numeriai</multiple>
     </term>
-    <term name="line">
+    <term name="line" gender="feminine">
       <single>eilutė</single>
       <multiple>eilutės</multiple>
     </term>
-    <term name="note">
+    <term name="note" gender="feminine">
       <single>pastaba</single>
       <multiple>pastabos</multiple>
     </term>
-    <term name="opus">
-      <single>opus</single>
-      <multiple>opera</multiple>
+    <term name="opus" gender="masculine">
+      <single>kūrinys</single>
+      <multiple>kūriniai</multiple>
     </term>
-    <term name="page">
+    <term name="page" gender="masculine">
       <single>puslapis</single>
       <multiple>puslapiai</multiple>
     </term>
-    <term name="number-of-pages">
+    <term name="number-of-pages" gender="masculine">
       <single>puslapis</single>
       <multiple>puslapiai</multiple>
     </term>
-    <term name="paragraph">
+    <term name="paragraph" gender="feminine">
       <single>pastraipa</single>
       <multiple>pastraipos</multiple>
     </term>
-    <term name="part">
+    <term name="part" gender="feminine">
       <single>dalis</single>
       <multiple>dalys</multiple>
     </term>
-    <term name="section">
+    <term name="section" gender="masculine">
       <single>poskyris</single>
       <multiple>poskyriai</multiple>
     </term>
@@ -167,11 +165,11 @@
       <single>žiūrėk</single>
       <multiple>žiūrėk</multiple>
     </term>
-    <term name="verse">
+    <term name="verse" gender="masculine">
       <single>eilėraštis</single>
       <multiple>eilėraščiai</multiple>
     </term>
-    <term name="volume">
+    <term name="volume" gender="masculine">
       <single>tomas</single>
       <multiple>tomai</multiple>
     </term>
