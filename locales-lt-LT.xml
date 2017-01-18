@@ -109,19 +109,19 @@
       <single>knyga</single>
       <multiple>knygos</multiple>
     </term>
-    <term name="chapter" gender="masculine">
+    <term name="chapter">
       <single>skyrius</single>
       <multiple>skyriai</multiple>
     </term>
-    <term name="column" gender="feminine">
+    <term name="column">
       <single>skiltis</single>
       <multiple>skiltys</multiple>
     </term>
-    <term name="figure" gender="feminine">
+    <term name="figure">
       <single>iliustracija</single>
       <multiple>iliustracijos</multiple>
     </term>
-    <term name="folio" gender="masculine">
+    <term name="folio">
       <single>lapas</single>
       <multiple>lapai</multiple>
     </term>
@@ -129,27 +129,27 @@
       <single>numeris</single>
       <multiple>numeriai</multiple>
     </term>
-    <term name="line" gender="feminine">
+    <term name="line">
       <single>eilutė</single>
       <multiple>eilutės</multiple>
     </term>
-    <term name="note" gender="feminine">
+    <term name="note">
       <single>pastaba</single>
       <multiple>pastabos</multiple>
     </term>
-    <term name="opus" gender="masculine">
+    <term name="opus">
       <single>kūrinys</single>
       <multiple>kūriniai</multiple>
     </term>
-    <term name="page" gender="masculine">
+    <term name="page">
       <single>puslapis</single>
       <multiple>puslapiai</multiple>
     </term>
-    <term name="number-of-pages" gender="masculine">
+    <term name="number-of-pages">
       <single>puslapis</single>
       <multiple>puslapiai</multiple>
     </term>
-    <term name="paragraph" gender="feminine">
+    <term name="paragraph">
       <single>pastraipa</single>
       <multiple>pastraipos</multiple>
     </term>
@@ -157,7 +157,7 @@
       <single>dalis</single>
       <multiple>dalys</multiple>
     </term>
-    <term name="section" gender="masculine">
+    <term name="section">
       <single>poskyris</single>
       <multiple>poskyriai</multiple>
     </term>
@@ -165,7 +165,7 @@
       <single>žiūrėk</single>
       <multiple>žiūrėk</multiple>
     </term>
-    <term name="verse" gender="masculine">
+    <term name="verse">
       <single>eilėraštis</single>
       <multiple>eilėraščiai</multiple>
     </term>
