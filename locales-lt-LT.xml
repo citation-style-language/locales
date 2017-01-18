@@ -183,7 +183,7 @@
     <term name="issue" form="short">nr.</term>
     <term name="line" form="short">l.</term>
     <term name="note" form="short">n.</term>
-    <term name="opus" form="short">op.</term>
+    <term name="opus" form="short">kūr.</term>
     <term name="page" form="short">
       <single>p.</single>
       <multiple>p.</multiple>
