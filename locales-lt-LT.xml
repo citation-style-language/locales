@@ -105,7 +105,7 @@
     <term name="long-ordinal-10" gender-form="feminine">dešimtoji</term>
     
     <!-- LONG LOCATOR FORMS -->
-    <term name="book" gender="feminine">
+    <term name="book">
       <single>knyga</single>
       <multiple>knygos</multiple>
     </term>
