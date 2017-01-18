@@ -125,7 +125,7 @@
       <single>lapas</single>
       <multiple>lapai</multiple>
     </term>
-    <term name="issue" gender="masculine">
+    <term name="issue">
       <single>numeris</single>
       <multiple>numeriai</multiple>
     </term>
@@ -153,7 +153,7 @@
       <single>pastraipa</single>
       <multiple>pastraipos</multiple>
     </term>
-    <term name="part" gender="feminine">
+    <term name="part">
       <single>dalis</single>
       <multiple>dalys</multiple>
     </term>
@@ -169,7 +169,7 @@
       <single>eilėraštis</single>
       <multiple>eilėraščiai</multiple>
     </term>
-    <term name="volume" gender="masculine">
+    <term name="volume">
       <single>tomas</single>
       <multiple>tomai</multiple>
     </term>
