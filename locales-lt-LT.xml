@@ -269,10 +269,10 @@
     <term name="editortranslator" form="verb">sudarė ir vertė</term>
 
     <!-- SHORT VERB ROLE FORMS -->
-    <term name="director" form="verb-short">dir.</term>
+    <term name="director" form="verb-short">vad.</term>
     <term name="editor" form="verb-short">sud.</term>
     <term name="editorial-director" form="verb-short">pareng.</term>
-    <term name="illustrator" form="verb-short">illus.</term>
+    <term name="illustrator" form="verb-short">iliustr.</term>
     <term name="translator" form="verb-short">vert.</term>
     <term name="editortranslator" form="verb-short">sud. ir vert.</term>
 
