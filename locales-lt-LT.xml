@@ -167,8 +167,8 @@
     <term name="figure" form="short">il.</term>
     <term name="folio" form="short">l.</term>
     <term name="issue" form="short">nr.</term>
-    <term name="line" form="short">l.</term>
-    <term name="note" form="short">n.</term>
+    <term name="line" form="short">eil.</term>
+    <term name="note" form="short">pstb.</term>
     <term name="opus" form="short">kūr.</term>
     <term name="page" form="short">
       <single>p.</single>
