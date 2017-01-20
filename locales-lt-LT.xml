@@ -75,11 +75,7 @@
 
     <!-- ORDINALS -->
     <term name="ordinal">-asis</term>
-    <term name="ordinal" gender-form="masculine">-asis</term>
-    <term name="ordinal" gender-form="feminine">-oji</term>
-    <term name="ordinal-01">-iasis</term>
-    <term name="ordinal-01" gender-form="masculine">-iasis</term>
-    <term name="ordinal-01" gender-form="feminine">-ioji</term>
+    <term name="ordinal-03">-iasis</term>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">pirmasis</term>
@@ -92,17 +88,6 @@
     <term name="long-ordinal-08">aštuntasis</term>
     <term name="long-ordinal-09">devintasis</term>
     <term name="long-ordinal-10">dešimtasis</term>
-
-    <term name="long-ordinal-01" gender-form="feminine">pirmoji</term>
-    <term name="long-ordinal-02" gender-form="feminine">antroji</term>
-    <term name="long-ordinal-03" gender-form="feminine">trečioji</term>
-    <term name="long-ordinal-04" gender-form="feminine">ketvirtoji</term>
-    <term name="long-ordinal-05" gender-form="feminine">penktoji</term>
-    <term name="long-ordinal-06" gender-form="feminine">šeštoji</term>
-    <term name="long-ordinal-07" gender-form="feminine">septintoji</term>
-    <term name="long-ordinal-08" gender-form="feminine">aštuntoji</term>
-    <term name="long-ordinal-09" gender-form="feminine">devintoji</term>
-    <term name="long-ordinal-10" gender-form="feminine">dešimtoji</term>
     
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
