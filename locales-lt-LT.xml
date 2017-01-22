@@ -77,6 +77,10 @@
     <term name="ordinal">-asis</term>
     <term name="ordinal" gender-form="masculine">-asis</term>
     <term name="ordinal" gender-form="feminine">-oji</term>
+    <term name="ordinal-03" gender-form="masculine">-iasis</term>
+    <term name="ordinal-13" gender-form="masculine">-asis</term>
+    <term name="ordinal-03" gender-form="feminine">-ioji</term>
+    <term name="ordinal-13" gender-form="feminine">-oji</term>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">pirmasis</term>
@@ -283,23 +287,23 @@
     <term name="director" form="verb-short">vad.</term>
     <term name="editor" form="verb-short">sud.</term>
     <term name="editorial-director" form="verb-short">pareng.</term>
-    <term name="illustrator" form="verb-short">ilius.</term>
+    <term name="illustrator" form="verb-short">iliustr.</term>
     <term name="translator" form="verb-short">vert.</term>
     <term name="editortranslator" form="verb-short">sud. ir vert.</term>
 
     <!-- LONG MONTH FORMS -->
-    <term name="month-01" gender="masculine">sausio</term>
-    <term name="month-02" gender="masculine">vasario</term>
-    <term name="month-03" gender="masculine">kovo</term>
-    <term name="month-04" gender="masculine">balandžio</term>
-    <term name="month-05" gender="feminine">gegužės</term>
-    <term name="month-06" gender="masculine">birželio</term>
-    <term name="month-07" gender="feminine">liepos</term>
-    <term name="month-08" gender="masculine">rugpjūčio</term>
-    <term name="month-09" gender="masculine">rugsėjo</term>
-    <term name="month-10" gender="masculine">spalio</term>
-    <term name="month-11" gender="masculine">lapkričio</term>
-    <term name="month-12" gender="masculine">gruodžio</term>
+    <term name="month-01">sausio</term>
+    <term name="month-02">vasario</term>
+    <term name="month-03">kovo</term>
+    <term name="month-04">balandžio</term>
+    <term name="month-05">gegužės</term>
+    <term name="month-06">birželio</term>
+    <term name="month-07">liepos</term>
+    <term name="month-08">rugpjūčio</term>
+    <term name="month-09">rugsėjo</term>
+    <term name="month-10">spalio</term>
+    <term name="month-11">lapkričio</term>
+    <term name="month-12">gruodžio</term>
 
     <!-- SHORT MONTH FORMS -->
     <term name="month-01" form="short">saus.</term>
