@@ -32,35 +32,35 @@
     <term name="circa">apie</term>
     <term name="circa" form="short">apie</term>
     <term name="cited">žiūrėta</term>
-    <term name="edition">
+    <term name="edition" gender="masculine">
       <single>leidimas</single>
       <multiple>leidimai</multiple>
     </term>
-    <term name="edition" form="short">leid.</term>
+    <term name="edition" form="short" gender="masculine">leid.</term>
     <term name="et-al">ir kt.</term>
     <term name="forthcoming">ruošiamas</term>
     <term name="from"></term>
     <term name="ibid">ten pat</term>
     <term name="in"></term>
     <term name="in press">priimta spaudai</term>
-    <term name="internet">prieiga per internetą</term>
-    <term name="interview">interviu</term>
-    <term name="letter">laiškas</term>
+    <term name="internet" gender="feminine">prieiga per internetą</term>
+    <term name="interview" gender="masculine">interviu</term>
+    <term name="letter" gender="masculine">laiškas</term>
     <term name="no date">sine anno</term>
     <term name="no date" form="short">s.a.</term>
     <term name="online">interaktyvus</term>
     <term name="presented at">pristatytas</term>
-    <term name="reference">
+    <term name="reference" gender="feminine">
       <single>nuoroda</single>
       <multiple>nuorodos</multiple>
     </term>
-    <term name="reference" form="short">
+    <term name="reference" form="short" gender="feminine">
       <single>nuor.</single>
       <multiple>nuor.</multiple>
     </term>
     <term name="retrieved">gauta</term>
-    <term name="scale">mastelis</term>
-    <term name="version">versija</term>
+    <term name="scale" gender="masculine">mastelis</term>
+    <term name="version" gender="feminine">versija</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
     <term name="ad">po Kr.</term>
@@ -75,8 +75,8 @@
 
     <!-- ORDINALS -->
     <term name="ordinal">-asis</term>
-    <term name="ordinal-03">-iasis</term>
-    <term name="ordinal-13">-asis</term>
+    <term name="ordinal" gender-form="masculine">-asis</term>
+    <term name="ordinal" gender-form="feminine">-oji</term>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">pirmasis</term>
@@ -90,60 +90,71 @@
     <term name="long-ordinal-09">devintasis</term>
     <term name="long-ordinal-10">dešimtasis</term>
 
+    <term name="long-ordinal-01" gender-form="feminine">pirmoji</term>
+    <term name="long-ordinal-02" gender-form="feminine">antroji</term>
+    <term name="long-ordinal-03" gender-form="feminine">trečioji</term>
+    <term name="long-ordinal-04" gender-form="feminine">ketvirtoji</term>
+    <term name="long-ordinal-05" gender-form="feminine">penktoji</term>
+    <term name="long-ordinal-06" gender-form="feminine">šeštoji</term>
+    <term name="long-ordinal-07" gender-form="feminine">septintoji</term>
+    <term name="long-ordinal-08" gender-form="feminine">aštuntoji</term>
+    <term name="long-ordinal-09" gender-form="feminine">devintoji</term>
+    <term name="long-ordinal-10" gender-form="feminine">dešimtoji</term>
+    
     <!-- LONG LOCATOR FORMS -->
-    <term name="book">
+    <term name="book" gender="feminine">
       <single>knyga</single>
       <multiple>knygos</multiple>
     </term>
-    <term name="chapter">
+    <term name="chapter" gender="masculine">
       <single>skyrius</single>
       <multiple>skyriai</multiple>
     </term>
-    <term name="column">
+    <term name="column" gender="feminine">
       <single>skiltis</single>
       <multiple>skiltys</multiple>
     </term>
-    <term name="figure">
+    <term name="figure" gender="feminine">
       <single>iliustracija</single>
       <multiple>iliustracijos</multiple>
     </term>
-    <term name="folio">
+    <term name="folio" gender="masculine">
       <single>lapas</single>
       <multiple>lapai</multiple>
     </term>
-    <term name="issue">
+    <term name="issue" gender="masculine">
       <single>numeris</single>
       <multiple>numeriai</multiple>
     </term>
-    <term name="line">
+    <term name="line" gender="feminine">
       <single>eilutė</single>
       <multiple>eilutės</multiple>
     </term>
-    <term name="note">
+    <term name="note" gender="masculine">
       <single>pastaba</single>
       <multiple>pastabos</multiple>
     </term>
-    <term name="opus">
+    <term name="opus" gender="masculine">
       <single>kūrinys</single>
       <multiple>kūriniai</multiple>
     </term>
-    <term name="page">
+    <term name="page" gender="masculine">
       <single>puslapis</single>
       <multiple>puslapiai</multiple>
     </term>
-    <term name="number-of-pages">
+    <term name="number-of-pages" gender="masculine">
       <single>puslapis</single>
       <multiple>puslapiai</multiple>
     </term>
-    <term name="paragraph">
+    <term name="paragraph" gender="feminine">
       <single>pastraipa</single>
       <multiple>pastraipos</multiple>
     </term>
-    <term name="part">
+    <term name="part" gender="feminine">
       <single>dalis</single>
       <multiple>dalys</multiple>
     </term>
-    <term name="section">
+    <term name="section" gender="masculine">
       <single>poskyris</single>
       <multiple>poskyriai</multiple>
     </term>
@@ -151,45 +162,45 @@
       <single>žiūrėk</single>
       <multiple>žiūrėk</multiple>
     </term>
-    <term name="verse">
+    <term name="verse" gender="masculine">
       <single>eilėraštis</single>
       <multiple>eilėraščiai</multiple>
     </term>
-    <term name="volume">
+    <term name="volume" gender="masculine">
       <single>tomas</single>
       <multiple>tomai</multiple>
     </term>
 
     <!-- SHORT LOCATOR FORMS -->
-    <term name="book" form="short">kn.</term>
-    <term name="chapter" form="short">sk.</term>
-    <term name="column" form="short">skilt.</term>
-    <term name="figure" form="short">il.</term>
-    <term name="folio" form="short">l.</term>
-    <term name="issue" form="short">nr.</term>
-    <term name="line" form="short">eil.</term>
-    <term name="note" form="short">pstb.</term>
-    <term name="opus" form="short">kūr.</term>
-    <term name="page" form="short">
+    <term name="book" form="short" gender="feminine">kn.</term>
+    <term name="chapter" form="short" gender="masculine">sk.</term>
+    <term name="column" form="short" gender="feminine">skilt.</term>
+    <term name="figure" form="short" gender="feminine">il.</term>
+    <term name="folio" form="short" gender="masculine">l.</term>
+    <term name="issue" form="short" gender="masculine">nr.</term>
+    <term name="line" form="short" gender="feminine">eil.</term>
+    <term name="note" form="short" gender="feminine">pstb.</term>
+    <term name="opus" form="short" gender="masculine">kūr.</term>
+    <term name="page" form="short" gender="masculine">
       <single>p.</single>
       <multiple>p.</multiple>
     </term>
-    <term name="number-of-pages" form="short">
+    <term name="number-of-pages" form="short" gender="masculine">
       <single>p.</single>
       <multiple>p.</multiple>
     </term>
-    <term name="paragraph" form="short">pastr.</term>
-    <term name="part" form="short">d.</term>
-    <term name="section" form="short">posk.</term>
+    <term name="paragraph" form="short" gender="feminine">pastr.</term>
+    <term name="part" form="short" gender="feminine">d.</term>
+    <term name="section" form="short" gender="masculine">posk.</term>
     <term name="sub verbo" form="short">
       <single>žr.</single>
       <multiple>žr.</multiple>
     </term>
-    <term name="verse" form="short">
+    <term name="verse" form="short" gender="masculine">
       <single>eilėr.</single>
       <multiple>eilėr.</multiple>
     </term>
-    <term name="volume" form="short">
+    <term name="volume" form="short" gender="masculine">
       <single>t.</single>
       <multiple>t.</multiple>
     </term>
@@ -272,42 +283,42 @@
     <term name="director" form="verb-short">vad.</term>
     <term name="editor" form="verb-short">sud.</term>
     <term name="editorial-director" form="verb-short">pareng.</term>
-    <term name="illustrator" form="verb-short">iliustr.</term>
+    <term name="illustrator" form="verb-short">ilius.</term>
     <term name="translator" form="verb-short">vert.</term>
     <term name="editortranslator" form="verb-short">sud. ir vert.</term>
 
     <!-- LONG MONTH FORMS -->
-    <term name="month-01">sausio</term>
-    <term name="month-02">vasario</term>
-    <term name="month-03">kovo</term>
-    <term name="month-04">balandžio</term>
-    <term name="month-05">gegužės</term>
-    <term name="month-06">birželio</term>
-    <term name="month-07">liepos</term>
-    <term name="month-08">rugpjūčio</term>
-    <term name="month-09">rugsėjo</term>
-    <term name="month-10">spalio</term>
-    <term name="month-11">lapkričio</term>
-    <term name="month-12">gruodžio</term>
+    <term name="month-01" gender="masculine">sausio</term>
+    <term name="month-02" gender="masculine">vasario</term>
+    <term name="month-03" gender="masculine">kovo</term>
+    <term name="month-04" gender="masculine">balandžio</term>
+    <term name="month-05" gender="feminine">gegužės</term>
+    <term name="month-06" gender="masculine">birželio</term>
+    <term name="month-07" gender="feminine">liepos</term>
+    <term name="month-08" gender="masculine">rugpjūčio</term>
+    <term name="month-09" gender="masculine">rugsėjo</term>
+    <term name="month-10" gender="masculine">spalio</term>
+    <term name="month-11" gender="masculine">lapkričio</term>
+    <term name="month-12" gender="masculine">gruodžio</term>
 
     <!-- SHORT MONTH FORMS -->
-    <term name="month-01" form="short">saus.</term>
-    <term name="month-02" form="short">vas.</term>
-    <term name="month-03" form="short">kovo</term>
-    <term name="month-04" form="short">bal.</term>
-    <term name="month-05" form="short">geg.</term>
-    <term name="month-06" form="short">birž.</term>
-    <term name="month-07" form="short">liep.</term>
-    <term name="month-08" form="short">rugpj.</term>
-    <term name="month-09" form="short">rugs.</term>
-    <term name="month-10" form="short">spal.</term>
-    <term name="month-11" form="short">lapkr.</term>
-    <term name="month-12" form="short">gruodž.</term>
+    <term name="month-01" form="short" gender="masculine">saus.</term>
+    <term name="month-02" form="short" gender="masculine">vas.</term>
+    <term name="month-03" form="short" gender="masculine">kovo</term>
+    <term name="month-04" form="short" gender="masculine">bal.</term>
+    <term name="month-05" form="short" gender="feminine">geg.</term>
+    <term name="month-06" form="short" gender="masculine">birž.</term>
+    <term name="month-07" form="short" gender="feminine">liep.</term>
+    <term name="month-08" form="short" gender="masculine">rugpj.</term>
+    <term name="month-09" form="short" gender="masculine">rugs.</term>
+    <term name="month-10" form="short" gender="masculine">spal.</term>
+    <term name="month-11" form="short" gender="masculine">lapkr.</term>
+    <term name="month-12" form="short" gender="masculine">gruodž.</term>
 
     <!-- SEASONS -->
-    <term name="season-01">pavasaris</term>
-    <term name="season-02">vasara</term>
-    <term name="season-03">ruduo</term>
-    <term name="season-04">žiema</term>
+    <term name="season-01" gender="masculine">pavasaris</term>
+    <term name="season-02" gender="feminine">vasara</term>
+    <term name="season-03" gender="masculine">ruduo</term>
+    <term name="season-04" gender="feminine">žiema</term>
   </terms>
 </locale>
