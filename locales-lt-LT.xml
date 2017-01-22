@@ -32,7 +32,7 @@
     <term name="circa">apie</term>
     <term name="circa" form="short">apie</term>
     <term name="cited">žiūrėta</term>
-    <term name="edition">
+    <term name="edition" gender="masculine">
       <single>leidimas</single>
       <multiple>leidimai</multiple>
     </term>
@@ -75,8 +75,12 @@
 
     <!-- ORDINALS -->
     <term name="ordinal">-asis</term>
-    <term name="ordinal-03">-iasis</term>
-    <term name="ordinal-13">-asis</term>
+    <term name="ordinal" gender-form="masculine">-asis</term>
+    <term name="ordinal" gender-form="feminine">-oji</term>
+    <term name="ordinal-03" gender-form="masculine">-iasis</term>
+    <term name="ordinal-13" gender-form="masculine">-asis</term>
+    <term name="ordinal-03" gender-form="feminine">-ioji</term>
+    <term name="ordinal-13" gender-form="feminine">-oji</term>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">pirmasis</term>
@@ -90,6 +94,17 @@
     <term name="long-ordinal-09">devintasis</term>
     <term name="long-ordinal-10">dešimtasis</term>
 
+    <term name="long-ordinal-01" gender-form="feminine">pirmoji</term>
+    <term name="long-ordinal-02" gender-form="feminine">antroji</term>
+    <term name="long-ordinal-03" gender-form="feminine">trečioji</term>
+    <term name="long-ordinal-04" gender-form="feminine">ketvirtoji</term>
+    <term name="long-ordinal-05" gender-form="feminine">penktoji</term>
+    <term name="long-ordinal-06" gender-form="feminine">šeštoji</term>
+    <term name="long-ordinal-07" gender-form="feminine">septintoji</term>
+    <term name="long-ordinal-08" gender-form="feminine">aštuntoji</term>
+    <term name="long-ordinal-09" gender-form="feminine">devintoji</term>
+    <term name="long-ordinal-10" gender-form="feminine">dešimtoji</term>
+    
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
       <single>knyga</single>
@@ -111,7 +126,7 @@
       <single>lapas</single>
       <multiple>lapai</multiple>
     </term>
-    <term name="issue">
+    <term name="issue" gender="masculine">
       <single>numeris</single>
       <multiple>numeriai</multiple>
     </term>
@@ -131,7 +146,7 @@
       <single>puslapis</single>
       <multiple>puslapiai</multiple>
     </term>
-    <term name="number-of-pages">
+    <term name="number-of-pages" gender="masculine">
       <single>puslapis</single>
       <multiple>puslapiai</multiple>
     </term>
@@ -155,7 +170,7 @@
       <single>eilėraštis</single>
       <multiple>eilėraščiai</multiple>
     </term>
-    <term name="volume">
+    <term name="volume" gender="masculine">
       <single>tomas</single>
       <multiple>tomai</multiple>
     </term>
