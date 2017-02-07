@@ -6,13 +6,13 @@
   </info>
   <style-options punctuation-in-quote="true"/>
   <date form="text">
-    <date-part name="month" suffix=" "/>
-    <date-part name="day" form="numeric-leading-zeros" suffix=", "/>
+    <date-part name="day" suffix=" "/>
+    <date-part name="month" form="numeric-leading-zeros" suffix=" "/>
     <date-part name="year"/>
   </date>
   <date form="numeric">
-    <date-part name="month" form="numeric-leading-zeros" suffix="/"/>
     <date-part name="day" form="numeric-leading-zeros" suffix="/"/>
+    <date-part name="month" form="numeric-leading-zeros" suffix="/"/>
     <date-part name="year"/>
   </date>
   <terms>
@@ -58,8 +58,8 @@
     <term name="version">نسخه</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
-    <term name="ad">AD</term>
-    <term name="bc">BC</term>
+    <term name="ad">بعد از میلاد</term>
+    <term name="bc">قبل از میلاد</term>
 
     <!-- PUNCTUATION -->
     <term name="open-quote">“</term>
@@ -141,8 +141,8 @@
       <multiple>قسمت‌های</multiple>
     </term>
     <term name="sub verbo">
-      <single>sub verbo</single>
-      <multiple>sub verbis</multiple>
+      <single>در ذیلِ واژه</single>
+      <multiple>در ذیلِ واژه‌های</multiple>
     </term>
     <term name="verse">
       <single>بیت</single>
@@ -160,8 +160,8 @@
     <term name="figure" form="short">تصویر</term>
     <term name="folio" form="short">برگ</term>
     <term name="issue" form="short">ش</term>
-    <term name="line" form="short">l.</term>
-    <term name="note" form="short">n.</term>
+    <term name="line" form="short">خط</term>
+    <term name="note" form="short">یادداشت</term>
     <term name="opus" form="short">قطعه</term>
     <term name="page" form="short">
       <single>ص</single>
@@ -203,12 +203,12 @@
       <multiple>directors</multiple>
     </term>
     <term name="editor">
-      <single>ویرایشگر</single>
-      <multiple>ویرایشگران</multiple>
+      <single>ویراستار</single>
+      <multiple>ویراستاران</multiple>
     </term>
     <term name="editorial-director">
-      <single>ویرایشگر</single>
-      <multiple>ویرایشگران</multiple>
+      <single>ویراستار</single>
+      <multiple>ویراستاران</multiple>
     </term>
     <term name="illustrator">
       <single>طراح گرافیک</single>
@@ -219,8 +219,8 @@
       <multiple>مترجمین</multiple>
     </term>
     <term name="editortranslator">
-      <single>ویرایشگر و مترجم</single>
-      <multiple>ویرایشگران و مترجمین</multiple>
+      <single>ویراستار و مترجم</single>
+      <multiple>ویراستاران و مترجمین</multiple>
     </term>
 
     <!-- SHORT ROLE FORMS -->
@@ -229,12 +229,12 @@
       <multiple>dirs.</multiple>
     </term>
     <term name="editor" form="short">
-      <single>ویرایشگر</single>
-      <multiple>ویرایشگران</multiple>
+      <single>ویراستار</single>
+      <multiple>ویراستاران</multiple>
     </term>
     <term name="editorial-director" form="short">
-      <single>ویرایشگر</single>
-      <multiple>ویرایشگران</multiple>
+      <single>ویراستار</single>
+      <multiple>ویراستاران</multiple>
     </term>
     <term name="illustrator" form="short">
       <single>تصویرگر</single>
@@ -245,14 +245,14 @@
       <multiple>مترجمین</multiple>
     </term>
     <term name="editortranslator" form="short">
-      <single>ویرایشگر و مترجم</single>
-      <multiple>ویرایشگران و مترجمین</multiple>
+      <single>ویراستار و مترجم</single>
+      <multiple>ویراستاران و مترجمین</multiple>
     </term>
 
     <!-- VERB ROLE FORMS -->
     <term name="container-author" form="verb">توسط</term>
-    <term name="director" form="verb">directed by</term>
-    <term name="editor" form="verb">ویرایش توسط</term>
+    <term name="director" form="verb">زیر نظر</term>
+    <term name="editor" form="verb">ویراسته‌ی</term>
     <term name="editorial-director" form="verb">ویراسته‌ی</term>
     <term name="illustrator" form="verb">طراحی گرافیکی از</term>
     <term name="interviewer" form="verb">مصاحبه توسط</term>
