@@ -62,10 +62,10 @@
     <term name="bc">a.C.</term>
 
     <!-- PUNCTUATION -->
-    <term name="open-quote">«</term>
-    <term name="close-quote">»</term>
-    <term name="open-inner-quote">“</term>
-    <term name="close-inner-quote">”</term>
+    <term name="open-quote">“</term>
+    <term name="close-quote">”</term>
+    <term name="open-inner-quote">‘</term>
+    <term name="close-inner-quote">’</term>
     <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
@@ -229,8 +229,8 @@
       <multiple>dirs.</multiple>
     </term>
     <term name="editor" form="short">
-      <single>a c. di</single>
-      <multiple>a c. di</multiple>
+      <single>a cura di</single>
+      <multiple>a cura di</multiple>
     </term>
     <term name="editorial-director" form="short">
       <single>ed.</single>
@@ -245,8 +245,8 @@
       <multiple>trad.</multiple>
     </term>
     <term name="editortranslator" form="short">
-      <single>a c. di e trad. da</single>
-      <multiple>a c. di e trad. da</multiple>
+      <single>a cura di e trad. da</single>
+      <multiple>a cura di e trad. da</multiple>
     </term>
 
     <!-- VERB ROLE FORMS -->
