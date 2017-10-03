@@ -26,7 +26,7 @@
     <term name="anonymous">anonim</term>
     <term name="anonymous" form="short">anon.</term>
     <term name="at">la</term>
-    <term name="available at">valabil la</term>
+    <term name="available at">disponibil la</term>
     <term name="by">de</term>
     <term name="circa">circa</term>
     <term name="circa" form="short">cca.</term>
@@ -212,8 +212,8 @@
       <multiple>editori</multiple>
     </term>
     <term name="editorial-director">
-      <single>editor</single>
-      <multiple>editori</multiple>
+      <single>coordonator</single>
+      <multiple>coordonatori</multiple>
     </term>
     <term name="illustrator">
       <single>ilustrator</single>
@@ -238,8 +238,8 @@
       <multiple>ed.</multiple>
     </term>
     <term name="editorial-director" form="short">
-      <single>ed.</single>
-      <multiple>ed.</multiple>
+      <single>coord.</single>
+      <multiple>coord.</multiple>
     </term>
     <term name="illustrator" form="short">
       <single>ilustr.</single>
@@ -258,7 +258,7 @@
     <term name="container-author" form="verb">de</term>
     <term name="director" form="verb">coordonat de</term>
     <term name="editor" form="verb">ediție de</term>
-    <term name="editorial-director" form="verb">ediție de</term>
+    <term name="editorial-director" form="verb">coordonator</term>
     <term name="illustrator" form="verb">ilustrații de</term>
     <term name="interviewer" form="verb">interviu de</term>
     <term name="recipient" form="verb">în</term>
@@ -269,7 +269,7 @@
     <!-- SHORT VERB ROLE FORMS -->
     <term name="director" form="verb-short">dir.</term>
     <term name="editor" form="verb-short">ed.</term>
-    <term name="editorial-director" form="verb-short">ed.</term>
+    <term name="editorial-director" form="verb-short">coord.</term>
     <term name="illustrator" form="verb-short">ilustr.</term>
     <term name="translator" form="verb-short">trad.</term>
     <term name="editortranslator" form="verb-short">ed. &amp; trad. de</term>
