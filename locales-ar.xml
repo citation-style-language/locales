@@ -7,7 +7,7 @@
   <style-options punctuation-in-quote="false"/>
   <date form="text">
     <date-part name="day" suffix=" "/>
-    <date-part name="month" suffix=", "/>
+    <date-part name="month" suffix="، "/>
     <date-part name="year"/>
   </date>
   <date form="numeric">
@@ -160,19 +160,19 @@
     <term name="figure" form="short">رسم توضيحي</term>
     <term name="folio" form="short">مطوية</term>
     <term name="issue" form="short">عدد</term>
-    <term name="line" form="short">l.</term>
+    <term name="line" form="short">سـ</term>
     <term name="note" form="short">n.</term>
     <term name="opus" form="short">نوتة موسيقية</term>
     <term name="page" form="short">
-      <single>ص</single>
-      <multiple>ص.ص.</multiple>
+      <single>صـ</single>
+      <multiple>صـ</multiple>
     </term>
     <term name="number-of-pages" form="short">
-      <single>ص</single>
-      <multiple>ص.ص.</multiple>
+      <single>صـ</single>
+      <multiple>صـ</multiple>
     </term>
     <term name="paragraph" form="short">فقرة</term>
-    <term name="part" form="short">ج.</term>
+    <term name="part" form="short">جـ.</term>
     <term name="section" form="short">قسم</term>
     <term name="sub verbo" form="short">
       <single>تفسير فرعي</single>
@@ -183,8 +183,8 @@
       <multiple>أبيات شعر</multiple>
     </term>
     <term name="volume" form="short">
-      <single>مج.</single>
-      <multiple>مج.</multiple>
+      <single>مجـ.</single>
+      <multiple>مجـ.</multiple>
     </term>
 
     <!-- SYMBOL LOCATOR FORMS -->
@@ -199,75 +199,75 @@
 
     <!-- LONG ROLE FORMS -->
     <term name="director">
-      <single>director</single>
-      <multiple>directors</multiple>
+      <single>مدير</single>
+      <multiple>مديرون</multiple>
     </term>
     <term name="editor">
       <single>محرر</single>
-      <multiple>محررين</multiple>
+      <multiple>محررون</multiple>
     </term>
     <term name="editorial-director">
       <single>رئيس التحرير</single>
       <multiple>رؤساء التحرير</multiple>
     </term>
     <term name="illustrator">
-      <single>illustrator</single>
-      <multiple>illustrators</multiple>
+      <single>مرسم</single>
+      <multiple>مرسمون</multiple>
     </term>
     <term name="translator">
       <single>مترجم</single>
-      <multiple>مترجمين</multiple>
+      <multiple>مترجمون</multiple>
     </term>
     <term name="editortranslator">
       <single>مترجم ومحرر</single>
-      <multiple>مترجمين ومحررين</multiple>
+      <multiple>مترجمون ومحررون</multiple>
     </term>
 
     <!-- SHORT ROLE FORMS -->
     <term name="director" form="short">
-      <single>dir.</single>
-      <multiple>dirs.</multiple>
+      <single>مدور</single>
+      <multiple>مدورون</multiple>
     </term>
     <term name="editor" form="short">
       <single>محرر</single>
-      <multiple>محررين</multiple>
+      <multiple>محررون</multiple>
     </term>
     <term name="editorial-director" form="short">
       <single>مشرف على الطبعة</single>
-      <multiple>مشرفين على الطبعة</multiple>
+      <multiple>مشرفون على الطبعة</multiple>
     </term>
     <term name="illustrator" form="short">
-      <single>ill.</single>
-      <multiple>ills.</multiple>
+      <single>مرسم</single>
+      <multiple>مرسمون</multiple>
     </term>
     <term name="translator" form="short">
       <single>مترجم</single>
-      <multiple>مترجمين</multiple>
+      <multiple>مترجمون</multiple>
     </term>
     <term name="editortranslator" form="short">
       <single>مترجم ومشرف على الطباعه</single>
-      <multiple>مترجمين ومشرفين على الطباعه</multiple>
+      <multiple>مترجمون ومشرفون على الطباعه</multiple>
     </term>
 
     <!-- VERB ROLE FORMS -->
-    <term name="container-author" form="verb"></term>
-    <term name="director" form="verb">directed by</term>
+    <term name="container-author" form="verb">انشاء</term>
+    <term name="director" form="verb">اشراف</term>
     <term name="editor" form="verb">تحرير</term>
     <term name="editorial-director" form="verb">اعداد</term>
-    <term name="illustrator" form="verb">illustrated by</term>
+    <term name="illustrator" form="verb">ترسيم</term>
     <term name="interviewer" form="verb">مقابلة بواسطة</term>
     <term name="recipient" form="verb">مرسل الى</term>
-    <term name="reviewed-author" form="verb">by</term>
+    <term name="reviewed-author" form="verb">مراجعة</term>
     <term name="translator" form="verb">ترجمة</term>
     <term name="editortranslator" form="verb">اعداد وترجمة</term>
 
     <!-- SHORT VERB ROLE FORMS -->
-    <term name="director" form="verb-short">dir.</term>
+    <term name="director" form="verb-short">اشراف</term>
     <term name="editor" form="verb-short">تحرير</term>
     <term name="editorial-director" form="verb-short">اشرف على الطبعة</term>
-    <term name="illustrator" form="verb-short">illus.</term>
+    <term name="illustrator" form="verb-short">ترسيم.</term>
     <term name="translator" form="verb-short">ترجمة</term>
-    <term name="editortranslator" form="verb-short">ترجمه واشرف على الطباعه</term>
+    <term name="editortranslator" form="verb-short">الترجمة والإشراف على الطباعة لـ</term>
 
     <!-- LONG MONTH FORMS -->
     <term name="month-01">يناير</term>
