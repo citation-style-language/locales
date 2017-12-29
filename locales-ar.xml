@@ -25,14 +25,14 @@
     <term name="available at">موجود في</term>
     <term name="by">عن طريق</term>
     <term name="circa">حوالي</term>
-    <term name="circa" form="short">حو.</term>
+    <term name="circa" form="short">حوالي</term>
     <term name="cited">وثق</term>
     <term name="edition">
       <single>الطبعة</single>
       <multiple>الطبعات</multiple>
     </term>
-    <term name="edition" form="short">ط.</term>
-    <term name="et-al">وآخ.</term>
+    <term name="edition" form="short">ط</term>
+    <term name="et-al">وآخرون</term>
     <term name="forthcoming">التالي</term>
     <term name="from">من</term>
     <term name="ibid">المرجع السابق</term>
@@ -43,7 +43,7 @@
     <term name="letter">خطاب</term>
     <term name="no date">دون تاريخ</term>
     <term name="no date" form="short">د.ت</term>
-    <term name="online">على الخط المباشر</term>
+    <term name="online">مباشر على الإنترنت</term>
     <term name="presented at">قُدَّم في</term>
     <term name="reference">
       <single>مرجع</single>
@@ -55,7 +55,7 @@
     </term>
     <term name="retrieved">استرجع في</term>
     <term name="scale">السلم الموسيقي</term>
-    <term name="version">نسخة</term>
+    <term name="version">إصدار</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
     <term name="ad">ب.م.</term>
@@ -72,7 +72,7 @@
     <term name="ordinal"></term>
 
     <!-- LONG ORDINALS -->
-    <term name="long-ordinal-01">الاول</term>
+    <term name="long-ordinal-01">الأول</term>
     <term name="long-ordinal-02">الثاني</term>
     <term name="long-ordinal-03">الثالث</term>
     <term name="long-ordinal-04">الرابع</term>
@@ -118,7 +118,7 @@
     </term>
     <term name="opus">
       <single>نوته موسيقية</single>
-      <multiple>نوت موسيقية</multiple>
+      <multiple>نوتات موسيقية</multiple>
     </term>
     <term name="page">
       <single>صفحة</single>
@@ -161,18 +161,18 @@
     <term name="folio" form="short">مطوية</term>
     <term name="issue" form="short">عدد</term>
     <term name="line" form="short">سـ</term>
-    <term name="note" form="short">نكتة</term>
+    <term name="note" form="short">ملاحظة</term>
     <term name="opus" form="short">نوتة موسيقية</term>
     <term name="page" form="short">
-      <single>ص.</single>
-      <multiple>ص.</multiple>
+      <single>ص</single>
+      <multiple>ص</multiple>
     </term>
     <term name="number-of-pages" form="short">
-      <single>ص.</single>
-      <multiple>ص.</multiple>
+      <single>ص</single>
+      <multiple>ص</multiple>
     </term>
     <term name="paragraph" form="short">فقرة</term>
-    <term name="part" form="short">ج.</term>
+    <term name="part" form="short">ج</term>
     <term name="section" form="short">قسم</term>
     <term name="sub verbo" form="short">
       <single>تفسير فرعي</single>
@@ -183,8 +183,8 @@
       <multiple>أبيات شعر</multiple>
     </term>
     <term name="volume" form="short">
-      <single>مج.</single>
-      <multiple>مج.</multiple>
+      <single>م</single>
+      <multiple>م</multiple>
     </term>
 
     <!-- SYMBOL LOCATOR FORMS -->
@@ -198,9 +198,9 @@
     </term>
 
     <!-- LONG ROLE FORMS -->
-    <term name="director">ادارة</term>
+    <term name="director">إدارة</term>
     <term name="editor">تحقيق</term>
-    <term name="editorial-director">قيادة التحرير</term>
+    <term name="editorial-director">إدارة التحرير</term>
     <term name="illustrator">رسوم</term>
     <term name="translator">ترجمة</term>
     <term name="editortranslator">ترجمة وتحقيق</term>
@@ -208,13 +208,13 @@
     <!-- SHORT ROLE FORMS -->
 
     <!-- VERB ROLE FORMS -->
-    <term name="container-author" form="verb">انشاء</term>
-    <term name="director" form="verb">اشراف</term>
+    <term name="container-author" form="verb">إنشاء</term>
+    <term name="director" form="verb">إشراف</term>
     <term name="editor" form="verb">تحقيق</term>
-    <term name="editorial-director" form="verb">اعداد</term>
+    <term name="editorial-director" form="verb">إعداد</term>
     <term name="illustrator" form="verb">رسوم</term>
-    <term name="interviewer" form="verb">مقابلة بواسطة</term>
-    <term name="recipient" form="verb">مرسل الى</term>
+    <term name="interviewer" form="verb">مقابلة مع</term>
+    <term name="recipient" form="verb">المستلم</term>
     <term name="reviewed-author" form="verb">مراجعة</term>
     <term name="translator" form="verb">ترجمة</term>
     <term name="editortranslator" form="verb">تحقيق وترجمة</term>
@@ -225,13 +225,13 @@
     <term name="month-01">يناير</term>
     <term name="month-02">فبراير</term>
     <term name="month-03">مارس</term>
-    <term name="month-04">ابريل</term>
+    <term name="month-04">أبريل</term>
     <term name="month-05">مايو</term>
     <term name="month-06">يونيو</term>
     <term name="month-07">يوليو</term>
-    <term name="month-08">اغسطس</term>
+    <term name="month-08">أغسطس</term>
     <term name="month-09">سبتمبر</term>
-    <term name="month-10">اكتوبر</term>
+    <term name="month-10">أكتوبر</term>
     <term name="month-11">نوفمبر</term>
     <term name="month-12">ديسمبر</term>
 
@@ -239,9 +239,9 @@
 
 
     <!-- SEASONS -->
-    <term name="season-01">الربيع</term>
-    <term name="season-02">الصيف</term>
-    <term name="season-03">الخريف</term>
-    <term name="season-04">الشتاء</term>
+    <term name="season-01">ربيع</term>
+    <term name="season-02">صيف</term>
+    <term name="season-03">خريف</term>
+    <term name="season-04">شتاء</term>
   </terms>
 </locale>
