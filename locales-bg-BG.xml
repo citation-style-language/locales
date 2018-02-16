@@ -74,25 +74,59 @@
     <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
-    <term name="ordinal">ти</term>
-    <term name="ordinal-01">ви</term>
-    <term name="ordinal-02">ри</term>
-    <term name="ordinal-03">ти</term>
-    <term name="ordinal-21">ви</term>
-    <term name="ordinal-22">ри</term>
-    <term name="ordinal-33">ти</term>
+    <term name="ordinal">то</term>
+    <term name="ordinal-01">во</term>
+    <term name="ordinal-02">ро</term>
+    <term name="ordinal-03">то</term>
+    <term name="ordinal-21">во</term>
+    <term name="ordinal-22">ро</term>
+    <term name="ordinal-33">то</term>
+    <term name="ordinal" gender-form="masculine">ти</term>
+    <term name="ordinal-01 gender-form="masculine"">ви</term>
+    <term name="ordinal-02" gender-form="masculine">ри</term>
+    <term name="ordinal-03" gender-form="masculine">ти</term>
+    <term name="ordinal-21" gender-form="masculine">ви</term>
+    <term name="ordinal-22" gender-form="masculine">ри</term>
+    <term name="ordinal-33" gender-form="masculine">ти</term>
+    <term name="ordinal" gender-form="feminine">та</term>
+    <term name="ordinal-01" gender-form="feminine">ва</term>
+    <term name="ordinal-02" gender-form="feminine">ра</term>
+    <term name="ordinal-03" gender-form="feminine">та</term>
+    <term name="ordinal-21" gender-form="feminine">ва</term>
+    <term name="ordinal-22" gender-form="feminine">ра</term>
+    <term name="ordinal-33" gender-form="feminine">та</term>
 
     <!-- LONG ORDINALS -->
-    <term name="long-ordinal-01">първи</term>
-    <term name="long-ordinal-02">втори</term>
-    <term name="long-ordinal-03">трети</term>
-    <term name="long-ordinal-04">четвърти</term>
-    <term name="long-ordinal-05">пети</term>
-    <term name="long-ordinal-06">шести</term>
-    <term name="long-ordinal-07">седми</term>
-    <term name="long-ordinal-08">осми</term>
-    <term name="long-ordinal-09">девети</term>
-    <term name="long-ordinal-10">десети</term>
+    <term name="long-ordinal-01">първo</term>
+    <term name="long-ordinal-02">вторo</term>
+    <term name="long-ordinal-03">третo</term>
+    <term name="long-ordinal-04">четвъртo</term>
+    <term name="long-ordinal-05">петo</term>
+    <term name="long-ordinal-06">шестo</term>
+    <term name="long-ordinal-07">седмo</term>
+    <term name="long-ordinal-08">осмo</term>
+    <term name="long-ordinal-09">деветo</term>
+    <term name="long-ordinal-10">десетo</term>
+    <term name="long-ordinal-01" gender-form="masculine">първи</term>
+    <term name="long-ordinal-02" gender-form="masculine">втори</term>
+    <term name="long-ordinal-03" gender-form="masculine">трети</term>
+    <term name="long-ordinal-04" gender-form="masculine">четверти</term>
+    <term name="long-ordinal-05" gender-form="masculine">пети</term>
+    <term name="long-ordinal-06" gender-form="masculine">шести</term>
+    <term name="long-ordinal-07" gender-form="masculine">седми</term>
+    <term name="long-ordinal-08" gender-form="masculine">осми</term>
+    <term name="long-ordinal-09" gender-form="masculine">девети</term>
+    <term name="long-ordinal-10" gender-form="masculine">десети</term>
+    <term name="long-ordinal-01" gender-form="feminine">първа</term>
+    <term name="long-ordinal-02" gender-form="feminine">втора</term>
+    <term name="long-ordinal-03" gender-form="feminine">трета</term>
+    <term name="long-ordinal-04" gender-form="feminine">четверта</term>
+    <term name="long-ordinal-05" gender-form="feminine">пета</term>
+    <term name="long-ordinal-06" gender-form="feminine">шеста</term>
+    <term name="long-ordinal-07" gender-form="feminine">седма</term>
+    <term name="long-ordinal-08" gender-form="feminine">осма</term>
+    <term name="long-ordinal-09" gender-form="feminine">девета</term>
+    <term name="long-ordinal-10" gender-form="feminine">десета</term>
 
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
