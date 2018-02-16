@@ -3,10 +3,6 @@
   <info>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
     <updated>2018-02-15T04:14:02+00:00</updated>
-    <contributor>
-      <name>Valeriya Simeonova</name>
-      <uri>http://www.mendeley.com/profiles/valeriya-simeonova/</uri>
-    </contributor>
   </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
@@ -194,7 +190,6 @@
 
     <!-- LONG ROLE FORMS -->
     <term name="director">под общата редакция на</term>
-    </term>
     <term name="editor">
       <single>редактор</single>
       <multiple>редактори</multiple>
@@ -215,7 +210,6 @@
 
     <!-- SHORT ROLE FORMS -->
     <term name="director" form="short">п.о.р.</term>
-    </term>
     <term name="editor" form="short">
       <single>ред</single>
       <multiple>ред.кол.</multiple>
