@@ -33,14 +33,14 @@
     <term name="at">de</term>
     <term name="available at">available at</term>
     <term name="by">by</term>
-    <term name="circa">circa</term>
+    <term name="circa">yaklaşık</term>
     <term name="circa" form="short">c.</term>
     <term name="cited">kaynak</term>
     <term name="edition">
       <single>baskı</single>
       <multiple>baskı</multiple>
     </term>
-    <term name="edition" form="short">baskı</term>
+    <term name="edition" form="short">bs</term>
     <term name="et-al">vd.</term>
     <term name="forthcoming">gelecek</term>
     <term name="from">adresinden erişildi</term>
@@ -48,12 +48,12 @@
     <term name="in">içinde</term>
     <term name="in press">basımda</term>
     <term name="internet">internet</term>
-    <term name="interview">kişisel iletişim</term>
+    <term name="interview">mülakat</term>
     <term name="letter">mektup</term>
     <term name="no date">tarih yok</term>
-    <term name="no date" form="short">y.y.</term>
+    <term name="no date" form="short">t.y.</term>
     <term name="online">çevrimiçi</term>
-    <term name="presented at">sunulan</term>
+    <term name="presented at">program adı:</term>
     <term name="reference">
       <single>kaynak</single>
       <multiple>kaynaklar</multiple>
@@ -63,7 +63,7 @@
       <multiple>kay.</multiple>
     </term>
     <term name="retrieved">tarihinde</term>
-    <term name="scale">scale</term>
+    <term name="scale">ölçek</term>
     <term name="version">versiyon</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
@@ -75,7 +75,7 @@
     <term name="close-quote">”</term>
     <term name="open-inner-quote">‘</term>
     <term name="close-inner-quote">’</term>
-    <term name="page-range-delimiter">–</term>
+    <term name="page-range-delimiter">-</term>
 
     <!-- ORDINALS -->
     <term name="ordinal">.</term>
@@ -126,16 +126,16 @@
       <multiple>notlar</multiple>
     </term>
     <term name="opus">
-      <single>opus</single>
-      <multiple>opera</multiple>
+      <single>eser</single>
+      <multiple>eserler</multiple>
     </term>
     <term name="page">
       <single>sayfa</single>
       <multiple>sayfalar</multiple>
     </term>
     <term name="number-of-pages">
-      <single>sayfa</single>
-      <multiple>sayfalar</multiple>
+      <single>sayfa sayısı</single>
+      <multiple>sayfa sayıları</multiple>
     </term>
     <term name="paragraph">
       <single>paragraf</single>
@@ -150,12 +150,12 @@
       <multiple>bölümler</multiple>
     </term>
     <term name="sub verbo">
-      <single>sub verbo</single>
-      <multiple>sub verbis</multiple>
+      <single>madde</single>
+      <multiple>maddeler</multiple>
     </term>
     <term name="verse">
-      <single>dize</single>
-      <multiple>dizeler</multiple>
+      <single>ayet</single>
+      <multiple>ayetler</multiple>
     </term>
     <term name="volume">
       <single>cilt</single>
@@ -167,8 +167,8 @@
     <term name="chapter" form="short">böl.</term>
     <term name="column" form="short">süt.</term>
     <term name="figure" form="short">şek.</term>
-    <term name="folio" form="short">f.</term>
-    <term name="issue" form="short">sayı</term>
+    <term name="folio" form="short">fl.</term>
+    <term name="issue" form="short">sy</term>
     <term name="line" form="short">satır</term>
     <term name="note" form="short">n.</term>
     <term name="opus" form="short">op.</term>
@@ -263,10 +263,10 @@
     <term name="director" form="verb">direktör</term>
     <term name="editor" form="verb">editör</term>
     <term name="editorial-director" form="verb">düzenleyen</term>
-    <term name="illustrator" form="verb">illustrated by</term>
+    <term name="illustrator" form="verb">illustratör</term>
     <term name="interviewer" form="verb">Röportaj yapan</term>
-    <term name="recipient" form="verb">to</term>
-    <term name="reviewed-author" form="verb">by</term>
+    <term name="recipient" form="verb">alıcı</term>
+    <term name="reviewed-author" form="verb">tanıtım yazarı</term>
     <term name="translator" form="verb">çeviren</term>
     <term name="editortranslator" form="verb">düzenleyen &amp; çeviren by</term>
 
