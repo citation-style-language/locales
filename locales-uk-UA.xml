@@ -23,10 +23,10 @@
     <term name="anonymous" form="short">анон.</term>
     <term name="at">на</term>
     <term name="available at">доступний у</term>
-    <term name="by">відповідно до:</term>
+    <term name="by">відповідно до</term>
     <term name="circa">близько</term>
     <term name="circa" form="short">c.</term>
-    <term name="cited">цит. за:</term>
+    <term name="cited">цит. за</term>
     <term name="edition">видання</term>
     <term name="edition" form="short">вид.</term>
     <term name="et-al">et al.</term>
@@ -60,13 +60,7 @@
     <term name="page-range-delimiter">–</term>
 
     <!-- ORDINALS -->
-    <term name="ordinal">th</term>
-    <term name="ordinal-01">ий</term>
-    <term name="ordinal-02">ий</term>
-    <term name="ordinal-03">ій</term>
-    <term name="ordinal-11">ий</term>
-    <term name="ordinal-12">ий</term>
-    <term name="ordinal-13">ий</term>
+    <term name="ordinal">ий</term>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">перший</term>
