@@ -43,7 +43,7 @@
     <term name="online">online</term>
     <term name="presented at">представлена на</term>
     <term name="reference">список використаних джерел</term>
-    <term name="reference">примітки</term>
+    <term name="reference" form="short">джерела</term>
     <term name="retrieved">вилучено</term>
     <term name="scale">масштаб</term>
     <term name="version">версія</term>
@@ -146,7 +146,7 @@
     <term name="note" form="short">прим.</term>
     <term name="opus" form="short">оп.</term>
     <term name="page" form="short">с.</term>
-    <term name="number-of-pages">с.</term>
+    <term name="number-of-pages" form="short">с.</term>
     <term name="paragraph" form="short">пар.</term>
     <term name="part" form="short">ч.</term>
     <term name="section" form="short">сек.</term>
@@ -185,12 +185,12 @@
     <term name="editortranslator">За ред. &amp; переклад:</term>
 
     <!-- SHORT ROLE FORMS -->
-    <term name="director">реж.</term>
-    <term name="editor">ред.</term>
-    <term name="editorial-director">ред.</term>
-    <term name="illustrator">іл.</term>
-    <term name="translator">пер.</term>
-    <term name="editortranslator">ред. &amp; пер.</term>
+    <term name="director" form="short">реж.</term>
+    <term name="editor" form="short">ред.</term>
+    <term name="editorial-director" form="short">ред.</term>
+    <term name="illustrator" form="short">іл.</term>
+    <term name="translator" form="short">пер.</term>
+    <term name="editortranslator" form="short">ред. &amp; пер.</term>
 
     <!-- VERB ROLE FORMS -->
     <term name="container-author" form="verb">by</term>
