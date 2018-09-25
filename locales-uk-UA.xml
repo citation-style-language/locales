@@ -182,7 +182,7 @@
       <single>перекладач</single>
       <multiple>перекладачі</multiple>
     </term>
-    <term name="editortranslator">За ред. &amp; переклад:</term>
+    <term name="editortranslator">За ред. &amp; переклад</term>
 
     <!-- SHORT ROLE FORMS -->
     <term name="director" form="short">реж.</term>
