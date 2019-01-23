@@ -4,7 +4,7 @@ require 'json'
 LOCALE_ROOT = File.expand_path('../..', __FILE__)
 
 NO_REGIONS = %w{
-  eu ar
+  eu ar la
 }
 
 def load_locale(path)
