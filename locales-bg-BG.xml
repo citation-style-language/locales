@@ -228,7 +228,7 @@
     </term>
 
     <!-- LONG ROLE FORMS -->
-    <term name="director">под общата редакция на</term>
+    <term name="director">режисьор</term>
     <term name="editor">
       <single>редактор</single>
       <multiple>редактори</multiple>
@@ -248,9 +248,9 @@
     </term>
 
     <!-- SHORT ROLE FORMS -->
-    <term name="director" form="short">п.о.р.</term>
+    <term name="director" form="short">реж.</term>
     <term name="editor" form="short">
-      <single>ред</single>
+      <single>ред.</single>
       <multiple>ред.кол.</multiple>
     </term>
     <term name="editorial-director" form="short">
