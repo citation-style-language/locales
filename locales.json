@@ -25,7 +25,7 @@
         "ja": "ja-JP",
         "km": "km-KH",
         "ko": "ko-KR",
-        "la": "la-LA",
+        "la": "la",
         "lt": "lt-LT",
         "lv": "lv-LV",
         "mn": "mn-MN",
@@ -171,7 +171,7 @@
             "한국어",
             "Korean"
         ],
-        "la-LA": [
+        "la": [
             "Latina",
             "Latin"
         ],
