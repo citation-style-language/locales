@@ -4,9 +4,9 @@ We welcome contributions to the Citation Style Language (CSL) locale files in th
 
 The CSL locale files provide the standard translations for automatic localization of CSL styles.
 As such, the CSL locale files should generally contain the most commonly used translations for a given locale.
-Less common translations can be provided in the individual CSL styles that require them, which will overwrite the CSL locale file translations.
+Less common translations can be [provided in the individual CSL styles](http://docs.citationstyles.org/en/stable/specification.html#locale) that require them, which will overwrite the CSL locale file translations.
 
-Because each CSL locale file offers the standard translations for all CSL styles, changes should be made conservative and carefully.
+Because each CSL locale file offers the standard translations for all CSL styles, changes should be made conservatively and carefully.
 We will often ask a second native speaker and/or past contributor to look over your proposed changes.
 
 ## Licensing and crediting
