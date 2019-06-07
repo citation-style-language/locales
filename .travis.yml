@@ -1,7 +1,7 @@
 language: ruby
 cache: bundler
 rvm:
-  - 2.4.1
+  - 2.6.3
 notifications:
   email:
     recipients:
@@ -15,12 +15,3 @@ notifications:
     on_success: always
     on_failure: always
     on_start: never
-
-before_install:
-  - bundle update --bundler
-before_script:
-  - bundle exec sheldon --welcome
-after_failure:
-  - bundle exec sheldon
-after_success:
-  - bundle exec sheldon
