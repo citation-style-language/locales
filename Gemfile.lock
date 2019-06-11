@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/citation-style-language/Sheldon.git
-  revision: ab5d13637fe53da8eab1f924d4708d870cf96391
+  revision: a9b82fa57ca1e3228a39016f9ee51bfeae301e40
   specs:
-    sheldon (0.1.33)
+    sheldon (1.0.0)
       citeproc-ruby
       csl-styles
       diffy
@@ -42,13 +42,13 @@ GEM
       rspec-mocks (~> 3.8.0)
     rspec-core (3.8.0)
       rspec-support (~> 3.8.0)
-    rspec-expectations (3.8.3)
+    rspec-expectations (3.8.4)
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.8.0)
     rspec-mocks (3.8.0)
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.8.0)
-    rspec-support (3.8.0)
+    rspec-support (3.8.2)
     ruby-progressbar (1.10.1)
 
 PLATFORMS
