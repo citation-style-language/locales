@@ -310,9 +310,9 @@
     <term name="month-12" form="short">12月</term>
 
     <!-- SEASONS -->
-    <term name="season-01">Spring</term>
-    <term name="season-02">Summer</term>
-    <term name="season-03">Autumn</term>
-    <term name="season-04">Winter</term>
+    <term name="season-01">春</term>
+    <term name="season-02">夏</term>
+    <term name="season-03">秋</term>
+    <term name="season-04">冬</term>
   </terms>
 </locale>
