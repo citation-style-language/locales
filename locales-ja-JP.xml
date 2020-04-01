@@ -262,24 +262,24 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
-    <term name="container-author" form="verb">by</term>
-    <term name="director" form="verb">directed by</term>
-    <term name="editor" form="verb">編集者：</term>
-    <term name="editorial-director" form="verb">edited by</term>
-    <term name="illustrator" form="verb">illustrated by</term>
-    <term name="interviewer" form="verb">interview by</term>
-    <term name="recipient" form="verb">to</term>
-    <term name="reviewed-author" form="verb">by</term>
-    <term name="translator" form="verb">翻訳者：</term>
-    <term name="editortranslator" form="verb">edited &amp; translated by</term>
+    <term name="container-author" form="verb">by</term>       <!--as is-->
+    <term name="director" form="verb">監督: </term>
+    <term name="editor" form="verb">編集：</term>
+    <term name="editorial-director" form="verb">編集長: </term>
+    <term name="illustrator" form="verb">イラストレーター：</term>
+    <term name="interviewer" form="verb">インタービュー: </term>
+    <term name="recipient" form="verb">to</term>       <!--as is-->
+    <term name="reviewed-author" form="verb">by</term>       <!--as is-->
+    <term name="translator" form="verb">翻訳：</term>
+    <term name="editortranslator" form="verb">編集・翻訳：</term>
 
     <!-- SHORT VERB ROLE FORMS -->
-    <term name="director" form="verb-short">dir.</term>
-    <term name="editor" form="verb-short">編集者：</term>
-    <term name="editorial-director" form="verb-short">ed.</term>
-    <term name="illustrator" form="verb-short">illus.</term>
-    <term name="translator" form="verb-short">翻訳者：</term>
-    <term name="editortranslator" form="verb-short">ed. &amp; trans. by</term>
+    <term name="director" form="verb-short">監督：</term>
+    <term name="editor" form="verb-short">編集：</term>
+    <term name="editorial-director" form="verb-short">編集長：</term>
+    <term name="illustrator" form="verb-short">イラスト：</term>
+    <term name="translator" form="verb-short">翻訳：</term>
+    <term name="editortranslator" form="verb-short">編・訳：</term>
 
     <!-- LONG MONTH FORMS -->
     <term name="month-01">1月</term>
