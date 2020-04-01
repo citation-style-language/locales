@@ -166,22 +166,22 @@
     </term>
 
     <!-- SHORT LOCATOR FORMS -->
-    <term name="book" form="short">bk.</term>
-    <term name="chapter" form="short">chap.</term>
-    <term name="column" form="short">col.</term>
-    <term name="figure" form="short">fig.</term>
+    <term name="book" form="short">本</term>
+    <term name="chapter" form="short">章</term>
+    <term name="column" form="short">段</term>
+    <term name="figure" form="short">図</term>
     <term name="folio" form="short">f.</term>
-    <term name="issue" form="short">no.</term>
-    <term name="line" form="short">l.</term>
-    <term name="note" form="short">n.</term>
-    <term name="opus" form="short">op.</term>
+    <term name="issue" form="short">号</term>
+    <term name="line" form="short">行</term>
+    <term name="note" form="short">n.</term>      <!--as is-->
+    <term name="opus" form="short">op.</term>     <!--as is-->
     <term name="page" form="short">
-      <single>p.</single>
-      <multiple>pp.</multiple>
+      <single>項</single>
+      <multiple>項</multiple>
     </term>
     <term name="number-of-pages" form="short">
-      <single>p.</single>
-      <multiple>pp.</multiple>
+      <single>項</single>
+      <multiple>項</multiple>
     </term>
     <term name="paragraph" form="short">para.</term>
     <term name="part" form="short">pt.</term>
@@ -191,22 +191,22 @@
       <multiple>s.vv.</multiple>
     </term>
     <term name="verse" form="short">
-      <single>v.</single>
-      <multiple>vv.</multiple>
+      <single>v.</single>           <!--as is-->
+      <multiple>vv.</multiple>      <!--as is-->
     </term>
     <term name="volume" form="short">
-      <single>vol.</single>
-      <multiple>vols.</multiple>
+      <single>冊</single>
+      <multiple>冊</multiple>
     </term>
 
     <!-- SYMBOL LOCATOR FORMS -->
     <term name="paragraph" form="symbol">
-      <single>¶</single>
-      <multiple>¶¶</multiple>
+      <single>¶</single>           <!--as is-->
+      <multiple>¶¶</multiple>      <!--as is-->
     </term>
     <term name="section" form="symbol">
-      <single>§</single>
-      <multiple>§§</multiple>
+      <single>§</single>            <!--as is-->
+      <multiple>§§</multiple>       <!--as is-->
     </term>
 
     <!-- LONG ROLE FORMS -->
