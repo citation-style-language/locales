@@ -211,54 +211,54 @@
 
     <!-- LONG ROLE FORMS -->
     <term name="director">
-      <single>director</single>
-      <multiple>directors</multiple>
+      <single>監督</single>
+      <multiple>監督</multiple>
     </term>
     <term name="editor">
       <single>編</single>
       <multiple>編</multiple>
     </term>
     <term name="editorial-director">
-      <single>editor</single>
-      <multiple>editors</multiple>
+      <single>編集長</single>
+      <multiple>編集長</multiple>
     </term>
     <term name="illustrator">
-      <single>illustrator</single>
-      <multiple>illustrators</multiple>
+      <single>イラストレーター</single>
+      <multiple>イラストレーター</multiple>
     </term>
     <term name="translator">
-      <single>翻訳者</single>
-      <multiple>翻訳者</multiple>
+      <single>翻訳</single>
+      <multiple>翻訳</multiple>
     </term>
     <term name="editortranslator">
-      <single>editor &amp; translator</single>
-      <multiple>editors &amp; translators</multiple>
+      <single>編集・翻訳</single>
+      <multiple>編集・翻訳</multiple>
     </term>
 
     <!-- SHORT ROLE FORMS -->
     <term name="director" form="short">
-      <single>dir.</single>
-      <multiple>dirs.</multiple>
+      <single>監督</single>
+      <multiple>監督</multiple>
     </term>
     <term name="editor" form="short">
       <single>編</single>
       <multiple>編</multiple>
     </term>
     <term name="editorial-director" form="short">
-      <single>ed.</single>
-      <multiple>eds.</multiple>
+      <single>編</single>
+      <multiple>編</multiple>
     </term>
     <term name="illustrator" form="short">
-      <single>ill.</single>
-      <multiple>ills.</multiple>
+      <single>イラスト</single>
+      <multiple>イラスト</multiple>
     </term>
     <term name="translator" form="short">
-      <single>翻訳者</single>
-      <multiple>翻訳者</multiple>
+      <single>訳</single>
+      <multiple>訳</multiple>
     </term>
     <term name="editortranslator" form="short">
-      <single>ed. &amp; tran.</single>
-      <multiple>eds. &amp; trans.</multiple>
+      <single>編・訳</single>
+      <multiple>編・訳</multiple>
     </term>
 
     <!-- VERB ROLE FORMS -->
