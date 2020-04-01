@@ -84,57 +84,57 @@
     <term name="ordinal-13">th</term>
 
     <!-- LONG ORDINALS -->
-    <term name="long-ordinal-01">first</term>
-    <term name="long-ordinal-02">second</term>
-    <term name="long-ordinal-03">third</term>
-    <term name="long-ordinal-04">fourth</term>
-    <term name="long-ordinal-05">fifth</term>
-    <term name="long-ordinal-06">sixth</term>
-    <term name="long-ordinal-07">seventh</term>
-    <term name="long-ordinal-08">eighth</term>
-    <term name="long-ordinal-09">ninth</term>
-    <term name="long-ordinal-10">tenth</term>
+    <term name="long-ordinal-01">第一</term>
+    <term name="long-ordinal-02">第二</term>
+    <term name="long-ordinal-03">第三</term>
+    <term name="long-ordinal-04">第四</term>
+    <term name="long-ordinal-05">第五</term>
+    <term name="long-ordinal-06">第六</term>
+    <term name="long-ordinal-07">第七</term>
+    <term name="long-ordinal-08">第八</term>
+    <term name="long-ordinal-09">第九</term>
+    <term name="long-ordinal-10">第十</term>
 
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
-      <single>book</single>
-      <multiple>books</multiple>
+      <single>本</single>
+      <multiple>本</multiple>
     </term>
     <term name="chapter">
-      <single>chapter</single>
-      <multiple>chapters</multiple>
+      <single>章</single>
+      <multiple>章</multiple>
     </term>
     <term name="column">
-      <single>column</single>
-      <multiple>columns</multiple>
+      <single>段</single>
+      <multiple>段</multiple>
     </term>
     <term name="figure">
-      <single>figure</single>
-      <multiple>figures</multiple>
+      <single>図</single>
+      <multiple>図</multiple>
     </term>
     <term name="folio">
-      <single>folio</single>
-      <multiple>folios</multiple>
+      <single>folio</single>          <!--as is-->
+      <multiple>folios</multiple>     <!--as is-->
     </term>
     <term name="issue">
-      <single>number</single>
-      <multiple>numbers</multiple>
+      <single>号</single>
+      <multiple>号</multiple>
     </term>
     <term name="line">
       <single>行</single>
       <multiple>行</multiple>
     </term>
     <term name="note">
-      <single>note</single>
-      <multiple>notes</multiple>
+      <single>ノート</single>
+      <multiple>ノート</multiple>
     </term>
     <term name="opus">
-      <single>opus</single>
-      <multiple>opera</multiple>
+      <single>opus</single>         <!--as is-->
+      <multiple>opera</multiple>    <!--as is-->
     </term>
     <term name="page">
-      <single>ページ</single>
-      <multiple>ページ</multiple>
+      <single>項</single>
+      <multiple>項</multiple>
     </term>
     <term name="number-of-pages">
       <single>ページ</single>
@@ -145,24 +145,24 @@
       <multiple>段落</multiple>
     </term>
     <term name="part">
-      <single>part</single>
-      <multiple>parts</multiple>
+      <single>部</single>
+      <multiple>部</multiple>
     </term>
     <term name="section">
-      <single>section</single>
-      <multiple>sections</multiple>
+      <single>節</single>
+      <multiple>節</multiple>
     </term>
     <term name="sub verbo">
-      <single>sub verbo</single>
-      <multiple>sub verbis</multiple>
+      <single>sub verbo</single>         <!--as is-->
+      <multiple>sub verbis</multiple>    <!--as is-->
     </term>
     <term name="verse">
-      <single>verse</single>
-      <multiple>verses</multiple>
+      <single>verse</single>        　 <!--as is-->
+      <multiple>verses</multiple>      <!--as is-->
     </term>
     <term name="volume">
-      <single>volume</single>
-      <multiple>volumes</multiple>
+      <single>冊</single>
+      <multiple>冊</multiple>
     </term>
 
     <!-- SHORT LOCATOR FORMS -->
