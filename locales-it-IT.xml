@@ -4,6 +4,9 @@
     <translator>
       <name>FI App Development</name>
     </translator>
+    <translator>
+      <name>monykat</name>
+    </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
     <updated>2012-07-04T23:31:02+00:00</updated>
   </info>
@@ -25,12 +28,13 @@
     <term name="anonymous">anonimo</term>
     <term name="anonymous" form="short">anon.</term>
     <term name="at">a</term>
-    <term name="available at">available at</term>
+    <term name="available at">disponibile su</term>
+    <term name="available at" form="short">su</term>
     <term name="by">di</term>
     <term name="circa">circa</term>
     <term name="circa" form="short">c.</term>
     <term name="cited">citato</term>
-    <term name="edition">
+    <term name="edition" gender="feminine">
       <single>edizione</single>
       <multiple>edizioni</multiple>
     </term>
@@ -42,11 +46,11 @@
     <term name="in">in</term>
     <term name="in press">in stampa</term>
     <term name="internet">internet</term>
-    <term name="interview">intervista</term>
-    <term name="letter">lettera</term>
+    <term name="interview" gender="feminine">intervista</term>
+    <term name="letter" gender="feminine">lettera</term>
     <term name="no date">senza data</term>
     <term name="no date" form="short">s.d.</term>
-    <term name="online">in linea</term>
+    <term name="online">online</term>
     <term name="presented at">presentato al</term>
     <term name="reference">
       <single>reference</single>
@@ -57,8 +61,8 @@
       <multiple>refs.</multiple>
     </term>
     <term name="retrieved">recuperato</term>
-    <term name="scale">scale</term>
-    <term name="version">version</term>
+    <term name="scale">scala</term>
+    <term name="version" gender="feminine">versione</term>
 
     <!-- ANNO DOMINI; BEFORE CHRIST -->
     <term name="ad">d.C.</term>
@@ -73,6 +77,8 @@
 
     <!-- ORDINALS -->
     <term name="ordinal">º</term>
+    <term name="ordinal" gender-form="masculine">º</term>
+    <term name="ordinal" gender-form="feminine">ª</term>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">prima</term>
@@ -214,8 +220,8 @@
       <multiple>editors</multiple>
     </term>
     <term name="illustrator">
-      <single>illustrator</single>
-      <multiple>illustrators</multiple>
+      <single>illustratore</single>
+      <multiple>illustratori</multiple>
     </term>
     <term name="translator">
       <single>traduttore</single>
@@ -229,7 +235,7 @@
     <!-- SHORT ROLE FORMS -->
     <term name="director" form="short">
       <single>dir.</single>
-      <multiple>dirs.</multiple>
+      <multiple>dir.</multiple>
     </term>
     <term name="editor" form="short">
       <single>a c. di</single>
@@ -237,11 +243,11 @@
     </term>
     <term name="editorial-director" form="short">
       <single>ed.</single>
-      <multiple>eds.</multiple>
+      <multiple>ed.</multiple>
     </term>
     <term name="illustrator" form="short">
       <single>ill.</single>
-      <multiple>ills.</multiple>
+      <multiple>ill.</multiple>
     </term>
     <term name="translator" form="short">
       <single>trad.</single>
@@ -254,21 +260,21 @@
 
     <!-- VERB ROLE FORMS -->
     <term name="container-author" form="verb">di</term>
-    <term name="director" form="verb">directed by</term>
+    <term name="director" form="verb">diretto da</term>
     <term name="editor" form="verb">a cura di</term>
     <term name="editorial-director" form="verb">edited by</term>
-    <term name="illustrator" form="verb">illustrated by</term>
+    <term name="illustrator" form="verb">illustrato da</term>
     <term name="interviewer" form="verb">intervista di</term>
     <term name="recipient" form="verb">a</term>
-    <term name="reviewed-author" form="verb">by</term>
+    <term name="reviewed-author" form="verb">di</term>
     <term name="translator" form="verb">tradotto da</term>
     <term name="editortranslator" form="verb">a cura di e tradotto da</term>
 
     <!-- SHORT VERB ROLE FORMS -->
-    <term name="director" form="verb-short">dir.</term>
+    <term name="director" form="verb-short">dir. da</term>
     <term name="editor" form="verb-short">a c. di</term>
     <term name="editorial-director" form="verb-short">ed.</term>
-    <term name="illustrator" form="verb-short">illus.</term>
+    <term name="illustrator" form="verb-short">ill. da</term>
     <term name="translator" form="verb-short">trad. da</term>
     <term name="editortranslator" form="verb-short">a c. di e trad. da</term>
 
