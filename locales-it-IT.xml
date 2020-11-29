@@ -39,6 +39,8 @@
     <term name="forthcoming">futuro</term>
     <term name="from">da</term>
     <term name="ibid">ibid.</term>
+    <term name="ibid" form="long">ibidem</term>
+    <term name="ibid" form="short">ibid.</term>
     <term name="in">in</term>
     <term name="in press">in stampa</term>
     <term name="internet">internet</term>
@@ -158,7 +160,10 @@
 
     <!-- SHORT LOCATOR FORMS -->
     <term name="book" form="short">lib.</term>
-    <term name="chapter" form="short">cap.</term>
+    <term name="chapter" form="short">
+      <single>cap.</single>
+      <multiple>capp.</multiple>
+    </term>
     <term name="column" form="short">col.</term>
     <term name="figure" form="short">fig.</term>
     <term name="folio" form="short">fgl.</term>
@@ -187,7 +192,7 @@
     </term>
     <term name="volume" form="short">
       <single>vol.</single>
-      <multiple>vol.</multiple>
+      <multiple>voll.</multiple>
     </term>
 
     <!-- SYMBOL LOCATOR FORMS -->
