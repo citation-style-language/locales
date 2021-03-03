@@ -32,7 +32,7 @@ jobs:
       if: steps.changed.outputs.style == 'true' || steps.changed.outputs.locale == 'true'
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: 2.7.1
+        ruby-version: 3.0.0
     - name: but use cache to speed that up
       if: steps.changed.outputs.style == 'true' || steps.changed.outputs.locale == 'true'
       uses: actions/cache@v2
