@@ -25,6 +25,58 @@
     <date-part name="year"/>
   </date>
   <terms>
+    <term name="advance-online-publication"></term>
+    <term name="advance-online-publication" form="short"></term>
+    <term name="album"></term>
+    <term name="album" form="short"></term>
+    <term name="audio-recording"></term>
+    <term name="audio-recording" form="short"></term>
+    <term name="film"></term>
+    <term name="film" form="short"></term>
+    <term name="henceforth"></term>
+    <term name="henceforth" form="short"></term>
+    <term name="loc-cit"></term>
+    <term name="loc-cit" form="short"></term>
+    <term name="no-place"></term>
+    <term name="no-place" form="short"></term>
+    <term name="no-publisher"></term>
+    <term name="no-publisher" form="short"></term>
+    <term name="on"></term>
+    <term name="on" form="short"></term>
+    <term name="op-cit"></term>
+    <term name="op-cit" form="short"></term>
+    <term name="original-work-published"></term>
+    <term name="original-work-published" form="short"></term>
+    <term name="personal-communication"></term>
+    <term name="personal-communication" form="short"></term>
+    <term name="podcast"></term>
+    <term name="podcast" form="short"></term>
+    <term name="podcast-episode"></term>
+    <term name="" form="short"></term>
+    <term name="preprint"></term>
+    <term name="preprint" form="short"></term>
+    <term name="radio-broadcast"></term>
+    <term name="radio-broadcast" form="short"></term>
+    <term name="radio-series"></term>
+    <term name="radio-series" form="short"></term>
+    <term name="radio-series-episode"></term>
+    <term name="radio-series-episode" form="short"></term>
+    <term name="special-issue"></term>
+    <term name="special-issue" form="short"></term>
+    <term name="special-section"></term>
+    <term name="special-section" form="short"></term>
+    <term name="television-broadcast"></term>
+    <term name="television-broadcast" form="short"></term>
+    <term name="television-series"></term>
+    <term name="television-series" form="short"></term>
+    <term name="television-series-episode"></term>
+    <term name="television-series-episode" form="short"></term>
+    <term name="video"></term>
+    <term name="video" form="short"></term>
+    <term name="working-paper"></term>
+    <term name="working-paper" form="short"></term>
+    <term name=""></term>
+    <term name="" form="short"></term>
     <term name="accessed">accessed</term>
     <term name="and">and</term>
     <term name="and others">and others</term>
@@ -69,6 +121,10 @@
     <!-- ANNO DOMINI; BEFORE CHRIST -->
     <term name="ad">AD</term>
     <term name="bc">BC</term>
+    <term name="bce"></term>
+    <term name="bce" form="short"></term>
+    <term name="ce"></term>
+    <term name="ce" form="short"></term>
 
     <!-- PUNCTUATION -->
     <term name="open-quote">“</term>
@@ -76,6 +132,9 @@
     <term name="open-inner-quote">‘</term>
     <term name="close-inner-quote">’</term>
     <term name="page-range-delimiter">–</term>
+    <term name="colon">:</term>
+    <term name="comma">,</term>
+    <term name="semicolon">;</term>
 
     <!-- ORDINALS -->
     <term name="ordinal">th</term>
@@ -99,6 +158,50 @@
     <term name="long-ordinal-10">tenth</term>
 
     <!-- LONG LOCATOR FORMS -->
+    <term name="act">			 
+      <single></single>
+      <multiple></multiple>						 
+    </term>
+    <term name="appendix">			 
+      <single></single>
+      <multiple></multiple>						 
+    </term>
+    <term name="article-locator">			 
+      <single></single>
+      <multiple></multiple>						 
+    </term>
+    <term name="canon">			 
+      <single></single>
+      <multiple></multiple>						 
+    </term>
+    <term name="elocation">			 
+      <single></single>
+      <multiple></multiple>						 
+    </term>
+    <term name="equation">			 
+      <single></single>
+      <multiple></multiple>						 
+    </term>
+    <term name="rule">			 
+      <single></single>
+      <multiple></multiple>						 
+    </term>
+    <term name="scene">			 
+      <single></single>
+      <multiple></multiple>						 
+    </term>
+    <term name="table">			 
+      <single></single>
+      <multiple></multiple>						 
+    </term>
+    <term name="timestamp">			 
+      <single></single>
+      <multiple></multiple>						 
+    </term>
+    <term name="title-locator">			 
+      <single></single>
+      <multiple></multiple>						 
+    </term>
     <term name="book">
       <single>book</single>
       <multiple>books</multiple>
@@ -169,6 +272,50 @@
     </term>
 
     <!-- SHORT LOCATOR FORMS -->
+    <term name="act">			 
+      <single></single>
+      <multiple></multiple>						 
+    </term>
+    <term name="appendix">			 
+      <single></single>
+      <multiple></multiple>						 
+    </term>
+    <term name="article-locator">			 
+      <single></single>
+      <multiple></multiple>						 
+    </term>
+    <term name="canon">			 
+      <single></single>
+      <multiple></multiple>						 
+    </term>
+    <term name="elocation">			 
+      <single></single>
+      <multiple></multiple>						 
+    </term>
+    <term name="equation">			 
+      <single></single>
+      <multiple></multiple>						 
+    </term>
+    <term name="rule">			 
+      <single></single>
+      <multiple></multiple>						 
+    </term>
+    <term name="scene">			 
+      <single></single>
+      <multiple></multiple>						 
+    </term>
+    <term name="table">			 
+      <single></single>
+      <multiple></multiple>						 
+    </term>
+    <term name="timestamp">			 
+      <single></single>
+      <multiple></multiple>						 
+    </term>
+    <term name="title-locator">			 
+      <single></single>
+      <multiple></multiple>						 
+    </term>
     <term name="book" form="short">
       <single>bk.</single>
       <multiple>bks.</multiple>
@@ -249,6 +396,58 @@
     </term>
 
     <!-- LONG ROLE FORMS -->
+    <term name="chair">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="compiler">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="contributor">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="curator">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="executive-producer">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="guest">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="host">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="narrator">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="organizer">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="performer">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="producer">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="script-writer">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="series-creator">
+      <single></single>
+      <multiple></multiple>
+    </term>
     <term name="director">
       <single>director</single>
       <multiple>directors</multiple>
@@ -275,6 +474,58 @@
     </term>
 
     <!-- SHORT ROLE FORMS -->
+    <term name="chair">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="compiler">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="contributor">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="curator">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="executive-producer">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="guest">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="host">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="narrator">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="organizer">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="performer">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="producer">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="script-writer">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="series-creator">
+      <single></single>
+      <multiple></multiple>
+    </term>
     <term name="director" form="short">
       <single>dir.</single>
       <multiple>dirs.</multiple>
@@ -301,6 +552,58 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
+    <term name="chair">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="compiler">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="contributor">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="curator">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="executive-producer">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="guest">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="host">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="narrator">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="organizer">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="performer">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="producer">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="script-writer">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="series-creator">
+      <single></single>
+      <multiple></multiple>
+    </term>
     <term name="container-author" form="verb">by</term>
     <term name="director" form="verb">directed by</term>
     <term name="editor" form="verb">edited by</term>
@@ -313,6 +616,58 @@
     <term name="editortranslator" form="verb">edited &amp; translated by</term>
 
     <!-- SHORT VERB ROLE FORMS -->
+    <term name="chair">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="compiler">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="contributor">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="curator">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="executive-producer">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="guest">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="host">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="narrator">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="organizer">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="performer">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="producer">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="script-writer">
+      <single></single>
+      <multiple></multiple>
+    </term>
+    <term name="series-creator">
+      <single></single>
+      <multiple></multiple>
+    </term>
     <term name="director" form="verb-short">dir. by</term>
     <term name="editor" form="verb-short">ed. by</term>
     <term name="editorial-director" form="verb-short">ed. by</term>
