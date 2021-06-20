@@ -42,7 +42,7 @@
     <term name="podcast">podcast</term>
     <term name="podcast-episode">podcast episode</term>
     <term name="preprint">preprint</term>
-    <term name="radio-broadcast">radion broadcast</term>
+    <term name="radio-broadcast">radio broadcast</term>
     <term name="radio-series">radio series</term>
     <term name="radio-series-episode">radio series episode</term>
     <term name="special-issue">special issue</term>
@@ -93,7 +93,7 @@
     <term name="scale">scale</term>
     <term name="version">version</term>
 
-    <!-- ANNO DOMINI; BEFORE CHRIST -->
+    <!-- HISTORICAL ERA TERMS -->
     <term name="ad">AD</term>
     <term name="bc">BC</term>
     <term name="bce">BCE</term>
@@ -137,7 +137,7 @@
     </term>
     <term name="appendix">			 
       <single>appendix</single>
-      <multiple>appendixes</multiple>						 
+      <multiple>appendices</multiple>						 
     </term>
     <term name="article-locator">			 
       <single>article</single>
@@ -167,8 +167,8 @@
       <single>table</single>
       <multiple>tables</multiple>						 
     </term>
-    <term name="timestamp">			 
-      <single></single> <!-- ??? -->
+    <term name="timestamp"> <!-- generally blank -->
+      <single></single>
       <multiple></multiple>						 
     </term>
     <term name="title-locator">			 
@@ -254,20 +254,20 @@
       <multiple></multiple>						 
     </term>
     <term name="article-locator">			 
-      <single></single>
-      <multiple></multiple>						 
+      <single>art.</single>
+      <multiple>arts.</multiple>
     </term>
     <term name="canon">			 
       <single></single>
       <multiple></multiple>						 
     </term>
     <term name="elocation">			 
-      <single></single>
-      <multiple></multiple>						 
+      <single>loc.</single>
+      <multiple>locs.</multiple>
     </term>
     <term name="equation">			 
-      <single></single>
-      <multiple></multiple>						 
+      <single>eq.</single>
+      <multiple>eqs.</multiple>
     </term>
     <term name="rule">			 
       <single></single>
@@ -281,7 +281,7 @@
       <single></single>
       <multiple></multiple>						 
     </term>
-    <term name="timestamp">			 
+    <term name="timestamp"> <!-- generally blank -->
       <single></single>
       <multiple></multiple>						 
     </term>
@@ -525,13 +525,13 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
-    <term name="chair" form="verb"></term> <!-- ??? -->
+    <term name="chair" form="verb">chaired by</term>
     <term name="compiler" form="verb">compiled by</term>
-    <term name="contributor" form="verb">contributions by</term>
+    <term name="contributor" form="verb">with</term>
     <term name="curator" form="verb">curated by</term>
-    <term name="executive-producer" form="verb">produced by</term>
-    <term name="guest" form="verb"></term> <!-- ??? -->
-    <term name="host" form="verb">hosted by</term> <!-- ??? -->
+    <term name="executive-producer" form="verb">executive produced by</term>
+    <term name="guest" form="verb">with guest</term>
+    <term name="host" form="verb">hosted by</term>
     <term name="narrator" form="verb">narrated by</term>
     <term name="organizer" form="verb">organized by</term>
     <term name="performer" form="verb">performed by</term>
@@ -552,10 +552,10 @@
     <!-- SHORT VERB ROLE FORMS -->
     <term name="chair" form="verb-short"></term> <!-- ??? -->
     <term name="compiler" form="verb-short">compiled by</term>
-    <term name="contributor" form="verb-short">contributions by</term>
+    <term name="contributor" form="verb-short">with</term>
     <term name="curator" form="verb-short">curated by</term>
     <term name="executive-producer" form="verb-short">produced by</term>
-    <term name="guest" form="verb-short"></term> <!-- ??? -->
+    <term name="guest" form="verb-short">with guest</term>
     <term name="host" form="verb-short">hosted by</term> <!-- ??? -->
     <term name="narrator" form="verb-short">narrated by</term>
     <term name="organizer" form="verb-short">organized by</term>
