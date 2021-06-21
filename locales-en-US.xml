@@ -378,8 +378,8 @@
       <multiple></multiple>						 
     </term>
     <term name="title-locator">			 
-      <single></single>
-      <multiple></multiple>						 
+      <single>tit.</single>
+      <multiple>tits.</multiple>
     </term>
     <term name="book" form="short">
       <single>bk.</single>
