@@ -370,8 +370,8 @@
       <multiple>scs.</multiple>						 
     </term>
     <term name="table">			 
-      <single>tab.</single>
-      <multiple>tabs.</multiple>						 
+      <single>tbl.</single>
+      <multiple>tbls.</multiple>						 
     </term>
     <term name="timestamp"> <!-- generally blank -->
       <single></single>
