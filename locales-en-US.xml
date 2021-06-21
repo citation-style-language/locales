@@ -32,7 +32,7 @@
     <term name="henceforth">henceforth</term>
     <term name="loc-cit">loc. cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
     <term name="no-place">no place</term>
-    <term name="no-place" form="short">n. p.</term>
+    <term name="no-place" form="short">n.p.</term>
     <term name="no-publisher">no publisher</term>
     <term name="no-publisher" form="short"></term> <!-- ??? -->
     <term name="on">on</term>
