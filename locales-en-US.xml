@@ -246,12 +246,12 @@
 
     <!-- SHORT LOCATOR FORMS -->
     <term name="act">			 
-      <single></single>
+      <single>a.</single> <!-- according to acronyms.com, but is this really common?-->
       <multiple></multiple>						 
     </term>
     <term name="appendix">			 
-      <single></single>
-      <multiple></multiple>						 
+      <single>app.</single>
+      <multiple>apps.</multiple>						 
     </term>
     <term name="article-locator">			 
       <single>art.</single>
@@ -274,8 +274,8 @@
       <multiple></multiple>						 
     </term>
     <term name="scene">			 
-      <single>sc.</single> <!-- correct?-->
-      <multiple></multiple>						 
+      <single>sc.</single>
+      <multiple>scs.</multiple>						 
     </term>
     <term name="table">			 
       <single>tab.</single>
