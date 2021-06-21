@@ -274,12 +274,12 @@
       <multiple></multiple>						 
     </term>
     <term name="scene">			 
-      <single></single>
+      <single>sc.</single> <!-- correct?-->
       <multiple></multiple>						 
     </term>
     <term name="table">			 
-      <single></single>
-      <multiple></multiple>						 
+      <single>tab.</single>
+      <multiple>tabs.</multiple>						 
     </term>
     <term name="timestamp"> <!-- generally blank -->
       <single></single>
