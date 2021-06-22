@@ -240,8 +240,8 @@
       <multiple>canons</multiple>						 
     </term>
     <term name="elocation">			 
-      <single></single> <!-- ??? -->
-      <multiple></multiple>						 
+      <single>location</single>
+      <multiple>locations</multiple>						 
     </term>
     <term name="equation">			 
       <single>equation</single>
