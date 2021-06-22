@@ -94,95 +94,95 @@
     <term name="version">version</term>
 
     <!-- ITEM TYPES -->
-    <term name="article"></term>
+    <term name="article">preprint</term> <!-- see above question -->
     <term name="article" form="short"></term>
-    <term name="article-journal"></term>
+    <term name="article-journal">journal article</term>
     <term name="article-journal" form="short"></term>
-    <term name="article-magazine"></term>
+    <term name="article-magazine">magazine article</term>
     <term name="article-magazine" form="short"></term>
-    <term name="article-newspaper"></term>
+    <term name="article-newspaper">newspaper article</term>
     <term name="article-newspaper" form="short"></term>
-    <term name="bill"></term>
+    <term name="bill">bill</term>
     <term name="bill" form="short"></term>
-    <term name="book"></term>
+    <term name="book">book</term>
     <term name="book" form="short"></term>
-    <term name="broadcast"></term>
+    <term name="broadcast">broadcast</term>
     <term name="broadcast" form="short"></term>
-    <term name="chapter"></term>
+    <term name="chapter">book chapter</term>
     <term name="chapter" form="short"></term>
-    <term name="classic"></term>
+    <term name="classic">classic</term>
     <term name="classic" form="short"></term>
-    <term name="collection"></term>
+    <term name="collection">collection</term>
     <term name="collection" form="short"></term>
-    <term name="dataset"></term>
+    <term name="dataset">dataset</term>
     <term name="dataset" form="short"></term>
-    <term name="document"></term>
+    <term name="document">document</term>
     <term name="document" form="short"></term>
-    <term name="entry"></term>
+    <term name="entry">entry</term>
     <term name="entry" form="short"></term>
-    <term name="entry-dictionary"></term>
+    <term name="entry-dictionary">dictionary entry</term>
     <term name="entry-dictionary" form="short"></term>
-    <term name="entry-encyclopedia"></term>
+    <term name="entry-encyclopedia">encyclopedia entry</term>
     <term name="entry-encyclopedia" form="short"></term>
-    <term name="event"></term>
+    <term name="event">event</term>
     <term name="event" form="short"></term>
-    <term name="figure"></term>
+    <term name="figure">figure</term> <!-- there is an existing figure term right? -->
     <term name="figure" form="short"></term>
-    <term name="graphic"></term>
+    <term name="graphic">graphic</term> <!-- or "image" -->
     <term name="graphic" form="short"></term>
-    <term name="hearing"></term>
+    <term name="hearing">hearing</term>
     <term name="hearing" form="short"></term>
-    <term name="interview"></term>
+    <term name="interview">interview</term>
     <term name="interview" form="short"></term>
     <term name="legal_case"></term>
     <term name="legal_case" form="short"></term>
-    <term name="legislation"></term>
+    <term name="legislation">legislation</term> <!-- or "statue" -->
     <term name="legislation" form="short"></term>
-    <term name="manuscript"></term>
+    <term name="manuscript">manuscript</term>
     <term name="manuscript" form="short"></term>
-    <term name="map"></term>
+    <term name="map">map</term>
     <term name="map" form="short"></term>
-    <term name="motion_picture"></term>
+    <term name="motion_picture">video recording</term>
     <term name="motion_picture" form="short"></term>
-    <term name="musical_score"></term>
+    <term name="musical_score">musical score</term>
     <term name="musical_score" form="short"></term>
-    <term name="pamphlet"></term>
+    <term name="pamphlet">pamphlet</term>
     <term name="pamphlet" form="short"></term>
-    <term name="paper-conference"></term>
+    <term name="paper-conference">conference paper</term>
     <term name="paper-conference" form="short"></term>
-    <term name="patent"></term>
+    <term name="patent">patent</term>
     <term name="patent" form="short"></term>
-    <term name="performance"></term>
+    <term name="performance">performance</term>
     <term name="performance" form="short"></term>
-    <term name="periodical"></term>
+    <term name="periodical">periodical</term>
     <term name="periodical" form="short"></term>
-    <term name="personal_communication"></term>
+    <term name="personal_communication">personal communication</term>
     <term name="personal_communication" form="short"></term>
-    <term name="post"></term>
+    <term name="post">post</term>
     <term name="post" form="short"></term>
-    <term name="post-weblog"></term>
+    <term name="post-weblog">blog post</term>
     <term name="post-weblog" form="short"></term>
-    <term name="regulation"></term>
+    <term name="regulation">regulation</term>
     <term name="regulation" form="short"></term>
-    <term name="report"></term>
+    <term name="report">report</term>
     <term name="report" form="short"></term>
-    <term name="review"></term>
+    <term name="review">review</term>
     <term name="review" form="short"></term>
-    <term name="review-book"></term>
+    <term name="review-book">book review</term>
     <term name="review-book" form="short"></term>
-    <term name="software"></term>
+    <term name="software">software</term>
     <term name="software" form="short"></term>
-    <term name="song"></term>
+    <term name="song">audio recording</term>
     <term name="song" form="short"></term>
-    <term name="speech"></term>
+    <term name="speech">presentation</term>
     <term name="speech" form="short"></term>
-    <term name="standard"></term>
+    <term name="standard">standard</term>
     <term name="standard" form="short"></term>
-    <term name="thesis"></term>
+    <term name="thesis">thesis</term>
     <term name="thesis" form="short"></term>
-    <term name="treaty"></term>
+    <term name="treaty">treaty</term>
     <term name="treaty" form="short"></term>
-    <term name="webpage"></term>
+    <term name="webpage">webpage</term>
     <term name="webpage" form="short"></term>
 
     <!-- HISTORICAL ERA TERMS -->
