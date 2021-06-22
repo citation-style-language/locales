@@ -350,8 +350,8 @@
       <multiple>arts.</multiple>
     </term>
     <term name="canon">			 
-      <single></single>
-      <multiple></multiple>						 
+      <single>canon</single>
+      <multiple>canons</multiple>						 
     </term>
     <term name="elocation">			 
       <single>loc.</single>
