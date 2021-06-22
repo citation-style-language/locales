@@ -540,56 +540,56 @@
 
     <!-- SHORT ROLE FORMS -->
     <term name="chair">
-      <single></single>
-      <multiple></multiple>
+      <single>chair</single>
+      <multiple>chairs</multiple>
     </term>
     <term name="compiler">
-      <single></single>
-      <multiple></multiple>
+      <single>comp.</single>
+      <multiple>comps.</multiple>
     </term>
     <term name="contributor">
-      <single></single>
-      <multiple></multiple>
+      <single>contrib.</single>
+      <multiple>contribs.</multiple>
     </term>
     <term name="curator">
-      <single></single>
-      <multiple></multiple>
+      <single>cur.</single>
+      <multiple>curs.</multiple>
     </term>
     <term name="executive-producer">
-      <single></single>
-      <multiple></multiple>
+      <single>exec. prod.</single>
+      <multiple>exec. prods.</multiple>
     </term>
     <term name="guest">
-      <single></single>
-      <multiple></multiple>
+      <single>guest</single>
+      <multiple>guests</multiple>
     </term>
     <term name="host">
-      <single></single>
-      <multiple></multiple>
+      <single>host</single>
+      <multiple>hosts</multiple>
     </term>
     <term name="narrator">
-      <single></single>
-      <multiple></multiple>
+      <single>narr.</single>
+      <multiple>narrs.</multiple>
     </term>
     <term name="organizer">
-      <single></single>
-      <multiple></multiple>
+      <single>org.</single>
+      <multiple>orgs.</multiple>
     </term>
     <term name="performer">
-      <single></single>
-      <multiple></multiple>
+      <single>perf.</single>
+      <multiple>perfs.</multiple>
     </term>
     <term name="producer">
-      <single></single>
-      <multiple></multiple>
+      <single>prod.</single>
+      <multiple>prods.</multiple>
     </term>
     <term name="script-writer">
-      <single></single>
-      <multiple></multiple>
+      <single>writ.</single>
+      <multiple>writs.</multiple>
     </term>
     <term name="series-creator">
-      <single></single>
-      <multiple></multiple>
+      <single>cre.</single>
+      <multiple>cres.</multiple>
     </term>
     <term name="director" form="short">
       <single>dir.</single>
