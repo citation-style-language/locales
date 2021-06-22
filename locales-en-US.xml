@@ -642,8 +642,8 @@
     <term name="editortranslator" form="verb">edited &amp; translated by</term>
 
     <!-- SHORT VERB ROLE FORMS -->
-    <term name="chair" form="verb-short"></term> <!-- ??? -->
-    <term name="compiler" form="verb-short">compiled by</term>
+    <term name="chair" form="verb-short">chaired by</term>
+    <term name="compiler" form="verb-short">comp. by</term>
     <term name="contributor" form="verb-short">w.</term>
     <term name="curator" form="verb-short">cur. by</term>
     <term name="executive-producer" form="verb-short">exec. prod. by</term>
