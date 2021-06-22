@@ -506,8 +506,8 @@
       <multiple>producers</multiple>
     </term>
     <term name="script-writer"> <!-- shouldn't that be scriptwriter?-->
-      <single>scriptwriter</single>
-      <multiple>scriptwriters</multiple>
+      <single>writer</single>
+      <multiple>writers</multiple>
     </term>
     <term name="series-creator">
       <single>series creator</single>
