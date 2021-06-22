@@ -338,8 +338,8 @@
 
     <!-- SHORT LOCATOR FORMS -->
     <term name="act">			 
-      <single>a.</single> <!-- according to acronyms.com, but is this really common?-->
-      <multiple></multiple>						 
+      <single>act</single>
+      <multiple>acts</multiple>						 
     </term>
     <term name="appendix">			 
       <single>app.</single>
