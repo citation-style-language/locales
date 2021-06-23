@@ -22,7 +22,7 @@
     <date-part name="year"/>
   </date>
   <terms>
-    <term name="accessed">udostępniono</term>
+    <term name="accessed">dostęp:</term>
     <term name="and">i</term>
     <term name="and others">i inni</term>
     <term name="anonymous">anonim</term>
