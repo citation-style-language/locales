@@ -20,7 +20,7 @@
     <date-part name="year"/>
   </date>
   <terms>
-    <term name="accessed">geraadpleegd</term>
+    <term name="accessed">geraadpleegd op</term>
     <term name="and">en</term>
     <term name="and others">en anderen</term>
     <term name="anonymous">anoniem</term>
@@ -38,7 +38,7 @@
     <term name="edition" form="short">dr.</term>
     <term name="et-al">e.a.</term>
     <term name="forthcoming">in voorbereiding</term>
-    <term name="from">van</term>
+    <term name="from">op</term>
     <term name="ibid">ibid.</term>
     <term name="in">in</term>
     <term name="in press">in druk</term>
@@ -57,7 +57,7 @@
       <single>ref.</single>
       <multiple>refs.</multiple>
     </term>
-    <term name="retrieved">geraadpleegd</term>
+    <term name="retrieved">geraadpleegd op</term>
     <term name="scale">schaal</term>
     <term name="version">versie</term>
 
