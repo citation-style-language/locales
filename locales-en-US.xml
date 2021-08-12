@@ -93,97 +93,99 @@
     <term name="scale">scale</term>
     <term name="version">version</term>
 
-    <!-- ITEM TYPES -->
+    <!-- LONG ITEM TYPE FORMS -->
     <term name="article">preprint</term> <!-- see above question -->
-    <term name="article" form="short"></term>
     <term name="article-journal">journal article</term>
-    <term name="article-journal" form="short"></term>
     <term name="article-magazine">magazine article</term>
-    <term name="article-magazine" form="short"></term>
     <term name="article-newspaper">newspaper article</term>
-    <term name="article-newspaper" form="short"></term>
     <term name="bill">bill</term>
-    <term name="bill" form="short"></term>
     <term name="book">book</term>
-    <term name="book" form="short"></term>
     <term name="broadcast">broadcast</term>
-    <term name="broadcast" form="short"></term>
     <term name="chapter">book chapter</term>
-    <term name="chapter" form="short"></term>
     <term name="classic">classic</term>
-    <term name="classic" form="short"></term>
     <term name="collection">collection</term>
-    <term name="collection" form="short"></term>
     <term name="dataset">dataset</term>
-    <term name="dataset" form="short"></term>
     <term name="document">document</term>
-    <term name="document" form="short"></term>
     <term name="entry">entry</term>
-    <term name="entry" form="short"></term>
     <term name="entry-dictionary">dictionary entry</term>
-    <term name="entry-dictionary" form="short"></term>
     <term name="entry-encyclopedia">encyclopedia entry</term>
-    <term name="entry-encyclopedia" form="short"></term>
     <term name="event">event</term>
-    <term name="event" form="short"></term>
     <term name="figure">figure</term> <!-- there is an existing figure term right? -->
-    <term name="figure" form="short"></term>
     <term name="graphic">graphic</term> <!-- or "image" -->
-    <term name="graphic" form="short"></term>
     <term name="hearing">hearing</term>
-    <term name="hearing" form="short"></term>
     <term name="interview">interview</term>
-    <term name="interview" form="short"></term>
     <term name="legal_case"></term>
-    <term name="legal_case" form="short"></term>
     <term name="legislation">legislation</term> <!-- or "statue" -->
-    <term name="legislation" form="short"></term>
     <term name="manuscript">manuscript</term>
-    <term name="manuscript" form="short"></term>
     <term name="map">map</term>
-    <term name="map" form="short"></term>
     <term name="motion_picture">video recording</term>
-    <term name="motion_picture" form="short"></term>
     <term name="musical_score">musical score</term>
-    <term name="musical_score" form="short"></term>
     <term name="pamphlet">pamphlet</term>
-    <term name="pamphlet" form="short"></term>
     <term name="paper-conference">conference paper</term>
-    <term name="paper-conference" form="short"></term>
     <term name="patent">patent</term>
-    <term name="patent" form="short"></term>
     <term name="performance">performance</term>
-    <term name="performance" form="short"></term>
     <term name="periodical">periodical</term>
-    <term name="periodical" form="short"></term>
     <term name="personal_communication">personal communication</term>
-    <term name="personal_communication" form="short"></term>
     <term name="post">post</term>
-    <term name="post" form="short"></term>
     <term name="post-weblog">blog post</term>
-    <term name="post-weblog" form="short"></term>
     <term name="regulation">regulation</term>
-    <term name="regulation" form="short"></term>
     <term name="report">report</term>
-    <term name="report" form="short"></term>
     <term name="review">review</term>
-    <term name="review" form="short"></term>
     <term name="review-book">book review</term>
-    <term name="review-book" form="short"></term>
     <term name="software">software</term>
-    <term name="software" form="short"></term>
     <term name="song">audio recording</term>
-    <term name="song" form="short"></term>
     <term name="speech">presentation</term>
-    <term name="speech" form="short"></term>
     <term name="standard">standard</term>
-    <term name="standard" form="short"></term>
     <term name="thesis">thesis</term>
-    <term name="thesis" form="short"></term>
     <term name="treaty">treaty</term>
-    <term name="treaty" form="short"></term>
     <term name="webpage">webpage</term>
-    <term name="webpage" form="short"></term>
+
+    <!-- SHORT ITEM TYPE FORMS -->
+    <term name="article" form="short">preprint</term> <!-- see above question -->
+    <term name="article-journal" form="short">journal article</term>
+    <term name="article-magazine" form="short">magazine article</term>
+    <term name="article-newspaper" form="short">newspaper article</term>
+    <term name="bill" form="short">bill</term>
+    <term name="book" form="short">book</term>
+    <term name="broadcast" form="short">broadcast</term>
+    <term name="chapter" form="short">book chapter</term>
+    <term name="classic" form="short">classic</term>
+    <term name="collection" form="short">collection</term>
+    <term name="dataset" form="short">dataset</term>
+    <term name="document" form="short">document</term>
+    <term name="entry" form="short">entry</term>
+    <term name="entry-dictionary" form="short">dictionary entry</term>
+    <term name="entry-encyclopedia" form="short">encyclopedia entry</term>
+    <term name="event" form="short">event</term>
+    <term name="figure" form="short">figure</term> <!-- there is an existing figure term right? -->
+    <term name="graphic" form="short">graphic</term> <!-- or "image" -->
+    <term name="hearing" form="short">hearing</term>
+    <term name="interview" form="short">interview</term>
+    <term name="legal_case" form="short"></term>
+    <term name="legislation" form="short">legislation</term> <!-- or "statue" -->
+    <term name="manuscript" form="short">manuscript</term>
+    <term name="map" form="short">map</term>
+    <term name="motion_picture" form="short">video recording</term>
+    <term name="musical_score" form="short">musical score</term>
+    <term name="pamphlet" form="short">pamphlet</term>
+    <term name="paper-conference" form="short">conference paper</term>
+    <term name="patent" form="short">patent</term>
+    <term name="performance" form="short">performance</term>
+    <term name="periodical" form="short">periodical</term>
+    <term name="personal_communication" form="short">personal communication</term>
+    <term name="post" form="short">post</term>
+    <term name="post-weblog" form="short">blog post</term>
+    <term name="regulation" form="short">regulation</term>
+    <term name="report" form="short">report</term>
+    <term name="review" form="short">review</term>
+    <term name="review-book" form="short">book review</term>
+    <term name="software" form="short">software</term>
+    <term name="song" form="short">audio recording</term>
+    <term name="speech" form="short">presentation</term>
+    <term name="standard" form="short">standard</term>
+    <term name="thesis" form="short">thesis</term>
+    <term name="treaty" form="short">treaty</term>
+    <term name="webpage" form="short">webpage</term>
 
     <!-- HISTORICAL ERA TERMS -->
     <term name="ad">AD</term>
