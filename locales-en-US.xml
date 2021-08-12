@@ -337,10 +337,6 @@
     </term>
 
     <!-- SHORT LOCATOR FORMS -->
-    <term name="act">			 
-      <single>act</single>
-      <multiple>acts</multiple>						 
-    </term>
     <term name="appendix">			 
       <single>app.</single>
       <multiple>apps.</multiple>						 
@@ -348,10 +344,6 @@
     <term name="article-locator">			 
       <single>art.</single>
       <multiple>arts.</multiple>
-    </term>
-    <term name="canon">			 
-      <single>canon</single>
-      <multiple>canons</multiple>						 
     </term>
     <term name="elocation">			 
       <single>loc.</single>
