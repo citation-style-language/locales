@@ -531,10 +531,6 @@
     </term>
 
     <!-- SHORT ROLE FORMS -->
-    <term name="chair" form="short">
-      <single>chair</single>
-      <multiple>chairs</multiple>
-    </term>
     <term name="compiler" form="short">
       <single>comp.</single>
       <multiple>comps.</multiple>
@@ -550,14 +546,6 @@
     <term name="executive-producer" form="short">
       <single>exec. prod.</single>
       <multiple>exec. prods.</multiple>
-    </term>
-    <term name="guest" form="short">
-      <single>guest</single>
-      <multiple>guests</multiple>
-    </term>
-    <term name="host" form="short">
-      <single>host</single>
-      <multiple>hosts</multiple>
     </term>
     <term name="narrator" form="short">
       <single>narr.</single>
