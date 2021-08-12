@@ -115,7 +115,7 @@
     <term name="hearing">hearing</term>
     <term name="interview">interview</term>
     <term name="legal_case"></term>
-    <term name="legislation">legislation</term> <!-- or "statue" -->
+    <term name="legislation">legislation</term> <!-- or "statute" -->
     <term name="manuscript">manuscript</term>
     <term name="map">map</term>
     <term name="motion_picture">video recording</term>
@@ -162,7 +162,7 @@
     <term name="hearing" form="short">hearing</term>
     <term name="interview" form="short">interview</term>
     <term name="legal_case" form="short"></term>
-    <term name="legislation" form="short">legislation</term> <!-- or "statue" -->
+    <term name="legislation" form="short">legislation</term> <!-- or "statute" -->
     <term name="manuscript" form="short">manuscript</term>
     <term name="map" form="short">map</term>
     <term name="motion_picture" form="short">video recording</term>
