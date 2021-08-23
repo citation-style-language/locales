@@ -141,23 +141,22 @@
     <term name="webpage">webpage</term>
 
     <!-- SHORT ITEM TYPE FORMS -->
-    <term name="article" form="short">preprint</term> <!-- see above question -->
-    <term name="article-journal" form="short">journal article</term>
-    <term name="article-magazine" form="short">magazine article</term>
-    <term name="article-newspaper" form="short">newspaper article</term>
+    <term name="article-journal" form="short">journal art.</term>
+    <term name="article-magazine" form="short">mag. art.</term>
+    <term name="article-newspaper" form="short">newspaper art.</term>
     <term name="bill" form="short">bill</term>
-    <term name="book" form="short">book</term>
+    <term name="book" form="short">bk.</term>
     <term name="broadcast" form="short">broadcast</term>
-    <term name="chapter" form="short">book chapter</term>
+    <term name="chapter" form="short">bk. chap.</term>
     <term name="classic" form="short">classic</term>
     <term name="collection" form="short">collection</term>
     <term name="dataset" form="short">dataset</term>
-    <term name="document" form="short">document</term>
+    <term name="document" form="short">doc.</term>
     <term name="entry" form="short">entry</term>
     <term name="entry-dictionary" form="short">dictionary entry</term>
     <term name="entry-encyclopedia" form="short">encyclopedia entry</term>
     <term name="event" form="short">event</term>
-    <term name="figure" form="short">figure</term>
+    <term name="figure" form="short">fig.</term>
     <term name="graphic" form="short">graphic</term> <!-- or "image" -->
     <term name="hearing" form="short">hearing</term>
     <term name="interview" form="short">interview</term>
@@ -165,7 +164,7 @@
     <term name="legislation" form="short">legislation</term> <!-- or "statute" -->
     <term name="manuscript" form="short">manuscript</term>
     <term name="map" form="short">map</term>
-    <term name="motion_picture" form="short">video recording</term>
+    <term name="motion_picture" form="short">video rec.</term>
     <term name="musical_score" form="short">musical score</term>
     <term name="pamphlet" form="short">pamphlet</term>
     <term name="paper-conference" form="short">conference paper</term>
