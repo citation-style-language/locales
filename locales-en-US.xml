@@ -110,7 +110,7 @@
     <term name="entry-dictionary">dictionary entry</term>
     <term name="entry-encyclopedia">encyclopedia entry</term>
     <term name="event">event</term>
-    <term name="figure">figure</term> <!-- there is an existing figure term right? -->
+    <term name="figure">figure</term>
     <term name="graphic">graphic</term> <!-- or "image" -->
     <term name="hearing">hearing</term>
     <term name="interview">interview</term>
@@ -157,7 +157,7 @@
     <term name="entry-dictionary" form="short">dictionary entry</term>
     <term name="entry-encyclopedia" form="short">encyclopedia entry</term>
     <term name="event" form="short">event</term>
-    <term name="figure" form="short">figure</term> <!-- there is an existing figure term right? -->
+    <term name="figure" form="short">figure</term>
     <term name="graphic" form="short">graphic</term> <!-- or "image" -->
     <term name="hearing" form="short">hearing</term>
     <term name="interview" form="short">interview</term>
@@ -281,7 +281,7 @@
       <single>column</single>
       <multiple>columns</multiple>
     </term>
-    <term name="figure">
+    <term name="figure-locator">
       <single>figure</single>
       <multiple>figures</multiple>
     </term>
