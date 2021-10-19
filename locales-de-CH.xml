@@ -14,7 +14,7 @@
       <name>Sebastian Karcher</name>
     </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2017-12-29T13:02:03-05:00</updated>
+    <updated>2021-10-19T12:12:03-04:00</updated>
   </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
@@ -258,7 +258,7 @@
     </term>
     <term name="editortranslator" form="short">
       <single>Hrsg.&#160;&amp; Übers.</single>
-      <multiple>Hrsg.&#160;&amp; Übers</multiple>
+      <multiple>Hrsg.&#160;&amp; Übers.</multiple>
     </term>
 
     <!-- VERB ROLE FORMS -->
