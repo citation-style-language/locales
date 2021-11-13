@@ -10,19 +10,22 @@
     <translator>
       <name>Heromyth</name>
     </translator>
+    <translator>
+      <name>Zeping Lee</name>
+    </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
     <updated>2014-05-15T23:31:02+00:00</updated>
   </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
-    <date-part name="year" suffix="年"/>
-    <date-part name="month" form="numeric" suffix="月"/>
-    <date-part name="day" suffix="日"/>
+    <date-part name="year" suffix="年" range-delimiter="&#8212;"/>
+    <date-part name="month" form="numeric" suffix="月" range-delimiter="&#8212;"/>
+    <date-part name="day" suffix="日" range-delimiter="&#8212;"/>
   </date>
   <date form="numeric">
-    <date-part name="year"/>
-    <date-part name="month" form="numeric-leading-zeros" prefix="/"/>
-    <date-part name="day" form="numeric-leading-zeros" prefix="/"/>
+    <date-part name="year" range-delimiter="/"/>
+    <date-part name="month" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
+    <date-part name="day" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
   </date>
   <terms>
     <term name="advance-online-publication">advance online publication</term>
@@ -64,7 +67,7 @@
     <term name="circa" form="short">约</term>
     <term name="cited">见引于</term>
     <term name="edition">版本</term>
-    <term name="edition" form="short">本</term>
+    <term name="edition" form="short">版</term>
     <term name="et-al">等</term>
     <term name="forthcoming">即将出版</term>
     <term name="from">从</term>
@@ -159,7 +162,7 @@
     <term name="close-quote">》</term>
     <term name="open-inner-quote">〈</term>
     <term name="close-inner-quote">〉</term>
-    <term name="page-range-delimiter">–</term>
+    <term name="page-range-delimiter">～</term>
     <term name="colon">:</term>
     <term name="comma">,</term>
     <term name="semicolon">;</term>
