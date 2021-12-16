@@ -8,7 +8,7 @@
       <name>Meira da Rocha</name>
     </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2017-12-30T05:26:19+00:00</updated>
+    <updated>2021-12-16T08:33:10-03:00</updated>
   </info>
   <style-options punctuation-in-quote="false" limit-day-ordinals-to-day-1="true"/>
   <date form="text">
@@ -42,7 +42,7 @@
     <term name="forthcoming">a ser publicado</term>
     <term name="from">de</term>
     <term name="ibid">ibidem</term>
-    <term name="in">in</term>
+    <term name="in">em</term>
     <term name="in press">no prelo</term>
     <term name="internet">internet</term>
     <term name="interview">entrevista</term>
