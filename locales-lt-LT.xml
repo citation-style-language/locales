@@ -118,7 +118,7 @@
       <single>skiltis</single>
       <multiple>skiltys</multiple>
     </term>
-    <term name="figure">
+    <term name="figure-locator">
       <single>iliustracija</single>
       <multiple>iliustracijos</multiple>
     </term>
@@ -162,7 +162,7 @@
       <single>poskyris</single>
       <multiple>poskyriai</multiple>
     </term>
-    <term name="sub verbo">
+    <term name="sub-verbo">
       <single>žiūrėk</single>
       <multiple>žiūrėk</multiple>
     </term>
@@ -179,7 +179,7 @@
     <term name="book" form="short">kn.</term>
     <term name="chapter" form="short">sk.</term>
     <term name="column" form="short">skilt.</term>
-    <term name="figure" form="short">il.</term>
+    <term name="figure-locator" form="short">il.</term>
     <term name="folio" form="short">l.</term>
     <term name="issue" form="short">nr.</term>
     <term name="line" form="short">eil.</term>
@@ -196,7 +196,7 @@
     <term name="paragraph" form="short">pastr.</term>
     <term name="part" form="short">d.</term>
     <term name="section" form="short">posk.</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>žr.</single>
       <multiple>žr.</multiple>
     </term>

@@ -103,7 +103,7 @@
       <single>oszlop</single>
       <multiple>oszlop</multiple>
     </term>
-    <term name="figure">
+    <term name="figure-locator">
       <single>ábra</single>
       <multiple>ábra</multiple>
     </term>
@@ -147,7 +147,7 @@
       <single>szakasz</single>
       <multiple>szakasz</multiple>
     </term>
-    <term name="sub verbo">
+    <term name="sub-verbo">
       <single>sub verbo</single>
       <multiple>sub verbis</multiple>
     </term>
@@ -164,7 +164,7 @@
     <term name="book" form="short">könyv</term>
     <term name="chapter" form="short">fej.</term>
     <term name="column" form="short">oszl.</term>
-    <term name="figure" form="short">ábr.</term>
+    <term name="figure-locator" form="short">ábr.</term>
     <term name="folio" form="short">fol.</term>
     <term name="issue" form="short">sz.</term>
     <term name="line" form="short">s.</term>
@@ -181,7 +181,7 @@
     <term name="paragraph" form="short">bek.</term>
     <term name="part" form="short">rész</term>
     <term name="section" form="short">szak.</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>s. v.</single>
       <multiple>s. vv.</multiple>
     </term>

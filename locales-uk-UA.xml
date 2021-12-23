@@ -87,7 +87,7 @@
       <single>графа</single>
       <multiple>графи</multiple>
     </term>
-    <term name="figure">
+    <term name="figure-locator">
       <single>рисунок</single>
       <multiple>рисунки</multiple>
     </term>
@@ -122,7 +122,7 @@
       <single>розділ</single>
       <multiple>розділи</multiple>
     </term>
-    <term name="sub verbo">
+    <term name="sub-verbo">
       <single>sub verbo</single>
       <multiple>sub verbis</multiple>
     </term>
@@ -139,7 +139,7 @@
     <term name="book" form="short">кн.</term>
     <term name="chapter" form="short">розд.</term>
     <term name="column" form="short">ряд.</term>
-    <term name="figure" form="short">рис.</term>
+    <term name="figure-locator" form="short">рис.</term>
     <term name="folio" form="short">ф.</term>
     <term name="issue" form="short">вип.</term>
     <term name="line" form="short">л.</term>
@@ -150,7 +150,7 @@
     <term name="paragraph" form="short">пар.</term>
     <term name="part" form="short">ч.</term>
     <term name="section" form="short">сек.</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>s.v.</single>
       <multiple>s.vv.</multiple>
     </term>

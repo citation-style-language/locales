@@ -109,7 +109,7 @@
       <single>sütun</single>
       <multiple>sütunlar</multiple>
     </term>
-    <term name="figure">
+    <term name="figure-locator">
       <single>şekil</single>
       <multiple>şekiller</multiple>
     </term>
@@ -153,7 +153,7 @@
       <single>bölüm</single>
       <multiple>bölümler</multiple>
     </term>
-    <term name="sub verbo">
+    <term name="sub-verbo">
       <single>madde</single>
       <multiple>maddeler</multiple>
     </term>
@@ -170,7 +170,7 @@
     <term name="book" form="short">kit.</term>
     <term name="chapter" form="short">böl.</term>
     <term name="column" form="short">süt.</term>
-    <term name="figure" form="short">şek.</term>
+    <term name="figure-locator" form="short">şek.</term>
     <term name="folio" form="short">fl.</term>
     <term name="issue" form="short">sy</term>
     <term name="line" form="short">satır</term>
@@ -187,7 +187,7 @@
     <term name="paragraph" form="short">par.</term>
     <term name="part" form="short">ksm.</term>
     <term name="section" form="short">blm.</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>md.</single>
       <multiple>md.</multiple>
     </term>

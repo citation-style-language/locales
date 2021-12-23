@@ -102,7 +102,7 @@
       <single>عمود</single>
       <multiple>أعمدة</multiple>
     </term>
-    <term name="figure">
+    <term name="figure-locator">
       <single>رسم توضيحي</single>
       <multiple>رسوم توضيحية</multiple>
     </term>
@@ -146,7 +146,7 @@
       <single>قسم</single>
       <multiple>أقسام</multiple>
     </term>
-    <term name="sub verbo">
+    <term name="sub-verbo">
       <single>تفسير فرعي</single>
       <multiple>تفسيرات فرعية</multiple>
     </term>
@@ -163,7 +163,7 @@
     <term name="book" form="short">كتاب</term>
     <term name="chapter" form="short">فصل</term>
     <term name="column" form="short">عمود</term>
-    <term name="figure" form="short">رسم توضيحي</term>
+    <term name="figure-locator" form="short">رسم توضيحي</term>
     <term name="folio" form="short">مطوية</term>
     <term name="issue" form="short">عدد</term>
     <term name="line" form="short">سـ</term>
@@ -180,7 +180,7 @@
     <term name="paragraph" form="short">فقرة</term>
     <term name="part" form="short">ج</term>
     <term name="section" form="short">قسم</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>تفسير فرعي</single>
       <multiple>تفسيرات فرعية</multiple>
     </term>

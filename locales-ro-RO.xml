@@ -101,7 +101,7 @@
       <single>coloana</single>
       <multiple>coloanele</multiple>
     </term>
-    <term name="figure">
+    <term name="figure-locator">
       <single>figura</single>
       <multiple>figurile</multiple>
     </term>
@@ -145,7 +145,7 @@
       <single>secțiunea</single>
       <multiple>secțiunile</multiple>
     </term>
-    <term name="sub verbo">
+    <term name="sub-verbo">
       <single>sub verbo</single>
       <multiple>sub verbis</multiple>
     </term>
@@ -162,7 +162,7 @@
     <term name="book" form="short">cart.</term>
     <term name="chapter" form="short">cap.</term>
     <term name="column" form="short">col.</term>
-    <term name="figure" form="short">fig.</term>
+    <term name="figure-locator" form="short">fig.</term>
     <term name="folio" form="short">fol.</term>
     <term name="issue" form="short">nr.</term>
     <term name="line" form="short">l.</term>
@@ -179,7 +179,7 @@
     <term name="paragraph" form="short">par.</term>
     <term name="part" form="short">part.</term>
     <term name="section" form="short">sec.</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>s.v.</single>
       <multiple>s.vv.</multiple>
     </term>

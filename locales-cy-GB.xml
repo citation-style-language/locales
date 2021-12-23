@@ -102,7 +102,7 @@
       <single>colofn</single>
       <multiple>colofnau</multiple>
     </term>
-    <term name="figure">
+    <term name="figure-locator">
       <single>ffigwr</single>
       <multiple>ffigyrau</multiple>
     </term>
@@ -146,7 +146,7 @@
       <single>adran</single>
       <multiple>adrannau</multiple>
     </term>
-    <term name="sub verbo">
+    <term name="sub-verbo">
       <single>sub verbo</single>
       <multiple>sub verbis</multiple>
     </term>
@@ -163,7 +163,7 @@
     <term name="book" form="short">llyfr.</term>
     <term name="chapter" form="short">pen.</term>
     <term name="column" form="short">col.</term>
-    <term name="figure" form="short">ffig.</term>
+    <term name="figure-locator" form="short">ffig.</term>
     <term name="folio" form="short">ff.</term>
     <term name="issue" form="short">rhif.</term>
     <term name="line" form="short">ll.</term>
@@ -180,7 +180,7 @@
     <term name="paragraph" form="short">para.</term>
     <term name="part" form="short">rhan.</term>
     <term name="section" form="short">adr.</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>s.v.</single>
       <multiple>s.vv.</multiple>
     </term>

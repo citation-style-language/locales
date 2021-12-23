@@ -127,7 +127,7 @@
       <single>colonna</single>
       <multiple>colonne</multiple>
     </term>
-    <term name="figure">
+    <term name="figure-locator">
       <single>figura</single>
       <multiple>figure</multiple>
     </term>
@@ -171,7 +171,7 @@
       <single>paragrafo</single>
       <multiple>paragrafi</multiple>
     </term>
-    <term name="sub verbo">
+    <term name="sub-verbo">
       <single>sub verbo</single>
       <multiple>sub verbis</multiple>
     </term>
@@ -191,7 +191,7 @@
       <multiple>capp.</multiple>
     </term>
     <term name="column" form="short">col.</term>
-    <term name="figure" form="short">fig.</term>
+    <term name="figure-locator" form="short">fig.</term>
     <term name="folio" form="short">fgl.</term>
     <term name="issue" form="short">n.</term>
     <term name="line" form="short">l.</term>
@@ -208,7 +208,7 @@
     <term name="paragraph" form="short">cpv.</term>
     <term name="part" form="short">pt.</term>
     <term name="section" form="short">par.</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>s.v.</single>
       <multiple>s.vv.</multiple>
     </term>

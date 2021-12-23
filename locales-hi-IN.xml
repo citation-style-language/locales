@@ -115,7 +115,7 @@
       <single>कॉलम</single>
       <multiple>columns</multiple>
     </term>
-    <term name="figure">
+    <term name="figure-locator">
       <single>चित्र</single>
       <multiple>चित्रों</multiple>
     </term>
@@ -159,7 +159,7 @@
       <single>अनुभाग</single>
       <multiple>sections</multiple>
     </term>
-    <term name="sub verbo">
+    <term name="sub-verbo">
       <single>sub verbo</single>
       <multiple>sub verbis</multiple>
     </term>
@@ -185,7 +185,7 @@
       <single>col.</single>
       <multiple>cols.</multiple>
     </term>
-    <term name="figure" form="short">
+    <term name="figure-locator" form="short">
       <single>fig.</single>
       <multiple>figs.</multiple>
     </term>
@@ -229,7 +229,7 @@
       <single>sec.</single>
       <multiple>secs.</multiple>
     </term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>s.v.</single>
       <multiple>s.vv.</multiple>
     </term>

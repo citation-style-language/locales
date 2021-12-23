@@ -102,7 +102,7 @@
       <single>dálkur</single>
       <multiple>dálkar</multiple>
     </term>
-    <term name="figure">
+    <term name="figure-locator">
       <single>mynd</single>
       <multiple>myndir</multiple>
     </term>
@@ -146,7 +146,7 @@
       <single>hluti</single>
       <multiple>hlutar</multiple>
     </term>
-    <term name="sub verbo">
+    <term name="sub-verbo">
       <single>sub verbo</single>
       <multiple>sub verbis</multiple>
     </term>
@@ -163,7 +163,7 @@
     <term name="book" form="short">bók</term>
     <term name="chapter" form="short">k.</term>
     <term name="column" form="short">d.</term>
-    <term name="figure" form="short">mynd.</term>
+    <term name="figure-locator" form="short">mynd.</term>
     <term name="folio" form="short">handr.</term>
     <term name="issue" form="short">tbl.</term>
     <term name="line" form="short">l.</term>
@@ -180,7 +180,7 @@
     <term name="paragraph" form="short">málsgr.</term>
     <term name="part" form="short">hl.</term>
     <term name="section" form="short">hl.</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>s.v.</single>
       <multiple>s.vv.</multiple>
     </term>

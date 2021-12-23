@@ -125,7 +125,7 @@
       <single>столбец</single>
       <multiple>столбцы</multiple>
     </term>
-    <term name="figure">
+    <term name="figure-locator">
       <single>рисунок</single>
       <multiple>рисунки</multiple>
     </term>
@@ -170,7 +170,7 @@
       <single>раздел</single>
       <multiple>разделы</multiple>
     </term>
-    <term name="sub verbo">смотри</term>
+    <term name="sub-verbo">смотри</term>
     <term name="verse">
       <single>стих</single>
       <multiple>стихи</multiple>
@@ -185,7 +185,7 @@
     <term name="book" form="short">кн.</term>
     <term name="chapter" form="short">гл.</term>
     <term name="column" form="short">стб.</term>
-    <term name="figure" form="short">рис.</term>
+    <term name="figure-locator" form="short">рис.</term>
     <term name="folio" form="short">
       <single>л.</single>
       <multiple>лл.</multiple>
@@ -211,7 +211,7 @@
       <multiple>чч.</multiple>
     </term>
     <term name="section" form="short">разд.</term>
-    <term name="sub verbo" form="short">см.</term>
+    <term name="sub-verbo" form="short">см.</term>
     <term name="verse" form="short">ст.</term>
     <term name="volume" form="short">
       <single>т.</single>

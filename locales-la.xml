@@ -99,7 +99,7 @@
       <single>columna</single>
       <multiple>columnae</multiple>
     </term>
-    <term name="figure">
+    <term name="figure-locator">
       <single>figura</single>
       <multiple>figurae</multiple>
     </term>
@@ -143,7 +143,7 @@
       <single>paragraphus</single>
       <multiple>paragraphi</multiple>
     </term>
-    <term name="sub verbo">
+    <term name="sub-verbo">
       <single>sub uerbo</single>
       <multiple>sub uerbis</multiple>
     </term>
@@ -160,7 +160,7 @@
     <term name="book" form="short">lib.</term>
     <term name="chapter" form="short">cap.</term>
     <term name="column" form="short">col.</term>
-    <term name="figure" form="short">fig.</term>
+    <term name="figure-locator" form="short">fig.</term>
     <term name="folio" form="short">fol.</term>
     <term name="issue" form="short">n.</term>
     <term name="line" form="short">l.</term>
@@ -177,7 +177,7 @@
     <term name="paragraph" form="short">par.</term>
     <term name="part" form="short">pr.</term>
     <term name="section" form="short">par.</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>s.u.</single>
       <multiple>s.uu.</multiple>
     </term>

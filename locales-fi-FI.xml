@@ -108,7 +108,7 @@
       <single>palsta</single>
       <multiple>palstat</multiple>
     </term>
-    <term name="figure">
+    <term name="figure-locator">
       <single>kuvio</single>
       <multiple>kuviot</multiple>
     </term>
@@ -152,7 +152,7 @@
       <single>osa</single>
       <multiple>osat</multiple>
     </term>
-    <term name="sub verbo">
+    <term name="sub-verbo">
       <single>sub verbo</single>
       <multiple>sub verbis</multiple>
     </term>
@@ -169,7 +169,7 @@
     <term name="book" form="short">kirja</term>
     <term name="chapter" form="short">luku</term>
     <term name="column" form="short">palsta</term>
-    <term name="figure" form="short">kuv.</term>
+    <term name="figure-locator" form="short">kuv.</term>
     <term name="folio" form="short">fol.</term>
     <term name="issue" form="short">nro</term>
     <term name="line" form="short">r.</term>
@@ -186,7 +186,7 @@
     <term name="paragraph" form="short">kappale</term>
     <term name="part" form="short">osa</term>
     <term name="section" form="short">osa</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>s.v.</single>
       <multiple>s.vv.</multiple>
     </term>

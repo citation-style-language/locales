@@ -81,7 +81,7 @@
     <term name="book">冊</term>
     <term name="chapter">章</term>
     <term name="column">欄</term>
-    <term name="figure">圖表</term>       
+    <term name="figure-locator">圖表</term>       
     <term name="folio">版</term>
     <term name="issue">期</term>
     <term name="line">行</term>
@@ -92,7 +92,7 @@
     <term name="paragraph">段落</term>
     <term name="part">部分</term>     
     <term name="section">節</term>         
-    <term name="sub verbo">另見</term>    
+    <term name="sub-verbo">另見</term>    
     <term name="verse">篇</term>    
     <term name="volume">卷</term>
     
@@ -100,7 +100,7 @@
     <term name="book" form="short">冊</term>
     <term name="chapter" form="short">章</term>
     <term name="column" form="short">欄</term>
-    <term name="figure" form="short">圖</term>
+    <term name="figure-locator" form="short">圖</term>
     <term name="issue" form="short">期</term>
     <term name="line" form="short">行</term>
     <term name="note" form="short">註</term>
@@ -110,7 +110,7 @@
     <term name="paragraph" form="short">段</term>
     <term name="part" form="short">部</term>
     <term name="section" form="short">節</term>
-    <term name="sub verbo" form="short">另見</term>   
+    <term name="sub-verbo" form="short">另見</term>   
     <term name="verse" form="short">篇</term>      
     <term name="volume" form="short">卷</term>
     

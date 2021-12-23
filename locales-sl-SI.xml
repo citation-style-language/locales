@@ -102,7 +102,7 @@
       <single>stolpec</single>
       <multiple>stolpci</multiple>
     </term>
-    <term name="figure">
+    <term name="figure-locator">
       <single>slika</single>
       <multiple>slike</multiple>
     </term>
@@ -146,7 +146,7 @@
       <single>odsek</single>
       <multiple>odseki</multiple>
     </term>
-    <term name="sub verbo">
+    <term name="sub-verbo">
       <single>sub verbo</single>
       <multiple>sub verbis</multiple>
     </term>
@@ -163,7 +163,7 @@
     <term name="book" form="short">knj.</term>
     <term name="chapter" form="short">pogl.</term>
     <term name="column" form="short">stolp.</term>
-    <term name="figure" form="short">sl.</term>
+    <term name="figure-locator" form="short">sl.</term>
     <term name="folio" form="short">fol.</term>
     <term name="issue" form="short">št.</term>
     <term name="line" form="short">vrst.</term>
@@ -180,7 +180,7 @@
     <term name="paragraph" form="short">odst.</term>
     <term name="part" form="short">del</term>
     <term name="section" form="short">ods.</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>s. v.</single>
       <multiple>s. v.</multiple>
     </term>

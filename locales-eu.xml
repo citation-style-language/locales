@@ -99,7 +99,7 @@
       <single>zutabea</single>
       <multiple>zutabeak</multiple>
     </term>
-    <term name="figure">
+    <term name="figure-locator">
       <single>irudia</single>
       <multiple>irudiak</multiple>
     </term>
@@ -143,7 +143,7 @@
       <single>atala</single>
       <multiple>atalak</multiple>
     </term>
-    <term name="sub verbo">
+    <term name="sub-verbo">
       <single>sub voce</single>
       <multiple>sub vocem</multiple>
     </term>
@@ -160,7 +160,7 @@
     <term name="book" form="short">lib.</term>
     <term name="chapter" form="short">kap.</term>
     <term name="column" form="short">zut.</term>
-    <term name="figure" form="short">iru.</term>
+    <term name="figure-locator" form="short">iru.</term>
     <term name="folio" form="short">or.</term>
     <term name="issue" form="short">zenb.</term>
     <term name="line" form="short">l.</term>
@@ -177,7 +177,7 @@
     <term name="paragraph" form="short">par.</term>
     <term name="part" form="short">zt.</term>
     <term name="section" form="short">atal.</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>s.v.</single>
       <multiple>s.v.</multiple>
     </term>

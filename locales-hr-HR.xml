@@ -99,7 +99,7 @@
       <single>stupac</single>
       <multiple>stupci</multiple>
     </term>
-    <term name="figure">
+    <term name="figure-locator">
       <single>crtež</single>
       <multiple>crteži</multiple>
     </term>
@@ -143,7 +143,7 @@
       <single>odjeljak</single>
       <multiple>odjeljci</multiple>
     </term>
-    <term name="sub verbo">
+    <term name="sub-verbo">
       <single>sub verbo</single>
       <multiple>sub verbis</multiple>
     </term>
@@ -160,7 +160,7 @@
     <term name="book" form="short">knj.</term>
     <term name="chapter" form="short">pogl.</term>
     <term name="column" form="short">stup.</term>
-    <term name="figure" form="short">crt.</term>
+    <term name="figure-locator" form="short">crt.</term>
     <term name="folio" form="short">fol.</term>
     <term name="issue" form="short">izd.</term>
     <term name="line" form="short">red</term>
@@ -177,7 +177,7 @@
     <term name="paragraph" form="short">par.</term>
     <term name="part" form="short">dio</term>
     <term name="section" form="short">od.</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>s.v.</single>
       <multiple>s.vv.</multiple>
     </term>

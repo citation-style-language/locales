@@ -102,7 +102,7 @@
       <single>columna</single>
       <multiple>columnes</multiple>
     </term>
-    <term name="figure">
+    <term name="figure-locator">
       <single>figura</single>
       <multiple>figures</multiple>
     </term>
@@ -146,7 +146,7 @@
       <single>secció</single>
       <multiple>seccions</multiple>
     </term>
-    <term name="sub verbo">
+    <term name="sub-verbo">
       <single>sub voce</single>
       <multiple>sub vocibus</multiple>
     </term>
@@ -163,7 +163,7 @@
     <term name="book" form="short">llib.</term>
     <term name="chapter" form="short">cap.</term>
     <term name="column" form="short">col.</term>
-    <term name="figure" form="short">fig.</term>
+    <term name="figure-locator" form="short">fig.</term>
     <term name="folio" form="short">f.</term>
     <term name="issue" form="short">núm.</term>
     <term name="line" form="short">l.</term>
@@ -180,7 +180,7 @@
     <term name="paragraph" form="short">par.</term>
     <term name="part" form="short">pt.</term>
     <term name="section" form="short">sec.</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>s.v.</single>
       <multiple>s.v.</multiple>
     </term>

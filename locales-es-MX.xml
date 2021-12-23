@@ -105,7 +105,7 @@
       <single>columna</single>
       <multiple>columnas</multiple>
     </term>
-    <term name="figure">
+    <term name="figure-locator">
       <single>figura</single>
       <multiple>figuras</multiple>
     </term>
@@ -149,7 +149,7 @@
       <single>sección</single>
       <multiple>secciones</multiple>
     </term>
-    <term name="sub verbo">
+    <term name="sub-verbo">
       <single>sub voce</single>
       <multiple>sub vocibus</multiple>
     </term>
@@ -175,7 +175,7 @@
       <single>col.</single>
       <multiple>cols.</multiple>
     </term>
-    <term name="figure" form="short">
+    <term name="figure-locator" form="short">
       <single>fig.</single>
       <multiple>figs.</multiple>
     </term>
@@ -219,7 +219,7 @@
       <single>sec.</single>
       <multiple>secs.</multiple>
     </term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>s.&#160;v.</single>
       <multiple>s.&#160;vv.</multiple>
     </term>

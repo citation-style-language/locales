@@ -105,7 +105,7 @@
       <single>column</single>
       <multiple>columns</multiple>
     </term>
-    <term name="figure">
+    <term name="figure-locator">
       <single>figure</single>
       <multiple>figures</multiple>
     </term>
@@ -149,7 +149,7 @@
       <single>section</single>
       <multiple>sections</multiple>
     </term>
-    <term name="sub verbo">
+    <term name="sub-verbo">
       <single>sub verbo</single>
       <multiple>sub verbis</multiple>
     </term>
@@ -166,7 +166,7 @@
     <term name="book" form="short">bk.</term>
     <term name="chapter" form="short">chap.</term>
     <term name="column" form="short">col.</term>
-    <term name="figure" form="short">fig.</term>
+    <term name="figure-locator" form="short">fig.</term>
     <term name="folio" form="short">f.</term>
     <term name="issue" form="short">no.</term>
     <term name="line" form="short">l.</term>
@@ -183,7 +183,7 @@
     <term name="paragraph" form="short">para.</term>
     <term name="part" form="short">pt.</term>
     <term name="section" form="short">sec.</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>s.v.</single>
       <multiple>s.vv.</multiple>
     </term>

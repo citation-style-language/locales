@@ -109,7 +109,7 @@
       <single>sloupec</single>
       <multiple>sloupce</multiple>
     </term>
-    <term name="figure">
+    <term name="figure-locator">
       <single>obrázek</single>
       <multiple>obrázky</multiple>
     </term>
@@ -153,7 +153,7 @@
       <single>sekce</single>
       <multiple>sekce</multiple>
     </term>
-    <term name="sub verbo">
+    <term name="sub-verbo">
       <single>pod heslem</single>
       <multiple>pod hesly</multiple>
     </term>
@@ -170,7 +170,7 @@
     <term name="book" form="short">k.</term>
     <term name="chapter" form="short">kap.</term>
     <term name="column" form="short">sl.</term>
-    <term name="figure" form="short">obr.</term>
+    <term name="figure-locator" form="short">obr.</term>
     <term name="folio" form="short">l.</term>
     <term name="issue" form="short">č.</term>
     <term name="line" form="short">ř.</term>
@@ -187,7 +187,7 @@
     <term name="paragraph" form="short">odst.</term>
     <term name="part" form="short">č.</term>
     <term name="section" form="short">sek.</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>s.v.</single>
       <multiple>s.v.</multiple>
     </term>

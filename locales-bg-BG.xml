@@ -141,7 +141,7 @@
       <single>колона</single>
       <multiple>колони</multiple>
     </term>
-    <term name="figure">
+    <term name="figure-locator">
       <single>фигура</single>
       <multiple>фигури</multiple>
     </term>
@@ -182,7 +182,7 @@
       <single>раздел</single>
       <multiple>раздели</multiple>
     </term>
-    <term name="sub verbo">
+    <term name="sub-verbo">
       <single>под раздел</single>
       <multiple>под раздели</multiple>
     </term>
@@ -199,7 +199,7 @@
     <term name="book" form="short">кн.</term>
     <term name="chapter" form="short">гл.</term>
     <term name="column" form="short">кол.</term>
-    <term name="figure" form="short">фиг.</term>
+    <term name="figure-locator" form="short">фиг.</term>
     <term name="folio" form="short">фол.</term>
     <term name="issue" form="short">бр.</term>
     <term name="line" form="short">р.</term>
@@ -210,7 +210,7 @@
     <term name="paragraph" form="short">абз.</term>
     <term name="part" form="short">ч.</term>
     <term name="section" form="short">разд.</term>
-    <term name="sub verbo" form="short">подразд.</term>
+    <term name="sub-verbo" form="short">подразд.</term>
     <term name="verse" form="short">ст.</term>
     <term name="volume" form="short">
       <single>том</single>

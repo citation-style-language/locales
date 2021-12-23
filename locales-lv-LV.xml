@@ -111,7 +111,7 @@
       <single>sleja</single>
       <multiple>slejas</multiple>
     </term>
-    <term name="figure">
+    <term name="figure-locator">
       <single>ilustrācija</single>
       <multiple>ilustrācijas</multiple>
     </term>
@@ -155,7 +155,7 @@
       <single>apakšnodaļa</single>
       <multiple>apakšnodaļas</multiple>
     </term>
-    <term name="sub verbo">
+    <term name="sub-verbo">
       <single>skatīt</single>
       <multiple>skatīt</multiple>
     </term>
@@ -172,7 +172,7 @@
     <term name="book" form="short">grām.</term>
     <term name="chapter" form="short">nod.</term>
     <term name="column" form="short">sl.</term>
-    <term name="figure" form="short">il.</term>
+    <term name="figure-locator" form="short">il.</term>
     <term name="folio" form="short">fo.</term>
     <term name="issue" form="short">nr.</term>
     <term name="line" form="short">r.</term>
@@ -189,7 +189,7 @@
     <term name="paragraph" form="short">rindk.</term>
     <term name="part" form="short">d.</term>
     <term name="section" form="short">apakšnod.</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>sk.</single>
       <multiple>sk.</multiple>
     </term>

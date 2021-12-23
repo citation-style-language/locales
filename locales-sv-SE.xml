@@ -112,7 +112,7 @@
       <single>kolumn</single>
       <multiple>kolumner</multiple>
     </term>
-    <term name="figure">
+    <term name="figure-locator">
       <single>figur</single>
       <multiple>figurer</multiple>
     </term>
@@ -156,7 +156,7 @@
       <single>avsnitt</single>
       <multiple>avsnitt</multiple>
     </term>
-    <term name="sub verbo">
+    <term name="sub-verbo">
       <single>sub verbo</single>
       <multiple>sub verbis</multiple>
     </term>
@@ -173,7 +173,7 @@
     <term name="book" form="short">bok</term>
     <term name="chapter" form="short">kap.</term>
     <term name="column" form="short">kol.</term>
-    <term name="figure" form="short">fig.</term>
+    <term name="figure-locator" form="short">fig.</term>
     <term name="folio" form="short">f.</term>
     <term name="issue" form="short">nr</term>
     <term name="line" form="short">l.</term>
@@ -190,7 +190,7 @@
     <term name="paragraph" form="short">st.</term>
     <term name="part" form="short">del</term>
     <term name="section" form="short">avs.</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>s.v.</single>
       <multiple>s.vv.</multiple>
     </term>

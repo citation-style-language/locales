@@ -102,7 +102,7 @@
       <single>ستون</single>
       <multiple>ستون‌های</multiple>
     </term>
-    <term name="figure">
+    <term name="figure-locator">
       <single>تصویر</single>
       <multiple>تصاویر</multiple>
     </term>
@@ -146,7 +146,7 @@
       <single>قسمت</single>
       <multiple>قسمت‌های</multiple>
     </term>
-    <term name="sub verbo">
+    <term name="sub-verbo">
       <single>در ذیلِ واژه</single>
       <multiple>در ذیلِ واژه‌های</multiple>
     </term>
@@ -163,7 +163,7 @@
     <term name="book" form="short">کتاب</term>
     <term name="chapter" form="short">فصل</term>
     <term name="column" form="short">ستون</term>
-    <term name="figure" form="short">تصویر</term>
+    <term name="figure-locator" form="short">تصویر</term>
     <term name="folio" form="short">برگ</term>
     <term name="issue" form="short">ش</term>
     <term name="line" form="short">خط</term>
@@ -180,7 +180,7 @@
     <term name="paragraph" form="short">پاراگراف</term>
     <term name="part" form="short">بخش</term>
     <term name="section" form="short">قسمت</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>s.v</single>
       <multiple>s.vv</multiple>
     </term>

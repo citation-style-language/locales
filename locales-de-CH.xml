@@ -108,7 +108,7 @@
       <single>Spalte</single>
       <multiple>Spalten</multiple>
     </term>
-    <term name="figure">
+    <term name="figure-locator">
       <single>Abbildung</single>
       <multiple>Abbildungen</multiple>
     </term>
@@ -152,7 +152,7 @@
       <single>Abschnitt</single>
       <multiple>Abschnitte</multiple>
     </term>
-    <term name="sub verbo">
+    <term name="sub-verbo">
       <single>sub verbo</single>
       <multiple>sub verbis</multiple>
     </term>
@@ -169,7 +169,7 @@
     <term name="book" form="short">B.</term>
     <term name="chapter" form="short">Kap.</term>
     <term name="column" form="short">Sp.</term>
-    <term name="figure" form="short">Abb.</term>
+    <term name="figure-locator" form="short">Abb.</term>
     <term name="folio" form="short">Fol.</term>
     <term name="issue" form="short">Nr.</term>
     <term name="line" form="short">l.</term>
@@ -186,7 +186,7 @@
     <term name="paragraph" form="short">Abs.</term>
     <term name="part" form="short">Teil</term>
     <term name="section" form="short">Abschn.</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>s.&#160;v.</single>
       <multiple>s.&#160;vv.</multiple>
     </term>

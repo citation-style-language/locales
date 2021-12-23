@@ -99,7 +99,7 @@
       <single>kolonne</single>
       <multiple>kolonner</multiple>
     </term>
-    <term name="figure">
+    <term name="figure-locator">
       <single>figur</single>
       <multiple>figurer</multiple>
     </term>
@@ -143,7 +143,7 @@
       <single>paragraf</single>
       <multiple>paragrafer</multiple>
     </term>
-    <term name="sub verbo">
+    <term name="sub-verbo">
       <single>sub verbo</single>
       <multiple>sub verbis</multiple>
     </term>
@@ -160,7 +160,7 @@
     <term name="book" form="short">b.</term>
     <term name="chapter" form="short">kap.</term>
     <term name="column" form="short">kol.</term>
-    <term name="figure" form="short">fig.</term>
+    <term name="figure-locator" form="short">fig.</term>
     <term name="folio" form="short">fol.</term>
     <term name="issue" form="short">nr.</term>
     <term name="line" form="short">l.</term>
@@ -177,7 +177,7 @@
     <term name="paragraph" form="short">avsn.</term>
     <term name="part" form="short">d.</term>
     <term name="section" form="short">pargr.</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>s.v.</single>
       <multiple>s.vv.</multiple>
     </term>
