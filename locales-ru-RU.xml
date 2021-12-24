@@ -310,7 +310,7 @@
       <single>раздел</single>
       <multiple>разделы</multiple>
     </term>
-    <term name="sub verbo">смотри</term>
+    <term name="sub-verbo">смотри</term>
     <term name="verse">
       <single>стих</single>
       <multiple>стихи</multiple>
