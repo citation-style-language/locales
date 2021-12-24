@@ -308,6 +308,42 @@
     </term>
 
     <!-- SHORT LOCATOR FORMS -->
+    <term name="appendix">			 
+      <single>app.</single>
+      <multiple>apps.</multiple>						 
+    </term>
+    <term name="article-locator">			 
+      <single>art.</single>
+      <multiple>arts.</multiple>
+    </term>
+    <term name="elocation">			 
+      <single>loc.</single>
+      <multiple>locs.</multiple>
+    </term>
+    <term name="equation">			 
+      <single>eq.</single>
+      <multiple>eqs.</multiple>
+    </term>
+    <term name="rule">			 
+      <single>r.</single>
+      <multiple>rr.</multiple>						 
+    </term>
+    <term name="scene">			 
+      <single>sc.</single>
+      <multiple>scs.</multiple>						 
+    </term>
+    <term name="table">			 
+      <single>tbl.</single>
+      <multiple>tbls.</multiple>						 
+    </term>
+    <term name="timestamp"> <!-- generally blank -->
+      <single></single>
+      <multiple></multiple>						 
+    </term>
+    <term name="title-locator">			 
+      <single>tit.</single>
+      <multiple>tits.</multiple>
+    </term>
     <term name="book" form="short">liv.</term>
     <term name="chapter" form="short">cap.</term>
     <term name="column" form="short">col.</term>
