@@ -521,6 +521,19 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
+    <term name="chair" form="verb">chaired by</term>
+    <term name="compiler" form="verb">compiled by</term>
+    <term name="contributor" form="verb">with</term>
+    <term name="curator" form="verb">curated by</term>
+    <term name="executive-producer" form="verb">executive produced by</term>
+    <term name="guest" form="verb">with guest</term>
+    <term name="host" form="verb">hosted by</term>
+    <term name="narrator" form="verb">narrated by</term>
+    <term name="organizer" form="verb">organized by</term>
+    <term name="performer" form="verb">performed by</term>
+    <term name="producer" form="verb">produced by</term>
+    <term name="script-writer" form="verb">written by</term>
+    <term name="series-creator" form="verb">created by</term>
     <term name="container-author" form="verb">av</term>
     <term name="director" form="verb">regissert av</term>
     <term name="editor" form="verb">redigert av</term>
