@@ -465,6 +465,46 @@
     </term>
 
     <!-- SHORT ROLE FORMS -->
+    <term name="compiler" form="short">
+      <single>comp.</single>
+      <multiple>comps.</multiple>
+    </term>
+    <term name="contributor" form="short">
+      <single>contrib.</single>
+      <multiple>contribs.</multiple>
+    </term>
+    <term name="curator" form="short">
+      <single>cur.</single>
+      <multiple>curs.</multiple>
+    </term>
+    <term name="executive-producer" form="short">
+      <single>exec. prod.</single>
+      <multiple>exec. prods.</multiple>
+    </term>
+    <term name="narrator" form="short">
+      <single>narr.</single>
+      <multiple>narrs.</multiple>
+    </term>
+    <term name="organizer" form="short">
+      <single>org.</single>
+      <multiple>orgs.</multiple>
+    </term>
+    <term name="performer" form="short">
+      <single>perf.</single>
+      <multiple>perfs.</multiple>
+    </term>
+    <term name="producer" form="short">
+      <single>prod.</single>
+      <multiple>prods.</multiple>
+    </term>
+    <term name="script-writer" form="short">
+      <single>writ.</single>
+      <multiple>writs.</multiple>
+    </term>
+    <term name="series-creator" form="short">
+      <single>cre.</single>
+      <multiple>cres.</multiple>
+    </term>
     <term name="director" form="short">
       <single>řed.</single>
       <multiple>řed.</multiple>
