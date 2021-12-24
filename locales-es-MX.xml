@@ -90,7 +90,7 @@
     <term name="retrieved">recuperado</term>
     <term name="scale">escala</term>
     <term name="version">versión</term>
-    
+
     <!-- LONG ITEM TYPE FORMS -->
     <term name="article">preprint</term>
     <term name="article-journal">journal article</term>
@@ -175,7 +175,7 @@
     <term name="ordinal">a</term>
     <term name="ordinal-01" gender-form="feminine" match="whole-number">a</term>
     <term name="ordinal-01" gender-form="masculine" match="whole-number">o</term>
-    
+
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">primera</term>
     <term name="long-ordinal-02">segunda</term>
@@ -187,7 +187,7 @@
     <term name="long-ordinal-08">octava</term>
     <term name="long-ordinal-09">novena</term>
     <term name="long-ordinal-10">décima</term>
-    
+
     <!-- LONG LOCATOR FORMS -->
     <term name="book">
       <single>libro</single>
@@ -257,7 +257,7 @@
       <single>volumen</single>
       <multiple>volúmenes</multiple>
     </term>
-    
+
     <!-- SHORT LOCATOR FORMS -->
     <term name="book" form="short">
       <single>lib.</single>
@@ -327,7 +327,7 @@
       <single>vol.</single>
       <multiple>vols.</multiple>
     </term>
-    
+
     <!-- SYMBOL LOCATOR FORMS -->
     <term name="paragraph" form="symbol">
       <single>¶</single>
@@ -337,7 +337,7 @@
       <single>§</single>
       <multiple>§</multiple>
     </term>
-    
+
     <!-- LONG ROLE FORMS -->
     <term name="director">
       <single>director</single>
@@ -363,7 +363,7 @@
       <single>editor y traductor</single>
       <multiple>editores y traductores</multiple>
     </term>
-    
+
     <!-- SHORT ROLE FORMS -->
     <term name="director" form="short">
       <single>dir.</single>
@@ -389,7 +389,7 @@
       <single>ed. y trad.</single>
       <multiple>eds. y trads.</multiple>
     </term>
-    
+
     <!-- VERB ROLE FORMS -->
     <term name="container-author" form="verb">de</term>
     <term name="director" form="verb">dirigido por</term>
@@ -401,7 +401,7 @@
     <term name="reviewed-author" form="verb">por</term>
     <term name="translator" form="verb">traducido por</term>
     <term name="editortranslator" form="verb">editado y traducido por</term>
-    
+
     <!-- SHORT VERB ROLE FORMS -->
     <term name="director" form="verb-short">dir.</term>
     <term name="editor" form="verb-short">ed.</term>
@@ -409,7 +409,7 @@
     <term name="illustrator" form="verb-short">ilust.</term>
     <term name="translator" form="verb-short">trad.</term>
     <term name="editortranslator" form="verb-short">ed. y trad.</term>
-    
+
     <!-- LONG MONTH FORMS -->
     <term name="month-01">enero</term>
     <term name="month-02">febrero</term>
@@ -423,7 +423,7 @@
     <term name="month-10">octubre</term>
     <term name="month-11">noviembre</term>
     <term name="month-12">diciembre</term>
-    
+
     <!-- SHORT MONTH FORMS -->
     <term name="month-01" form="short">ene.</term>
     <term name="month-02" form="short">feb.</term>
@@ -437,7 +437,7 @@
     <term name="month-10" form="short">oct.</term>
     <term name="month-11" form="short">nov.</term>
     <term name="month-12" form="short">dic.</term>
-    
+
     <!-- SEASONS -->
     <term name="season-01">primavera</term>
     <term name="season-02">verano</term>
