@@ -186,6 +186,50 @@
     <term name="long-ordinal-10">deseta</term>
 
     <!-- LONG LOCATOR FORMS -->
+    <term name="act">			 
+      <single>act</single>
+      <multiple>acts</multiple>						 
+    </term>
+    <term name="appendix">			 
+      <single>appendix</single>
+      <multiple>appendices</multiple>						 
+    </term>
+    <term name="article-locator">			 
+      <single>article</single>
+      <multiple>articles</multiple>						 
+    </term>
+    <term name="canon">			 
+      <single>canon</single>
+      <multiple>canons</multiple>						 
+    </term>
+    <term name="elocation">			 
+      <single>location</single>
+      <multiple>locations</multiple>						 
+    </term>
+    <term name="equation">			 
+      <single>equation</single>
+      <multiple>equations</multiple>						 
+    </term>
+    <term name="rule">			 
+      <single>rule</single>
+      <multiple>rules</multiple>						 
+    </term>
+    <term name="scene">			 
+      <single>scene</single>
+      <multiple>scenes</multiple>						 
+    </term>
+    <term name="table">			 
+      <single>table</single>
+      <multiple>tables</multiple>						 
+    </term>
+    <term name="timestamp"> <!-- generally blank -->
+      <single></single>
+      <multiple></multiple>						 
+    </term>
+    <term name="title-locator">			 
+      <single>title</single>
+      <multiple>titles</multiple>						 
+    </term>
     <term name="book">
       <single>knjiga</single>
       <multiple>knjige</multiple>
