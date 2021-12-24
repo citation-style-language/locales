@@ -157,6 +157,8 @@
     <!-- HISTORICAL ERA TERMS -->
     <term name="ad">بعد از میلاد</term>
     <term name="bc">قبل از میلاد</term>
+    <term name="bce">BCE</term>
+    <term name="ce">CE</term>
 
     <!-- PUNCTUATION -->
     <term name="open-quote">“</term>

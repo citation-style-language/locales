@@ -154,6 +154,8 @@
     <!-- HISTORICAL ERA TERMS -->
     <term name="ad">apr. J.-C.</term>
     <term name="bc">av. J.-C.</term>
+    <term name="bce">BCE</term>
+    <term name="ce">CE</term>
 
     <!-- PUNCTUATION -->
     <term name="open-quote">«&#160;</term>

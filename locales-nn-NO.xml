@@ -154,6 +154,8 @@
     <!-- HISTORICAL ERA TERMS -->
     <term name="ad">fvt.</term>
     <term name="bc">evt.</term>
+    <term name="bce">BCE</term>
+    <term name="ce">CE</term>
 
     <!-- PUNCTUATION -->
     <term name="open-quote">«</term>

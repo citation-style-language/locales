@@ -222,6 +222,8 @@
     <!-- HISTORICAL ERA TERMS -->
     <term name="ad">i. sz.</term>
     <term name="bc">i. e.</term>
+    <term name="bce">BCE</term>
+    <term name="ce">CE</term>
 
     <!-- PUNCTUATION -->
     <term name="open-quote">„</term>

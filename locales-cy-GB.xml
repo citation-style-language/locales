@@ -151,6 +151,8 @@
     <!-- HISTORICAL ERA TERMS -->
     <term name="ad">OC</term>
     <term name="bc">CC</term>
+    <term name="bce">BCE</term>
+    <term name="ce">CE</term>
 
     <!-- PUNCTUATION -->
     <term name="open-quote">‘</term>

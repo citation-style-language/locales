@@ -157,6 +157,8 @@
     <!-- HISTORICAL ERA TERMS -->
     <term name="ad">ب.م.</term>
     <term name="bc">ق.م.</term>
+    <term name="bce">BCE</term>
+    <term name="ce">CE</term>
 
     <!-- PUNCTUATION -->
     <term name="open-quote">"</term>

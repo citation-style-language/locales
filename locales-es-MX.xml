@@ -158,7 +158,9 @@
     <!-- HISTORICAL ERA TERMS -->
     <term name="ad">d.&#160;C.</term>
     <term name="bc">a.&#160;C.</term>
-    
+    <term name="bce">BCE</term>
+    <term name="ce">CE</term>
+
     <!-- PUNCTUATION -->
     <term name="open-quote">“</term>
     <term name="close-quote">”</term>

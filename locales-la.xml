@@ -154,6 +154,8 @@
     <!-- HISTORICAL ERA TERMS -->
     <term name="ad">A.D.</term>
     <term name="bc">A.C.</term>
+    <term name="bce">BCE</term>
+    <term name="ce">CE</term>
 
     <!-- PUNCTUATION -->
     <term name="open-quote">‘</term>

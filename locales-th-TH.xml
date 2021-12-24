@@ -154,6 +154,8 @@
     <!-- HISTORICAL ERA TERMS -->
     <term name="ad">ค.ศ.</term>
     <term name="bc">พ.ศ.</term>
+    <term name="bce">BCE</term>
+    <term name="ce">CE</term>
 
     <!-- PUNCTUATION -->
     <term name="open-quote">“</term>

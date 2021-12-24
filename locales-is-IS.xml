@@ -157,6 +157,8 @@
     <!-- HISTORICAL ERA TERMS -->
     <term name="ad">e.Kr.</term>
     <term name="bc">f.Kr.</term>
+    <term name="bce">BCE</term>
+    <term name="ce">CE</term>
 
     <!-- PUNCTUATION -->
     <term name="open-quote">„</term>

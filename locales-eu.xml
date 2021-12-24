@@ -154,6 +154,8 @@
     <!-- HISTORICAL ERA TERMS -->
     <term name="ad">K.a.</term>
     <term name="bc">K.o.</term>
+    <term name="bce">BCE</term>
+    <term name="ce">CE</term>
 
     <!-- PUNCTUATION -->
     <term name="open-quote">«</term>

@@ -142,6 +142,8 @@
     <!-- HISTORICAL ERA TERMS -->
     <term name="ad">н. е.</term>
     <term name="bc">до н. е.</term>
+    <term name="bce">BCE</term>
+    <term name="ce">CE</term>
 
     <!-- PUNCTUATION -->
     <term name="open-quote">«</term>

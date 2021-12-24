@@ -160,6 +160,8 @@
     <!-- HISTORICAL ERA TERMS -->
     <term name="ad">d.C.</term>
     <term name="bc">a.C.</term>
+    <term name="bce">BCE</term>
+    <term name="ce">CE</term>
 
     <!-- PUNCTUATION -->
     <term name="open-quote">«</term>
