@@ -87,7 +87,71 @@
     <term name="scale">scale</term>
     <term name="version">version</term>
 
-    <!-- ANNO DOMINI; BEFORE CHRIST -->
+    <!-- LONG ITEM TYPE FORMS -->
+    <term name="article">preprint</term>
+    <term name="article-journal">journal article</term>
+    <term name="article-magazine">magazine article</term>
+    <term name="article-newspaper">newspaper article</term>
+    <term name="bill">bill</term>
+    <term name="book">book</term>
+    <term name="broadcast">broadcast</term>
+    <term name="chapter">book chapter</term>
+    <term name="classic">classic</term>
+    <term name="collection">collection</term>
+    <term name="dataset">dataset</term>
+    <term name="document">document</term>
+    <term name="entry">entry</term>
+    <term name="entry-dictionary">dictionary entry</term>
+    <term name="entry-encyclopedia">encyclopedia entry</term>
+    <term name="event">event</term>
+    <!-- figure is in the list of locator terms -->
+    <term name="graphic">graphic</term>
+    <term name="hearing">hearing</term>
+    <term name="interview">interview</term>
+    <term name="legal_case"></term>
+    <term name="legislation">legislation</term>
+    <term name="manuscript">manuscript</term>
+    <term name="map">map</term>
+    <term name="motion_picture">video recording</term>
+    <term name="musical_score">musical score</term>
+    <term name="pamphlet">pamphlet</term>
+    <term name="paper-conference">conference paper</term>
+    <term name="patent">patent</term>
+    <term name="performance">performance</term>
+    <term name="periodical">periodical</term>
+    <term name="personal_communication">personal communication</term>
+    <term name="post">post</term>
+    <term name="post-weblog">blog post</term>
+    <term name="regulation">regulation</term>
+    <term name="report">report</term>
+    <term name="review">review</term>
+    <term name="review-book">book review</term>
+    <term name="software">software</term>
+    <term name="song">audio recording</term>
+    <term name="speech">presentation</term>
+    <term name="standard">standard</term>
+    <term name="thesis">thesis</term>
+    <term name="treaty">treaty</term>
+    <term name="webpage">webpage</term>
+
+    <!-- SHORT ITEM TYPE FORMS -->
+    <term name="article-journal" form="short">journal art.</term>
+    <term name="article-magazine" form="short">mag. art.</term>
+    <term name="article-newspaper" form="short">newspaper art.</term>
+    <term name="book" form="short">bk.</term>
+    <term name="chapter" form="short">bk. chap.</term>
+    <term name="document" form="short">doc.</term>
+    <!-- figure is in the list of locator terms -->
+    <term name="graphic" form="short">graph.</term>
+    <term name="interview" form="short">interv.</term>
+    <term name="manuscript" form="short">MS</term>
+    <term name="motion_picture" form="short">video rec.</term>
+    <term name="report" form="short">rep.</term>
+    <term name="review" form="short">rev.</term>
+    <term name="review-book" form="short">bk. rev.</term>
+    <term name="song" form="short">audio rec.</term>
+
+    <!-- HISTORICAL ERA TERMS -->
     <term name="ad">K.a.</term>
     <term name="bc">K.o.</term>
 
