@@ -110,7 +110,7 @@
     <term name="entry-dictionary">dictionary entry</term>
     <term name="entry-encyclopedia">encyclopedia entry</term>
     <term name="event">event</term>
-    <term name="figure">figure</term>
+    <!-- figure is in the list of locator terms -->
     <term name="graphic">graphic</term>
     <term name="hearing">hearing</term>
     <term name="interview">interview</term>
@@ -147,7 +147,7 @@
     <term name="book" form="short">bk.</term>
     <term name="chapter" form="short">bk. chap.</term>
     <term name="document" form="short">doc.</term>
-    <term name="figure" form="short">fig.</term>
+    <!-- figure is in the list of locator terms -->
     <term name="graphic" form="short">graph.</term>
     <term name="interview" form="short">interv.</term>
     <term name="manuscript" form="short">MS</term>
@@ -251,7 +251,7 @@
       <single>column</single>
       <multiple>columns</multiple>
     </term>
-    <term name="figure-locator">
+    <term name="figure">
       <single>figure</single>
       <multiple>figures</multiple>
     </term>
@@ -357,7 +357,7 @@
       <single>col.</single>
       <multiple>cols</multiple>
     </term>
-    <term name="figure-locator" form="short">
+    <term name="figure" form="short">
       <single>fig.</single>
       <multiple>figs</multiple>
     </term>
