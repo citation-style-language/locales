@@ -326,7 +326,7 @@
     <term name="paragraph" form="short">par.</term>
     <term name="part" form="short">č.</term>
     <term name="section" form="short">sek.</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>s.v.</single>
       <multiple>s.vv.</multiple>
     </term>

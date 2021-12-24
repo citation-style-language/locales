@@ -320,7 +320,7 @@
     <term name="paragraph" form="short">فقرة</term>
     <term name="part" form="short">ج</term>
     <term name="section" form="short">قسم</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>تفسير فرعي</single>
       <multiple>تفسيرات فرعية</multiple>
     </term>

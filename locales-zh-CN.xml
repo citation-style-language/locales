@@ -257,7 +257,7 @@
     <term name="paragraph" form="short">段</term>
     <term name="part" form="short">部</term>
     <term name="section" form="short">节</term>
-    <term name="sub verbo" form="short">另见</term>   
+    <term name="sub-verbo" form="short">另见</term>   
     <term name="verse" form="short">篇</term>      
     <term name="volume" form="short">卷</term>
     

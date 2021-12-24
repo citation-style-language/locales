@@ -322,7 +322,7 @@
     <term name="paragraph" form="short">παρ.</term>
     <term name="part" form="short">μέρ.</term>
     <term name="section" form="short">τμ.</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>λήμ.</single>
       <multiple>λήμ.</multiple>
     </term>

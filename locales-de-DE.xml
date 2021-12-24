@@ -329,7 +329,7 @@
     <term name="paragraph" form="short">Abs.</term>
     <term name="part" form="short">Teil</term>
     <term name="section" form="short">Abschn.</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>s.&#160;v.</single>
       <multiple>s.&#160;vv.</multiple>
     </term>

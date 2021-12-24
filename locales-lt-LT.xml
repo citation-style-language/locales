@@ -336,7 +336,7 @@
     <term name="paragraph" form="short">pastr.</term>
     <term name="part" form="short">d.</term>
     <term name="section" form="short">posk.</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>žr.</single>
       <multiple>žr.</multiple>
     </term>

@@ -317,7 +317,7 @@
     <term name="paragraph" form="short">ย่อหน้า</term>
     <term name="part" form="short">ส่วนย่อย</term>
     <term name="section" form="short">หมวด</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>ใต้คำ</single>
       <multiple>ใต้คำ</multiple>
     </term>

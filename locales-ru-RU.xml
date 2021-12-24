@@ -351,7 +351,7 @@
       <multiple>чч.</multiple>
     </term>
     <term name="section" form="short">разд.</term>
-    <term name="sub verbo" form="short">см.</term>
+    <term name="sub-verbo" form="short">см.</term>
     <term name="verse" form="short">ст.</term>
     <term name="volume" form="short">
       <single>т.</single>

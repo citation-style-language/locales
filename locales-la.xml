@@ -317,7 +317,7 @@
     <term name="paragraph" form="short">par.</term>
     <term name="part" form="short">pr.</term>
     <term name="section" form="short">par.</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>s.u.</single>
       <multiple>s.uu.</multiple>
     </term>

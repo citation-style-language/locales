@@ -323,7 +323,7 @@
     <term name="paragraph" form="short">afs.</term>
     <term name="part" form="short">d.</term>
     <term name="section" form="short">par.</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>s.v.</single>
       <multiple>s.v.</multiple>
     </term>

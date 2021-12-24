@@ -320,7 +320,7 @@
     <term name="paragraph" form="short">пар.</term>
     <term name="part" form="short">део</term>
     <term name="section" form="short">од.</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>s.v.</single>
       <multiple>s.vv.</multiple>
     </term>

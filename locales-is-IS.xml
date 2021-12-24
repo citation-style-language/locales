@@ -320,7 +320,7 @@
     <term name="paragraph" form="short">málsgr.</term>
     <term name="part" form="short">hl.</term>
     <term name="section" form="short">hl.</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>s.v.</single>
       <multiple>s.vv.</multiple>
     </term>

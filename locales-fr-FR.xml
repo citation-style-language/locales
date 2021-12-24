@@ -325,7 +325,7 @@
     <term name="paragraph" form="short">paragr.</term>
     <term name="part" form="short">part.</term>
     <term name="section" form="short">sect.</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>s.&#160;v.</single>
       <multiple>s.&#160;vv.</multiple>
     </term>

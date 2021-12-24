@@ -320,7 +320,7 @@
     <term name="paragraph" form="short">پاراگراف</term>
     <term name="part" form="short">بخش</term>
     <term name="section" form="short">قسمت</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>s.v</single>
       <multiple>s.vv</multiple>
     </term>

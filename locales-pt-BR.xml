@@ -332,7 +332,7 @@
     <term name="paragraph" form="short">parag.</term>
     <term name="part" form="short">pt.</term>
     <term name="section" form="short">seç.</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>s.v.</single>
       <multiple>s.vv.</multiple>
     </term>

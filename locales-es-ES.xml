@@ -317,7 +317,7 @@
     <term name="paragraph" form="short">párr.</term>
     <term name="part" form="short">pt.</term>
     <term name="section" form="short">sec.</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>s.&#160;v.</single>
       <multiple>s.&#160;vv.</multiple>
     </term>

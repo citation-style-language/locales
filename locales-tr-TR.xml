@@ -327,7 +327,7 @@
     <term name="paragraph" form="short">par.</term>
     <term name="part" form="short">ksm.</term>
     <term name="section" form="short">blm.</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>md.</single>
       <multiple>md.</multiple>
     </term>

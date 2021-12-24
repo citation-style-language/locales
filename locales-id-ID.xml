@@ -329,7 +329,7 @@
     <term name="paragraph" form="short">para.</term>
     <term name="part" form="short">bag.</term>
     <term name="section" form="short">bag.</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>s.v.</single>
       <multiple>s.vv.</multiple>
     </term>

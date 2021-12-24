@@ -350,7 +350,7 @@
     <term name="paragraph" form="short">абз.</term>
     <term name="part" form="short">ч.</term>
     <term name="section" form="short">разд.</term>
-    <term name="sub verbo" form="short">подразд.</term>
+    <term name="sub-verbo" form="short">подразд.</term>
     <term name="verse" form="short">ст.</term>
     <term name="volume" form="short">
       <single>том</single>
