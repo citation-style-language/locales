@@ -378,6 +378,58 @@
     </term>
 
     <!-- LONG ROLE FORMS -->
+    <term name="chair">
+      <single>chair</single>
+      <multiple>chairs</multiple>
+    </term>
+    <term name="compiler">
+      <single>compiler</single>
+      <multiple>compilers</multiple>
+    </term>
+    <term name="contributor">
+      <single>contributor</single>
+      <multiple>contributors</multiple>
+    </term>
+    <term name="curator">
+      <single>curator</single>
+      <multiple>curators</multiple>
+    </term>
+    <term name="executive-producer">
+      <single>executive producer</single>
+      <multiple>executive producers</multiple>
+    </term>
+    <term name="guest">
+      <single>guest</single>
+      <multiple>guests</multiple>
+    </term>
+    <term name="host">
+      <single>host</single>
+      <multiple>hosts</multiple>
+    </term>
+    <term name="narrator">
+      <single>narrator</single>
+      <multiple>narrators</multiple>
+    </term>
+    <term name="organizer">
+      <single>organizer</single>
+      <multiple>organizers</multiple>
+    </term>
+    <term name="performer">
+      <single>performer</single>
+      <multiple>performers</multiple>
+    </term>
+    <term name="producer">
+      <single>producer</single>
+      <multiple>producers</multiple>
+    </term>
+    <term name="script-writer">
+      <single>writer</single>
+      <multiple>writers</multiple>
+    </term>
+    <term name="series-creator">
+      <single>series creator</single>
+      <multiple>series creators</multiple>
+    </term>
     <term name="director">
       <single>director</single>
       <multiple>directores</multiple>
