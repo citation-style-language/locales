@@ -32,7 +32,7 @@
     <term name="on">on</term>
     <term name="op-cit">op. cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
     <term name="original-work-published">original work published</term>
-    <term name="personal-communication">personal communication</term>
+    <term name="personal-communication">การสื่อสารส่วนบุคคล</term>
     <term name="podcast">podcast</term>
     <term name="podcast-episode">podcast episode</term>
     <term name="preprint">preprint</term>
@@ -119,7 +119,7 @@
     <term name="patent">patent</term>
     <term name="performance">performance</term>
     <term name="periodical">periodical</term>
-    <term name="personal_communication">personal communication</term>
+    <term name="personal_communication">การสื่อสารส่วนบุคคล</term>
     <term name="post">post</term>
     <term name="post-weblog">blog post</term>
     <term name="regulation">regulation</term>
