@@ -107,12 +107,12 @@
     <term name="dataset">dataset</term>
     <term name="document">documento</term>
     <term name="entry">entry</term>
-    <term name="entry-dictionary">dictionary entry</term>
-    <term name="entry-encyclopedia">encyclopedia entry</term>
+    <term name="entry-dictionary">verbete de dicionário</term>
+    <term name="entry-encyclopedia">verbete de enciclopédia</term>
     <term name="event">evento</term>
     <!-- figure is in the list of locator terms -->
-    <term name="graphic">graphic</term>
-    <term name="hearing">hearing</term>
+    <term name="graphic">gráfico</term>
+    <term name="hearing">audiência</term>
     <term name="interview">entrevista</term>
     <term name="legal_case">legal case</term>
     <term name="legislation">legislação</term>
@@ -126,8 +126,8 @@
     <term name="performance">performance</term>
     <term name="periodical">periodical</term>
     <term name="personal_communication">comunicação pessoal</term>
-    <term name="post">post</term>
-    <term name="post-weblog">blog post</term>
+    <term name="post">postagem</term>
+    <term name="post-weblog">postagem de blog</term>
     <term name="regulation">regulation</term>
     <term name="report">report</term>
     <term name="review">revisão</term>
@@ -145,7 +145,7 @@
     <term name="article-magazine" form="short">mag. art.</term>
     <term name="article-newspaper" form="short">newspaper art.</term>
     <term name="book" form="short">bk.</term>
-    <term name="chapter" form="short">bk. chap.</term>
+    <term name="chapter" form="short">cap. liv.</term>
     <term name="document" form="short">doc.</term>
     <!-- figure is in the list of locator terms -->
     <term name="graphic" form="short">graph.</term>
@@ -154,7 +154,7 @@
     <term name="motion_picture" form="short">video rec.</term>
     <term name="report" form="short">rep.</term>
     <term name="review" form="short">rev.</term>
-    <term name="review-book" form="short">bk. rev.</term>
+    <term name="review-book" form="short">rev. liv.</term>
     <term name="song" form="short">audio rec.</term>
 
     <!-- HISTORICAL ERA TERMS -->
@@ -210,8 +210,8 @@
       <multiple>apêndices</multiple>						 
     </term>
     <term name="article-locator">			 
-      <single>article</single>
-      <multiple>articles</multiple>						 
+      <single>artigo</single>
+      <multiple>artigos</multiple>						 
     </term>
     <term name="canon">			 
       <single>canon</single>
@@ -222,28 +222,28 @@
       <multiple>locations</multiple>						 
     </term>
     <term name="equation">			 
-      <single>equation</single>
-      <multiple>equations</multiple>						 
+      <single>equação</single>
+      <multiple>equações</multiple>						 
     </term>
     <term name="rule">			 
-      <single>rule</single>
-      <multiple>rules</multiple>						 
+      <single>regra</single>
+      <multiple>regras</multiple>						 
     </term>
     <term name="scene">			 
-      <single>scene</single>
-      <multiple>scenes</multiple>						 
+      <single>cena</single>
+      <multiple>cenas</multiple>						 
     </term>
     <term name="table">			 
-      <single>table</single>
-      <multiple>tables</multiple>						 
+      <single>tabela</single>
+      <multiple>tabelas</multiple>						 
     </term>
     <term name="timestamp"> <!-- generally blank -->
       <single></single>
       <multiple></multiple>						 
     </term>
     <term name="title-locator">			 
-      <single>title</single>
-      <multiple>titles</multiple>						 
+      <single>título</single>
+      <multiple>títulos</multiple>						 
     </term>
     <term name="book">
       <single>livro</single>
@@ -400,52 +400,52 @@
       <multiple>chairs</multiple>
     </term>
     <term name="compiler">
-      <single>compiler</single>
-      <multiple>compilers</multiple>
+      <single>compilador</single>
+      <multiple>compiladores</multiple>
     </term>
     <term name="contributor">
-      <single>contributor</single>
-      <multiple>contributors</multiple>
+      <single>contribuidor</single>
+      <multiple>contribuidores</multiple>
     </term>
     <term name="curator">
-      <single>curator</single>
-      <multiple>curators</multiple>
+      <single>curador</single>
+      <multiple>curadores</multiple>
     </term>
     <term name="executive-producer">
-      <single>executive producer</single>
-      <multiple>executive producers</multiple>
+      <single>produtor executivo</single>
+      <multiple>produtores executivos</multiple>
     </term>
     <term name="guest">
-      <single>guest</single>
-      <multiple>guests</multiple>
+      <single>convidado</single>
+      <multiple>convidados</multiple>
     </term>
     <term name="host">
-      <single>host</single>
-      <multiple>hosts</multiple>
+      <single>anfitrião</single>
+      <multiple>anfitriões</multiple>
     </term>
     <term name="narrator">
-      <single>narrator</single>
-      <multiple>narrators</multiple>
+      <single>narrador</single>
+      <multiple>narradores</multiple>
     </term>
     <term name="organizer">
-      <single>organizer</single>
-      <multiple>organizers</multiple>
+      <single>organizador</single>
+      <multiple>organizadores</multiple>
     </term>
     <term name="performer">
       <single>performer</single>
       <multiple>performers</multiple>
     </term>
     <term name="producer">
-      <single>producer</single>
-      <multiple>producers</multiple>
+      <single>produtor</single>
+      <multiple>produtores</multiple>
     </term>
     <term name="script-writer">
-      <single>writer</single>
-      <multiple>writers</multiple>
+      <single>escritor</single>
+      <multiple>escritores</multiple>
     </term>
     <term name="series-creator">
-      <single>series creator</single>
-      <multiple>series creators</multiple>
+      <single>criador da série</single>
+      <multiple>criadores da série</multiple>
     </term>
     <term name="director">
       <single>diretor</single>
@@ -547,11 +547,11 @@
     <term name="guest" form="verb">with guest</term>
     <term name="host" form="verb">hosted by</term>
     <term name="narrator" form="verb">narrated by</term>
-    <term name="organizer" form="verb">organized by</term>
-    <term name="performer" form="verb">performed by</term>
-    <term name="producer" form="verb">produced by</term>
-    <term name="script-writer" form="verb">written by</term>
-    <term name="series-creator" form="verb">created by</term>
+    <term name="organizer" form="verb">organizado por</term>
+    <term name="performer" form="verb">performado por</term>
+    <term name="producer" form="verb">produzido por</term>
+    <term name="script-writer" form="verb">escrito por</term>
+    <term name="series-creator" form="verb">criado por</term>
     <term name="container-author" form="verb">por</term>
     <term name="director" form="verb">dirigido por</term>
     <term name="editor" form="verb">organizado por</term>
