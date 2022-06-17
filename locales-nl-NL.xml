@@ -59,10 +59,10 @@
     <term name="circa" form="short">c.</term>
     <term name="cited">geciteerd</term>
     <term name="edition">
-      <single>druk</single>
-      <multiple>drukken</multiple>
+      <single>editie</single>
+      <multiple>editie</multiple>
     </term>
-    <term name="edition" form="short">dr.</term>
+    <term name="edition" form="short">ed.</term>
     <term name="et-al">e.a.</term>
     <term name="forthcoming">in voorbereiding</term>
     <term name="from">van</term>
