@@ -408,68 +408,68 @@
 
     <!-- LONG ROLE FORMS -->
     <term name="chair">
-      <single>chair</single>
-      <multiple>chairs</multiple>
+      <single>presidente</single>
+      <multiple>presidenti</multiple>
     </term>
     <term name="compiler">
-      <single>compiler</single>
-      <multiple>compilers</multiple>
+      <single>compilatore</single>
+      <multiple>compilatori</multiple>
     </term>
     <term name="contributor">
-      <single>contributor</single>
-      <multiple>contributors</multiple>
+      <single>collaboratore</single>
+      <multiple>collaboratori</multiple>
     </term>
     <term name="curator">
-      <single>curator</single>
-      <multiple>curators</multiple>
+      <single>curatore</single>
+      <multiple>curatori</multiple>
     </term>
     <term name="executive-producer">
-      <single>executive producer</single>
-      <multiple>executive producers</multiple>
+      <single>produttore esecutivo</single>
+      <multiple>produttori esecutivi</multiple>
     </term>
     <term name="guest">
-      <single>guest</single>
-      <multiple>guests</multiple>
+      <single>ospite</single>
+      <multiple>ospiti</multiple>
     </term>
     <term name="host">
-      <single>host</single>
-      <multiple>hosts</multiple>
+      <single>conduttore</single>
+      <multiple>conduttori</multiple>
     </term>
     <term name="narrator">
-      <single>narrator</single>
-      <multiple>narrators</multiple>
+      <single>narratore</single>
+      <multiple>narratori</multiple>
     </term>
     <term name="organizer">
-      <single>organizer</single>
-      <multiple>organizers</multiple>
+      <single>organizzatore</single>
+      <multiple>organizzatori</multiple>
     </term>
     <term name="performer">
-      <single>performer</single>
-      <multiple>performers</multiple>
+      <single>esecutore</single>
+      <multiple>esecutori</multiple>
     </term>
     <term name="producer">
-      <single>producer</single>
-      <multiple>producers</multiple>
+      <single>produttore</single>
+      <multiple>produttori</multiple>
     </term>
     <term name="script-writer">
-      <single>writer</single>
-      <multiple>writers</multiple>
+      <single>sceneggiatore</single>
+      <multiple>sceneggiatori</multiple>
     </term>
     <term name="series-creator">
-      <single>series creator</single>
-      <multiple>series creators</multiple>
+      <single>autore della serie</single>
+      <multiple>autori della serie</multiple>
     </term>
     <term name="director">
-      <single>director</single>
-      <multiple>directors</multiple>
+      <single>regista</single>
+      <multiple>registi</multiple>
     </term>
     <term name="editor">
       <single>curatore</single>
       <multiple>curatori</multiple>
     </term>
     <term name="editorial-director">
-      <single>editor</single>
-      <multiple>editors</multiple>
+      <single>direttore editoriale</single>
+      <multiple>direttori editoriali</multiple>
     </term>
     <term name="illustrator">
       <single>illustratore</single>
@@ -487,43 +487,43 @@
     <!-- SHORT ROLE FORMS -->
     <term name="compiler" form="short">
       <single>comp.</single>
-      <multiple>comps.</multiple>
+      <multiple>comp.</multiple>
     </term>
     <term name="contributor" form="short">
-      <single>contrib.</single>
-      <multiple>contribs.</multiple>
+      <single>collab.</single>
+      <multiple>collab.</multiple>
     </term>
     <term name="curator" form="short">
       <single>cur.</single>
-      <multiple>curs.</multiple>
+      <multiple>cur.</multiple>
     </term>
     <term name="executive-producer" form="short">
-      <single>exec. prod.</single>
-      <multiple>exec. prods.</multiple>
+      <single>prod.es.</single>
+      <multiple>prod. es.</multiple>
     </term>
     <term name="narrator" form="short">
       <single>narr.</single>
-      <multiple>narrs.</multiple>
+      <multiple>narr.</multiple>
     </term>
     <term name="organizer" form="short">
       <single>org.</single>
-      <multiple>orgs.</multiple>
+      <multiple>org.</multiple>
     </term>
     <term name="performer" form="short">
-      <single>perf.</single>
-      <multiple>perfs.</multiple>
+      <single>esec.</single>
+      <multiple>esec.</multiple>
     </term>
     <term name="producer" form="short">
       <single>prod.</single>
-      <multiple>prods.</multiple>
+      <multiple>prod.</multiple>
     </term>
     <term name="script-writer" form="short">
-      <single>writ.</single>
-      <multiple>writs.</multiple>
+      <single>scen.</single>
+      <multiple>scen.</multiple>
     </term>
     <term name="series-creator" form="short">
-      <single>cre.</single>
-      <multiple>cres.</multiple>
+      <single>aut. d. serie</single>
+      <multiple>aut. d. serie</multiple>
     </term>
     <term name="director" form="short">
       <single>dir.</single>
@@ -534,8 +534,8 @@
       <multiple>a c. di</multiple>
     </term>
     <term name="editorial-director" form="short">
-      <single>ed.</single>
-      <multiple>ed.</multiple>
+      <single>dir. ed.</single>
+      <multiple>dir. ed.</multiple>
     </term>
     <term name="illustrator" form="short">
       <single>ill.</single>
@@ -546,28 +546,28 @@
       <multiple>trad.</multiple>
     </term>
     <term name="editortranslator" form="short">
-      <single>a c. di e trad. da</single>
-      <multiple>a c. di e trad. da</multiple>
+      <single>cur. e trad.</single>
+      <multiple>cur. e trad.</multiple>
     </term>
 
     <!-- VERB ROLE FORMS -->
-    <term name="chair" form="verb">chaired by</term>
-    <term name="compiler" form="verb">compiled by</term>
-    <term name="contributor" form="verb">with</term>
-    <term name="curator" form="verb">curated by</term>
-    <term name="executive-producer" form="verb">executive produced by</term>
-    <term name="guest" form="verb">with guest</term>
-    <term name="host" form="verb">hosted by</term>
-    <term name="narrator" form="verb">narrated by</term>
-    <term name="organizer" form="verb">organized by</term>
-    <term name="performer" form="verb">performed by</term>
-    <term name="producer" form="verb">produced by</term>
-    <term name="script-writer" form="verb">written by</term>
-    <term name="series-creator" form="verb">created by</term>
+    <term name="chair" form="verb">presieduto da</term>
+    <term name="compiler" form="verb">compilato da</term>
+    <term name="contributor" form="verb">con un contributo di</term>
+    <term name="curator" form="verb">a cura di</term>
+    <term name="executive-producer" form="verb">produzione esecutiva di</term>
+    <term name="guest" form="verb">con ospite</term>
+    <term name="host" form="verb">condotto da</term>
+    <term name="narrator" form="verb">narrato da</term>
+    <term name="organizer" form="verb">organizzato da</term>
+    <term name="performer" form="verb">esecuzione di</term>
+    <term name="producer" form="verb">prodotto da</term>
+    <term name="script-writer" form="verb">scritto da</term>
+    <term name="series-creator" form="verb">creato da</term>
     <term name="container-author" form="verb">di</term>
     <term name="director" form="verb">diretto da</term>
     <term name="editor" form="verb">a cura di</term>
-    <term name="editorial-director" form="verb">edited by</term>
+    <term name="editorial-director" form="verb">direzione editoriale di</term>
     <term name="illustrator" form="verb">illustrato da</term>
     <term name="interviewer" form="verb">intervista di</term>
     <term name="recipient" form="verb">a</term>
@@ -576,21 +576,21 @@
     <term name="editortranslator" form="verb">a cura di e tradotto da</term>
 
     <!-- SHORT VERB ROLE FORMS -->
-    <term name="compiler" form="verb-short">comp. by</term>
-    <term name="contributor" form="verb-short">w.</term>
-    <term name="curator" form="verb-short">cur. by</term>
-    <term name="executive-producer" form="verb-short">exec. prod. by</term>
-    <term name="guest" form="verb-short">w. guest</term>
-    <term name="host" form="verb-short">hosted by</term>
-    <term name="narrator" form="verb-short">narr. by</term>
-    <term name="organizer" form="verb-short">org. by</term>
-    <term name="performer" form="verb-short">perf. by</term>
-    <term name="producer" form="verb-short">prod. by</term>
-    <term name="script-writer" form="verb-short">writ. by</term>
-    <term name="series-creator" form="verb-short">cre. by</term>
+    <term name="compiler" form="verb-short">comp. da</term>
+    <term name="contributor" form="verb-short">con un contrib. di</term>
+    <term name="curator" form="verb-short">a c. di</term>
+    <term name="executive-producer" form="verb-short">prod. esec. di</term>
+    <term name="guest" form="verb-short">con osp.</term>
+    <term name="host" form="verb-short">cond. da</term>
+    <term name="narrator" form="verb-short">narr. da</term>
+    <term name="organizer" form="verb-short">org. da</term>
+    <term name="performer" form="verb-short">esec. di</term>
+    <term name="producer" form="verb-short">prod. da</term>
+    <term name="script-writer" form="verb-short">scr. da</term>
+    <term name="series-creator" form="verb-short">cre. da</term>
     <term name="director" form="verb-short">dir. da</term>
     <term name="editor" form="verb-short">a c. di</term>
-    <term name="editorial-director" form="verb-short">ed.</term>
+    <term name="editorial-director" form="verb-short">dir. ed. di</term>
     <term name="illustrator" form="verb-short">ill. da</term>
     <term name="translator" form="verb-short">trad. da</term>
     <term name="editortranslator" form="verb-short">a c. di e trad. da</term>
