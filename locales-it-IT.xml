@@ -526,8 +526,8 @@
       <multiple>aut. d. serie</multiple>
     </term>
     <term name="director" form="short">
-      <single>dir.</single>
-      <multiple>dir.</multiple>
+      <single>reg.</single>
+      <multiple>reg.</multiple>
     </term>
     <term name="editor" form="short">
       <single>a c. di</single>
