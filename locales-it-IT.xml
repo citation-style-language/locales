@@ -59,8 +59,6 @@
     <term name="circa">circa</term>
     <term name="circa" form="short">c.</term>
     <term name="cited">citato</term>
-    <term name="cited" gender="masculine">citato</term>    
-    <term name="cited" gender="feminine">citata</term>
     <term name="edition" gender="feminine">
       <single>edizione</single>
       <multiple>edizioni</multiple>
