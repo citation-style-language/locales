@@ -5,7 +5,7 @@
       <name>Guttorm Flatabø</name>
     </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2022-01-01T21:32:03-05:00</updated>
+    <updated>2022-09-18T16:06:16-04:00</updated>
   </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
@@ -152,10 +152,10 @@
     <term name="song" form="short">audio rec.</term>
 
     <!-- HISTORICAL ERA TERMS -->
-    <term name="ad">fvt.</term>
-    <term name="bc">evt.</term>
-    <term name="bce">BCE</term>
-    <term name="ce">CE</term>
+    <term name="ad">e.Kr.</term>
+    <term name="bc">f.Kr.</term>
+    <term name="bce">fvt.</term>
+    <term name="ce">evt.</term>
 
     <!-- PUNCTUATION -->
     <term name="open-quote">«</term>
