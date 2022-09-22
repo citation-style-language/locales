@@ -96,9 +96,9 @@
     <term name="article-magazine">articolo di rivista generalista</term>
     <term name="article-newspaper">articolo di giornale</term>
     <term name="bill">proposta di legge</term>
-    <term name="book">libro</term>
+    <!-- book is in the list of locator terms -->
     <term name="broadcast">broadcast</term>
-    <term name="chapter">capitolo di libro</term>
+    <!-- chapter is in the list of locator terms -->
     <term name="classic">classico</term>
     <term name="collection">collezione</term>
     <term name="dataset">dataset</term>
@@ -141,8 +141,8 @@
     <term name="article-journal" form="short">art. di riv.</term>
     <term name="article-magazine" form="short">art. di riv</term>
     <term name="article-newspaper" form="short">art. di g.</term>
-    <term name="book" form="short">l.</term>
-    <term name="chapter" form="short">c. di l.</term>
+    <!-- book is in the list of locator terms -->
+    <!-- chapter is in the list of locator terms -->
     <term name="document" form="short">doc.</term>
     <!-- figure is in the list of locator terms -->
     <term name="graphic" form="short">op. d'arte</term>

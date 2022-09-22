@@ -95,9 +95,9 @@
     <term name="article-magazine">article de magazine</term>
     <term name="article-newspaper">article de presse</term>
     <term name="bill">projet de loi</term>
-    <term name="book">livre</term>
+    <!-- book is in the list of locator terms -->
     <term name="broadcast">émission</term>
-    <term name="chapter">chapitre de livre</term>
+    <!-- chapter is in the list of locator terms -->
     <term name="classic">classique</term>
     <term name="collection">collection</term>
     <term name="dataset">jeu de données</term>
@@ -140,8 +140,8 @@
     <term name="article-journal" form="short">art. de revue</term>
     <term name="article-magazine" form="short">art. de mag.</term>
     <term name="article-newspaper" form="short">art. de presse</term>
-    <term name="book" form="short">liv.</term>
-    <term name="chapter" form="short">chap. de liv.</term>
+    <!-- book is in the list of locator terms -->
+    <!-- chapter is in the list of locator terms -->
     <term name="document" form="short">doc.</term>
     <!-- figure is in the list of locator terms -->
     <term name="graphic" form="short">graph.</term>
