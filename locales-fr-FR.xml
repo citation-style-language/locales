@@ -302,39 +302,39 @@
     </term>
 
     <!-- SHORT LOCATOR FORMS -->
-    <term name="appendix">
+    <term name="appendix" form="short">
       <single>append.</single>
       <multiple>append.</multiple>
     </term>
-    <term name="article-locator">
+    <term name="article-locator" form="short">
       <single>art.</single>
       <multiple>art.</multiple>
     </term>
-    <term name="elocation">
+    <term name="elocation" form="short">
       <single>emplact</single>
       <multiple>emplact</multiple>
     </term>
-    <term name="equation">
+    <term name="equation" form="short">
       <single>eq.</single>
       <multiple>eq.</multiple>
     </term>
-    <term name="rule">
+    <term name="rule" form="short">
       <single>règle</single>
       <multiple>règles</multiple>
     </term>
-    <term name="scene">
+    <term name="scene" form="short">
       <single>sc.</single>
       <multiple>sc.</multiple>
     </term>
-    <term name="table">
+    <term name="table" form="short">
       <single>tab.</single>
       <multiple>tab.</multiple>
     </term>
-    <term name="timestamp"> <!-- generally blank -->
+    <term name="timestamp" form="short"> <!-- generally blank -->
       <single></single>
       <multiple></multiple>
     </term>
-    <term name="title-locator">
+    <term name="title-locator" form="short">
       <single>tit.</single>
       <multiple>tit.</multiple>
     </term>
