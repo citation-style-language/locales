@@ -75,7 +75,6 @@
     <term name="in">w</term>
     <term name="in press">w druku</term>
     <term name="internet">internet</term>
-    <term name="interview">wywiad</term>
     <term name="letter">list</term>
     <term name="no date">brak daty</term>
     <term name="no date" form="short">b.d.</term>
@@ -113,7 +112,7 @@
     <!-- figure is in the list of locator terms -->
     <term name="graphic">graphic</term>
     <term name="hearing">hearing</term>
-    <term name="interview">interview</term>
+    <term name="interview">wywiad</term>
     <term name="legal_case">legal case</term>
     <term name="legislation">legislation</term>
     <term name="manuscript">manuscript</term>

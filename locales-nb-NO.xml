@@ -69,7 +69,6 @@
     <term name="in">i</term>
     <term name="in press">i trykk</term>
     <term name="internet">Internett</term>
-    <term name="interview">intervju</term>
     <term name="letter">brev</term>
     <term name="no date">ingen dato</term>
     <term name="no date" form="short">u.å.</term>
@@ -107,7 +106,7 @@
     <!-- figure is in the list of locator terms -->
     <term name="graphic">graphic</term>
     <term name="hearing">hearing</term>
-    <term name="interview">interview</term>
+    <term name="interview">intervju</term>
     <term name="legal_case">legal case</term>
     <term name="legislation">legislation</term>
     <term name="manuscript">manuscript</term>

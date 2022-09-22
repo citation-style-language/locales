@@ -81,7 +81,6 @@
     <term name="in">in</term>
     <term name="in press">im Druck</term>
     <term name="internet">Internet</term>
-    <term name="interview">Interview</term>
     <term name="letter">Brief</term>
     <term name="no date">ohne Datum</term>
     <term name="no date" form="short">o.&#160;J.</term>
@@ -119,7 +118,7 @@
     <!-- figure is in the list of locator terms -->
     <term name="graphic">graphic</term>
     <term name="hearing">hearing</term>
-    <term name="interview">interview</term>
+    <term name="interview">Interview</term>
     <term name="legal_case">legal case</term>
     <term name="legislation">legislation</term>
     <term name="manuscript">manuscript</term>

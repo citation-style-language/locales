@@ -66,7 +66,6 @@
     <term name="in">yn</term>
     <term name="in press">yn y wasg</term>
     <term name="internet">rhyngrwyd</term>
-    <term name="interview">cyfweliad</term>
     <term name="letter">llythyr</term>
     <term name="no date">dim dyddiad</term>
     <term name="no date" form="short">d.d.</term>
@@ -104,7 +103,7 @@
     <!-- figure is in the list of locator terms -->
     <term name="graphic">graphic</term>
     <term name="hearing">hearing</term>
-    <term name="interview">interview</term>
+    <term name="interview">cyfweliad</term>
     <term name="legal_case">legal case</term>
     <term name="legislation">legislation</term>
     <term name="manuscript">manuscript</term>

@@ -70,7 +70,6 @@
     <term name="in">în</term>
     <term name="in press">sub tipar</term>
     <term name="internet">internet</term>
-    <term name="interview">interviu</term>
     <term name="letter">scrisoare</term>
     <term name="no date">fără dată</term>
     <term name="no date" form="short">f.a.</term>
@@ -108,7 +107,7 @@
     <!-- figure is in the list of locator terms -->
     <term name="graphic">graphic</term>
     <term name="hearing">hearing</term>
-    <term name="interview">interview</term>
+    <term name="interview">interviu</term>
     <term name="legal_case">legal case</term>
     <term name="legislation">legislation</term>
     <term name="manuscript">manuscript</term>

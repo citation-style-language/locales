@@ -71,7 +71,6 @@
     <term name="in">в</term>
     <term name="in press">под печат</term>
     <term name="internet">интернет</term>
-    <term name="interview">интервю</term>
     <term name="letter">писмо</term>
     <term name="no date">без дата</term>
     <term name="no date" form="short">б.д.</term>
@@ -109,7 +108,7 @@
     <!-- figure is in the list of locator terms -->
     <term name="graphic">graphic</term>
     <term name="hearing">hearing</term>
-    <term name="interview">interview</term>
+    <term name="interview">интервю</term>
     <term name="legal_case">legal case</term>
     <term name="legislation">legislation</term>
     <term name="manuscript">manuscript</term>

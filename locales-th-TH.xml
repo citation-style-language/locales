@@ -69,7 +69,6 @@
     <term name="in">ใน</term>
     <term name="in press">กำลังรอตีพิมพ์</term>
     <term name="internet">อินเทอร์เน็ต</term>
-    <term name="interview">การสัมภาษณ์</term>
     <term name="letter">จดหมาย</term>
     <term name="no date">ไม่ปรากฏปีที่พิมพ์</term>
     <term name="no date" form="short">ม.ป.ป.</term>
@@ -107,7 +106,7 @@
     <!-- figure is in the list of locator terms -->
     <term name="graphic">graphic</term>
     <term name="hearing">hearing</term>
-    <term name="interview">interview</term>
+    <term name="interview">การสัมภาษณ์</term>
     <term name="legal_case">legal case</term>
     <term name="legislation">legislation</term>
     <term name="manuscript">manuscript</term>

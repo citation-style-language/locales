@@ -69,7 +69,6 @@
     <term name="in">in</term>
     <term name="in press">nyomtatás alatt</term>
     <term name="internet">internet</term>
-    <term name="interview">interjú</term>
     <term name="letter">levél</term>
     <term name="no date">évszám nélkül</term>
     <term name="no date" form="short">é. n.</term>
@@ -107,7 +106,7 @@
     <!-- figure is in the list of locator terms -->
     <term name="graphic">graphic</term>
     <term name="hearing">hearing</term>
-    <term name="interview">interview</term>
+    <term name="interview">interjú</term>
     <term name="legal_case">legal case</term>
     <term name="legislation">legislation</term>
     <term name="manuscript">manuscript</term>

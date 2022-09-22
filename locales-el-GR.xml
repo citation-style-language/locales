@@ -72,7 +72,6 @@
     <term name="in">στο</term>
     <term name="in press">υπό έκδοση</term>
     <term name="internet">διαδίκτυο</term>
-    <term name="interview">συνέντευξη</term>
     <term name="letter">επιστολή</term>
     <term name="no date">χωρίς χρονολογία</term>
     <term name="no date" form="short">χ.χ.</term>
@@ -110,7 +109,7 @@
     <!-- figure is in the list of locator terms -->
     <term name="graphic">graphic</term>
     <term name="hearing">hearing</term>
-    <term name="interview">interview</term>
+    <term name="interview">συνέντευξη</term>
     <term name="legal_case">legal case</term>
     <term name="legislation">legislation</term>
     <term name="manuscript">manuscript</term>

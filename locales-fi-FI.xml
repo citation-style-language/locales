@@ -78,7 +78,6 @@
     <term name="in">teoksessa</term>
     <term name="in press">painossa</term>
     <term name="internet">internet</term>
-    <term name="interview">haastattelu</term>
     <term name="letter">kirje</term>
     <term name="no date">ei päivämäärää</term>
     <term name="no date" form="short">ei pvm.</term>
@@ -116,7 +115,7 @@
     <!-- figure is in the list of locator terms -->
     <term name="graphic">graphic</term>
     <term name="hearing">hearing</term>
-    <term name="interview">interview</term>
+    <term name="interview">haastattelu</term>
     <term name="legal_case">legal case</term>
     <term name="legislation">legislation</term>
     <term name="manuscript">manuscript</term>

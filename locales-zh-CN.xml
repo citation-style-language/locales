@@ -72,7 +72,6 @@
     <term name="in">收入</term>
     <term name="in press">送印中</term>
     <term name="internet">网际网络</term>
-    <term name="interview">访谈</term>
     <term name="letter">信函</term>
     <term name="no date">日期不详</term>
     <term name="no date" form="short">不详</term>
@@ -104,7 +103,7 @@
     <!-- figure is in the list of locator terms -->
     <term name="graphic">graphic</term>
     <term name="hearing">hearing</term>
-    <term name="interview">interview</term>
+    <term name="interview">访谈</term>
     <term name="legal_case">legal case</term>
     <term name="legislation">legislation</term>
     <term name="manuscript">manuscript</term>

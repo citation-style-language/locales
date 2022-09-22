@@ -69,7 +69,6 @@
     <term name="in">בתוך</term>
     <term name="in press">בהדפסה</term>
     <term name="internet">אינטרנט</term>
-    <term name="interview">ראיון</term>
     <term name="letter">מכתב</term>
     <term name="no date">אין נתונים</term>
     <term name="no date" form="short">nd</term>
@@ -107,7 +106,7 @@
     <!-- figure is in the list of locator terms -->
     <term name="graphic">graphic</term>
     <term name="hearing">hearing</term>
-    <term name="interview">interview</term>
+    <term name="interview">ראיון</term>
     <term name="legal_case">legal case</term>
     <term name="legislation">legislation</term>
     <term name="manuscript">manuscript</term>

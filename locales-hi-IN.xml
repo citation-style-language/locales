@@ -70,7 +70,6 @@
     <term name="in">में</term>
     <term name="in press">मुद्रण में</term>
     <term name="internet">इंटर्नेट</term>
-    <term name="interview">साक्षात्कार</term>
     <term name="letter">पत्र</term>
     <term name="no date">दिनांक अज्ञात</term>
     <term name="no date" form="short">n.d.</term>
@@ -108,7 +107,7 @@
     <!-- figure is in the list of locator terms -->
     <term name="graphic">graphic</term>
     <term name="hearing">hearing</term>
-    <term name="interview">interview</term>
+    <term name="interview">साक्षात्कार</term>
     <term name="legal_case">legal case</term>
     <term name="legislation">legislation</term>
     <term name="manuscript">manuscript</term>

@@ -66,7 +66,6 @@
     <term name="in">收入</term>
     <term name="in press">印行中</term>
     <term name="internet">互聯網</term>
-    <term name="interview">訪談</term>
     <term name="letter">信函</term>
     <term name="no date">日期不詳</term>
     <term name="no date" form="short">不詳</term>
@@ -98,7 +97,7 @@
     <!-- figure is in the list of locator terms -->
     <term name="graphic">graphic</term>
     <term name="hearing">hearing</term>
-    <term name="interview">interview</term>
+    <term name="interview">訪談</term>
     <term name="legal_case">legal case</term>
     <term name="legislation">legislation</term>
     <term name="manuscript">manuscript</term>

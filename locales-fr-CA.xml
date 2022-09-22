@@ -69,7 +69,6 @@
     <term name="in">dans</term>
     <term name="in press">sous presse</term>
     <term name="internet">Internet</term>
-    <term name="interview">entretien</term>
     <term name="letter">lettre</term>
     <term name="no date">sans date</term>
     <term name="no date" form="short">s.&#160;d.</term>
@@ -107,7 +106,7 @@
     <!-- figure is in the list of locator terms -->
     <term name="graphic">graphic</term>
     <term name="hearing">hearing</term>
-    <term name="interview">interview</term>
+    <term name="interview">entretien</term>
     <term name="legal_case">legal case</term>
     <term name="legislation">legislation</term>
     <term name="manuscript">manuscript</term>

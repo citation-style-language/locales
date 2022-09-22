@@ -73,7 +73,6 @@
     <term name="in">no</term>
     <term name="in press">presē</term>
     <term name="internet">internets</term>
-    <term name="interview">intervija</term>
     <term name="letter">vēstule</term>
     <term name="no date">bez datuma</term>
     <term name="no date" form="short">b.g.</term>
@@ -111,7 +110,7 @@
     <!-- figure is in the list of locator terms -->
     <term name="graphic">graphic</term>
     <term name="hearing">hearing</term>
-    <term name="interview">interview</term>
+    <term name="interview">intervija</term>
     <term name="legal_case">legal case</term>
     <term name="legislation">legislation</term>
     <term name="manuscript">manuscript</term>

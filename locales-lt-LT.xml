@@ -71,7 +71,6 @@
     <term name="in"></term>
     <term name="in press">priimta spaudai</term>
     <term name="internet">prieiga per internetą</term>
-    <term name="interview">interviu</term>
     <term name="letter">laiškas</term>
     <term name="no date">sine anno</term>
     <term name="no date" form="short">s.a.</term>
@@ -109,7 +108,7 @@
     <!-- figure is in the list of locator terms -->
     <term name="graphic">graphic</term>
     <term name="hearing">hearing</term>
-    <term name="interview">interview</term>
+    <term name="interview">interviu</term>
     <term name="legal_case">legal case</term>
     <term name="legislation">legislation</term>
     <term name="manuscript">manuscript</term>
