@@ -179,7 +179,7 @@
     <term name="long-ordinal-01">पहला</term>
     <term name="long-ordinal-01" gender-form="feminine">पहली</term>
     <term name="long-ordinal-02">दूसरा</term>
-    <term name="long-ordinal-01" gender-form="feminine">दूसरी</term>
+    <term name="long-ordinal-02" gender-form="feminine">दूसरी</term>
     <term name="long-ordinal-03">तीसरा</term>
     <term name="long-ordinal-03" gender-form="feminine">तीसरी</term>
     <term name="long-ordinal-04">चौथा</term>

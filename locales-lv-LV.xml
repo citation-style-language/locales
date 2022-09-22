@@ -49,14 +49,12 @@
     <term name="video">video</term>
     <term name="working-paper">working paper</term>
     <term name="accessed">skatīts</term>
-    <term name="ad">m.ē.</term>
     <term name="and">un</term>
     <term name="and others">un citi</term>
     <term name="anonymous">anonīms</term>
     <term name="anonymous" form="short">anon.</term>
     <term name="at"></term>
     <term name="available at">pieejams</term>
-    <term name="bc">p.m.ē.</term>
     <term name="by"></term>
     <term name="circa">apmēram</term>
     <term name="circa" form="short">apm.</term>
@@ -155,8 +153,8 @@
     <term name="song" form="short">audio rec.</term>
 
     <!-- HISTORICAL ERA TERMS -->
-    <term name="ad">AD</term>
-    <term name="bc">BC</term>
+    <term name="ad">m.ē.</term>
+    <term name="bc">p.m.ē.</term>
     <term name="bce">BCE</term>
     <term name="ce">CE</term>
 
