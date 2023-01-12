@@ -3,6 +3,7 @@
   <info>
     <translator>
       <name>Amaraun</name>
+      <name>Miren BZ</name>
     </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
     <updated>2012-07-04T23:31:02+00:00</updated>
@@ -84,7 +85,7 @@
     </term>
     <term name="retrieved">berreskuratua</term>
     <term name="scale">scale</term>
-    <term name="version">version</term>
+    <term name="version">bertsioa</term>
 
     <!-- LONG ITEM TYPE FORMS -->
     <term name="article">preprint</term>
@@ -170,7 +171,7 @@
     <term name="ordinal">.</term>
 
     <!-- LONG ORDINALS -->
-    <term name="long-ordinal-01">lehengo</term>
+    <term name="long-ordinal-01">lehenengo</term>
     <term name="long-ordinal-02">bigarren</term>
     <term name="long-ordinal-03">hirugarren</term>
     <term name="long-ordinal-04">laugarren</term>
@@ -291,8 +292,8 @@
       <multiple>bertsoak</multiple>
     </term>
     <term name="volume">
-      <single>luburikia</single>
-      <multiple>luburukiak</multiple>
+      <single>liburukia</single>
+      <multiple>liburukiak</multiple>
     </term>
 
     <!-- SHORT LOCATOR FORMS -->
@@ -581,7 +582,7 @@
     <!-- SHORT MONTH FORMS -->
     <term name="month-01" form="short">urt.</term>
     <term name="month-02" form="short">ots.</term>
-    <term name="month-03" form="short">martx.</term>
+    <term name="month-03" form="short">mar.</term>
     <term name="month-04" form="short">apr.</term>
     <term name="month-05" form="short">mai.</term>
     <term name="month-06" form="short">eka.</term>
