@@ -203,7 +203,7 @@
     </term>
     <term name="scene">			 
       <single>scene</single>
-      <multiple>scener</multiple>						 
+      <multiple>scene</multiple>						 
     </term>
     <term name="table">			 
       <single>tabell</single>
@@ -419,7 +419,7 @@
     <!-- SHORT ROLE FORMS -->
     <term name="executive-producer" form="short">
       <single>utøv. prod.</single>
-      <multiple>utøv. prodr.</multiple>
+      <multiple>utøv. prod.</multiple>
     </term>
     <term name="producer" form="short">
       <single>prod.</single>
