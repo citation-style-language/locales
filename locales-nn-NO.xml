@@ -27,8 +27,8 @@
     <term name="loc-cit">loc. cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
     <term name="no-place">ingen stad</term>
     <term name="no-place" form="short">i.s.</term>
-    <term name="no-publisher">ingen utgjevar</term> <!-- sine nomine -->
-    <term name="no-publisher" form="short">i.u.</term>
+    <term name="no-publisher">manglar utgjevar</term> <!-- sine nomine -->
+    <term name="no-publisher" form="short">s.n.</term>
     <term name="on">om</term>
     <term name="op-cit">op. cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
     <term name="original-work-published">opphavleg verk utgitt</term>
@@ -425,8 +425,8 @@
       <multiple>manusforfattarar</multiple>
     </term>
     <term name="series-creator">
-      <single>serieforfattar</single>
-      <multiple>serieforfattarar</multiple>
+      <single>serieskapar</single>
+      <multiple>serieskaparar</multiple>
     </term>
     <term name="director">
       <single>regissør</single>
