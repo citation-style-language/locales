@@ -5,7 +5,7 @@
       <name>javimat</name>
     </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2022-10-12T15:53:27-04:00</updated>
+    <updated>2023-02-28T17:35:16-05:00</updated>
   </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
@@ -31,7 +31,7 @@
     <term name="no-publisher" form="short">n.p.</term>
     <term name="on">on</term>
     <term name="op-cit">op. cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
-    <term name="original-work-published">original work published</term>
+    <term name="original-work-published">obra original publicada en</term>
     <term name="personal-communication">comunicación personal</term>
     <term name="podcast">podcast</term>
     <term name="podcast-episode">podcast episode</term>
