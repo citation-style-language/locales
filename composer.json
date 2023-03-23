@@ -2,7 +2,7 @@
     "name": "citation-style-language/locales",
     "description": "Citation Style Language (CSL) Locales",
     "type": "library",
-    "license": "Creative Commons Attribution-ShareAlike 3.0 License",
+    "license": "CC-BY-SA-3.0",
     "homepage": "http://citationstyles.org/",
     "authors": [
         {
