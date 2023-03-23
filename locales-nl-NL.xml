@@ -6,7 +6,7 @@
       <uri>http://twitter.com/rintzezelle</uri>
     </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2023-03-22T10:16:05-04:00</updated>
+    <updated>2023-03-22T22:23:08-04:00</updated>
   </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
@@ -162,7 +162,7 @@
     <term name="close-quote">’</term>
     <term name="open-inner-quote">“</term>
     <term name="close-inner-quote">”</term>
-    <term name="page-range-delimiter">–</term>
+    <term name="page-range-delimiter">-</term>
     <term name="colon">:</term>
     <term name="comma">,</term>
     <term name="semicolon">;</term>
