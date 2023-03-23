@@ -52,7 +52,7 @@
     <term name="television-series-episode">episódio de série de tv</term>
     <term name="video">vídeo</term>
     <term name="working-paper">working paper</term>
-    <term name="accessed">acessado</term>
+    <term name="accessed">acesso em</term>
     <term name="and">e</term>
     <term name="and others">e outros</term>
     <term name="anonymous">anônimo</term>
@@ -75,7 +75,6 @@
     <term name="in">em</term>
     <term name="in press">no prelo</term>
     <term name="internet">internet</term>
-    <term name="interview">entrevista</term>
     <term name="letter">carta</term>
     <term name="no date">sem data</term>
     <term name="no date" form="short">[s.d.]</term>
@@ -144,8 +143,8 @@
     <term name="article-journal" form="short">journal art.</term>
     <term name="article-magazine" form="short">mag. art.</term>
     <term name="article-newspaper" form="short">newspaper art.</term>
-    <term name="book" form="short">bk.</term>
-    <term name="chapter" form="short">cap. liv.</term>
+    <!-- book is in the list of locator terms -->
+    <!-- chapter is in the list of locator terms -->
     <term name="document" form="short">doc.</term>
     <!-- figure is in the list of locator terms -->
     <term name="graphic" form="short">graph.</term>
@@ -315,39 +314,39 @@
     </term>
 
     <!-- SHORT LOCATOR FORMS -->
-    <term name="appendix">			 
+    <term name="appendix" form="short">			 
       <single>app.</single>
       <multiple>apps.</multiple>						 
     </term>
-    <term name="article-locator">			 
+    <term name="article-locator" form="short">			 
       <single>art.</single>
       <multiple>arts.</multiple>
     </term>
-    <term name="elocation">			 
+    <term name="elocation" form="short">			 
       <single>loc.</single>
       <multiple>locs.</multiple>
     </term>
-    <term name="equation">			 
+    <term name="equation" form="short">			 
       <single>eq.</single>
       <multiple>eqs.</multiple>
     </term>
-    <term name="rule">			 
+    <term name="rule" form="short">			 
       <single>r.</single>
       <multiple>rr.</multiple>						 
     </term>
-    <term name="scene">			 
+    <term name="scene" form="short">			 
       <single>sc.</single>
       <multiple>scs.</multiple>						 
     </term>
-    <term name="table">			 
+    <term name="table" form="short">			 
       <single>tbl.</single>
       <multiple>tbls.</multiple>						 
     </term>
-    <term name="timestamp"> <!-- generally blank -->
+    <term name="timestamp" form="short"> <!-- generally blank -->
       <single></single>
       <multiple></multiple>						 
     </term>
-    <term name="title-locator">			 
+    <term name="title-locator" form="short">			 
       <single>tit.</single>
       <multiple>tits.</multiple>
     </term>
