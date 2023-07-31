@@ -8,7 +8,7 @@
       <name>javimat</name>
     </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2022-10-12T15:53:27-04:00</updated>
+    <updated>2023-07-31T10:30:14-04:00</updated>
   </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
@@ -541,7 +541,7 @@
     <term name="editor" form="verb">editat per</term>
     <term name="editorial-director" form="verb">editat per</term>
     <term name="illustrator" form="verb">il·lustrat per</term>
-    <term name="interviewer" form="verb">entrevistat per</term>
+    <term name="interviewer" form="verb">entrevista feta per</term>
     <term name="recipient" form="verb">a</term>
     <term name="reviewed-author" form="verb">per</term>
     <term name="translator" form="verb">traduït per</term>
