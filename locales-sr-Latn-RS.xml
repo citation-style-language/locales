@@ -589,8 +589,8 @@
     <!-- SHORT MONTH FORMS -->
     <term name="month-01" form="short">Jan.</term>
     <term name="month-02" form="short">Feb.</term>
-    <term name="month-03" form="short">Март</term>
-    <term name="month-04" form="short">Апр.</term>
+    <term name="month-03" form="short">Mart</term>
+    <term name="month-04" form="short">Apr.</term>
     <term name="month-05" form="short">Maj</term>
     <term name="month-06" form="short">Juni</term>
     <term name="month-07" form="short">Juli</term>
