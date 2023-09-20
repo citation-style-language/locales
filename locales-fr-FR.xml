@@ -153,6 +153,10 @@
     <term name="review-book" form="short">recens. de liv.</term>
     <term name="song" form="short">enr. audio</term>
 
+    <!-- VERB ITEM TYPE FORMS -->
+    <!-- Only where applicable -->
+    <term name="hearing" form="verb">testimony of</term>
+
     <!-- HISTORICAL ERA TERMS -->
     <term name="ad">apr. J.-C.</term>
     <term name="bc">av. J.-C.</term>

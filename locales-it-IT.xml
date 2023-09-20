@@ -153,6 +153,10 @@
     <term name="review-book" form="short">rec. di l.</term>
     <term name="song" form="short">reg. audio</term>
 
+    <!-- VERB ITEM TYPE FORMS -->
+    <!-- Only where applicable -->
+    <term name="hearing" form="verb">testimony of</term>
+
     <!-- HISTORICAL ERA TERMS -->
     <term name="ad">d.C.</term>
     <term name="bc">a.C.</term>

@@ -141,6 +141,10 @@
     <!-- figure is in the list of locator terms -->
     <term name="manuscript" form="short">ms.</term>
 
+    <!-- VERB ITEM TYPE FORMS -->
+    <!-- Only where applicable -->
+    <term name="hearing" form="verb">testimony of</term>
+
     <!-- HISTORICAL ERA TERMS -->
     <term name="ad">e.Kr.</term>
     <term name="bc">f.Kr.</term>

@@ -147,6 +147,10 @@
     <term name="review-book" form="short">bk. rev.</term>
     <term name="song" form="short">audio rec.</term>
 
+    <!-- VERB ITEM TYPE FORMS -->
+    <!-- Only where applicable -->
+    <term name="hearing" form="verb">testimony of</term>
+
     <!-- HISTORICAL ERA TERMS -->
     <term name="ad">OC</term>
     <term name="bc">CC</term>
