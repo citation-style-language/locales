@@ -156,6 +156,8 @@
     <!-- VERB ITEM TYPE FORMS -->
     <!-- Only where applicable -->
     <term name="hearing" form="verb">testimony of</term>
+    <term name="review" form="verb">recension de</term>
+    <term name="review-book" form="verb">recension du livre</term>
 
     <!-- HISTORICAL ERA TERMS -->
     <term name="ad">apr. J.-C.</term>
