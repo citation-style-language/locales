@@ -5,7 +5,7 @@
       <name>tvrbanec</name>
     </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2022-10-12T15:53:27-04:00</updated>
+    <updated>2023-09-21T10:32:52-04:00</updated>
   </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
@@ -48,7 +48,7 @@
     <term name="working-paper">working paper</term>
     <term name="accessed">pristupljeno</term>
     <term name="and">i</term>
-    <term name="and others">i ostali</term>
+    <term name="and others">i dr.</term>
     <term name="anonymous">anonimno</term>
     <term name="anonymous" form="short">anon.</term>
     <term name="at">na</term>
@@ -62,7 +62,7 @@
       <multiple>izdanja</multiple>
     </term>
     <term name="edition" form="short">izd.</term>
-    <term name="et-al">i ostali</term>
+    <term name="et-al">i sur.</term>
     <term name="forthcoming">u pripremi</term>
     <term name="from">od</term>
     <term name="ibid">ibid.</term>
