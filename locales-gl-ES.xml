@@ -154,7 +154,7 @@
       <single>sección</single>
       <multiple>seccións</multiple>
     </term>
-    <term name="sub verbo">
+    <term name="sub-verbo">
       <single>sub verbo</single>
       <multiple>sub verbis</multiple>
     </term>
@@ -188,7 +188,7 @@
     <term name="paragraph" form="short">par.</term>
     <term name="part" form="short">pt.</term>
     <term name="section" form="short">sec.</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>s.v.</single>
       <multiple>s.vv.</multiple>
     </term>
