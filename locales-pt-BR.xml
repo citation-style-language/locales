@@ -556,12 +556,12 @@
     <!-- VERB ROLE FORMS -->
     <term name="chair" form="verb">presidido por</term>
     <term name="compiler" form="verb">compiled by</term>
-    <term name="contributor" form="verb">with</term>
-    <term name="curator" form="verb">curated by</term>
+    <term name="contributor" form="verb">com</term>
+    <term name="curator" form="verb">curadoria de</term>
     <term name="executive-producer" form="verb">executive produced by</term>
     <term name="guest" form="verb">with guest</term>
-    <term name="host" form="verb">hosted by</term>
-    <term name="narrator" form="verb">narrated by</term>
+    <term name="host" form="verb">apresentado por</term>
+    <term name="narrator" form="verb">narração de</term>
     <term name="organizer" form="verb">organizado por</term>
     <term name="performer" form="verb">interpretado por</term>
     <term name="producer" form="verb">produzido por</term>
@@ -584,13 +584,13 @@
     <term name="curator" form="verb-short">cur. by</term>
     <term name="executive-producer" form="verb-short">exec. prod. by</term>
     <term name="guest" form="verb-short">w. guest</term>
-    <term name="host" form="verb-short">hosted by</term>
-    <term name="narrator" form="verb-short">narr. by</term>
-    <term name="organizer" form="verb-short">org. by</term>
+    <term name="host" form="verb-short">apres. por</term>
+    <term name="narrator" form="verb-short">narr. de</term>
+    <term name="organizer" form="verb-short">org. por</term>
     <term name="performer" form="verb-short">interp. por</term>
-    <term name="producer" form="verb-short">prod. by</term>
-    <term name="script-writer" form="verb-short">writ. by</term>
-    <term name="series-creator" form="verb-short">cre. by</term>
+    <term name="producer" form="verb-short">prod. por</term>
+    <term name="script-writer" form="verb-short">escr. por</term>
+    <term name="series-creator" form="verb-short">criado por</term>
     <term name="director" form="verb-short">dir.</term>
     <term name="editor" form="verb-short">org.</term>
     <term name="editorial-director" form="verb-short">ed.</term>
