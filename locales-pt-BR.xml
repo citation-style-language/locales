@@ -14,7 +14,7 @@
       <name>André Luiz Appel</name>
     </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2016-05-16T00:00:00+03:00</updated>
+    <updated>2023-11-25T00:00:00+03:00</updated>
   </info>
   <style-options punctuation-in-quote="false" limit-day-ordinals-to-day-1="true"/>
   <date form="text">
@@ -28,19 +28,19 @@
     <date-part name="year"/>
   </date>
   <terms>
-    <term name="accessed">acesso</term>
-    <term name="advance-online-publication">advance online publication</term>
+    <term name="accessed">acessado</term>
+    <term name="advance-online-publication">publicação prévia em linha</term>
     <term name="album">álbum</term>
     <term name="audio-recording">gravação de áudio</term>
     <term name="film">filme</term>
-    <term name="henceforth">henceforth</term>
-    <term name="loc-cit">loc. cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
-    <term name="no-place">sine loco</term> <!-- latin form is required by ABNT; for the implementation of the extra/note field "place" with the types article article-journal article-magazine article-newspaper manuscript -->
-    <term name="no-place" form="short">s. l.</term>
-    <term name="no-publisher">sine nomine</term> <!-- latin form is required by ABNT -->
+    <term name="henceforth">daqui em diante</term>
+    <term name="loc-cit">no lugar citado</term>
+    <term name="no-place">sem local</term>
+    <term name="no-place" form="short">s. loc.</term>
+    <term name="no-publisher">sem nome</term>
     <term name="no-publisher" form="short">s. n.</term>
-    <term name="on">on</term>
-    <term name="op-cit">op. cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
+    <term name="on">em</term>
+    <term name="op-cit">obra citada</term>
     <term name="original-work-published">trabalho original publicado</term>
     <term name="personal-communication">comunicação pessoal</term>
     <term name="podcast">podcast</term>
@@ -53,9 +53,9 @@
     <term name="special-section">sessão especial</term>
     <term name="television-broadcast">transmissão de tv</term>
     <term name="television-series">série de tv</term>
-    <term name="television-series-episode">episódio de série de tv</term>
+    <term name="television-series-episode">episódio de série de televisão</term>
     <term name="video">vídeo</term>
-    <term name="working-paper">working paper</term>
+    <term name="working-paper">documento de trabalho</term>
     <term name="and">e</term>
     <term name="and others">e outros</term>
     <term name="anonymous">anônimo</term>
@@ -80,11 +80,11 @@
     <term name="internet">internet</term>
     <term name="interview">entrevista</term>
     <term name="letter">carta</term>
-    <term name="no date">sine datum</term> <!-- latin form is required by ABNT -->
+    <term name="no date">sem data</term>
     <term name="no date" form="short">s. d.</term>
-    <term name="online">online</term>
+    <term name="online">em linha</term>
     <term name="presented at">apresentado em</term>
-    <term name="reference">
+    <term name="referência">
       <single>referência</single>
       <multiple>referências</multiple>
     </term>
@@ -104,7 +104,7 @@
     <term name="bill">lei</term>
     <term name="book">livro</term>
     <term name="broadcast">transmissão</term>
-    <term name="chapter">capítulo de livro</term>
+    <term name="chapter">capítulo</term>
     <term name="classic">clássico</term>
     <term name="collection">coleção</term>
     <term name="dataset">conjunto de dados</term>
@@ -113,11 +113,11 @@
     <term name="entry-dictionary">verbete de dicionário</term>
     <term name="entry-encyclopedia">verbete de enciclopédia</term>
     <term name="event">evento</term>
-    <!-- figure is in the list of locator terms -->
+    <term name="figure">figura</term>
     <term name="graphic">iconográfico</term>
     <term name="hearing">audiência</term>
     <term name="interview">entrevista</term>
-    <term name="legal_case">legal case</term>
+    <term name="legal_case">caso legal</term>
     <term name="legislation">legislação</term>
     <term name="manuscript">manuscrito</term>
     <term name="map">mapa</term>
@@ -129,11 +129,11 @@
     <term name="performance">performance</term>
     <term name="periodical">periodical</term>
     <term name="personal_communication">comunicação pessoal</term>
-    <term name="post">postagem</term>
-    <term name="post-weblog">postagem de blog</term>
-    <term name="regulation">regulation</term>
+    <term name="post">publicação</term>
+    <term name="post-weblog">publicação de blog</term>
+    <term name="regulation">regulamento</term>
     <term name="report">relatório</term>
-    <term name="review">revisão</term>
+    <term name="review">resenha</term>
     <term name="review-book">resenha de livro</term>
     <term name="software">programa de computador</term>
     <term name="song">gravação de áudio</term>
@@ -161,7 +161,7 @@
     <term name="song" form="short">gravação áudio</term>
 
     <!-- HISTORICAL ERA TERMS -->
-    <term name="ad">DC</term>
+    <term name="ad">depois de Cristo</term>
     <term name="bc">AC</term>
     <term name="bce">BCE</term>
     <term name="ce">CE</term>
@@ -218,7 +218,7 @@
     </term>
     <term name="canon">			 
       <single>canon</single>
-      <multiple>canons</multiple>						 
+      <multiple>cânones</multiple>						 
     </term>
     <term name="elocation">			 
       <single>localizador</single>
@@ -339,7 +339,7 @@
       <multiple>normas</multiple>						 
     </term>
     <term name="scene" form="short">			 
-      <single>sc.</single>
+      <single>cena</single>
       <multiple>scs.</multiple>						 
     </term>
     <term name="table" form="short">			 
@@ -359,7 +359,7 @@
     <term name="column" form="short">col.</term>
     <term name="figure" form="short">iconog.</term>
     <term name="folio" form="short">f.</term>
-    <term name="issue" form="short">n.</term> <!-- according to ANBT NBR 6023:2020 reduction rule -->
+    <term name="issue" form="short">n.</term>
     <term name="line" form="short">l.</term>
     <term name="note" form="short">n.</term>
     <term name="opus" form="short">op.</term>
@@ -380,11 +380,11 @@
     </term>
     <term name="verse" form="short">
       <single>v.</single>
-      <multiple>vv.</multiple>
+      <multiple>p.</multiple>
     </term>
     <term name="volume" form="short">
-      <single>v.</single> <!-- no variation for ABNT -->
-      <multiple>v.</multiple> <!-- no variation for ABNT -->
+      <single>vol.</single>
+      <multiple>vols.</multiple>
     </term>
 
     <!-- SYMBOL LOCATOR FORMS -->
@@ -568,12 +568,12 @@
     <term name="script-writer" form="verb">escrito por</term>
     <term name="series-creator" form="verb">criado por</term>
     <term name="container-author" form="verb">por</term>
-    <term name="director" form="verb">presidido por</term>
+    
     <term name="editor" form="verb">organizado por</term>
     <term name="editorial-director" form="verb">editado por</term>
     <term name="illustrator" form="verb">ilustrado por</term>
     <term name="interviewer" form="verb">entrevista cedida a</term>
-    <term name="recipient" form="verb">para</term>
+    <term name="recipient" form="verb">destinado a</term>
     <term name="reviewed-author" form="verb">por</term>
     <term name="translator" form="verb">traduzido por</term>
     <term name="editortranslator" form="verb">editado e traduzido por</term>
