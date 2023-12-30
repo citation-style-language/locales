@@ -38,14 +38,14 @@
     <term name="preprint">pré-impressão</term>
     <term name="radio-broadcast">transmissão de rádio</term>
     <term name="radio-series">série de rádio</term>
-    <term name="radio-series-episode">radio series episode</term>
-    <term name="special-issue">special issue</term>
-    <term name="special-section">special section</term>
+    <term name="radio-series-episode">episódio de série de rádio</term>
+    <term name="special-issue">edição especial</term>
+    <term name="special-section">secção especial</term>
     <term name="television-broadcast">transmissão televisiva</term>
-    <term name="television-series">television series</term>
-    <term name="television-series-episode">television series episode</term>
+    <term name="television-series">série televisiva</term>
+    <term name="television-series-episode">episódio de série televisiva</term>
     <term name="video">vídeo</term>
-    <term name="working-paper">working paper</term>
+    <term name="working-paper">trabalho em progresso</term>
     <term name="accessed">acedido</term>
     <term name="and">e</term>
     <term name="and others">e outros</term>
@@ -91,7 +91,7 @@
     <term name="article-journal">article journal</term>
     <term name="article-magazine">artigo de revista</term>
     <term name="article-newspaper">artigo de jornal</term>
-    <term name="bill">bill</term>
+    <term name="bill">fatura</term>
     <!-- book is in the list of locator terms -->
     <term name="broadcast">transmissão</term>
     <!-- chapter is in the list of locator terms -->
@@ -99,7 +99,7 @@
     <term name="collection">coleção</term>
     <term name="dataset">dataset</term>
     <term name="document">documento</term>
-    <term name="entry">entry</term>
+    <term name="entry">entrada</term>
     <term name="entry-dictionary">entrada de dicionário</term>
     <term name="entry-encyclopedia">entrada de enciclopédia</term>
     <term name="event">evento</term>
