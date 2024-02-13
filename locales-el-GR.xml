@@ -7,8 +7,11 @@
     <translator>
       <name>dimtamb</name>
     </translator>
+    <translator>
+      <name>Patrick O'Brien</name>
+    </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2024-02-12T22:33:09-05:00</updated>
+    <updated>2024-02-12T23:14:42-05:00</updated>
   </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
@@ -185,7 +188,7 @@
     <term name="page-range-delimiter">–</term>
     <term name="colon">:</term>
     <term name="comma">,</term>
-    <term name="semicolon">;</term>
+    <term name="semicolon">·</term>
 
     <!-- ORDINALS -->
     <term name="ordinal">ο</term>
@@ -394,8 +397,8 @@
     <term name="note" form="short">σημ.</term>
     <term name="opus" form="short">έργ.</term>
     <term name="page" form="short">
-      <single>σ.</single>
-      <multiple>σσ.</multiple>
+      <single>σελ.</single>
+      <multiple>σελ.</multiple>
     </term>
     <term name="number-of-volumes" form="short">
       <single>vol.</single>
