@@ -5,7 +5,7 @@
       <name>Guttorm Flatabø</name>
     </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2024-02-12T22:33:09-05:00</updated>
+    <updated>2024-02-13T07:50:58-05:00</updated>
   </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
@@ -158,6 +158,12 @@
     <term name="document" form="short">dok.</term>
     <!-- figure is in the list of locator terms -->
     <term name="manuscript" form="short">ms.</term>
+
+    <!-- VERB ITEM TYPE FORMS -->
+    <!-- Only where applicable -->
+    <term name="hearing" form="verb">testimony of</term>
+    <term name="review" form="verb">review of</term>
+    <term name="review-book" form="verb">review of the book</term>
 
     <!-- HISTORICAL ERA TERMS -->
     <term name="ad">e.Kr.</term>
