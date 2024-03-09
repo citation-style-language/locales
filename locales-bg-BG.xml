@@ -353,10 +353,7 @@
       <single>cit.</single>
       <multiple>cits.</multiple>
     </term>
-    <term name="collection-number" form="short">
-      <single>coll.</single>
-      <multiple>colls.</multiple>
-    </term>
+    <term name="issue" form="short">бр.</term>
     <term name="number-of-pages">брой страници</term>
     <term name="paragraph">
       <single>абзац</single>
@@ -477,8 +474,8 @@
       <multiple>citations</multiple>
     </term>
     <term name="collection-number">
-      <single>collection</single>
-      <multiple>collections</multiple>
+      <single>брой</single>
+      <multiple>броеве</multiple>
     </term>
     <term name="section" form="symbol">
       <single>§</single>
