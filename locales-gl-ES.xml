@@ -2,7 +2,7 @@
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="gl-ES">
   <info>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2024-02-12T22:33:09-05:00</updated>
+    <updated>2024-03-09T15:20:54-05:00</updated>
     <translator>
       <name>Manuel Magán</name>
     </translator>
@@ -287,10 +287,7 @@
       <single>cit.</single>
       <multiple>cits.</multiple>
     </term>
-    <term name="collection-number" form="short">
-      <single>coll.</single>
-      <multiple>colls.</multiple>
-    </term>
+    <term name="collection-number" form="short">n.</term>
     <term name="number-of-pages">
       <single>páxina</single>
       <multiple>páxinas</multiple>
@@ -462,8 +459,8 @@
       <multiple>citations</multiple>
     </term>
     <term name="collection-number">
-      <single>collection</single>
-      <multiple>collections</multiple>
+      <single>número</single>
+      <multiple>números</multiple>
     </term>
     <term name="section" form="symbol">
       <single>§</single>

@@ -8,7 +8,7 @@
       <name>Collectif Zotero francophone</name>
     </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2024-02-13T07:50:58-05:00</updated>
+    <updated>2024-03-09T15:20:54-05:00</updated>
   </info>
   <style-options punctuation-in-quote="false" limit-day-ordinals-to-day-1="true"/>
   <date form="text">
@@ -317,8 +317,8 @@
       <multiple>cits.</multiple>
     </term>
     <term name="collection-number" form="short">
-      <single>coll.</single>
-      <multiple>colls.</multiple>
+      <single>nᵒ</single>
+      <multiple>nᵒˢ</multiple>
     </term>
     <term name="number-of-pages">
       <single>page</single>
@@ -460,9 +460,9 @@
       <single>citation</single>
       <multiple>citations</multiple>
     </term>
-    <term name="collection-number">
-      <single>collection</single>
-      <multiple>collections</multiple>
+    <term name="collection-number" gender="masculine">
+      <single>numéro</single>
+      <multiple>numéros</multiple>
     </term>
     <term name="section" form="symbol">
       <single>§</single>
