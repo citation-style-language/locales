@@ -17,7 +17,7 @@
       <name>Brenton M. Wiernik</name>
     </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2024-03-09T15:20:54-05:00</updated>
+    <updated>2024-03-12T12:31:23-04:00</updated>
   </info>
   <style-options punctuation-in-quote="true"/>
   <date form="text">
@@ -334,7 +334,7 @@
       <single>bk.</single>
       <multiple>bks.</multiple>
     </term>
-    <term name="canon">			 
+    <term name="canon" form="short">
       <single>c.</single>
       <multiple>cc.</multiple>						 
     </term>
@@ -453,10 +453,6 @@
     <term name="collection-number">
       <single>number</single>
       <multiple>numbers</multiple>
-    </term>
-    <term name="edition">
-      <single>edition</single>
-      <multiple>editions</multiple>
     </term>
     <term name="edition">
       <single>edition</single>
@@ -619,7 +615,7 @@
     <!-- Omitted roles: 
          author, chair, composer, container-author, guest, host, interviewer, original-author, recipient, reviewed-author 
     -->
-    <term name="collection-editor">
+    <term name="collection-editor" form="short">
       <single>ed.</single>
       <multiple>eds.</multiple>
     </term>
