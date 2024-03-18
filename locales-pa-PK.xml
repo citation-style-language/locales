@@ -143,27 +143,46 @@
     <term name="semicolon">؛</term>
 
     <!-- ORDINALS -->
-    <term name="ordinal">واں</term>
-    <term name="ordinal-01">لا</term>
-    <term name="ordinal-02">جا</term>
-    <term name="ordinal-03">جا</term>
-    <term name="ordinal-04">تھا</term>
-    <term name="ordinal-11">واں</term>
-    <term name="ordinal-12">واں</term>
-    <term name="ordinal-13">واں</term>
-    <term name="ordinal-14">واں</term>
+    <term name="ordinal" gender-form="masculine">واں</term>
+    <term name="ordinal" gender-form="feminine">ویں</term>
+    <term name="ordinal-01" gender-form="masculine">لا</term>
+    <term name="ordinal-02" gender-form="masculine">جا</term>
+    <term name="ordinal-03" gender-form="masculine">جا</term>
+    <term name="ordinal-04" gender-form="masculine">تھا</term>
+    <term name="ordinal-11" gender-form="masculine">واں</term>
+    <term name="ordinal-12" gender-form="masculine">واں</term>
+    <term name="ordinal-13" gender-form="masculine">واں</term>
+    <term name="ordinal-14" gender-form="masculine">واں</term>
+    <term name="ordinal-01" gender-form="feminine">لی</term>
+    <term name="ordinal-02" gender-form="feminine">جی</term>
+    <term name="ordinal-03" gender-form="feminine">جی</term>
+    <term name="ordinal-04" gender-form="feminine">تھی</term>
+    <term name="ordinal-11" gender-form="feminine">ویں</term>
+    <term name="ordinal-12" gender-form="feminine">ویں</term>
+    <term name="ordinal-13" gender-form="feminine">ویں</term>
+    <term name="ordinal-14" gender-form="feminine">ویں</term>
 
     <!-- LONG ORDINALS -->
-    <term name="long-ordinal-01">پہلا</term>
-    <term name="long-ordinal-02">دوجا</term>
-    <term name="long-ordinal-03">تیجا</term>
-    <term name="long-ordinal-04">چوتھا</term>
-    <term name="long-ordinal-05">پنجواں</term>
-    <term name="long-ordinal-06">چھیواں</term>
-    <term name="long-ordinal-07">ستواں</term>
-    <term name="long-ordinal-08">اٹھواں</term>
-    <term name="long-ordinal-09">نوواں</term>
-    <term name="long-ordinal-10">دسواں</term>
+    <term name="long-ordinal-01" gender-form="masculine">پہلا</term>
+    <term name="long-ordinal-02" gender-form="masculine">دوجا</term>
+    <term name="long-ordinal-03" gender-form="masculine">تیجا</term>
+    <term name="long-ordinal-04" gender-form="masculine">چوتھا</term>
+    <term name="long-ordinal-05" gender-form="masculine">پنجواں</term>
+    <term name="long-ordinal-06" gender-form="masculine">چھیواں</term>
+    <term name="long-ordinal-07" gender-form="masculine">ستواں</term>
+    <term name="long-ordinal-08" gender-form="masculine">اٹھواں</term>
+    <term name="long-ordinal-09" gender-form="masculine">نوواں</term>
+    <term name="long-ordinal-10" gender-form="masculine">دسواں</term>
+    <term name="long-ordinal-01" gender-form="feminine">پہلی</term>
+    <term name="long-ordinal-02" gender-form="feminine">دوجی</term>
+    <term name="long-ordinal-03" gender-form="feminine">تیجی</term>
+    <term name="long-ordinal-04" gender-form="feminine">چوتھی</term>
+    <term name="long-ordinal-05" gender-form="feminine">پنجویں</term>
+    <term name="long-ordinal-06" gender-form="feminine">چھیویں</term>
+    <term name="long-ordinal-07" gender-form="feminine">ستویں</term>
+    <term name="long-ordinal-08" gender-form="feminine">اٹھویں</term>
+    <term name="long-ordinal-09" gender-form="feminine">نوویں</term>
+    <term name="long-ordinal-10" gender-form="feminine">دسویں</term>
 
     <!-- LONG LOCATOR FORMS -->
     <term name="act">			 
@@ -210,7 +229,7 @@
       <single>فولیو</single>
       <multiple>فولیو</multiple>
     </term>
-    <term name="issue">
+    <term name="issue" gender="masculine">
       <single>شمارہ</single>
       <multiple>شمارے</multiple>
     </term>
@@ -226,7 +245,7 @@
       <single>کارنامہ</single>
       <multiple>کارنامے</multiple>
     </term>
-    <term name="page">
+    <term name="page" gender="masculine">
       <single>صفحہ</single>
       <multiple>صفحے</multiple>
     </term>
@@ -234,7 +253,7 @@
       <single>پیرا</single>
       <multiple>پیرے</multiple>
     </term>
-    <term name="part">
+    <term name="part" gender="masculine">
       <single>حصہ</single>
       <multiple>حصے</multiple>
     </term>
@@ -246,7 +265,7 @@
       <single>سین</single>
       <multiple>سین</multiple>						 
     </term>
-    <term name="section">
+    <term name="section" gender="masculine">
       <single>جز</single>
       <multiple>جز</multiple>
     </term>
@@ -274,11 +293,11 @@
       <single>شعر</single>
       <multiple>شعر</multiple>
     </term>
-    <term name="version">
+    <term name="version" gender="masculine">
       <single>ورژن</single>
       <multiple>ورژن</multiple>
     </term>
-    <term name="volume">
+    <term name="volume" gender="masculine">
       <single>جلد</single>
       <multiple>جلد</multiple>
     </term>
@@ -294,43 +313,43 @@
     </term>
 
     <!-- LONG NUMBER VARIABLE FORMS -->
-    <term name="chapter-number">
+    <term name="chapter-number" gender="masculine">
       <single>کانڈ</single>
       <multiple>کانڈ</multiple>
     </term>
-    <term name="citation-number">
+    <term name="citation-number" gender="masculine">
       <single>حوالہ</single>
       <multiple>حوالے</multiple>
     </term>
-    <term name="collection-number">
+    <term name="collection-number" gender="masculine">
       <single>نمبر</single>
       <multiple>نمبر</multiple>
     </term>
-    <term name="edition">
+    <term name="edition" gender="feminine">
       <single>چھپائی</single>
       <multiple>چھپائیاں</multiple>
     </term>
-    <term name="first-reference-note-number">
+    <term name="first-reference-note-number" gender="masculine">
       <single>حوالہ</single>
       <multiple>حوالے</multiple>
     </term>
-    <term name="number">
+    <term name="number" gender="masculine">
       <single>نمبر</single>
       <multiple>نمبر</multiple>
     </term>
-    <term name="number-of-pages">
+    <term name="number-of-pages" gender="masculine">
       <single>صفحہ</single>
       <multiple>صفحے</multiple>
     </term>
-    <term name="number-of-volumes">
+    <term name="number-of-volumes" gender="masculine">
       <single>جلد</single>
       <multiple>جلد</multiple>
     </term>
-    <term name="page-first">
+    <term name="page-first" gender="masculine">
       <single>صفحہ</single>
       <multiple>صفحے</multiple>
     </term>
-    <term name="printing">
+    <term name="printing" gender="feminine">
       <single>چھاپ</single>
       <multiple>چھاپاں</multiple>
     </term>
@@ -450,18 +469,18 @@
     <term name="translator" form="verb">مترجم نال</term>
     
 <!-- LONG MONTH FORMS -->
-    <term name="month-01">جنوری</term>
-    <term name="month-02">فروری</term>
-    <term name="month-03">مارچ</term>
-    <term name="month-04">اپریل</term>
-    <term name="month-05">مئی</term>
-    <term name="month-06">جون</term>
-    <term name="month-07">جولئی</term>
-    <term name="month-08">اگست</term>
-    <term name="month-09">ستمبر</term>
-    <term name="month-10">اکتوبر</term>
-    <term name="month-11">نومبر</term>
-    <term name="month-12">دسمبر</term>
+    <term name="month-01" gender="masculine">جنوری</term>
+    <term name="month-02" gender="masculine">فروری</term>
+    <term name="month-03" gender="masculine">مارچ</term>
+    <term name="month-04" gender="masculine">اپریل</term>
+    <term name="month-05" gender="masculine">مئی</term>
+    <term name="month-06" gender="masculine">جون</term>
+    <term name="month-07" gender="masculine">جولئی</term>
+    <term name="month-08" gender="masculine">اگست</term>
+    <term name="month-09" gender="masculine">ستمبر</term>
+    <term name="month-10" gender="masculine">اکتوبر</term>
+    <term name="month-11" gender="masculine">نومبر</term>
+    <term name="month-12" gender="masculine">دسمبر</term>
 
     <!-- SHORT MONTH FORMS -->
     <term name="month-01" form="short">جنو</term>
