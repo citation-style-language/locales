@@ -2,7 +2,7 @@
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="pt-PT">
   <info>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2024-03-09T15:20:54-05:00</updated>
+    <updated>2024-03-17T21:13:27-04:00</updated>
     <translator>
       <name>Jonadabe PT</name>
     </translator>
@@ -88,7 +88,7 @@
     <term name="letter">carta</term>
     <term name="no date">sem data</term>
     <term name="no date" form="short">sem data</term>
-    <term name="online">em linha</term>
+    <term name="online">online</term>
     <term name="presented at">apresentado na</term>
     <term name="reference">
       <single>referência</single>
