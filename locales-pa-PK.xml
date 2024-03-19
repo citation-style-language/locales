@@ -26,7 +26,7 @@
     <term name="and">تے</term>
     <term name="and others">تے ہور</term>
     <term name="anonymous">گم نام</term>
-    <term name="at">تے</term>
+    <term name="at">پر</term>
     <term name="audio-recording">آدیو ریکارڈ</term>
     <term name="available at">دستیابی دی پتا</term>
     <term name="by">وسیلیوں</term>
@@ -46,7 +46,7 @@
     <term name="no date">بے تاریخ</term>
     <term name="no-place">بے تھاں</term>
     <term name="no-publisher">بے چھاپا خانہ</term> <!-- sine nomine -->
-    <term name="on">تے</term>
+    <term name="on">پر</term>
     <term name="online">آن لائن</term>
     <term name="op-cit">ایضاً</term> <!-- like ibid., the abbreviated form is the regular form  -->
     <term name="original-work-published">اصل کم چھاپیا</term>
@@ -67,7 +67,7 @@
     <term name="scale">سکیل</term>
     <term name="special-issue">خاص شمارہ</term>
     <term name="special-section">خاص جز</term>
-    <term name="television-broadcast">ٹیلی ویژن براڈ کاسث</term>
+    <term name="television-broadcast">ٹیلی ویژن براڈ کاسٹ</term>
     <term name="television-series">ٹیلی ویژن سلسلہ</term>
     <term name="television-series-episode">ٹیلی ویژن ایپیسوڈ</term>
     <term name="video">ویڈیو</term>
@@ -91,7 +91,7 @@
     <term name="entry-encyclopedia">انسائیکلو پیڈیا وچ اندراج</term>
     <term name="event">واقعہ</term>
     <!-- figure is in the list of locator terms -->
-    <term name="graphic">نمایشی</term>
+    <term name="graphic">نگاری</term>
     <term name="hearing">سماعت</term>
     <term name="interview">انٹرویو</term>
     <term name="legal_case">مقدمہ</term>
