@@ -2,6 +2,7 @@
     "primary-dialects": {
         "af": "af-ZA",
         "ar": "ar",
+        "bal": "bal-PK",
         "bg": "bg-BG",
         "ca": "ca-AD",
         "cs": "cs-CZ",
@@ -56,6 +57,10 @@
         "ar": [
             "العربية",
             "Arabic"
+        ],
+        "bal": [
+            "بلوچی (پاکستان)",
+            "Balochi (Pakistan)"
         ],
         "bg-BG": [
             "Български",
