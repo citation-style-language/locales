@@ -215,49 +215,49 @@
     <term name="long-ordinal-10">kymmenes</term>
 
     <!-- LONG LOCATOR FORMS -->
-    <term name="act">			 
+    <term name="act">
       <single>act</single>
-      <multiple>acts</multiple>						 
+      <multiple>acts</multiple>
     </term>
-    <term name="appendix">			 
+    <term name="appendix">
       <single>appendix</single>
-      <multiple>appendices</multiple>						 
+      <multiple>appendices</multiple>
     </term>
-    <term name="article-locator">			 
+    <term name="article-locator">
       <single>article</single>
-      <multiple>articles</multiple>						 
+      <multiple>articles</multiple>
     </term>
-    <term name="canon">			 
+    <term name="canon">
       <single>canon</single>
-      <multiple>canons</multiple>						 
+      <multiple>canons</multiple>
     </term>
-    <term name="elocation">			 
+    <term name="elocation">
       <single>location</single>
-      <multiple>locations</multiple>						 
+      <multiple>locations</multiple>
     </term>
-    <term name="equation">			 
+    <term name="equation">
       <single>equation</single>
-      <multiple>equations</multiple>						 
+      <multiple>equations</multiple>
     </term>
-    <term name="rule">			 
+    <term name="rule">
       <single>rule</single>
-      <multiple>rules</multiple>						 
+      <multiple>rules</multiple>
     </term>
-    <term name="scene">			 
+    <term name="scene">
       <single>scene</single>
-      <multiple>scenes</multiple>						 
+      <multiple>scenes</multiple>
     </term>
-    <term name="table">			 
+    <term name="table">
       <single>table</single>
-      <multiple>tables</multiple>						 
+      <multiple>tables</multiple>
     </term>
     <term name="timestamp"> <!-- generally blank -->
       <single></single>
-      <multiple></multiple>						 
+      <multiple></multiple>
     </term>
-    <term name="title-locator">			 
+    <term name="title-locator">
       <single>title</single>
-      <multiple>titles</multiple>						 
+      <multiple>titles</multiple>
     </term>
     <term name="book">
       <single>kirja</single>
@@ -355,39 +355,39 @@
     </term>
 
     <!-- SHORT LOCATOR FORMS -->
-    <term name="appendix" form="short">			 
+    <term name="appendix" form="short">
       <single>app.</single>
-      <multiple>apps.</multiple>						 
+      <multiple>apps.</multiple>
     </term>
-    <term name="article-locator" form="short">			 
+    <term name="article-locator" form="short">
       <single>art.</single>
       <multiple>arts.</multiple>
     </term>
-    <term name="elocation" form="short">			 
+    <term name="elocation" form="short">
       <single>loc.</single>
       <multiple>locs.</multiple>
     </term>
-    <term name="equation" form="short">			 
+    <term name="equation" form="short">
       <single>eq.</single>
       <multiple>eqs.</multiple>
     </term>
-    <term name="rule" form="short">			 
+    <term name="rule" form="short">
       <single>r.</single>
-      <multiple>rr.</multiple>						 
+      <multiple>rr.</multiple>
     </term>
-    <term name="scene" form="short">			 
+    <term name="scene" form="short">
       <single>sc.</single>
-      <multiple>scs.</multiple>						 
+      <multiple>scs.</multiple>
     </term>
-    <term name="table" form="short">			 
+    <term name="table" form="short">
       <single>tbl.</single>
-      <multiple>tbls.</multiple>						 
+      <multiple>tbls.</multiple>
     </term>
     <term name="timestamp" form="short"> <!-- generally blank -->
       <single></single>
-      <multiple></multiple>						 
+      <multiple></multiple>
     </term>
-    <term name="title-locator" form="short">			 
+    <term name="title-locator" form="short">
       <single>tit.</single>
       <multiple>tits.</multiple>
     </term>
@@ -416,7 +416,7 @@
       <single>print.</single>
       <multiple>prints.</multiple>
     </term>
-    
+
 
     <term name="number-of-pages" form="short">
       <single>s.</single>
