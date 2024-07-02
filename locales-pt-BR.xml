@@ -7,8 +7,11 @@
     <translator>
       <name>Meira da Rocha</name>
     </translator>
-        <translator>
+    <translator>
       <name>Renato Cirino</name>
+    </translator>
+    <translator>
+      <name>Isabelly Pereira</name>
     </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
     <updated>2024-03-12T14:06:50+00:00</updated>
@@ -31,10 +34,10 @@
     <term name="film">filme</term>
     <term name="henceforth">henceforth</term>
     <term name="loc-cit">loc. cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
-    <term name="no-place">no place</term>
-    <term name="no-place" form="short">n.p.</term>
-    <term name="no-publisher">no publisher</term> <!-- sine nomine -->
-    <term name="no-publisher" form="short">n.p.</term>
+    <term name="no-place">sine loco</term> <!-- sine loco -->
+    <term name="no-place" form="short">s. l.</term>
+    <term name="no-publisher">sine nomine</term> <!-- sine nomine -->
+    <term name="no-publisher" form="short">s. n.</term>
     <term name="on">on</term>
     <term name="op-cit">op. cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
     <term name="original-work-published">trabalho original publicado</term>
@@ -80,10 +83,10 @@
       <multiple>refs.</multiple>
     </term>
     <term name="number" form="short">
-      <single>no.</single>
-      <multiple>nos.</multiple>
+      <single>n.</single>
+      <multiple>n.</multiple>
     </term>
-    <term name="edition" form="short">ed</term>
+    <term name="edition" form="short">ed.</term>
     <term name="et-al">et al.</term>
     <term name="forthcoming">a ser publicado</term>
     <term name="from">de</term>
@@ -92,8 +95,8 @@
     <term name="in press">no prelo</term>
     <term name="internet">internet</term>
     <term name="letter">carta</term>
-    <term name="no date">sem data</term>
-    <term name="no date" form="short">[s.d.]</term>
+    <term name="no date">sem data</term> <!-- sine datum -->
+    <term name="no date" form="short">s. d.</term>
     <term name="online">online</term>
     <term name="presented at">apresentado em</term>
     <term name="reference">
@@ -131,14 +134,14 @@
     <term name="graphic">gráfico</term>
     <term name="hearing">audiência</term>
     <term name="interview">entrevista</term>
-    <term name="legal_case">legal case</term>
+    <term name="legal_case">jurisprudência</term>
     <term name="legislation">legislação</term>
     <term name="manuscript">manuscrito</term>
     <term name="map">mapa</term>
     <term name="motion_picture">gravação de vídeo</term>
     <term name="musical_score">musical score</term>
     <term name="pamphlet">panleto</term>
-    <term name="paper-conference">artigo de conferência</term>
+    <term name="paper-conference">trabalho em evento</term>
     <term name="patent">patente</term>
     <term name="performance">performance</term>
     <term name="periodical">periodical</term>
@@ -146,7 +149,7 @@
     <term name="post">postagem</term>
     <term name="post-weblog">postagem de blog</term>
     <term name="regulation">regulation</term>
-    <term name="report">report</term>
+    <term name="report">relatório/term>
     <term name="review">revisão</term>
     <term name="review-book">revisão de livro</term>
     <term name="software">software</term>
@@ -169,7 +172,7 @@
     <term name="interview" form="short">interv.</term>
     <term name="manuscript" form="short">MS</term>
     <term name="motion_picture" form="short">video rec.</term>
-    <term name="report" form="short">rep.</term>
+    <term name="report" form="short">rel.</term>
     <term name="review" form="short">rev.</term>
     <term name="review-book" form="short">rev. liv.</term>
     <term name="song" form="short">audio rec.</term>
@@ -405,7 +408,7 @@
     <term name="column" form="short">col.</term>
     <term name="figure" form="short">fig.</term>
     <term name="folio" form="short">f.</term>
-    <term name="issue" form="short">nº</term>
+    <term name="issue" form="short">n.</term>
     <term name="line" form="short">l.</term>
     <term name="note" form="short">n.</term>
     <term name="opus" form="short">op.</term>
@@ -414,12 +417,12 @@
       <multiple>p.</multiple>
     </term>
     <term name="number-of-volumes" form="short">
-      <single>vol.</single>
-      <multiple>vols.</multiple>
+      <single>v.</single>
+      <multiple>v.</multiple>
     </term>
     <term name="page-first" form="short">
       <single>p.</single>
-      <multiple>pp.</multiple>
+      <multiple>p.</multiple>
     </term>
     <term name="printing" form="short">
       <single>print.</single>
@@ -435,8 +438,8 @@
     <term name="part" form="short">pt.</term>
     <term name="section" form="short">seç.</term>
     <term name="supplement" form="short">
-      <single>supp.</single>
-      <multiple>supps.</multiple>
+      <single>supl.</single>
+      <multiple>supl.</multiple>
     </term>
     <term name="sub-verbo" form="short">
       <single>s.v.</single>
@@ -447,8 +450,8 @@
       <multiple>vv.</multiple>
     </term>
     <term name="volume" form="short">
-      <single>vol.</single>
-      <multiple>vols.</multiple>
+      <single>v.</single>
+      <multiple>v.</multiple>
     </term>
 
     <!-- SYMBOL LOCATOR FORMS -->
