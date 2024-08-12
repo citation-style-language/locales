@@ -17,7 +17,7 @@
       <name>Brenton M. Wiernik</name>
     </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2024-03-12T12:31:23-04:00</updated>
+    <updated>2024-08-12T16:22:23-04:00</updated>
   </info>
   <style-options punctuation-in-quote="true"/>
   <date form="text">
@@ -685,7 +685,6 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
-    <term name="author" form="verb">by</term>
     <term name="chair" form="verb">chaired by</term>
     <term name="collection-editor" form="verb">edited by</term>
     <term name="compiler" form="verb">compiled by</term>
