@@ -25,10 +25,10 @@
     <date-part name="year"/>
   </date>
   <terms>
-    <term name="advance-online-publication" gender="masculine">avançament de publicació en línia</term>
-    <term name="album" gender="masculine">àlbum</term>
-    <term name="audio-recording" gender="masculine">enregistrament d'àudio</term>
-    <term name="film" gender="feminine">pel·lícula</term>
+    <term name="advance-online-publication">avançament de publicació en línia</term>
+    <term name="album">àlbum</term>
+    <term name="audio-recording">enregistrament d'àudio</term>
+    <term name="film">pel·lícula</term>
     <term name="henceforth">en endevant</term>
     <term name="loc-cit">loc. cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
     <term name="no-place">sense lloc</term>
@@ -38,19 +38,19 @@
     <term name="on">a</term>
     <term name="op-cit">op. cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
     <term name="original-work-published">obra original publicada el</term>
-    <term name="personal-communication" gender="feminine">comunicació personal</term>
-    <term name="podcast" gender="masculine">pòdcast</term>
-    <term name="podcast-episode" gender="masculine">capítol de pòdcast</term>
+    <term name="personal-communication">comunicació personal</term>
+    <term name="podcast">pòdcast</term>
+    <term name="podcast-episode">capítol de pòdcast</term>
     <term name="preprint">preprint</term>
-    <term name="radio-broadcast" gender="feminine">emissió de ràdio</term>
-    <term name="radio-series" gender="feminine">sèrie de ràdio</term>
-    <term name="radio-series-episode" gender="masculine">capítol de sèrie de ràdio</term>
-    <term name="special-issue" gender="masculine">número especial</term>
-    <term name="special-section" gender="feminine">secció especial</term>
-    <term name="television-broadcast" gender="feminine">emissió de televisió</term>
-    <term name="television-series" gender="feminine">sèrie de televisió</term>
-    <term name="television-series-episode" gender="masculine">capítol de sèrie de televisió</term>
-    <term name="video" gender="masculine">vídeo</term>
+    <term name="radio-broadcast">emissió de ràdio</term>
+    <term name="radio-series">sèrie de ràdio</term>
+    <term name="radio-series-episode">capítol de sèrie de ràdio</term>
+    <term name="special-issue">número especial</term>
+    <term name="special-section">secció especial</term>
+    <term name="television-broadcast">emissió de televisió</term>
+    <term name="television-series">sèrie de televisió</term>
+    <term name="television-series-episode">capítol de sèrie de televisió</term>
+    <term name="video">vídeo</term>
     <term name="working-paper">working paper</term>
     <term name="accessed">consulta</term>
     <term name="and">i</term>
@@ -95,9 +95,8 @@
     <term name="no date">sense data</term>
     <term name="no date" form="short">s.d.</term>
     <term name="online">en línia</term>
-    <term name="presented at" gender-form="masculine">presentat a</term>
-    <term name="presented at" gender-form="feminine">presentada a</term>
-    <term name="reference" gender="feminine">
+    <term name="presented at">presentat a</term>
+    <term name="reference">
       <single>referència</single>
       <multiple>referències</multiple>
     </term>
@@ -113,50 +112,50 @@
 
     <!-- LONG ITEM TYPE FORMS -->
     <term name="article">preprint</term>
-    <term name="article-journal" gender="masculine">article de revista acadèmica</term>
-    <term name="article-magazine" gender="masculine">article de revista</term>
-    <term name="article-newspaper" gender="masculine">article de diari</term>
+    <term name="article-journal">article de revista acadèmica</term>
+    <term name="article-magazine">article de revista</term>
+    <term name="article-newspaper">article de diari</term>
     <term name="bill">projecte de llei</term> <!-- Caldria comprovar si és la millor traducció -->
     <!-- book is in the list of locator terms -->
-    <term name="broadcast" gender="feminine">emissió</term>
+    <term name="broadcast">emissió</term>
     <!-- chapter is in the list of locator terms -->
     <term name="classic">clàssic</term>
-    <term name="collection" gender="feminine">col·lecció</term>
+    <term name="collection">col·lecció</term>
     <term name="dataset">dataset</term>
-    <term name="document" gender="masculine">document</term>
-    <term name="entry" gender="feminine">entrada</term>
-    <term name="entry-dictionary" gender="feminine">entrada de diccionari</term>
-    <term name="entry-encyclopedia" gender="feminine">entrada d'enciclopèdia</term>
-    <term name="event" gender="masculine">esdeveniment</term>
+    <term name="document">document</term>
+    <term name="entry">entrada</term>
+    <term name="entry-dictionary">entrada de diccionari</term>
+    <term name="entry-encyclopedia">entrada d'enciclopèdia</term>
+    <term name="event" >esdeveniment</term>
     <!-- figure is in the list of locator terms -->
-    <term name="graphic" gender="masculine">gràfic</term>
-    <term name="hearing" gender="feminine">vista</term>
-    <term name="interview" gender="feminine">entrevista</term>
-    <term name="legal_case" gender="feminine">causa judicial</term>
-    <term name="legislation" gender="feminine">legislació</term>
-    <term name="manuscript" gender="masculine">manuscrit</term>
-    <term name="map" gender="masculine">mapa</term>
-    <term name="motion_picture" gender="masculine">enregistrament de vídeo</term>
-    <term name="musical_score" gender="feminine">partitura musical</term>
-    <term name="pamphlet" gender="masculine">fullet</term>
-    <term name="paper-conference" gender="feminine">comunicació</term>
-    <term name="patent" gender="feminine">patent</term>
-    <term name="performance" gender="feminine">actuació</term>
-    <term name="periodical" gender="masculine">periòdic</term>
-    <term name="personal_communication" gender="feminine">comunicació personal</term>
-    <term name="post" gender="masculine">post</term>
-    <term name="post-weblog" gender="feminine">entrada de blog</term>
-    <term name="regulation" gender="feminine">regulació</term>
-    <term name="report" gender="masculine">informe</term>
-    <term name="review" gender="feminine">revisió</term>
-    <term name="review-book" gender="feminine">ressenya de llibre</term>
+    <term name="graphic">gràfic</term>
+    <term name="hearing">vista</term>
+    <term name="interview">entrevista</term>
+    <term name="legal_case">causa judicial</term>
+    <term name="legislation" >legislació</term>
+    <term name="manuscript">manuscrit</term>
+    <term name="map">mapa</term>
+    <term name="motion_picture">enregistrament de vídeo</term>
+    <term name="musical_score">partitura musical</term>
+    <term name="pamphlet">fullet</term>
+    <term name="paper-conference">comunicació</term>
+    <term name="patent">patent</term>
+    <term name="performance">actuació</term>
+    <term name="periodical">periòdic</term>
+    <term name="personal_communication">comunicació personal</term>
+    <term name="post">post</term>
+    <term name="post-weblog">entrada de blog</term>
+    <term name="regulation">regulació</term>
+    <term name="report">informe</term>
+    <term name="review">revisió</term>
+    <term name="review-book">ressenya de llibre</term>
     <term name="software">programari</term>
     <term name="song">enregistrament d'àudio</term>
     <term name="speech">presentació</term>
     <term name="standard">estàndard</term>
-    <term name="thesis" gender="feminine">tesi</term>
-    <term name="treaty" gender="masculine">tractat</term>
-    <term name="webpage" gender="masculine">lloc web</term>
+    <term name="thesis">tesi</term>
+    <term name="treaty">tractat</term>
+    <term name="webpage">lloc web</term>
 
     <!-- SHORT ITEM TYPE FORMS -->
     <term name="article-journal" form="short">art. acad.</term>
@@ -229,27 +228,27 @@
     <term name="long-ordinal-10" gender-form="masculine">desè</term>
 
     <!-- LONG LOCATOR FORMS -->
-    <term name="act" gender="masculine">			 
+    <term name="act">			 
       <single>acte</single>
       <multiple>actes</multiple>						 
     </term>
-    <term name="appendix" gender="masculine">			 
+    <term name="appendix">			 
       <single>apèndix</single>
       <multiple>apèndixs</multiple>						 
     </term>
-    <term name="article-locator" gender="masculine">			 
+    <term name="article-locator">			 
       <single>article</single>
       <multiple>articles</multiple>						 
     </term>
-    <term name="canon" gender="masculine">			 
+    <term name="canon">			 
       <single>cànon</single>
       <multiple>cànons</multiple>						 
     </term>
-    <term name="elocation" gender="femenine">			 
+    <term name="elocation">			 
       <single>localització</single>
       <multiple>localitzacions</multiple>						 
     </term>
-    <term name="equation" gender="femenine">			 
+    <term name="equation">			 
       <single>equació</single>
       <multiple>equacions</multiple>						 
     </term>
@@ -257,11 +256,11 @@
       <single>norma</single>
       <multiple>normes</multiple>						 
     </term>
-    <term name="scene" gender="femenine">			 
+    <term name="scene">			 
       <single>escena</single>
       <multiple>escenes</multiple>						 
     </term>
-    <term name="table" gender="femenine">			 
+    <term name="table">			 
       <single>taula</single>
       <multiple>taules</multiple>						 
     </term>
@@ -273,35 +272,35 @@
       <single>títol</single>
       <multiple>títols</multiple>						 
     </term>
-    <term name="book" gender="masculine">
+    <term name="book">
       <single>llibre</single>
       <multiple>llibres</multiple>
     </term>
-    <term name="chapter" gender="masculine">
+    <term name="chapter">
       <single>capítol</single>
       <multiple>capítols</multiple>
     </term>
-    <term name="column" gender="femenine">
+    <term name="column">
       <single>columna</single>
       <multiple>columnes</multiple>
     </term>
-    <term name="figure" gender="femenine">
+    <term name="figure">
       <single>figura</single>
       <multiple>figures</multiple>
     </term>
-    <term name="folio" gender="masculine">
+    <term name="folio">
       <single>foli</single>
       <multiple>folis</multiple>
     </term>
-    <term name="issue" gender="masculine">
+    <term name="issue">
       <single>número</single>
       <multiple>números</multiple>
     </term>
-    <term name="line" gender="femenine">
+    <term name="line">
       <single>línia</single>
       <multiple>línies</multiple>
     </term>
-    <term name="note" gender="femenine">
+    <term name="note">
       <single>nota</single>
       <multiple>notes</multiple>
     </term>
@@ -309,7 +308,7 @@
       <single>opus</single>
       <multiple>opera</multiple>
     </term>
-    <term name="page" gender="femenine">
+    <term name="page">
       <single>pàgina</single>
       <multiple>pàgines</multiple>
     </term>
@@ -339,19 +338,19 @@
       <single>pàgina</single>
       <multiple>pàgines</multiple>
     </term>
-    <term name="paragraph" gender="masculine">
+    <term name="paragraph">
       <single>paràgraf</single>
       <multiple>paràgrafs</multiple>
     </term>
-    <term name="part" gender="femenine">
+    <term name="part">
       <single>part</single>
       <multiple>parts</multiple>
     </term>
-    <term name="section" gender="femenine">
+    <term name="section">
       <single>secció</single>
       <multiple>seccions</multiple>
     </term>
-    <term name="supplement" gender="masculine">
+    <term name="supplement">
       <single>suplement</single>
       <multiple>suplements</multiple>
     </term>
@@ -359,7 +358,7 @@
       <single>sub voce</single>
       <multiple>sub vocibus</multiple>
     </term>
-    <term name="verse" gender="masculine">
+    <term name="verse">
       <single>vers</single>
       <multiple>versos</multiple>
     </term>
