@@ -297,8 +297,8 @@
       <multiple>Zeilen</multiple>
     </term>
     <term name="note">
-      <single>Note</single>
-      <multiple>Noten</multiple>
+      <single>Anmerkung</single>
+      <multiple>Anmerkungen</multiple>
     </term>
     <term name="opus">
       <single>Opus</single>
@@ -408,7 +408,7 @@
     <term name="folio" form="short">Fol.</term>
     <term name="issue" form="short">Nr.</term>
     <term name="line" form="short">Z.</term>
-    <term name="note" form="short">N.</term>
+    <term name="note" form="short">Anm.</term>
     <term name="opus" form="short">op.</term>
     <term name="page" form="short">
       <single>S.</single>
