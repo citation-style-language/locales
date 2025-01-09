@@ -22,8 +22,11 @@
     <translator>
       <name>Patrick O'Brien</name>
     </translator>
+    <translator>
+      <name>Nicolas Chachereau</name>
+    </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2024-10-16T09:21:24-04:00</updated>
+    <updated>2025-01-09T09:34:55-05:00</updated>
   </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
@@ -297,8 +300,8 @@
       <multiple>Zeilen</multiple>
     </term>
     <term name="note">
-      <single>Note</single>
-      <multiple>Noten</multiple>
+      <single>Anmerkung</single>
+      <multiple>Anmerkungen</multiple>
     </term>
     <term name="opus">
       <single>Opus</single>
@@ -408,7 +411,7 @@
     <term name="folio" form="short">Fol.</term>
     <term name="issue" form="short">Nr.</term>
     <term name="line" form="short">Z.</term>
-    <term name="note" form="short">N.</term>
+    <term name="note" form="short">Anm.</term>
     <term name="opus" form="short">op.</term>
     <term name="page" form="short">
       <single>S.</single>
