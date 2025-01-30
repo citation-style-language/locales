@@ -35,8 +35,8 @@
     <term name="film">filme</term>
     <term name="henceforth">daqui em diante</term>
     <term name="loc-cit">no lugar citado</term>
-    <term name="no-place">sem local</term>
-    <term name="no-place" form="short">s. loc.</term>
+    <term name="no-place">sine loco</term>
+    <term name="no-place" form="short">s. l.</term>
     <term name="no-publisher">sem nome</term>
     <term name="no-publisher" form="short">s. n.</term>
     <term name="on">em</term>
