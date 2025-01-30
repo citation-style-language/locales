@@ -13,14 +13,12 @@
     <translator>
       <name>André Luiz Appel</name>
         </translator>
-        </contributor>
-          <contributor>
-            <name>Renato Cirino</name>
-          </contributor>
-        </contributor>
-          <contributor>
-            <name>Isabelly Silva</name>
-          </contributor>
+        <translator>
+          <name>Renato Cirino</name>
+        </translator>
+        <translator>
+          <name>Isabelly Silva</name>
+        </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
     <updated>2025-01-30T15:45:00+04:00</updated>
   </info>
