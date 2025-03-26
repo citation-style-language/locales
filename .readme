@@ -1,0 +1,34 @@
+# LUNA-TheTracker  
+
+## Description  
+A brief description of your project and its purpose. Explain what the project does, its main features, and any unique value it provides.  
+
+## Prerequisites  
+- List any required software or dependencies  
+- Specify minimum version requirements (e.g., Node.js, Python)  
+
+## Installation Steps  
+1. Clone the repository:  
+```bash  
+git clone https://github.com/neharawat1220/LUNA-TheTracker.git  
+
+Navigate into the project directory:
+cd LUNA-TheTracker  
+
+follow the instructions to install dependencies
+# For Node.js projects  
+npm install  
+
+# For Python projects  
+pip install -r requirements.txt  
+
+run the project with:
+  
+npm start  
+# or  
+python main.py 
+
+Contributing
+Fork the repository
+Clone your forked repository
+Create a new branch for your changes
