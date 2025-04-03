@@ -170,9 +170,9 @@
 
     <!-- VERB ITEM TYPE FORMS -->
     <!-- Only where applicable -->
-    <term name="hearing" form="verb">testimony of</term>
+    <term name="hearing" form="verb">testemunho de</term>
     <term name="review" form="verb">review of</term>
-    <term name="review-book" form="verb">review of the book</term>
+    <term name="review-book" form="verb">crítica do livro</term>
 
     <!-- HISTORICAL ERA TERMS -->
     <term name="ad">AD</term>
