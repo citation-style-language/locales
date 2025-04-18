@@ -633,7 +633,7 @@
     <term name="recipient" form="verb">til</term>
     <term name="reviewed-author" form="verb">af</term>
     <term name="collection-editor" form="verb-short">ristj.</term>
-    <term name="translator" form="verb">þýðandi</term>
+    <term name="translator" form="verb">þýddi</term>
     <term name="editortranslator" form="verb">ritstýrt og þýtt af</term>
 
     <!-- SHORT VERB ROLE FORMS -->
