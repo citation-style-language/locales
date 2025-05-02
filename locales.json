@@ -28,6 +28,7 @@
         "km": "km-KH",
         "ko": "ko-KR",
         "la": "la",
+        "lij": "lij-IT",
         "lt": "lt-LT",
         "lv": "lv-LV",
         "mn": "mn-MN",
@@ -185,6 +186,10 @@
         "la": [
             "Latina",
             "Latin"
+        ],
+        "lij-IT": [
+            "Ligure",
+            "Ligurian"
         ],
         "lt-LT": [
             "Lietuvių kalba",
