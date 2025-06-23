@@ -383,7 +383,7 @@
       <multiple>paras</multiple>
     </term>
     <term name="part" form="short">
-      <single>pt.</single>
+      <single>pt</single>
       <multiple>pts</multiple>
     </term>
     <term name="rule" form="short">
@@ -612,7 +612,7 @@
 
     <!-- SHORT ROLE FORMS -->
     <!-- Omitted roles:
-         author, chair, composer, container-author, curator, guest, host, interviewer, original-author, recipient, reviewed-author
+         author, chair, composer, container-author, guest, host, interviewer, original-author, recipient, reviewed-author
     -->
     <term name="collection-editor" form="short">
       <single>ed.</single>
@@ -627,8 +627,8 @@
       <multiple>contribs</multiple>
     </term>
     <term name="curator" form="short">
-      <single>cur.</single>
-      <multiple>curs</multiple>
+      <single>curat.</single>
+      <multiple>curators</multiple>
     </term>
     <term name="director" form="short">
       <single>dir.</single>
@@ -656,7 +656,7 @@
     </term>
     <term name="illustrator" form="short">
       <single>illus.</single>
-      <multiple>illus.</multiple>
+      <multiple>illus</multiple>
     </term>
     <term name="narrator" form="short">
       <single>narr.</single>
