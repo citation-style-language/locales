@@ -68,6 +68,7 @@
     <term name="op-cit">op. cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
     <term name="original-work-published">original work published</term>
     <term name="personal-communication">personal communication</term>
+    <term name="personal-communication" form="short">pers. comm.</term>
     <term name="podcast">podcast</term>
     <term name="podcast-episode">podcast episode</term>
     <term name="preprint">preprint</term>
@@ -154,7 +155,6 @@
     <term name="interview" form="short">interv.</term>
     <term name="manuscript" form="short">MS</term>
     <term name="motion_picture" form="short">video rec.</term>
-    <term name="personal-communication" form="short">pers. comm.</term>
     <term name="report" form="short">rep.</term>
     <term name="review" form="short">rev.</term>
     <term name="review-book" form="short">bk. rev.</term>
