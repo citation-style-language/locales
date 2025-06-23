@@ -481,8 +481,8 @@
 
     <!-- SHORT NUMBER VARIABLE FORMS -->
     <term name="chapter-number" form="short">
-      <single>chap.</single>
-      <multiple>chaps</multiple>
+      <single>ch.</single>
+      <multiple>chs</multiple>
     </term>
     <term name="citation-number" form="short">
       <single>cit.</single>
