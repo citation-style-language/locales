@@ -517,8 +517,8 @@
       <multiple>pp.</multiple>
     </term>
     <term name="printing" form="short">
-      <single>print.</single>
-      <multiple>prints</multiple>
+      <single>ptg</single>
+      <multiple>ptgs</multiple>
     </term>
 
     <!-- LONG ROLE FORMS -->
