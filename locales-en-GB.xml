@@ -327,7 +327,7 @@
       <multiple>arts</multiple>
     </term>
     <term name="book" form="short">
-      <single>bk.</single>
+      <single>bk</single>
       <multiple>bks</multiple>
     </term>
     <term name="canon" form="short">
@@ -395,8 +395,8 @@
       <multiple>scs</multiple>
     </term>
     <term name="section" form="short">
-      <single>sec.</single>
-      <multiple>secs</multiple>
+      <single>sect.</single>
+      <multiple>sects</multiple>
     </term>
     <term name="sub-verbo" form="short">
       <single>s.v.</single>
