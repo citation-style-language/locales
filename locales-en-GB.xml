@@ -345,8 +345,8 @@
       <multiple>locs</multiple>
     </term>
     <term name="equation" form="short">
-      <single>eq.</single>
-      <multiple>eqs</multiple>
+      <single>eqn</single>
+      <multiple>eqns</multiple>
     </term>
     <term name="figure" form="short">
       <single>fig.</single>
