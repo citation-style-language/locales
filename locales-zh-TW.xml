@@ -272,10 +272,7 @@
       <single>cit.</single>
       <multiple>cits.</multiple>
     </term>
-    <term name="collection-number" form="short">
-      <single>coll.</single>
-      <multiple>colls.</multiple>
-    </term>
+    <term name="collection-number" form="short">期</term>
     <term name="number-of-pages">總頁數</term>      
     <term name="paragraph">段落</term>
     <term name="part">部分</term>     
@@ -373,10 +370,7 @@
       <single>citation</single>
       <multiple>citations</multiple>
     </term>
-    <term name="collection-number">
-      <single>collection</single>
-      <multiple>collections</multiple>
-    </term>
+    <term name="collection-number">期</term>
     <term name="section" form="symbol">
       <single>§</single>
       <multiple>§§</multiple>
@@ -439,7 +433,6 @@
       <single>series creator</single>
       <multiple>series creators</multiple>
     </term>
-    <term name="author">作者</term>     
     <term name="director">導演</term>     
     <term name="editor">編輯</term> 
     <term name="editorial-director">主編</term>     
@@ -491,7 +484,6 @@
       <single>cre.</single>
       <multiple>cres.</multiple>
     </term>
-    <term name="author" form="short">作者</term>     
     <term name="director" form="short">導演</term>     
     <term name="editor" form="short">編輯</term> 
     <term name="editorial-director" form="short">主編</term>     
@@ -517,7 +509,6 @@
     <term name="producer" form="verb">produced by</term>
     <term name="script-writer" form="verb">written by</term>
     <term name="series-creator" form="verb">created by</term>
-    <term name="author" form="verb">著</term>
     <term name="container-author" form="verb">著</term>
     <term name="director" form="verb">指導</term>
     <term name="editor" form="verb">編輯</term>
