@@ -158,13 +158,22 @@
     <!-- book is in the list of locator terms -->
     <!-- chapter is in the list of locator terms -->
     <term name="classic" form="short">class. wk.</term> <!-- ODWE -->
+    <term name="collection" form="short">coll.</term> <!-- ODWE -->
     <term name="document" form="short">doc.</term>
-    <term name="entry-dictionary">dict. entry</term>
-    <term name="entry-encyclopedia">ency. entry</term>
+    <term name="entry-dictionary" form="short">dict. entry</term>
+    <term name="entry-encyclopedia" form="short">ency. entry</term>
     <!-- figure is in the list of locator terms -->
     <term name="interview" form="short">interv.</term> <!-- source unknown -->
-    <term name="manuscript" form="short">MS</term>
+    <term name="manuscript" form="short">
+      <single>MS</single>
+      <multiple>MSS</multiple>
+    </term>
     <term name="motion_picture" form="short">video rec.</term> <!-- ODWE -->
+    <term name="musical_score" form="short">mus. score</term> <!-- ODWE -->
+    <term name="pamphlet" form="short">pam.</term> <!-- ODWE -->
+    <term name="paper-conference" form="short">conf. paper</term> <!-- ODWE -->
+    <term name="patent" form="short">pat.</term> <!-- ODWE -->
+    <term name="personal_communication" form="short">pers. comm.</term>
     <term name="report" form="short">rep.</term> <!-- ODWE -->
     <term name="review" form="short">rev.</term>
     <term name="review-book" form="short">bk. rev.</term>
