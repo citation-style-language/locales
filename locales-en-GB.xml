@@ -106,7 +106,7 @@
     <term name="broadcast">broadcast</term>
     <!-- chapter is in the list of locator terms -->
     <term name="classic">classical work</term>
-    <term name="collection">collection</term>
+    <term name="collection">archival collection</term>
     <term name="dataset">dataset</term>
     <term name="document">document</term>
     <term name="entry">entry</term>
@@ -150,7 +150,7 @@
     <!-- book is in the list of locator terms -->
     <!-- chapter is in the list of locator terms -->
     <term name="classic" form="short">class. wk</term>
-    <term name="collection" form="short">coll.</term>
+    <term name="collection" form="short">archival coll.</term>
     <term name="document" form="short">doc.</term>
     <term name="entry-dictionary" form="short">dict. entry</term>
     <term name="entry-encyclopedia" form="short">ency. entry</term>
