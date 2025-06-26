@@ -399,7 +399,7 @@
       <multiple>pts.</multiple>
     </term>
     <term name="rule" form="short">
-      <!-- from Oxford Guide to Style, legal abbreviations, 13.2.1 -->
+      <!-- legal abbreviations in the Oxford Guide to Style, sec. 13.2.1 -->
       <single>r.</single>
       <multiple>rr.</multiple>
     </term>
@@ -657,11 +657,11 @@
       <multiple>eds.</multiple>
     </term>
     <term name="editor-translator" form="short">
-      <single>ed. &amp; tran.</single>
+      <single>ed. &amp; trans.</single>
       <multiple>eds. &amp; trans.</multiple>
     </term>
     <term name="editortranslator" form="short">
-      <single>ed. &amp; tran.</single>
+      <single>ed. &amp; trans.</single>
       <multiple>eds. &amp; trans.</multiple>
     </term>
     <term name="editorial-director" form="short">
