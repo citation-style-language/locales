@@ -153,6 +153,7 @@
     <term name="webpage">webpage</term>
 
     <!-- SHORT ITEM TYPE FORMS -->
+    <!-- Omitted short forms: article, bill, broadcast, entry, event, graphic, hearing, legal_case, legislation, map, performance, periodical, regulation, software, speech, standard, thesis, treaty, webpage -->
     <term name="article-journal" form="short">jour. art.</term> <!-- ODWE -->
     <term name="article-magazine" form="short">mag. art.</term> <!-- ODWE -->
     <term name="article-newspaper" form="short">newspaper art.</term>
@@ -320,7 +321,7 @@
       <single>table</single>
       <multiple>tables</multiple>
     </term>
-    <term name="timestamp"/> <!-- no label in many styles -->
+    <term name="timestamp">at</term>
     <term name="title-locator">
       <single>title</single>
       <multiple>titles</multiple>
@@ -339,7 +340,7 @@
     </term>
 
     <!-- SHORT LOCATOR FORMS -->
-    <!-- Omitted short forms: act, timestamp -->
+    <!-- Omitted short form: act -->
     <term name="appendix" form="short">
       <single>app.</single>
       <multiple>apps.</multiple>
@@ -430,6 +431,7 @@
       <single>supp.</single>
       <multiple>supps.</multiple>
     </term>
+    <term name="timestamp"/> <!-- no label in most styles -->
     <term name="table" form="short">
       <!-- source unknown -->
       <single>tbl.</single>
@@ -444,10 +446,7 @@
       <single>v.</single>
       <multiple>vv.</multiple>
     </term>
-    <term name="version" form="short">
-      <single>v.</single>
-      <multiple>v.</multiple> <!-- not pluralized -->
-    </term>
+    <term name="version" form="short">v.</term> <!-- no plural -->
     <term name="volume" form="short">
       <single>vol.</single>
       <multiple>vols.</multiple>
@@ -718,10 +717,7 @@
       <single>cre.</single>
       <multiple>cres.</multiple>
     </term>
-    <term name="translator" form="short">
-      <single>trans.</single>
-      <multiple>trans.</multiple>
-    </term>
+    <term name="translator" form="short">trans.</term> <!-- no plural -->
 
     <!-- VERB ROLE FORMS -->
     <term name="chair" form="verb">chaired by</term>
