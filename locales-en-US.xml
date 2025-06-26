@@ -45,12 +45,14 @@
     <term name="available at">available at</term>
     <term name="by">by</term>
     <term name="circa">circa</term>
-    <term name="circa" form="short">ca.</term>
+    <!-- CMOS 10.48 recommends ca. for circa but also allows 'c.', which CSL has always used -->
+    <term name="circa" form="short">c.</term>
     <term name="cited">cited</term>
     <term name="et-al">et al.</term>
     <term name="film">film</term>
     <term name="forthcoming">forthcoming</term>
     <term name="from">from</term>
+    <term name="from" form="short">fr.</term>
     <term name="henceforth">henceforth</term>
     <term name="ibid">ibid.</term>
     <term name="in">in</term>
