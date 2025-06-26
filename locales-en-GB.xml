@@ -155,7 +155,7 @@
     <term name="entry-dictionary" form="short">dict. entry</term>
     <term name="entry-encyclopedia" form="short">ency. entry</term>
     <!-- figure is in the list of locator terms -->
-    <term name="interview" form="short">interv.</term> <!-- source unknown -->
+    <term name="interview" form="short">intvw</term> <!-- Free Dictionary -->
     <term name="manuscript" form="short">
       <single>MS</single>
       <multiple>MSS</multiple>
@@ -660,8 +660,8 @@
       <multiple>eds &amp; trans.</multiple>
     </term>
     <term name="editorial-director" form="short">
-      <single>ed. dir.</single>
-      <multiple>ed. dirs</multiple>
+      <single>ed.</single>
+      <multiple>eds</multiple>
     </term>
     <term name="executive-producer" form="short">
       <single>exec. prod.</single>
@@ -700,7 +700,7 @@
     <term name="editor" form="verb">edited by</term>
     <term name="editor-translator" form="verb">edited &amp; translated by</term>
     <term name="editortranslator" form="verb">edited &amp; translated by</term>
-    <term name="editorial-director" form="verb">editorial direction by</term>
+    <term name="editorial-director" form="verb">edited by</term>
     <term name="executive-producer" form="verb">executive produced by</term>
     <term name="guest" form="verb">with guest</term>
     <term name="host" form="verb">hosted by</term>
@@ -728,7 +728,7 @@
     <term name="editor" form="verb-short">ed. by</term>
     <term name="editor-translator" form="verb-short">ed. &amp; trans. by</term>
     <term name="editortranslator" form="verb-short">ed. &amp; trans. by</term>
-    <term name="editorial-director" form="verb-short">ed. dir. by</term>
+    <term name="editorial-director" form="verb-short">ed. by</term>
     <term name="executive-producer" form="verb-short">exec. prod. by</term>
     <term name="illustrator" form="verb-short">illus. by</term>
     <term name="narrator" form="verb-short">narr. by</term>
