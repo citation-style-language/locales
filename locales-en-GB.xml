@@ -45,6 +45,7 @@
     <term name="film">film</term>
     <term name="forthcoming">forthcoming</term>
     <term name="from">from</term>
+    <term name="from" form="short">fr.</term>
     <term name="henceforth">henceforth</term>
     <term name="ibid">ibid.</term>
     <term name="in">in</term>
@@ -57,12 +58,14 @@
     <term name="no-place">no place</term>
     <term name="no-place" form="short">n.p.</term>
     <term name="no-publisher">no publisher</term> <!-- sine nomine -->
+    <term name="no-publisher" form="short">n.p.</term>
     <term name="on">on</term>
     <term name="online">online</term>
     <term name="op-cit">op. cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
     <term name="original-work-published">original work published</term>
     <term name="original-work-published" form="short">orig. pub.</term>
     <term name="personal-communication">personal communication</term>
+    <term name="personal-communication" form="short">pers. comm.</term>
     <term name="podcast">podcast</term>
     <term name="podcast-episode">podcast episode</term>
     <term name="preprint">preprint</term>
@@ -146,6 +149,7 @@
     <term name="classic">class. wk</term>
     <term name="document" form="short">doc.</term>
     <!-- figure is in the list of locator terms -->
+    <term name="interview" form="short">interv.</term>
     <term name="manuscript" form="short">MS</term>
     <term name="motion_picture" form="short">video rec.</term>
     <term name="report" form="short">rep.</term>
@@ -411,7 +415,7 @@
     </term>
     <term name="title-locator" form="short">
       <single>tit.</single>
-      <multiple>titt.</multiple> <!-- source unknown for plural -->
+      <multiple>titt.</multiple>
     </term>
     <term name="verse" form="short">
       <single>v.</single>
