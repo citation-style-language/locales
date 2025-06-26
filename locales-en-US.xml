@@ -425,7 +425,7 @@
     <term name="title-locator" form="short">
       <!-- from Oxford Dictionary for Writers and Editors -->
       <single>tit.</single>
-      <multiple>tits.</multiple>
+      <multiple>titt.</multiple> <!-- source unknown for plural -->
     </term>
     <term name="verse" form="short">
       <single>v.</single>
