@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="en-US">
+  <!-- This file follows the The Chicago Manual of Style, 18th ed. (2024), especially the list of scholarly abbreviations in sec. 10.48; additional abbreviations are from the Oxford Dictionary for Writers and Editors (ODWE) <https://archive.org/details/oxfordstylemanua0000unse>. -->
   <info>
     <translator>
       <name>Andrew Dunning</name>
@@ -44,7 +45,7 @@
     <term name="available at">available at</term>
     <term name="by">by</term>
     <term name="circa">circa</term>
-    <term name="circa" form="short">c.</term>
+    <term name="circa" form="short">ca.</term>
     <term name="cited">cited</term>
     <term name="et-al">et al.</term>
     <term name="film">film</term>
@@ -146,20 +147,22 @@
 
     <!-- SHORT ITEM TYPE FORMS -->
     <term name="article-journal" form="short">journal art.</term>
-    <term name="article-magazine" form="short">mag. art.</term>
+    <term name="article-magazine" form="short">mag. art.</term> <!-- from ODWE -->
     <term name="article-newspaper" form="short">newspaper art.</term>
     <!-- book is in the list of locator terms -->
     <!-- chapter is in the list of locator terms -->
+    <term name="classic" form="short">class.</term> <!-- from ODWE -->
     <term name="document" form="short">doc.</term>
+    <term name="entry-dictionary">dict. entry</term>
+    <term name="entry-encyclopedia">ency. entry</term>
     <!-- figure is in the list of locator terms -->
-    <term name="graphic" form="short">graph.</term>
-    <term name="interview" form="short">interv.</term>
+    <term name="interview" form="short">interv.</term> <!-- source unknown -->
     <term name="manuscript" form="short">MS</term>
-    <term name="motion_picture" form="short">video rec.</term>
-    <term name="report" form="short">rep.</term>
+    <term name="motion_picture" form="short">video rec.</term> <!-- from ODWE -->
+    <term name="report" form="short">rep.</term> <!-- from ODWE -->
     <term name="review" form="short">rev.</term>
     <term name="review-book" form="short">bk. rev.</term>
-    <term name="song" form="short">audio rec.</term>
+    <term name="song" form="short">audio rec.</term> <!-- from ODWE -->
 
     <!-- VERB ITEM TYPE FORMS -->
     <!-- Only where applicable -->
@@ -337,8 +340,9 @@
       <multiple>bks.</multiple>
     </term>
     <term name="canon" form="short">
-      <single>c.</single>
-      <multiple>cc.</multiple>
+      <!-- from Oxford Dictionary for Writers and Editors -->
+      <single>can.</single>
+      <multiple>cans.</multiple>
     </term>
     <term name="chapter" form="short">
       <single>chap.</single>
@@ -354,7 +358,7 @@
     </term>
     <term name="equation" form="short">
       <single>eq.</single>
-      <multiple>eqs.</multiple>
+      <multiple>eqq.</multiple>
     </term>
     <term name="figure" form="short">
       <single>fig.</single>
@@ -393,6 +397,7 @@
       <multiple>pts.</multiple>
     </term>
     <term name="rule" form="short">
+      <!-- from Oxford Guide to Style, legal abbreviations, 13.2.1 -->
       <single>r.</single>
       <multiple>rr.</multiple>
     </term>
@@ -413,10 +418,12 @@
       <multiple>supps.</multiple>
     </term>
     <term name="table" form="short">
+      <!-- source unknown -->
       <single>tbl.</single>
       <multiple>tbls.</multiple>
     </term>
     <term name="title-locator" form="short">
+      <!-- from Oxford Dictionary for Writers and Editors -->
       <single>tit.</single>
       <multiple>tits.</multiple>
     </term>
@@ -426,7 +433,7 @@
     </term>
     <term name="version" form="short">
       <single>v.</single>
-      <multiple>v.</multiple>
+      <multiple>v.</multiple> <!-- not pluralized -->
     </term>
     <term name="volume" form="short">
       <single>vol.</single>
@@ -523,8 +530,9 @@
       <multiple>pp.</multiple>
     </term>
     <term name="printing" form="short">
-      <single>print.</single>
-      <multiple>prints.</multiple>
+      <!-- from Oxford Dictionary for Writers and Editors -->
+      <single>ptg.</single>
+      <multiple>ptgs.</multiple>
     </term>
 
     <!-- LONG ROLE FORMS -->
@@ -618,7 +626,7 @@
 
     <!-- SHORT ROLE FORMS -->
     <!-- Omitted roles:
-         author, chair, composer, container-author, guest, host, interviewer, original-author, recipient, reviewed-author
+         author, chair, composer, container-author, contributor, guest, host, interviewer, original-author, recipient, reviewed-author
     -->
     <term name="collection-editor" form="short">
       <single>ed.</single>
@@ -629,10 +637,12 @@
       <multiple>comps.</multiple>
     </term>
     <term name="contributor" form="short">
+      <!-- source unknown -->
       <single>contrib.</single>
       <multiple>contribs.</multiple>
     </term>
     <term name="curator" form="short">
+      <!-- source unknown -->
       <single>cur.</single>
       <multiple>curs.</multiple>
     </term>
@@ -657,6 +667,7 @@
       <multiple>ed. dirs.</multiple>
     </term>
     <term name="executive-producer" form="short">
+      <!-- source unknown -->
       <single>exec. prod.</single>
       <multiple>exec. prods.</multiple>
     </term>
@@ -665,31 +676,37 @@
       <multiple>ills.</multiple>
     </term>
     <term name="narrator" form="short">
+      <!-- source unknown -->
       <single>narr.</single>
       <multiple>narrs.</multiple>
     </term>
     <term name="organizer" form="short">
+      <!-- source unknown -->
       <single>org.</single>
       <multiple>orgs.</multiple>
     </term>
     <term name="performer" form="short">
+      <!-- source unknown -->
       <single>perf.</single>
       <multiple>perfs.</multiple>
     </term>
     <term name="producer" form="short">
+      <!-- source unknown -->
       <single>prod.</single>
       <multiple>prods.</multiple>
     </term>
     <term name="script-writer" form="short">
+      <!-- source unknown -->
       <single>writ.</single>
       <multiple>writs.</multiple>
     </term>
     <term name="series-creator" form="short">
+      <!-- source unknown -->
       <single>cre.</single>
       <multiple>cres.</multiple>
     </term>
     <term name="translator" form="short">
-      <single>tran.</single>
+      <single>trans.</single>
       <multiple>trans.</multiple>
     </term>
 
@@ -724,27 +741,25 @@
 
     <!-- SHORT VERB ROLE FORMS -->
     <!-- Omitted roles:
-         author, chair, container-author, host, interviewer, original-author, recipient, reviewed-author
+         author, chair, container-author, contributor, guest, host, interviewer, original-author, recipient, reviewed-author
     -->
     <term name="collection-editor" form="verb-short">ed. by</term>
     <term name="compiler" form="verb-short">comp. by</term>
-    <term name="composer" form="verb-short">comp. by</term>
-    <term name="contributor" form="verb-short">w.</term>
-    <term name="curator" form="verb-short">cur. by</term>
+    <term name="composer" form="verb-short">comp. by</term> <!-- from ODWE --
+    <term name="curator" form="verb-short">cur. by</term> <!-- source unknown -->
     <term name="director" form="verb-short">dir. by</term>
     <term name="editor" form="verb-short">ed. by</term>
     <term name="editor-translator" form="verb-short">ed. &amp; trans. by</term>
     <term name="editortranslator" form="verb-short">ed. &amp; trans. by</term>
     <term name="editorial-director" form="verb-short">ed. dir. by</term>
-    <term name="executive-producer" form="verb-short">exec. prod. by</term>
-    <term name="guest" form="verb-short">w. guest</term>
-    <term name="illustrator" form="verb-short">illus. by</term>
-    <term name="narrator" form="verb-short">narr. by</term>
-    <term name="organizer" form="verb-short">org. by</term>
-    <term name="performer" form="verb-short">perf. by</term>
-    <term name="producer" form="verb-short">prod. by</term>
-    <term name="script-writer" form="verb-short">writ. by</term>
-    <term name="series-creator" form="verb-short">cre. by</term>
+    <term name="executive-producer" form="verb-short">exec. prod. by</term> <!-- source unknown -->
+    <term name="illustrator" form="verb-short">ill. by</term>
+    <term name="narrator" form="verb-short">narr. by</term> <!-- source unknown -->
+    <term name="organizer" form="verb-short">org. by</term> <!-- source unknown -->
+    <term name="performer" form="verb-short">perf. by</term> <!-- source unknown -->
+    <term name="producer" form="verb-short">prod. by</term> <!-- source unknown -->
+    <term name="script-writer" form="verb-short">writ. by</term> <!-- source unknown -->
+    <term name="series-creator" form="verb-short">cre. by</term> <!-- source unknown -->
     <term name="translator" form="verb-short">trans. by</term>
 
     <!-- LONG MONTH FORMS -->
@@ -762,15 +777,16 @@
     <term name="month-12">December</term>
 
     <!-- SHORT MONTH FORMS -->
+    <!-- Chicago Manual of Style, sec. 10.44 -->
     <term name="month-01" form="short">Jan.</term>
     <term name="month-02" form="short">Feb.</term>
     <term name="month-03" form="short">Mar.</term>
     <term name="month-04" form="short">Apr.</term>
     <term name="month-05" form="short">May</term>
-    <term name="month-06" form="short">Jun.</term>
-    <term name="month-07" form="short">Jul.</term>
+    <term name="month-06" form="short">June</term>
+    <term name="month-07" form="short">July</term>
     <term name="month-08" form="short">Aug.</term>
-    <term name="month-09" form="short">Sep.</term>
+    <term name="month-09" form="short">Sept.</term>
     <term name="month-10" form="short">Oct.</term>
     <term name="month-11" form="short">Nov.</term>
     <term name="month-12" form="short">Dec.</term>
