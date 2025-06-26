@@ -320,7 +320,7 @@
       <single>table</single>
       <multiple>tables</multiple>
     </term>
-    <term name="timestamp">at</term>
+    <term name="timestamp"/> <!-- no label in many styles -->
     <term name="title-locator">
       <single>title</single>
       <multiple>titles</multiple>
