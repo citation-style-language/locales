@@ -628,7 +628,7 @@
 
     <!-- SHORT ROLE FORMS -->
     <!-- Omitted roles:
-         author, chair, composer, container-author, contributor, guest, host, interviewer, original-author, recipient, reviewed-author
+         author, chair, composer, container-author, guest, host, interviewer, original-author, recipient, reviewed-author
     -->
     <term name="collection-editor" form="short">
       <single>ed.</single>
