@@ -152,7 +152,7 @@
     <term name="webpage">webpage</term>
 
     <!-- SHORT ITEM TYPE FORMS -->
-    <term name="article-journal" form="short">journal art.</term>
+    <term name="article-journal" form="short">jour. art.</term> <!-- ODWE -->
     <term name="article-magazine" form="short">mag. art.</term> <!-- ODWE -->
     <term name="article-newspaper" form="short">newspaper art.</term>
     <!-- book is in the list of locator terms -->
