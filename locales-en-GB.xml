@@ -99,7 +99,7 @@
     <!-- book is in the list of locator terms -->
     <term name="broadcast">broadcast</term>
     <!-- chapter is in the list of locator terms -->
-    <term name="classic">classic</term>
+    <term name="classic">classical work</term>
     <term name="collection">collection</term>
     <term name="dataset">dataset</term>
     <term name="document">document</term>
@@ -143,7 +143,7 @@
     <term name="article-newspaper" form="short">newspaper art.</term>
     <!-- book is in the list of locator terms -->
     <!-- chapter is in the list of locator terms -->
-    <term name="classic">class.</term>
+    <term name="classic">class. wk.</term>
     <term name="document" form="short">doc.</term>
     <!-- figure is in the list of locator terms -->
     <term name="manuscript" form="short">MS</term>
