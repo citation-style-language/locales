@@ -269,8 +269,8 @@
       <multiple>folios</multiple>
     </term>
     <term name="issue">
-      <single>number</single>
-      <multiple>numbers</multiple>
+      <single>issue</single>
+      <multiple>issues</multiple>
     </term>
     <term name="line">
       <single>line</single>
