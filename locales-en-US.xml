@@ -70,7 +70,7 @@
     <term name="online">online</term>
     <term name="op-cit">op. cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
     <term name="original-work-published">original work published</term>
-    <term name="original-work-published" form="short">orig. pub.</term> <!-- from Oxford Guide to Style -->
+    <term name="original-work-published" form="short">orig. pub.</term> <!-- Oxford Guide to Style -->
     <term name="personal-communication">personal communication</term>
     <term name="personal-communication" form="short">pers. comm.</term>
     <term name="podcast">podcast</term>
@@ -149,22 +149,22 @@
 
     <!-- SHORT ITEM TYPE FORMS -->
     <term name="article-journal" form="short">journal art.</term>
-    <term name="article-magazine" form="short">mag. art.</term> <!-- from ODWE -->
+    <term name="article-magazine" form="short">mag. art.</term> <!-- ODWE -->
     <term name="article-newspaper" form="short">newspaper art.</term>
     <!-- book is in the list of locator terms -->
     <!-- chapter is in the list of locator terms -->
-    <term name="classic" form="short">class.</term> <!-- from ODWE -->
+    <term name="classic" form="short">class. wk.</term> <!-- ODWE -->
     <term name="document" form="short">doc.</term>
     <term name="entry-dictionary">dict. entry</term>
     <term name="entry-encyclopedia">ency. entry</term>
     <!-- figure is in the list of locator terms -->
     <term name="interview" form="short">interv.</term> <!-- source unknown -->
     <term name="manuscript" form="short">MS</term>
-    <term name="motion_picture" form="short">video rec.</term> <!-- from ODWE -->
-    <term name="report" form="short">rep.</term> <!-- from ODWE -->
+    <term name="motion_picture" form="short">video rec.</term> <!-- ODWE -->
+    <term name="report" form="short">rep.</term> <!-- ODWE -->
     <term name="review" form="short">rev.</term>
     <term name="review-book" form="short">bk. rev.</term>
-    <term name="song" form="short">audio rec.</term> <!-- from ODWE -->
+    <term name="song" form="short">audio rec.</term> <!-- ODWE -->
 
     <!-- VERB ITEM TYPE FORMS -->
     <!-- Only where applicable -->
@@ -425,9 +425,9 @@
       <multiple>tbls.</multiple>
     </term>
     <term name="title-locator" form="short">
-      <!-- from Oxford Dictionary for Writers and Editors -->
+      <!-- Oxford Dictionary for Writers and Editors -->
       <single>tit.</single>
-      <multiple>titt.</multiple> <!-- source unknown for plural -->
+      <multiple>titt.</multiple>
     </term>
     <term name="verse" form="short">
       <single>v.</single>
@@ -532,7 +532,7 @@
       <multiple>pp.</multiple>
     </term>
     <term name="printing" form="short">
-      <!-- from Oxford Dictionary for Writers and Editors -->
+      <!-- Oxford Dictionary for Writers and Editors -->
       <single>ptg.</single>
       <multiple>ptgs.</multiple>
     </term>
@@ -747,7 +747,7 @@
     -->
     <term name="collection-editor" form="verb-short">ed. by</term>
     <term name="compiler" form="verb-short">comp. by</term>
-    <term name="composer" form="verb-short">comp. by</term> <!-- from ODWE -->
+    <term name="composer" form="verb-short">comp. by</term> <!-- ODWE -->
     <term name="curator" form="verb-short">cur. by</term> <!-- source unknown -->
     <term name="director" form="verb-short">dir. by</term>
     <term name="editor" form="verb-short">ed. by</term>
