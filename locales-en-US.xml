@@ -164,7 +164,7 @@
     <term name="entry-dictionary" form="short">dict. entry</term>
     <term name="entry-encyclopedia" form="short">ency. entry</term>
     <!-- figure is in the list of locator terms -->
-    <term name="interview" form="short">interv.</term> <!-- source unknown -->
+    <term name="interview" form="short">intvw.</term> <!-- Free Dictionary -->
     <term name="manuscript" form="short">
       <single>MS</single>
       <multiple>MSS</multiple>
