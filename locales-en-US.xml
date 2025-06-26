@@ -356,9 +356,9 @@
       <multiple>bks.</multiple>
     </term>
     <term name="canon" form="short">
-      <!-- James A. Brundage, 'The Romano-Canonical Citation System', app. 1 to Medieval Canon Law (Routledge, 1995), https://doi.org/10.4324/9781003156734 -->
-      <single>c.</single>
-      <multiple>cc.</multiple>
+      <!-- Oxford Dictionary for Writers and Editors -->
+      <single>can.</single>
+      <multiple>cann.</multiple>
     </term>
     <term name="chapter" form="short">
       <single>chap.</single>
