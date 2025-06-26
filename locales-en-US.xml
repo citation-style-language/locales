@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="en-US">
-  <!-- This file follows the The Chicago Manual of Style, 18th ed. (2024), especially the list of scholarly abbreviations in sec. 10.48; additional abbreviations are from the Oxford Dictionary for Writers and Editors (ODWE) <https://archive.org/details/oxfordstylemanua0000unse>. -->
+  <!-- Where not otherwise stated, the scholarly abbreviations in this file are from The Chicago Manual of Style, 18th ed. (2024), sec. 10.48. -->
+  <!-- Additional abbreviations are from the Oxford Dictionary for Writers and Editors (ODWE) <https://archive.org/details/oxfordstylemanua0000unse>. -->
   <info>
     <translator>
       <name>Andrew Dunning</name>
