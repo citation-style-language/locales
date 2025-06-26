@@ -144,17 +144,28 @@
     <term name="webpage">webpage</term>
 
     <!-- SHORT ITEM TYPE FORMS -->
-    <term name="article-journal" form="short">journal art.</term>
+    <term name="article-journal" form="short">jour. art.</term>
     <term name="article-magazine" form="short">mag. art.</term>
     <term name="article-newspaper" form="short">newspaper art.</term>
     <!-- book is in the list of locator terms -->
     <!-- chapter is in the list of locator terms -->
-    <term name="classic">class. wk</term>
+    <term name="classic" form="short">class. wk</term>
+    <term name="collection" form="short">coll.</term>
     <term name="document" form="short">doc.</term>
+    <term name="entry-dictionary" form="short">dict. entry</term>
+    <term name="entry-encyclopedia" form="short">ency. entry</term>
     <!-- figure is in the list of locator terms -->
-    <term name="interview" form="short">interv.</term>
-    <term name="manuscript" form="short">MS</term>
+    <term name="interview" form="short">interv.</term> <!-- source unknown -->
+    <term name="manuscript" form="short">
+      <single>MS</single>
+      <multiple>MSS</multiple>
+    </term>
     <term name="motion_picture" form="short">video rec.</term>
+    <term name="musical_score" form="short">mus. score</term>
+    <term name="pamphlet" form="short">pam.</term>
+    <term name="paper-conference" form="short">conf. paper</term>
+    <term name="patent" form="short">pat.</term>
+    <term name="personal_communication" form="short">pers. comm.</term>
     <term name="report" form="short">rep.</term>
     <term name="review" form="short">rev.</term>
     <term name="review-book" form="short">bk rev.</term>
