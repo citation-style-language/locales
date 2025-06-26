@@ -4,12 +4,15 @@
     <!-- This file follows the New Oxford Dictionary for Writers and Editors, 2nd edn (Oxford, 2014). The edition of this work from 2000 is available via <https://archive.org/details/isbn_0199690944> or <https://archive.org/details/oxfordstylemanua0000unse>, still a useful resource for more obscure abbreviations. This dictionary adopted the British English convention of rendering contractions without full stops in 2005: the earlier edition needs to be adapted for this. -->
     <translator>
       <name>Andrew Dunning</name>
+      <uri>https://orcid.org/0000-0003-0464-5036</uri>
     </translator>
     <translator>
       <name>Sebastian Karcher</name>
+      <uri>https://orcid.org/0000-0001-8249-7388</uri>
     </translator>
     <translator>
       <name>Rintze M. Zelle</name>
+      <uri>https://orcid.org/0000-0003-1779-8883</uri>
     </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
     <updated>2025-06-23T00:00:00+00:00</updated>
