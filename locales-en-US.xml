@@ -45,7 +45,7 @@
     <term name="available at">available at</term>
     <term name="by">by</term>
     <term name="circa">circa</term>
-    <!-- CMOS 10.48 recommends ca. for circa but also allows 'c.', which CSL has always used -->
+    <!-- CMOS 10.48 recommends ca. for circa but also allows c., which CSL has always used -->
     <term name="circa" form="short">c.</term>
     <term name="cited">cited</term>
     <term name="et-al">et al.</term>
