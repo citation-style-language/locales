@@ -433,10 +433,7 @@
       <single>v.</single>
       <multiple>vv.</multiple>
     </term>
-    <term name="version" form="short">
-      <single>v.</single>
-      <multiple>v.</multiple> <!-- no plural -->
-    </term>
+    <term name="version" form="short">v.</term> <!-- no plural -->
     <term name="volume" form="short">
       <single>vol.</single>
       <multiple>vols</multiple>
@@ -665,10 +662,7 @@
       <single>exec. prod.</single>
       <multiple>exec. prods</multiple>
     </term>
-    <term name="illustrator" form="short">
-      <single>illus.</single>
-      <multiple>illus.</multiple> <!-- no plural -->
-    </term>
+    <term name="illustrator" form="short">illus.</term> <!-- no plural -->
     <term name="narrator" form="short">
       <single>narr.</single>
       <multiple>narrs</multiple>
@@ -681,10 +675,7 @@
       <single>prod.</single>
       <multiple>prods</multiple>
     </term>
-    <term name="translator" form="short">
-      <single>trans.</single>
-      <multiple>trans.</multiple> <!-- no plural -->
-    </term>
+    <term name="translator" form="short">trans.</term> <!-- no plural -->
 
     <!-- VERB ROLE FORMS -->
     <term name="chair" form="verb">chaired by</term>
