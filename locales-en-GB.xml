@@ -311,10 +311,8 @@
       <single>table</single>
       <multiple>tables</multiple>
     </term>
-    <term name="timestamp"> <!-- generally blank -->
-      <single/>
-      <multiple/>
-    </term>
+    <!-- A timestamp is a composite of hours, minutes, etc. and therefore has no default label. -->
+    <term name="timestamp"/>
     <term name="title-locator">
       <single>title</single>
       <multiple>titles</multiple>
