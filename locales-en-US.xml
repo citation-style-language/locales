@@ -2,6 +2,7 @@
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="en-US">
   <!-- Where not otherwise stated, the scholarly abbreviations in this file are from The Chicago Manual of Style, 18th ed. (2024), sec. 10.48. -->
   <!-- Additional abbreviations are from the Oxford Dictionary for Writers and Editors (ODWE) <https://archive.org/details/oxfordstylemanua0000unse>. -->
+  <!-- Oxford Dictionary of Abbreviations (ODA) <https://doi.org/10.1093/acref/9780199698295.001.0001> helps to verify the meanings of abbreviations but is not a guide to usage. -->
   <info>
     <translator>
       <name>Andrew Dunning</name>
@@ -165,7 +166,7 @@
     <term name="entry-dictionary" form="short">dict. entry</term>
     <term name="entry-encyclopedia" form="short">ency. entry</term>
     <!-- figure is in the list of locator terms -->
-    <term name="interview" form="short">intvw.</term> <!-- Free Dictionary -->
+    <term name="interview" form="short">int.</term> <!-- ODA -->
     <term name="manuscript" form="short">
       <single>MS</single>
       <multiple>MSS</multiple>
@@ -433,7 +434,7 @@
       <multiple>supps.</multiple>
     </term>
     <term name="table" form="short">
-      <!-- source unknown -->
+      <!-- Oxford Dictionary of Abbreviations -->
       <single>tbl.</single>
       <multiple>tbls.</multiple>
     </term>
@@ -638,7 +639,7 @@
 
     <!-- SHORT ROLE FORMS -->
     <!-- Omitted roles:
-         author, chair, composer, container-author, guest, host, interviewer, original-author, recipient, reviewed-author
+         author, chair, composer, container-author, guest, host, interviewer, original-author, recipient, reviewed-author, series-creator
     -->
     <term name="collection-editor" form="short">
       <single>ed.</single>
@@ -649,12 +650,12 @@
       <multiple>comps.</multiple>
     </term>
     <term name="contributor" form="short">
-      <!-- source unknown -->
+      <!-- Oxford Dictionary of Abbreviations -->
       <single>contrib.</single>
       <multiple>contribs.</multiple>
     </term>
     <term name="curator" form="short">
-      <!-- source unknown -->
+      <!-- Oxford Art Online <https://www.oxfordartonline.com/page/1661> -->
       <single>cur.</single>
       <multiple>curs.</multiple>
     </term>
@@ -679,7 +680,7 @@
       <multiple>eds.</multiple>
     </term>
     <term name="executive-producer" form="short">
-      <!-- source unknown -->
+      <!-- Oxford Dictionary of Abbreviations -->
       <single>exec. prod.</single>
       <multiple>exec. prods.</multiple>
     </term>
@@ -688,34 +689,29 @@
       <multiple>ills.</multiple>
     </term>
     <term name="narrator" form="short">
-      <!-- source unknown -->
+      <!-- Oxford Dictionary of Abbreviations -->
       <single>narr.</single>
       <multiple>narrs.</multiple>
     </term>
     <term name="organizer" form="short">
-      <!-- source unknown -->
+      <!-- possibly misleading: Oxford Dictionary of Abbreviations only defines this as organization or organized -->
       <single>org.</single>
       <multiple>orgs.</multiple>
     </term>
     <term name="performer" form="short">
-      <!-- source unknown -->
+      <!-- Oxford Dictionary of Abbreviations -->
       <single>perf.</single>
       <multiple>perfs.</multiple>
     </term>
     <term name="producer" form="short">
-      <!-- source unknown -->
+      <!-- Oxford Dictionary of Abbreviations -->
       <single>prod.</single>
       <multiple>prods.</multiple>
     </term>
     <term name="script-writer" form="short">
-      <!-- source unknown -->
-      <single>writ.</single>
-      <multiple>writs.</multiple>
-    </term>
-    <term name="series-creator" form="short">
-      <!-- source unknown -->
-      <single>cre.</single>
-      <multiple>cres.</multiple>
+      <!-- Oxford Dictionary of Abbreviations -->
+      <single>wrtr.</single>
+      <multiple>wrtrs.</multiple>
     </term>
     <term name="translator" form="short">trans.</term> <!-- no plural -->
 
@@ -750,25 +746,24 @@
 
     <!-- SHORT VERB ROLE FORMS -->
     <!-- Omitted roles:
-         author, chair, container-author, contributor, guest, host, interviewer, original-author, recipient, reviewed-author
+         author, chair, container-author, contributor, guest, host, interviewer, original-author, recipient, reviewed-author, series-creator
     -->
     <term name="collection-editor" form="verb-short">ed. by</term>
     <term name="compiler" form="verb-short">comp. by</term>
     <term name="composer" form="verb-short">comp. by</term> <!-- ODWE -->
-    <term name="curator" form="verb-short">cur. by</term> <!-- source unknown -->
+    <term name="curator" form="verb-short">cur. by</term> <!-- Oxford Art Online -->
     <term name="director" form="verb-short">dir. by</term>
     <term name="editor" form="verb-short">ed. by</term>
     <term name="editor-translator" form="verb-short">ed. &amp; trans. by</term>
     <term name="editortranslator" form="verb-short">ed. &amp; trans. by</term>
     <term name="editorial-director" form="verb-short">ed. by</term>
-    <term name="executive-producer" form="verb-short">exec. prod. by</term> <!-- source unknown -->
+    <term name="executive-producer" form="verb-short">exec. prod. by</term> <!-- ODA -->
     <term name="illustrator" form="verb-short">ill. by</term>
-    <term name="narrator" form="verb-short">narr. by</term> <!-- source unknown -->
-    <term name="organizer" form="verb-short">org. by</term> <!-- source unknown -->
-    <term name="performer" form="verb-short">perf. by</term> <!-- source unknown -->
-    <term name="producer" form="verb-short">prod. by</term> <!-- source unknown -->
-    <term name="script-writer" form="verb-short">writ. by</term> <!-- source unknown -->
-    <term name="series-creator" form="verb-short">cre. by</term> <!-- source unknown -->
+    <term name="narrator" form="verb-short">narr. by</term> <!-- ODA -->
+    <term name="organizer" form="verb-short">org. by</term> <!-- ODA -->
+    <term name="performer" form="verb-short">perfd. by</term> <!-- ODA -->
+    <term name="producer" form="verb-short">prod. by</term> <!-- ODA -->
+    <term name="script-writer" form="verb-short">writ. by</term> <!-- ODA -->
     <term name="translator" form="verb-short">trans. by</term>
 
     <!-- LONG MONTH FORMS -->
