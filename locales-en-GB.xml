@@ -638,12 +638,12 @@
     <term name="contributor" form="short">
       <!-- source unknown -->
       <single>contrib.</single>
-      <multiple>contribs.</multiple>
+      <multiple>contribs</multiple>
     </term>
     <term name="curator" form="short">
       <!-- source unknown -->
       <single>cur.</single>
-      <multiple>curs.</multiple>
+      <multiple>curs</multiple>
     </term>
     <term name="director" form="short">
       <single>dir.</single>
@@ -668,7 +668,7 @@
     <term name="executive-producer" form="short">
       <!-- source unknown -->
       <single>exec. prod.</single>
-      <multiple>exec. prods.</multiple>
+      <multiple>exec. prods</multiple>
     </term>
     <term name="illustrator" form="short">illus.</term> <!-- no plural -->
     <term name="narrator" form="short">
@@ -679,27 +679,27 @@
     <term name="organizer" form="short">
       <!-- source unknown -->
       <single>org.</single>
-      <multiple>orgs.</multiple>
+      <multiple>orgs</multiple>
     </term>
     <term name="performer" form="short">
       <!-- source unknown -->
       <single>perf.</single>
-      <multiple>perfs.</multiple>
+      <multiple>perfs</multiple>
     </term>
     <term name="producer" form="short">
       <!-- source unknown -->
       <single>prod.</single>
-      <multiple>prods.</multiple>
+      <multiple>prods</multiple>
     </term>
     <term name="script-writer" form="short">
       <!-- source unknown -->
       <single>writ.</single>
-      <multiple>writs.</multiple>
+      <multiple>writs</multiple>
     </term>
     <term name="series-creator" form="short">
       <!-- source unknown -->
       <single>cre.</single>
-      <multiple>cres.</multiple>
+      <multiple>cres</multiple>
     </term>
     <term name="translator" form="short">trans.</term> <!-- no plural -->
 
