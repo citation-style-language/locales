@@ -639,7 +639,7 @@
 
     <!-- SHORT ROLE FORMS -->
     <!-- Omitted roles:
-         author, chair, composer, container-author, guest, host, interviewer, original-author, recipient, reviewed-author, series-creator
+         author, chair, composer, container-author, guest, host, interviewer, original-author, recipient, reviewed-author
     -->
     <term name="collection-editor" form="short">
       <single>ed.</single>
@@ -712,6 +712,10 @@
       <!-- Oxford Dictionary of Abbreviations -->
       <single>wrtr.</single>
       <multiple>wrtrs.</multiple>
+    </term>
+    <term name="series-creator" form="short">
+      <single>ser. creator</single>
+      <multiple>ser. creators</multiple>
     </term>
     <term name="translator" form="short">trans.</term> <!-- no plural -->
 
