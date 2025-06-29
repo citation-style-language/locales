@@ -10,8 +10,11 @@
         <translator>
       <name>Renato Cirino</name>
     </translator>
+    <translator>
+      <name>Isabelly Pereira</name>
+    </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2024-03-12T12:31:23-04:00</updated>
+    <updated>2025-06-29T18:17:07-04:00</updated>
   </info>
   <style-options punctuation-in-quote="false" limit-day-ordinals-to-day-1="true"/>
   <date form="text">
@@ -25,17 +28,17 @@
     <date-part name="year"/>
   </date>
   <terms>
-    <term name="advance-online-publication">advance online publication</term>
+    <term name="advance-online-publication">artigo no prelo</term>
     <term name="album">álbum</term>
     <term name="audio-recording">gravação de áudio</term>
     <term name="film">filme</term>
     <term name="henceforth">henceforth</term>
     <term name="loc-cit">loc. cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
-    <term name="no-place">no place</term>
-    <term name="no-place" form="short">n.p.</term>
-    <term name="no-publisher">no publisher</term> <!-- sine nomine -->
-    <term name="no-publisher" form="short">n.p.</term>
-    <term name="on">on</term>
+    <term name="no-place">sine loco</term> <!-- sine loco -->
+    <term name="no-place" form="short">s. l.</term>
+    <term name="no-publisher">sine nomine</term> <!-- sine nomine -->
+    <term name="no-publisher" form="short">s. n.</term>
+    <term name="on">em</term>
     <term name="op-cit">op. cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
     <term name="original-work-published">trabalho original publicado</term>
     <term name="personal-communication">comunicação pessoal</term>
@@ -51,7 +54,7 @@
     <term name="television-series">série de tv</term>
     <term name="television-series-episode">episódio de série de tv</term>
     <term name="video">vídeo</term>
-    <term name="working-paper">working paper</term>
+    <term name="working-paper">artigo inacabado</term>
     <term name="accessed">acesso em</term>
     <term name="and">e</term>
     <term name="and others">e outros</term>
@@ -80,10 +83,10 @@
       <multiple>refs.</multiple>
     </term>
     <term name="number" form="short">
-      <single>no.</single>
-      <multiple>nos.</multiple>
+      <single>n.</single>
+      <multiple>n.</multiple>
     </term>
-    <term name="edition" form="short">ed</term>
+    <term name="edition" form="short">ed.</term>
     <term name="et-al">et al.</term>
     <term name="forthcoming">a ser publicado</term>
     <term name="from">de</term>
@@ -92,9 +95,9 @@
     <term name="in press">no prelo</term>
     <term name="internet">internet</term>
     <term name="letter">carta</term>
-    <term name="no date">sem data</term>
-    <term name="no date" form="short">[s.d.]</term>
-    <term name="online">online</term>
+    <term name="no date">sem data</term> <!-- sine datum -->
+    <term name="no date" form="short">s. d.</term>
+    <term name="online">on-line</term>
     <term name="presented at">apresentado em</term>
     <term name="reference">
       <single>referência</single>
@@ -123,7 +126,7 @@
     <term name="collection">coleção</term>
     <term name="dataset">dataset</term>
     <term name="document">documento</term>
-    <term name="entry">entry</term>
+    <term name="entry">verbete</term>
     <term name="entry-dictionary">verbete de dicionário</term>
     <term name="entry-encyclopedia">verbete de enciclopédia</term>
     <term name="event">evento</term>
@@ -131,22 +134,22 @@
     <term name="graphic">gráfico</term>
     <term name="hearing">audiência</term>
     <term name="interview">entrevista</term>
-    <term name="legal_case">legal case</term>
+    <term name="legal_case">jurisprudência</term>
     <term name="legislation">legislação</term>
     <term name="manuscript">manuscrito</term>
     <term name="map">mapa</term>
     <term name="motion_picture">gravação de vídeo</term>
-    <term name="musical_score">musical score</term>
+    <term name="musical_score">partitura musical</term>
     <term name="pamphlet">panleto</term>
-    <term name="paper-conference">artigo de conferência</term>
+    <term name="paper-conference">trabalho em evento</term>
     <term name="patent">patente</term>
     <term name="performance">performance</term>
-    <term name="periodical">periodical</term>
+    <term name="periodical">periódico</term>
     <term name="personal_communication">comunicação pessoal</term>
     <term name="post">postagem</term>
     <term name="post-weblog">postagem de blog</term>
-    <term name="regulation">regulation</term>
-    <term name="report">report</term>
+    <term name="regulation">regulação</term>
+    <term name="report">relatório</term>
     <term name="review">revisão</term>
     <term name="review-book">revisão de livro</term>
     <term name="software">software</term>
@@ -154,25 +157,25 @@
     <term name="speech">apresentação</term>
     <term name="standard">padrão</term>
     <term name="thesis">tese</term>
-    <term name="treaty">treaty</term>
+    <term name="treaty">tratado</term>
     <term name="webpage">webpage</term>
 
     <!-- SHORT ITEM TYPE FORMS -->
-    <term name="article-journal" form="short">journal art.</term>
-    <term name="article-magazine" form="short">mag. art.</term>
-    <term name="article-newspaper" form="short">newspaper art.</term>
+    <term name="article-journal" form="short">art. per.</term>
+    <term name="article-magazine" form="short">art. rev.</term>
+    <term name="article-newspaper" form="short">art. jorn.</term>
     <!-- book is in the list of locator terms -->
     <!-- chapter is in the list of locator terms -->
     <term name="document" form="short">doc.</term>
     <!-- figure is in the list of locator terms -->
-    <term name="graphic" form="short">graph.</term>
-    <term name="interview" form="short">interv.</term>
+    <term name="graphic" form="short">graf.</term>
+    <term name="interview" form="short">entrev.</term>
     <term name="manuscript" form="short">MS</term>
-    <term name="motion_picture" form="short">video rec.</term>
-    <term name="report" form="short">rep.</term>
+    <term name="motion_picture" form="short">grav. video</term>
+    <term name="report" form="short">rel.</term>
     <term name="review" form="short">rev.</term>
-    <term name="review-book" form="short">rev. liv.</term>
-    <term name="song" form="short">audio rec.</term>
+    <term name="review-book" form="short">rev. livro</term>
+    <term name="song" form="short">grav. audio</term>
 
     <!-- VERB ITEM TYPE FORMS -->
     <!-- Only where applicable -->
@@ -237,12 +240,12 @@
       <multiple>artigos</multiple>						 
     </term>
     <term name="canon">			 
-      <single>canon</single>
-      <multiple>canons</multiple>						 
+      <single>cânone</single>
+      <multiple>cânones</multiple>						 
     </term>
     <term name="elocation">			 
-      <single>location</single>
-      <multiple>locations</multiple>						 
+      <single>local</single>
+      <multiple>locais</multiple>						 
     </term>
     <term name="equation">			 
       <single>equação</single>
@@ -385,8 +388,8 @@
       <multiple>rr.</multiple>						 
     </term>
     <term name="scene" form="short">			 
-      <single>sc.</single>
-      <multiple>scs.</multiple>						 
+      <single>c.</single>
+      <multiple>cns.</multiple>						 
     </term>
     <term name="table" form="short">			 
       <single>tbl.</single>
@@ -419,7 +422,7 @@
     </term>
     <term name="page-first" form="short">
       <single>p.</single>
-      <multiple>pp.</multiple>
+      <multiple>p.</multiple>
     </term>
     <term name="printing" form="short">
       <single>print.</single>
@@ -435,8 +438,8 @@
     <term name="part" form="short">pt.</term>
     <term name="section" form="short">seç.</term>
     <term name="supplement" form="short">
-      <single>supp.</single>
-      <multiple>supps.</multiple>
+      <single>supl.</single>
+      <multiple>supl.</multiple>
     </term>
     <term name="sub-verbo" form="short">
       <single>s.v.</single>
@@ -447,8 +450,8 @@
       <multiple>vv.</multiple>
     </term>
     <term name="volume" form="short">
-      <single>vol.</single>
-      <multiple>vols.</multiple>
+      <single>v.</single>
+      <multiple>v.</multiple>
     </term>
 
     <!-- SYMBOL LOCATOR FORMS -->
@@ -479,8 +482,8 @@
       <multiple>eds.</multiple>
     </term>
     <term name="chair">
-      <single>chair</single>
-      <multiple>chairs</multiple>
+      <single>condutor</single>
+      <multiple>condutores</multiple>
     </term>
     <term name="compiler">
       <single>compilador</single>
@@ -589,8 +592,8 @@
       <multiple>prods.</multiple>
     </term>
     <term name="script-writer" form="short">
-      <single>writ.</single>
-      <multiple>writs.</multiple>
+      <single>escr.</single>
+      <multiple>escrs.</multiple>
     </term>
     <term name="series-creator" form="short">
       <single>cre.</single>
@@ -622,15 +625,15 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
-    <term name="collection-editor" form="verb">edited by</term>
-    <term name="chair" form="verb">chaired by</term>
-    <term name="compiler" form="verb">compiled by</term>
-    <term name="contributor" form="verb">with</term>
-    <term name="curator" form="verb">curated by</term>
-    <term name="executive-producer" form="verb">executive produced by</term>
-    <term name="guest" form="verb">with guest</term>
-    <term name="host" form="verb">hosted by</term>
-    <term name="narrator" form="verb">narrated by</term>
+    <term name="collection-editor" form="verb">organizado por</term>
+    <term name="chair" form="verb">conduzido por</term>
+    <term name="compiler" form="verb">compilado por</term>
+    <term name="contributor" form="verb">com</term>
+    <term name="curator" form="verb">curadoria de</term>
+    <term name="executive-producer" form="verb">produção executiva por</term>
+    <term name="guest" form="verb">com o convidado</term>
+    <term name="host" form="verb">oferecido por</term>
+    <term name="narrator" form="verb">narrado por</term>
     <term name="organizer" form="verb">organizado por</term>
     <term name="performer" form="verb">performado por</term>
     <term name="producer" form="verb">produzido por</term>
@@ -649,18 +652,18 @@
     <term name="editortranslator" form="verb">editado e traduzido por</term>
 
     <!-- SHORT VERB ROLE FORMS -->
-    <term name="compiler" form="verb-short">comp. by</term>
+    <term name="compiler" form="verb-short">comp. por</term>
     <term name="contributor" form="verb-short">w.</term>
     <term name="curator" form="verb-short">cur. by</term>
-    <term name="executive-producer" form="verb-short">exec. prod. by</term>
-    <term name="guest" form="verb-short">w. guest</term>
-    <term name="host" form="verb-short">hosted by</term>
-    <term name="narrator" form="verb-short">narr. by</term>
-    <term name="organizer" form="verb-short">org. by</term>
-    <term name="performer" form="verb-short">perf. by</term>
-    <term name="producer" form="verb-short">prod. by</term>
-    <term name="script-writer" form="verb-short">writ. by</term>
-    <term name="series-creator" form="verb-short">cre. by</term>
+    <term name="executive-producer" form="verb-short">prod. exec. por</term>
+    <term name="guest" form="verb-short">c/ conv.</term>
+    <term name="host" form="verb-short">ofer. por</term>
+    <term name="narrator" form="verb-short">narr. por</term>
+    <term name="organizer" form="verb-short">org. por</term>
+    <term name="performer" form="verb-short">perf. por</term>
+    <term name="producer" form="verb-short">prod. por</term>
+    <term name="script-writer" form="verb-short">escr. por</term>
+    <term name="series-creator" form="verb-short">criad. por</term>
     <term name="director" form="verb-short">dir.</term>
     <term name="editor" form="verb-short">org.</term>
     <term name="editorial-director" form="verb-short">ed.</term>
