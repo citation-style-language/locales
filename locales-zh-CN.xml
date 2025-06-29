@@ -36,13 +36,13 @@
     <term name="audio-recording">录音</term>
     <term name="film">电影</term>
     <term name="henceforth">从此以后</term>
-    <term name="loc-cit">同前注</term> <!-- like ibid., the abbreviated form is the regular form  -->
+    <term name="loc-cit">同前注</term>
     <term name="no-place">出版地不详</term>
     <term name="no-place" form="short">出版地不详</term>
     <term name="no-publisher">出版者不详</term> <!-- sine nomine -->
     <term name="no-publisher" form="short">出版者不详</term>
     <term name="on">在</term>
-    <term name="op-cit">同前注</term> <!-- like ibid., the abbreviated form is the regular form  -->
+    <term name="op-cit">同前注</term>
     <term name="original-work-published">原著出版于</term>
     <term name="personal-communication">的私人交流</term>
     <term name="podcast">播客</term>
