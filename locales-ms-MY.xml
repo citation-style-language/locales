@@ -153,7 +153,7 @@
       <single>bahagian</single>
       <multiple>bahagian</multiple>
     </term>
-    <term name="sub verbo">
+    <term name="sub-verbo">
       <single>sub verbo</single>
       <multiple>sub verbis</multiple>
     </term>
@@ -187,7 +187,7 @@
     <term name="paragraph" form="short">pgn.</term>
     <term name="part" form="short">fs.</term>
     <term name="section" form="short">bag.</term>
-    <term name="sub verbo" form="short">
+    <term name="sub-verbo" form="short">
       <single>s.v.</single>
       <multiple>s.vv.</multiple>
     </term>
@@ -299,12 +299,12 @@
     <!-- SHORT MONTH FORMS -->
     <term name="month-01" form="short">Jan</term>
     <term name="month-02" form="short">Feb</term>
-    <term name="month-03" form="short">Mac/term>
+    <term name="month-03" form="short">Mac</term>
     <term name="month-04" form="short">Apr</term>
     <term name="month-05" form="short">Mei</term>
     <term name="month-06" form="short">Jun</term>
     <term name="month-07" form="short">Jul</term>
-    <term name="month-08" form="short">Ogoterm>
+    <term name="month-08" form="short">Ogo</term>
     <term name="month-09" form="short">Sep</term>
     <term name="month-10" form="short">Okt</term>
     <term name="month-11" form="short">Nov</term>
