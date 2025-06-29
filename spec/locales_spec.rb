@@ -28,7 +28,7 @@ Locales.each_pair do |id, (filename, path, locale)|
       end unless NO_REGIONS.include?(locale.language.to_s)
 
       it "its language and region match the filename" do
-        expect(locale.to_s).to eq(id[8,5])
+        expect(locale.to_s).to eq(id[8..])
       end
 
       it "has and info/rights element" do
