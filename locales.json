@@ -31,6 +31,7 @@
         "lt": "lt-LT",
         "lv": "lv-LV",
         "mn": "mn-MN",
+        "ms": "ms-MY",
         "nb": "nb-NO",
         "nl": "nl-NL",
         "nn": "nn-NO",
@@ -197,6 +198,10 @@
         "mn-MN": [
             "Монгол",
             "Mongolian"
+        ],
+        "ms-MY": [
+            "Bahasa Melayu",
+            "Melay"
         ],
         "nb-NO": [
             "Norsk bokmål",
