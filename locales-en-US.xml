@@ -127,7 +127,7 @@
     <term name="special-section" form="short">spec. sec.</term> <!-- ODA/CMOS -->
     <term name="television-broadcast" form="short">TV bdcst.</term> <!-- ODA -->
     <term name="television-series" form="short">TV ser.</term> <!-- ODA -->
-    <term name="television-series-episode" form="short">TV. ser. ep.</term> <!-- ODA -->
+    <term name="television-series-episode" form="short">TV ser. ep.</term> <!-- ODA -->
     <term name="video" form="short">vid.</term> <!-- ODA -->
     <term name="working-paper" form="short">wkg. paper</term> <!-- ODA -->
 
