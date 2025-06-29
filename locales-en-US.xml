@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="en-US">
-  <!-- Where not otherwise stated, the scholarly abbreviations in this file are from The Chicago Manual of Style, 18th ed. (2024), sec. 10.48. -->
-  <!-- Additional abbreviations are from the Oxford Dictionary for Writers and Editors (ODWE) <https://archive.org/details/oxfordstylemanua0000unse>. -->
-  <!-- Oxford Dictionary of Abbreviations (ODA) <https://doi.org/10.1093/acref/9780199698295.001.0001> helps to verify the meanings of abbreviations but is not a guide to usage. -->
+  <!-- Where not otherwise stated, the abbreviations in this file follow the recommendations of The Chicago Manual of Style (CMOS), 18th ed. (2024), sec. 10.48. -->
+  <!-- Additional abbreviations are from:
+        - Oxford Dictionary for Writers and Editors (ODWE) <https://archive.org/details/oxfordstylemanua0000unse>
+        - Oxford Dictionary of Abbreviations (ODA) <https://doi.org/10.1093/acref/9780199698295.001.0001>
+  -->
   <info>
     <translator>
       <name>Andrew Dunning</name>
@@ -48,12 +50,15 @@
     <term name="anonymous" form="short">anon.</term>
     <term name="at">at</term>
     <term name="audio-recording">audio recording</term>
+    <term name="audio-recording" form="short">au. rec.</term> <!-- ODA -->
     <term name="available at">available at</term>
+    <term name="available at" form="short">avail. at</term> <!-- ODA -->
     <term name="by">by</term>
     <term name="circa">circa</term>
     <!-- CMOS 10.48 recommends ca. for circa but also allows c., which CSL has always used -->
     <term name="circa" form="short">c.</term>
     <term name="cited">cited</term>
+    <term name="cited" form="short">cit.</term> <!-- ODA -->
     <term name="et-al">et al.</term>
     <term name="film">film</term>
     <term name="forthcoming">forthcoming</term>
@@ -65,12 +70,13 @@
     <term name="in press">in press</term>
     <term name="internet">internet</term>
     <term name="letter">letter</term>
+    <term name="letter" form="short">let.</term> <!-- ODA -->
     <term name="loc-cit">loc. cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
     <term name="no date">no date</term>
     <term name="no date" form="short">n.d.</term>
     <term name="no-place">no place</term>
     <term name="no-place" form="short">n.p.</term>
-    <term name="no-publisher">no publisher</term> <!-- sine nomine -->
+    <term name="no-publisher">no publisher</term>
     <term name="no-publisher" form="short">n.p.</term>
     <term name="on">on</term>
     <term name="online">online</term>
@@ -81,11 +87,16 @@
     <term name="personal-communication" form="short">pers. comm.</term>
     <term name="podcast">podcast</term>
     <term name="podcast-episode">podcast episode</term>
+    <term name="podcast-episode" form="short>podcast ep.</term>
     <term name="preprint">preprint</term>
     <term name="presented at">presented at the</term>
+    <term name="presented at" form="short">pres. at the</term> <!-- ODA -->
     <term name="radio-broadcast">radio broadcast</term>
+    <term name="radio-broadcast" form="short">radio bdcst.</term> <!-- ODA -->
     <term name="radio-series">radio series</term>
+    <term name="radio-series" form="short">radio ser.</term>
     <term name="radio-series-episode">radio series episode</term>
+    <term name="radio-series-episode" form="short">radio ser. ep.</term>
     <term name="reference">
       <single>reference</single>
       <multiple>references</multiple>
@@ -98,6 +109,7 @@
     <term name="review-of">review of</term>
     <term name="review-of" form="short">rev. of</term>
     <term name="scale">scale</term>
+    <term name="scale" form="short">sc.</term> <!-- ODA -->
     <term name="special-issue">special issue</term>
     <term name="special-section">special section</term>
     <term name="television-broadcast">television broadcast</term>
@@ -162,7 +174,7 @@
     <!-- book is in the list of locator terms -->
     <!-- chapter is in the list of locator terms -->
     <term name="classic" form="short">class. wk.</term> <!-- ODWE -->
-    <term name="collection" form="short">archival coll.</term> <!-- ODWE -->
+    <term name="collection" form="short">arch. coll.</term> <!-- ODA -->
     <term name="document" form="short">doc.</term>
     <term name="entry-dictionary" form="short">dict. entry</term>
     <term name="entry-encyclopedia" form="short">ency. entry</term>
@@ -195,8 +207,11 @@
     <!-- VERB ITEM TYPE FORMS -->
     <!-- Only where applicable -->
     <term name="hearing" form="verb">testimony of</term>
+    <term name="hearing" form="verb" form="short">test. of</term> <!-- ODA -->
     <term name="review" form="verb">review of</term>
+    <term name="review" form="verb" form="short">rev. of</term>
     <term name="review-book" form="verb">review of the book</term>
+    <term name="review-book" form="verb" form="short">rev. of the bk.</term>
 
     <!-- HISTORICAL ERA TERMS -->
     <term name="ad">AD</term>
@@ -775,7 +790,7 @@
     <term name="illustrator" form="verb-short">ill. by</term>
     <term name="narrator" form="verb-short">narr. by</term> <!-- ODA -->
     <term name="organizer" form="verb-short">org. by</term> <!-- ODA -->
-    <term name="performer" form="verb-short">perfd. by</term> <!-- ODA -->
+    <term name="performer" form="verb-short">perf. by</term> <!-- ODA -->
     <term name="producer" form="verb-short">prod. by</term> <!-- ODA -->
     <term name="script-writer" form="verb-short">writ. by</term> <!-- ODA -->
     <term name="translator" form="verb-short">trans. by</term>
