@@ -57,7 +57,23 @@
     <term name="circa">介於</term>
     <term name="circa" form="short">約</term>
     <term name="cited">見引於</term>
+    <term name="first-reference-note-number">
+      <single>reference</single>
+      <multiple>references</multiple>
+    </term>
+    <term name="number">
+      <single>number</single>
+      <multiple>numbers</multiple>
+    </term>
     <term name="edition">版本</term>
+    <term name="first-reference-note-number" form="short">
+      <single>ref.</single>
+      <multiple>refs.</multiple>
+    </term>
+    <term name="number" form="short">
+      <single>no.</single>
+      <multiple>nos.</multiple>
+    </term>
     <term name="edition" form="short">本</term>
     <term name="et-al">等</term>
     <term name="forthcoming">即將出版</term>
@@ -66,7 +82,6 @@
     <term name="in">收入</term>
     <term name="in press">印行中</term>
     <term name="internet">互聯網</term>
-    <term name="interview">訪談</term>
     <term name="letter">信函</term>
     <term name="no date">日期不詳</term>
     <term name="no date" form="short">不詳</term>
@@ -74,6 +89,8 @@
     <term name="presented at">發表於</term>
     <term name="reference">參考</term>
     <term name="reference" form="short">參</term>
+    <term name="review-of">review of</term>
+    <term name="review-of" form="short">rev. of</term>
     <term name="retrieved">讀取於</term>
     <term name="scale">比例</term>
     <term name="version">版</term>
@@ -84,9 +101,9 @@
     <term name="article-magazine">magazine article</term>
     <term name="article-newspaper">newspaper article</term>
     <term name="bill">bill</term>
-    <term name="book">book</term>
+    <!-- book is in the list of locator terms -->
     <term name="broadcast">broadcast</term>
-    <term name="chapter">book chapter</term>
+    <!-- chapter is in the list of locator terms -->
     <term name="classic">classic</term>
     <term name="collection">collection</term>
     <term name="dataset">dataset</term>
@@ -98,7 +115,7 @@
     <!-- figure is in the list of locator terms -->
     <term name="graphic">graphic</term>
     <term name="hearing">hearing</term>
-    <term name="interview">interview</term>
+    <term name="interview">訪談</term>
     <term name="legal_case">legal case</term>
     <term name="legislation">legislation</term>
     <term name="manuscript">manuscript</term>
@@ -129,8 +146,8 @@
     <term name="article-journal" form="short">journal art.</term>
     <term name="article-magazine" form="short">mag. art.</term>
     <term name="article-newspaper" form="short">newspaper art.</term>
-    <term name="book" form="short">bk.</term>
-    <term name="chapter" form="short">bk. chap.</term>
+    <!-- book is in the list of locator terms -->
+    <!-- chapter is in the list of locator terms -->
     <term name="document" form="short">doc.</term>
     <!-- figure is in the list of locator terms -->
     <term name="graphic" form="short">graph.</term>
@@ -141,6 +158,12 @@
     <term name="review" form="short">rev.</term>
     <term name="review-book" form="short">bk. rev.</term>
     <term name="song" form="short">audio rec.</term>
+
+    <!-- VERB ITEM TYPE FORMS -->
+    <!-- Only where applicable -->
+    <term name="hearing" form="verb">testimony of</term>
+    <term name="review" form="verb">review of</term>
+    <term name="review-book" form="verb">review of the book</term>
 
     <!-- HISTORICAL ERA TERMS -->
     <term name="ad">西元</term>
@@ -228,48 +251,74 @@
     <term name="note">註腳</term>
     <term name="opus">作品</term>      
     <term name="page">頁</term>
+    <term name="number-of-volumes">
+      <single>volume</single>
+      <multiple>volumes</multiple>
+    </term>
+    <term name="page-first">
+      <single>page</single>
+      <multiple>pages</multiple>
+    </term>
+    <term name="printing">
+      <single>printing</single>
+      <multiple>printings</multiple>
+    </term>
+
+    <term name="chapter-number" form="short">
+      <single>chap.</single>
+      <multiple>chaps.</multiple>
+    </term>
+    <term name="citation-number" form="short">
+      <single>cit.</single>
+      <multiple>cits.</multiple>
+    </term>
+    <term name="collection-number" form="short">期</term>
     <term name="number-of-pages">總頁數</term>      
     <term name="paragraph">段落</term>
     <term name="part">部分</term>     
     <term name="section">節</term>         
+    <term name="supplement">
+      <single>supplement</single>
+      <multiple>supplements</multiple>
+    </term>
     <term name="sub-verbo">另見</term>    
     <term name="verse">篇</term>    
     <term name="volume">卷</term>
     
     <!-- SHORT LOCATOR FORMS -->
-    <term name="appendix">			 
+    <term name="appendix" form="short">			 
       <single>app.</single>
       <multiple>apps.</multiple>						 
     </term>
-    <term name="article-locator">			 
+    <term name="article-locator" form="short">			 
       <single>art.</single>
       <multiple>arts.</multiple>
     </term>
-    <term name="elocation">			 
+    <term name="elocation" form="short">			 
       <single>loc.</single>
       <multiple>locs.</multiple>
     </term>
-    <term name="equation">			 
+    <term name="equation" form="short">			 
       <single>eq.</single>
       <multiple>eqs.</multiple>
     </term>
-    <term name="rule">			 
+    <term name="rule" form="short">			 
       <single>r.</single>
       <multiple>rr.</multiple>						 
     </term>
-    <term name="scene">			 
+    <term name="scene" form="short">			 
       <single>sc.</single>
       <multiple>scs.</multiple>						 
     </term>
-    <term name="table">			 
+    <term name="table" form="short">			 
       <single>tbl.</single>
       <multiple>tbls.</multiple>						 
     </term>
-    <term name="timestamp"> <!-- generally blank -->
+    <term name="timestamp" form="short"> <!-- generally blank -->
       <single></single>
       <multiple></multiple>						 
     </term>
-    <term name="title-locator">			 
+    <term name="title-locator" form="short">			 
       <single>tit.</single>
       <multiple>tits.</multiple>
     </term>
@@ -282,10 +331,28 @@
     <term name="note" form="short">註</term>
     <term name="opus" form="short">op.</term>
     <term name="page" form="short">頁</term>   
+    <term name="number-of-volumes" form="short">
+      <single>vol.</single>
+      <multiple>vols.</multiple>
+    </term>
+    <term name="page-first" form="short">
+      <single>p.</single>
+      <multiple>pp.</multiple>
+    </term>
+    <term name="printing" form="short">
+      <single>print.</single>
+      <multiple>prints.</multiple>
+    </term>
+    
+
     <term name="number-of-pages" form="short">共</term>    
     <term name="paragraph" form="short">段</term>
     <term name="part" form="short">部</term>
     <term name="section" form="short">節</term>
+    <term name="supplement" form="short">
+      <single>supp.</single>
+      <multiple>supps.</multiple>
+    </term>
     <term name="sub-verbo" form="short">另見</term>   
     <term name="verse" form="short">篇</term>      
     <term name="volume" form="short">卷</term>
@@ -295,12 +362,25 @@
       <single>¶</single>
       <multiple>¶¶</multiple>
     </term>
+    <term name="chapter-number">
+      <single>chapter</single>
+      <multiple>chapters</multiple>
+    </term>
+    <term name="citation-number">
+      <single>citation</single>
+      <multiple>citations</multiple>
+    </term>
+    <term name="collection-number">期</term>
     <term name="section" form="symbol">
       <single>§</single>
       <multiple>§§</multiple>
     </term>
 
     <!-- LONG ROLE FORMS -->
+    <term name="collection-editor">
+      <single>ed.</single>
+      <multiple>eds.</multiple>
+    </term>
     <term name="chair">
       <single>chair</single>
       <multiple>chairs</multiple>
@@ -353,7 +433,6 @@
       <single>series creator</single>
       <multiple>series creators</multiple>
     </term>
-    <term name="author">作者</term>     
     <term name="director">導演</term>     
     <term name="editor">編輯</term> 
     <term name="editorial-director">主編</term>     
@@ -405,7 +484,6 @@
       <single>cre.</single>
       <multiple>cres.</multiple>
     </term>
-    <term name="author" form="short">作者</term>     
     <term name="director" form="short">導演</term>     
     <term name="editor" form="short">編輯</term> 
     <term name="editorial-director" form="short">主編</term>     
@@ -431,7 +509,6 @@
     <term name="producer" form="verb">produced by</term>
     <term name="script-writer" form="verb">written by</term>
     <term name="series-creator" form="verb">created by</term>
-    <term name="author" form="verb">著</term>
     <term name="container-author" form="verb">著</term>
     <term name="director" form="verb">指導</term>
     <term name="editor" form="verb">編輯</term>
