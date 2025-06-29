@@ -4,6 +4,7 @@
         "ar":  "ar",
         "bal": "bal-PK",
         "bg":  "bg-BG",
+        "brh": "brh-PK",
         "ca":  "ca-AD",
         "cs":  "cs-CZ",
         "cy":  "cy-GB",
@@ -68,6 +69,10 @@
         "bg-BG": [
             "Български",
             "Bulgarian"
+        ],
+        "brh-PK": [
+            "براہوئی",
+            "Brahui"
         ],
         "ca-AD": [
             "Català",
