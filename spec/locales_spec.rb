@@ -7,7 +7,7 @@ Locales.each_pair do |id, (filename, path, locale)|
     end
 
     it "has a conventional file name" do
-      expect(filename).to match(/^locales-[a-z]{2,3}(-[A-Z]{2})?\.xml$/)
+      expect(filename).to match(/^locales-[a-z]{2}(-[A-Z]{2})?\.xml$/)
     end
 
     it "was successfully parsed" do
@@ -28,7 +28,7 @@ Locales.each_pair do |id, (filename, path, locale)|
       end unless NO_REGIONS.include?(locale.language.to_s)
 
       it "its language and region match the filename" do
-        expect(locale.to_s).to eq(id[8..])
+        expect(locale.to_s).to eq(id[8,5])
       end
 
       it "has and info/rights element" do
