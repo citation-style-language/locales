@@ -154,10 +154,11 @@
     <term name="webpage">webpage</term>
 
     <!-- SHORT ITEM TYPE FORMS -->
-    <!-- Omitted short forms: article, bill, broadcast, entry, event, graphic, hearing, legal_case, legislation, map, performance, periodical, regulation, software, speech, standard, thesis, treaty, webpage -->
+    <!-- Omitted short forms: article, bill, entry, event, graphic, hearing, map, periodical, speech, treaty -->
     <term name="article-journal" form="short">jour. art.</term> <!-- ODWE -->
     <term name="article-magazine" form="short">mag. art.</term> <!-- ODWE -->
     <term name="article-newspaper" form="short">newspaper art.</term>
+    <term name="broadcast" form="short">bdcst.</term> <!-- ODA -->
     <!-- book is in the list of locator terms -->
     <!-- chapter is in the list of locator terms -->
     <term name="classic" form="short">class. wk.</term> <!-- ODWE -->
@@ -166,21 +167,30 @@
     <term name="entry-dictionary" form="short">dict. entry</term>
     <term name="entry-encyclopedia" form="short">ency. entry</term>
     <!-- figure is in the list of locator terms -->
+    <term name="graphic" form="short">gr.</term> <!-- ODA -->
     <term name="interview" form="short">int.</term> <!-- ODA -->
+    <term name="legal_case" form="short">leg. case</term> <!-- ODA -->
+    <term name="legislation" form="short">legis.</term> <!-- ODA -->
     <term name="manuscript" form="short">
       <single>MS</single>
       <multiple>MSS</multiple>
     </term>
-    <term name="motion_picture" form="short">video rec.</term> <!-- ODWE -->
+    <term name="motion_picture" form="short">vid. rec.</term> <!-- ODA -->
     <term name="musical_score" form="short">mus. score</term> <!-- ODWE -->
     <term name="pamphlet" form="short">pam.</term> <!-- ODWE -->
-    <term name="paper-conference" form="short">conf. paper</term> <!-- ODWE -->
+    <term name="paper-conference" form="short">conf. paper</term> <!-- ODA -->
     <term name="patent" form="short">pat.</term> <!-- ODWE -->
+    <term name="performance" form="short">prfm.</term> <!-- ODA -->
     <term name="personal_communication" form="short">pers. comm.</term>
+    <term name="regulation" form="short">reg.</term> <!-- ODA -->
     <term name="report" form="short">rep.</term> <!-- ODWE -->
     <term name="review" form="short">rev.</term>
     <term name="review-book" form="short">bk. rev.</term>
-    <term name="song" form="short">audio rec.</term> <!-- ODWE -->
+    <term name="software" form="short">sftw.</term> <!-- ODA -->
+    <term name="song" form="short">au. rec.</term> <!-- ODA -->
+    <term name="standard" form="short">std.</term> <!-- ODA -->
+    <term name="thesis" form="short">thes.</term> <!-- ODA -->
+    <term name="webpage" form="short">webpg.</term> <!-- ODA -->
 
     <!-- VERB ITEM TYPE FORMS -->
     <!-- Only where applicable -->
