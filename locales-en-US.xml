@@ -229,9 +229,9 @@
 
     <!-- SHORT VERB ITEM TYPE FORMS -->
     <!-- Only where applicable -->
-    <term name="hearing" form="verb" form="short">test. of</term> <!-- ODA -->
-    <term name="review" form="verb" form="short">rev. of</term>
-    <term name="review-book" form="verb" form="short">rev. of the bk.</term>
+    <term name="hearing" form="verb-short">test. of</term> <!-- ODA -->
+    <term name="review" form="verb-short">rev. of</term>
+    <term name="review-book" form="verb-short">rev. of the bk.</term>
 
     <!-- HISTORICAL ERA TERMS -->
     <term name="ad">AD</term>
