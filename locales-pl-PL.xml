@@ -10,8 +10,11 @@
     <translator>
       <name>Pendzoncymisio</name>
     </translator>
+    <translator>
+      <name>Kacper Kłosowski</name>
+    </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2012-07-04T23:31:02+00:00</updated>
+    <updated>2025-07-02T16:00:00+00:00</updated>
   </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
@@ -31,10 +34,10 @@
     <term name="film">film</term>
     <term name="henceforth">henceforth</term>
     <term name="loc-cit">loc. cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
-    <term name="no-place">no place</term>
-    <term name="no-place" form="short">n.p.</term>
-    <term name="no-publisher">no publisher</term> <!-- sine nomine -->
-    <term name="no-publisher" form="short">n.p.</term>
+    <term name="no-place">brak miejsca</term> <!--K.K.-->
+    <term name="no-place" form="short">b. m.</term> <!--K.K.-->
+    <term name="no-publisher">brak wydawcy</term> <!-- sine nomine --> <!--K.K.-->
+    <term name="no-publisher" form="short">b. w.</term> <!--K.K.-->
     <term name="on">on</term>
     <term name="op-cit">op. cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
     <term name="original-work-published">original work published</term>
@@ -61,15 +64,15 @@
     <term name="available at">dostępne na</term>
     <term name="by">przez</term>
     <term name="circa">około</term>
-    <term name="circa" form="short">ok</term>
+    <term name="circa" form="short">ok.</term> <!--K.K. missing dot which should be there per translating locales documentation-->
     <term name="cited">cytowane</term>
     <term name="first-reference-note-number">
       <single>reference</single>
       <multiple>references</multiple>
     </term>
-    <term name="number">
-      <single>number</single>
-      <multiple>numbers</multiple>
+    <term name="number"> <!--K.K.-->
+      <single>numer</single>
+      <multiple>numery</multiple>
     </term>
     <term name="edition">
       <single>wydanie</single>
@@ -79,9 +82,9 @@
       <single>ref.</single>
       <multiple>refs.</multiple>
     </term>
-    <term name="number" form="short">
-      <single>no.</single>
-      <multiple>nos.</multiple>
+    <term name="number" form="short"> <!--K.K.-->
+      <single>nr</single>
+      <multiple>nr.</multiple>
     </term>
     <term name="edition" form="short">wyd.</term>
     <term name="et-al">i in.</term>
@@ -93,7 +96,7 @@
     <term name="internet">internet</term>
     <term name="letter">list</term>
     <term name="no date">brak daty</term>
-    <term name="no date" form="short">b.d.</term>
+    <term name="no date" form="short">b. d.</term> <!--K.K. added space which I think is the norm in Polish abbrev.-->
     <term name="online">online</term>
     <term name="presented at">zaprezentowano na</term>
     <term name="reference">
@@ -211,50 +214,50 @@
     <term name="long-ordinal-09">dziewiąty</term>
     <term name="long-ordinal-10">dziesiąty</term>
 
-    <!-- LONG LOCATOR FORMS -->
-    <term name="act">			 
+    <!-- LONG LOCATOR FORMS --> <!--K.K. I would aim for 100% translation, but some are problematic -->
+    <term name="act"> <!--K.K. This one should be left untranslated and for the style creator to decide imo, as depending on the context translation can vary (for example in law the plural form would be akta, but in play it would be akty)-->
       <single>act</single>
-      <multiple>acts</multiple>						 
+      <multiple>acts</multiple>
     </term>
-    <term name="appendix">			 
-      <single>appendix</single>
-      <multiple>appendices</multiple>						 
+    <term name="appendix"> <!--K.K. see: https://sjp.pwn.pl/poradnia/haslo/Aneks-a-apendyks;22723.html-->
+      <single>załącznik</single>
+      <multiple>załączniki</multiple>						 
     </term>
-    <term name="article-locator">			 
-      <single>article</single>
-      <multiple>articles</multiple>						 
+    <term name="article-locator"> <!--K.K.-->
+      <single>artykuł</single>
+      <multiple>artykuły</multiple>						 
     </term>
-    <term name="canon">			 
+    <term name="canon"> <!--K.K. not sure what that means -->
       <single>canon</single>
       <multiple>canons</multiple>						 
     </term>
-    <term name="elocation">			 
+    <term name="elocation"> <!--K.K. lokacja, or lokalizacja?-->
       <single>location</single>
       <multiple>locations</multiple>						 
     </term>
-    <term name="equation">			 
-      <single>equation</single>
-      <multiple>equations</multiple>						 
+    <term name="equation"> <!--K.K.-->
+      <single>równanie</single>
+      <multiple>równania</multiple>						 
     </term>
-    <term name="rule">			 
-      <single>rule</single>
-      <multiple>rules</multiple>						 
+    <term name="rule"> <!--K.K.-->
+      <single>zasada</single>
+      <multiple>zasady</multiple>						 
     </term>
-    <term name="scene">			 
-      <single>scene</single>
-      <multiple>scenes</multiple>						 
+    <term name="scene"> <!--K.K.-->
+      <single>scena</single>
+      <multiple>sceny</multiple>						 
     </term>
-    <term name="table">			 
-      <single>table</single>
-      <multiple>tables</multiple>						 
+    <term name="table"> <!--K.K.-->
+      <single>tabela</single>
+      <multiple>tabele</multiple>						 
     </term>
     <term name="timestamp"> <!-- generally blank -->
       <single></single>
       <multiple></multiple>						 
     </term>
-    <term name="title-locator">			 
-      <single>title</single>
-      <multiple>titles</multiple>						 
+    <term name="title-locator"> <!--K.K.-->
+      <single>tytuł</single>
+      <multiple>tytuły</multiple>						 
     </term>
     <term name="book">
       <single>książka</single>
@@ -296,28 +299,30 @@
       <single>strona</single>
       <multiple>strony</multiple>
     </term>
-    <term name="number-of-volumes">
-      <single>volume</single>
-      <multiple>volumes</multiple>
+    <term name="number-of-volumes"> <!--K.K.-->
+      <single>tom</single>
+      <multiple>tomy</multiple>
     </term>
-    <term name="page-first">
-      <single>page</single>
-      <multiple>pages</multiple>
+    <term name="page-first"> <!--K.K.-->
+      <single>strona</single>
+      <multiple>strony</multiple>
     </term>
-    <term name="printing">
-      <single>printing</single>
-      <multiple>printings</multiple>
+    <term name="printing"> <!--K.K.-->
+      <single>druk</single>
+      <multiple>druki</multiple>
     </term>
 
-    <term name="chapter-number" form="short">
-      <single>chap.</single>
-      <multiple>chaps.</multiple>
+    <term name="chapter-number" form="short"> <!--K.K.-->
+      <single>rozdz.</single>
+      <multiple>rozdz.</multiple>
     </term>
-    <term name="citation-number" form="short">
-      <single>cit.</single>
-      <multiple>cits.</multiple>
+    <term name="citation-number" form="short"> <!--K.K.-->
+      <single>cyt.</single>
+      <multiple>cyt.</multiple>
     </term>
-    <term name="collection-number" form="short">nr</term>
+    <term name="collection-number" form="short"> <!--K.K.-->
+      <single>nr</term>
+      <multiple>nr.</multiple>
     <term name="number-of-pages">
       <single>strona</single>
       <multiple>strony</multiple>
@@ -334,9 +339,9 @@
       <single>sekcja</single>
       <multiple>sekcje</multiple>
     </term>
-    <term name="supplement">
+    <term name="supplement"> <!--K.K.-->
       <single>supplement</single>
-      <multiple>supplements</multiple>
+      <multiple>supplementy</multiple>
     </term>
     <term name="sub-verbo">
       <single>sub verbo</single>
@@ -352,41 +357,41 @@
     </term>
 
     <!-- SHORT LOCATOR FORMS -->
-    <term name="appendix" form="short">			 
-      <single>app.</single>
-      <multiple>apps.</multiple>						 
+    <term name="appendix" form="short"> <!--K.K. see: https://sjp.pwn.pl/poradnia/haslo/Aneks-a-apendyks;22723.html-->
+      <single>zał.</single>
+      <multiple>zał.</multiple>						 
     </term>
-    <term name="article-locator" form="short">			 
+    <term name="article-locator" form="short"> <!--K.K.-->
       <single>art.</single>
-      <multiple>arts.</multiple>
+      <multiple>art.</multiple>
     </term>
-    <term name="elocation" form="short">			 
+    <term name="elocation" form="short"> <!--K.K. lokacja, or lokalizacja?-->
       <single>loc.</single>
       <multiple>locs.</multiple>
     </term>
-    <term name="equation" form="short">			 
-      <single>eq.</single>
-      <multiple>eqs.</multiple>
+    <term name="equation" form="short"> <!--K.K.-->
+      <single>równ.</single>
+      <multiple>równ.</multiple>
     </term>
-    <term name="rule" form="short">			 
-      <single>r.</single>
-      <multiple>rr.</multiple>						 
+    <term name="rule" form="short"> <!--K.K.-->
+      <single>zas.</single>
+      <multiple>zas.</multiple>						 
     </term>
-    <term name="scene" form="short">			 
+    <term name="scene" form="short"> <!--K.K.-->
       <single>sc.</single>
-      <multiple>scs.</multiple>						 
+      <multiple>sc.</multiple>						 
     </term>
-    <term name="table" form="short">			 
-      <single>tbl.</single>
-      <multiple>tbls.</multiple>						 
+    <term name="table" form="short"> <!--K.K.-->
+      <single>tab.</single>
+      <multiple>tab.</multiple>						 
     </term>
     <term name="timestamp" form="short"> <!-- generally blank -->
       <single></single>
       <multiple></multiple>						 
     </term>
-    <term name="title-locator" form="short">			 
-      <single>tit.</single>
-      <multiple>tits.</multiple>
+    <term name="title-locator" form="short"> <!--K.K.-->
+      <single>tyt.</single>
+      <multiple>tyt.</multiple>
     </term>
     <term name="book" form="short">książka</term>
     <term name="chapter" form="short">rozdz.</term>
@@ -401,30 +406,30 @@
       <single>s.</single>
       <multiple>s.</multiple>
     </term>
-    <term name="number-of-volumes" form="short">
-      <single>vol.</single>
-      <multiple>vols.</multiple>
+    <term name="number-of-volumes" form="short"> <!--K.K.-->
+      <single>t.</single>
+      <multiple>t.</multiple>
     </term>
-    <term name="page-first" form="short">
-      <single>p.</single>
-      <multiple>pp.</multiple>
-    </term>
-    <term name="printing" form="short">
-      <single>print.</single>
-      <multiple>prints.</multiple>
-    </term>
-    
-
-    <term name="number-of-pages" form="short">
+    <term name="page-first" form="short"> <!--K.K.-->
       <single>s.</single>
-      <multiple>ss.</multiple>
+      <multiple>s.</multiple>
+    </term>
+    <term name="printing" form="short"> <!--K.K.-->
+      <single>druk</single>
+      <multiple>druk.</multiple>
+    </term>
+   
+
+    <term name="number-of-pages" form="short"> <!--K.K.-->
+      <single>s.</single>
+      <multiple>s.</multiple>
     </term>
     <term name="paragraph" form="short">akap.</term>
     <term name="part" form="short">cz.</term>
     <term name="section" form="short">sekc.</term>
-    <term name="supplement" form="short">
-      <single>supp.</single>
-      <multiple>supps.</multiple>
+    <term name="supplement" form="short"> <!--K.K.-->
+      <single>sup.</single>
+      <multiple>sup.</multiple>
     </term>
     <term name="sub-verbo" form="short">
       <single>s.v.</single>
@@ -444,13 +449,13 @@
       <single>¶</single>
       <multiple>¶¶</multiple>
     </term>
-    <term name="chapter-number">
-      <single>chapter</single>
-      <multiple>chapters</multiple>
+    <term name="chapter-number"> <!--K.K.-->
+      <single>rozdział</single>
+      <multiple>rozdziały</multiple>
     </term>
-    <term name="citation-number">
-      <single>citation</single>
-      <multiple>citations</multiple>
+    <term name="citation-number"> <!--K.K.-->
+      <single>cytowanie</single>
+      <multiple>cytowania</multiple>
     </term>
     <term name="collection-number">
       <single>numer</single>
