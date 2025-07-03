@@ -321,7 +321,7 @@
       <multiple>cyt.</multiple>
     </term>
     <term name="collection-number" form="short">
-      <single>nr</term>
+      <single>nr</single>
       <multiple>nr.</multiple>
     <term name="number-of-pages">
       <single>strona</single>
