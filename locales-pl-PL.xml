@@ -34,10 +34,10 @@
     <term name="film">film</term>
     <term name="henceforth">henceforth</term>
     <term name="loc-cit">loc. cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
-    <term name="no-place">brak miejsca</term> <!--K.K.-->
-    <term name="no-place" form="short">b. m.</term> <!--K.K.-->
+    <term name="no-place">brak miejsca wydania</term> <!--K.K.-->
+    <term name="no-place" form="short">b.m.w.</term> <!--K.K.-->
     <term name="no-publisher">brak wydawcy</term> <!-- sine nomine --> <!--K.K.-->
-    <term name="no-publisher" form="short">b. w.</term> <!--K.K.-->
+    <term name="no-publisher" form="short">b.w.</term> <!--K.K.-->
     <term name="on">on</term>
     <term name="op-cit">op. cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
     <term name="original-work-published">original work published</term>
@@ -95,8 +95,8 @@
     <term name="in press">w druku</term>
     <term name="internet">internet</term>
     <term name="letter">list</term>
-    <term name="no date">brak daty</term>
-    <term name="no date" form="short">b. d.</term> <!--K.K. added space which I think is the norm in Polish abbrev.-->
+    <term name="no date">brak daty</term> <!--K.K.-->
+    <term name="no date" form="short">b.d.</term> <!--K.K.-->
     <term name="online">online</term>
     <term name="presented at">zaprezentowano na</term>
     <term name="reference">
@@ -214,10 +214,10 @@
     <term name="long-ordinal-09">dziewiąty</term>
     <term name="long-ordinal-10">dziesiąty</term>
 
-    <!-- LONG LOCATOR FORMS --> <!--K.K. I would aim for 100% translation, but some are problematic -->
-    <term name="act"> <!--K.K. This one should be left untranslated and for the style creator to decide imo, as depending on the context translation can vary (for example in law the plural form would be akta, but in play it would be akty)-->
-      <single>act</single>
-      <multiple>acts</multiple>
+    <!-- LONG LOCATOR FORMS -->
+    <term name="act"> <!--K.K.-->
+      <single>akt</single>
+      <multiple>akty</multiple>
     </term>
     <term name="appendix"> <!--K.K. see: https://sjp.pwn.pl/poradnia/haslo/Aneks-a-apendyks;22723.html-->
       <single>załącznik</single>
@@ -227,13 +227,13 @@
       <single>artykuł</single>
       <multiple>artykuły</multiple>						 
     </term>
-    <term name="canon"> <!--K.K. not sure what that means -->
-      <single>canon</single>
-      <multiple>canons</multiple>						 
+    <term name="canon"> <!--K.K.-->
+      <single>kanon</single>
+      <multiple>kanony</multiple>						 
     </term>
-    <term name="elocation"> <!--K.K. lokacja, or lokalizacja?-->
-      <single>location</single>
-      <multiple>locations</multiple>						 
+    <term name="elocation"> <!--K.K.-->
+      <single>lokalizacja</single>
+      <multiple>lokalizacje</multiple>						 
     </term>
     <term name="equation"> <!--K.K.-->
       <single>równanie</single>
@@ -340,8 +340,8 @@
       <multiple>sekcje</multiple>
     </term>
     <term name="supplement"> <!--K.K.-->
-      <single>supplement</single>
-      <multiple>supplementy</multiple>
+      <single>suplement</single>
+      <multiple>suplementy</multiple>
     </term>
     <term name="sub-verbo">
       <single>sub verbo</single>
@@ -365,9 +365,9 @@
       <single>art.</single>
       <multiple>art.</multiple>
     </term>
-    <term name="elocation" form="short"> <!--K.K. lokacja, or lokalizacja?-->
-      <single>loc.</single>
-      <multiple>locs.</multiple>
+    <term name="elocation" form="short"> <!--K.K.-->
+      <single>lok.</single>
+      <multiple>lok.</multiple>
     </term>
     <term name="equation" form="short"> <!--K.K.-->
       <single>równ.</single>
