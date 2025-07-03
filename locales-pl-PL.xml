@@ -323,6 +323,7 @@
     <term name="collection-number" form="short">
       <single>nr</single>
       <multiple>nr.</multiple>
+    </term>
     <term name="number-of-pages">
       <single>strona</single>
       <multiple>strony</multiple>
