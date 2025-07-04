@@ -26,7 +26,7 @@
       <uri>https://orcid.org/0000-0001-9560-6336</uri>
     </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2025-06-29T16:25:47-04:00</updated>
+    <updated>2025-07-04T10:49:24-04:00</updated>
   </info>
   <style-options punctuation-in-quote="true"/>
   <date form="text">
@@ -234,10 +234,10 @@
     <term name="review-book" form="verb-short">rev. of the bk.</term>
 
     <!-- HISTORICAL ERA TERMS -->
-    <term name="ad">AD</term>
-    <term name="bc">BC</term>
-    <term name="bce">BCE</term>
-    <term name="ce">CE</term>
+    <term name="ad"> AD</term>
+    <term name="bc"> BC</term>
+    <term name="bce"> BCE</term>
+    <term name="ce"> CE</term>
 
     <!-- PUNCTUATION -->
     <term name="open-quote">“</term>
