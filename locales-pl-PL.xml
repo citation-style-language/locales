@@ -87,7 +87,7 @@
       <multiple>nr.</multiple>
     </term>
     <term name="edition" form="short">wyd.</term>
-    <term name="et-al">et al.</term>
+    <term name="et-al">et al.</term> <!-- Translated 'i in.' is used less commonly -->
     <term name="forthcoming">w przygotowaniu</term>
     <term name="from">z</term>
     <term name="ibid">ibid.</term>
