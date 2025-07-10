@@ -35,13 +35,13 @@
     <term name="henceforth">henceforth</term>
     <term name="loc-cit">loc. cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
     <term name="no-place">brak miejsca wydania</term>
-    <term name="no-place" form="short">b.m.w.</term>
+    <term name="no-place" form="short">b.m.</term>
     <term name="no-publisher">brak wydawcy</term> <!-- sine nomine -->
     <term name="no-publisher" form="short">b.w.</term>
     <term name="on">on</term>
     <term name="op-cit">op. cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
     <term name="original-work-published">original work published</term>
-    <term name="personal-communication">osobista komunikacja</term>
+    <term name="personal-communication">korespondencja prywatna</term>
     <term name="podcast">podcast</term>
     <term name="podcast-episode">podcast episode</term>
     <term name="preprint">preprint</term>
@@ -79,15 +79,15 @@
       <multiple>wydania</multiple>
     </term>
     <term name="first-reference-note-number" form="short">
-      <single>ref.</single>
-      <multiple>refs.</multiple>
+      <single>cyt.</single>
+      <multiple>cyt.</multiple>
     </term>
     <term name="number" form="short">
       <single>nr</single>
       <multiple>nr.</multiple>
     </term>
     <term name="edition" form="short">wyd.</term>
-    <term name="et-al">i in.</term>
+    <term name="et-al">et al.</term> <!-- Translated 'i in.' is used less commonly -->
     <term name="forthcoming">w przygotowaniu</term>
     <term name="from">z</term>
     <term name="ibid">ibid.</term>
@@ -107,8 +107,8 @@
       <single>ref.</single>
       <multiple>ref.</multiple>
     </term>
-    <term name="review-of">review of</term>
-    <term name="review-of" form="short">rev. of</term>
+    <term name="review-of">recenzja</term>
+    <term name="review-of" form="short">rec.</term>
     <term name="retrieved">pobrano</term>
     <term name="scale">skala</term>
     <term name="version">wersja</term>
