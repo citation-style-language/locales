@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="af-ZA">
+   <!-- The abbreviations in this file follow the recommendations of the Afrikaanse woordelys en spelreëls ["Afrikaans word list and spelling rules"], 11th ed. (2017), sec. "Afkortingslys" ["abbreviation list"], https://www.pharosonline.co.za/aws (cited hereafter as AWS), unless stated otherwise (previous editions available at http://hdl.handle.net/2263/81572). -->
+  <!-- Additional abbreviations are from:
+        1. Verklarende Afrikaanse woordeboek, 9th ed. (2010), https://www.pharosonline.co.za/ (cited hereafter as VAW)
+        2. Skryf Afrikaans van A tot Z, 3rd ed. (2022), https://www.pharosonline.co.za/saaz (cited hereafter as SAAZ)
+        3. Pharos Afrikaansgids : Naslaanlyste en taalreëls (2018), https://research.ebsco.com/plink/95703106-0979-30de-bdd7-fc66c1eb3b3a or https://www.pharosonline.co.za/afrikaansgids (cited hereafter as PANT)
+        4. The style guides and/or author guidelines of the following Afrikaans-language journals: Literator (cited hereafter as LR) (https://literator.org.za/index.php/literator/pages/view/submission-guidelines#part_1), LitNet Akademies (cited hereafter as LA) (https://www.litnet.co.za/litnet-akademies-geesteswetenskappe-riglyne/), Stilet (cited hereafter as ST) (https://journals.co.za/journal/stilet/submit), Tydskrif vir Geesteswetenskappe (cited hereafter as TG) (https://tgwsak.co.za/voorskrifte/), Tydskrif vir Letterkunde (cited hereafter as TL) (https://letterkunde.africa/about)
+  -->
   <info>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
     <updated>2012-07-04T23:31:02+00:00</updated>
@@ -21,13 +28,13 @@
     <term name="audio-recording">klankopname</term>
     <term name="film">film</term>
     <term name="henceforth">voortaan</term>
-    <term name="loc-cit">loc.cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
+    <term name="loc-cit">loc.cit.</term> <!-- like ibid., the abbreviated form is the regular form, and in Afrikaans the abbreviated form contains no spaces (AWS), as explained in SAAW rule 4.3  -->
     <term name="no-place">sine loco</term>
     <term name="no-place" form="short">s.l.</term>
     <term name="no-publisher">sine nomine</term> <!-- sine nomine -->
     <term name="no-publisher" form="short">s.n.</term>
     <term name="on">op</term>
-    <term name="op-cit">op.cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
+    <term name="op-cit">op.cit.</term> <!-- like ibid., the abbreviated form is the regular form, and in Afrikaans the abbreviated form contains no spaces (AWS) as explained in SAAW rule 4.3  -->
     <term name="original-work-published">oorspronklik gepubliseer</term>
     <term name="personal-communication">persoonlike kommunikasie</term>
     <term name="podcast">podsending</term>
@@ -45,15 +52,14 @@
     <term name="working-paper">konsepdokument</term>
     <term name="accessed">geraadpleeg</term>
     <term name="and">en</term>
-    <term name="and others">en andere</term>
-    <term name="and others" form="short">e.a.</term>
+    <term name="and others">e.a.</term> <!-- like et al. the abbreviated form is the regular form in Afrikaans, also see LA  -->
     <term name="anonymous">anoniem</term>
     <term name="anonymous" form="short">anon.</term>
     <term name="at">by</term>
     <term name="available at">beskikbaar by</term>
     <term name="by">deur</term>
     <term name="circa">circa</term>
-    <term name="circa" form="short">c.</term>
+    <term name="circa" form="short">ca.</term> <!-- ca. is the only accepted abbreviation (AWS), not c. like in English  -->
     <term name="cited">aangehaal</term>
     <term name="first-reference-note-number">
       <single>verwysing</single>
@@ -68,15 +74,15 @@
       <multiple>uitgawes</multiple>
     </term>
     <term name="first-reference-note-number" form="short">
-      <single>verw.</single>
+      <single>verw.</single> 
       <multiple>verws.</multiple>
     </term>
     <term name="number" form="short">
-      <single>nr.</single>
+      <single>nr.</single> <!-- both no. and nr. are accepted (AWS), but nr. less ambiguous due to other abbreviations using no  -->
       <multiple>nrs.</multiple>
     </term>
     <term name="edition" form="short">uitg.</term>
-    <term name="et-al">et al.</term>
+    <term name="et-al">et al.</term> <!-- unlike op.cit. the term et al. does contain a space (AWS) as explained in SAAW rule 4.3 because only second word of term is abbreviated  -->
     <term name="forthcoming">voorhande</term>
     <term name="from">van</term>
     <term name="ibid">ibid.</term>
@@ -93,11 +99,11 @@
       <multiple>verwysings</multiple>
     </term>
     <term name="reference" form="short">
-      <single>verw.</single>
+      <single>verw.</single> 
       <multiple>verws.</multiple>
     </term>
     <term name="review-of">resensie van</term>
-    <term name="review-of" form="short">rev. of</term>
+    <term name="review-of" form="short">resensie v.</term>
     <term name="retrieved">geraadpleeg</term>
     <term name="scale">skaal</term>
     <term name="version">weergawe</term>
@@ -150,7 +156,7 @@
     <term name="webpage">webblad</term>
 
     <!-- SHORT ITEM TYPE FORMS -->
-    <term name="article-journal" form="short">joernaalart.</term>
+    <term name="article-journal" form="short">joernaalart.</term> <!-- no accepted abbreviation for joernaal in Afrikaans, the abbreviation joern. is only for joernalistiek  -->
     <term name="article-magazine" form="short">tydskrifart.</term>
     <term name="article-newspaper" form="short">koerantart.</term>
     <!-- book is in the list of locator terms -->
@@ -158,13 +164,13 @@
     <term name="document" form="short">dok.</term>
     <!-- figure is in the list of locator terms -->
     <term name="graphic" form="short">visuele mat.</term>
-    <term name="interview" form="short">interv.</term>
-    <term name="manuscript" form="short">ms.</term>
-    <term name="motion_picture" form="short">video rec.</term>
-    <term name="report" form="short">rep.</term>
-    <term name="review" form="short">rev.</term>
-    <term name="review-book" form="short">bk. rev.</term>
-    <term name="song" form="short">audio rec.</term>
+    <term name="interview" form="short">interv.</term> <!-- no accepted abbreviation Afrikaans  -->
+    <term name="manuscript" form="short">ms.</term> <!-- AWS  -->
+    <term name="motion_picture" form="short">video rec.</term> <!-- no accepted abbreviation Afrikaans  -->
+    <term name="report" form="short">rep.</term> <!-- no accepted abbreviation Afrikaans  -->
+    <term name="review" form="short">rev.</term> <!-- no accepted abbreviation Afrikaans  -->
+    <term name="review-book" form="short">bk. rev.</term> <!-- no accepted abbreviation Afrikaans  -->
+    <term name="song" form="short">audio rec.</term> <!-- no accepted abbreviation Afrikaans  -->
 
     <!-- VERB ITEM TYPE FORMS -->
     <!-- Only where applicable -->
@@ -173,10 +179,10 @@
     <term name="review-book" form="verb">boekresensie van</term>
 
     <!-- HISTORICAL ERA TERMS -->
-    <term name="ad">AD</term>
-    <term name="bc">v.C.</term>
-    <term name="bce">VAJ</term>
-    <term name="ce">AJ</term>
+    <term name="ad">AD</term> <!-- anno Domini, abbreviation has no periods (AWS rule 3.11)  -->
+    <term name="bc">v.C.</term> <!-- voor Christus, note periods and casing (AWS) -->
+    <term name="bce">VAJ</term> <!-- voor algemene jaartelling, abbreviation has no periods (AWS rule 3.11)  -->
+    <term name="ce">AJ</term> <!-- algemene jaartelling, abbreviation has no periods (AWS rule 3.11) -->
 
     <!-- PUNCTUATION -->
     <term name="open-quote">“</term>
@@ -189,7 +195,7 @@
     <term name="semicolon">;</term>
 
     <!-- ORDINALS -->
-    <term name="ordinal">ste</term>
+    <term name="ordinal">ste</term> <!-- past 20 most ordinals are ste in Afrikaans  -->
     <term name="ordinal-01">ste</term>
     <term name="ordinal-02">de</term>
     <term name="ordinal-03">de</term>
@@ -286,7 +292,7 @@
     </term>
     <term name="folio">
       <single>folio</single>
-      <multiple>folio's</multiple>
+      <multiple>folio's</multiple> <!-- AWS rule 2.1 note apostrophe in plural  -->
     </term>
     <term name="issue">
       <single>nommer</single>
@@ -323,16 +329,16 @@
 
     <term name="chapter-number" form="short">
       <single>hfst.</single>
-      <multiple>hfste.</multiple>
+      <multiple>hfste.</multiple> <!-- AWS rule 3.16  -->
     </term>
     <term name="citation-number" form="short">
       <single>verw.</single>
       <multiple>verws.</multiple>
     </term>
     <term name="collection-number" form="short">nr.</term>
-    <term name="number-of-pages">
-      <single>bladsy</single>
-      <multiple>bladsye</multiple>
+    <term name="number-of-pages"> <!-- compare with term name pages as alternative  -->
+      <single>pagina</single>
+      <multiple>paginas</multiple>
     </term>
     <term name="paragraph">
       <single>paragraaf</single>
@@ -366,43 +372,43 @@
     <!-- SHORT LOCATOR FORMS -->
     <term name="appendix" form="short">			 
       <single>byl.</single>
-      <multiple>byl.</multiple>						 
+      <multiple>byl.</multiple>	<!--abbreviation remains the same for single and plural in this case (VAW)  -->					 
     </term>
     <term name="article-locator" form="short">			 
       <single>art.</single>
       <multiple>arts.</multiple>
     </term>
     <term name="elocation" form="short">			 
-      <single>loc.</single>
+      <single>loc.</single> <!-- no accepted abbreviation Afrikaans  -->
       <multiple>locs.</multiple>
     </term>
     <term name="equation" form="short">			 
-      <single>eq.</single>
-      <multiple>eqs.</multiple>
+      <single>verg.</single> 
+      <multiple>vergs.</multiple>
     </term>
     <term name="rule" form="short">			 
       <single>bep.</single>
       <multiple>beps.</multiple>						 
     </term>
     <term name="scene" form="short">			 
-      <single>sc.</single>
+      <single>sc.</single> <!-- no accepted abbreviation Afrikaans  -->
       <multiple>scs.</multiple>						 
     </term>
     <term name="table" form="short">			 
       <single>tab.</single>
-      <multiple>tabs.</multiple>						 
+      <multiple>tabs.</multiple> <!-- AWS rule 3.18 (note that plural abbreviation is determined by the plural version of the last letter of the abbeviation and not the plural of the word itself therefore tabs. not tabe.)  -->				 
     </term>
     <term name="timestamp" form="short"> <!-- generally blank -->
       <single></single>
       <multiple></multiple>						 
     </term>
     <term name="title-locator" form="short">			 
-      <single>tit.</single>
+      <single>tit.</single> <!-- no accepted abbreviation Afrikaans  -->
       <multiple>tits.</multiple>
     </term>
     <term name="book" form="short">bk.</term>
     <term name="chapter" form="short">hfst.</term>
-    <term name="column" form="short">kol.</term>
+    <term name="column" form="short">kol.</term> <!-- AWS both k. and kol. accepted abbreviations so kol. selected for disambiguation  -->
     <term name="figure" form="short">fig.</term>
     <term name="folio" form="short">fol.</term>
     <term name="issue" form="short">nr.</term>
@@ -411,15 +417,15 @@
     <term name="opus" form="short">op.</term>
     <term name="page" form="short">
       <single>bl.</single>
-      <multiple>ble.</multiple>
+      <multiple>ble.</multiple> <!-- AWS rule 3.18 see also LA  -->
     </term>
     <term name="number-of-volumes" form="short">
       <single>vol.</single>
       <multiple>vols.</multiple>
     </term>
     <term name="page-first" form="short">
-      <single>p.</single>
-      <multiple>pp.</multiple>
+      <single>p.</single> <!-- abbreviation for pagina (AWS) compare with term page  -->
+      <multiple>pp.</multiple> <!-- AWS does not list plural form of abbreviations but pp. widely used in academic writing (LA, TG, TL, ST, LR)   -->
     </term>
     <term name="printing" form="short">
       <single>dr.</single>
@@ -428,15 +434,15 @@
     
 
     <term name="number-of-pages" form="short">
-      <single>p.</single>
+      <single>p.</single> <!-- abbreviation for pagina (AWS) compare with page  -->
       <multiple>pp.</multiple>
     </term>
     <term name="paragraph" form="short">par.</term>
     <term name="part" form="short">dl.</term>
     <term name="section" form="short">afd.</term>
-    <term name="supplement" form="short">
+    <term name="supplement" form="short"> 
       <single>byl.</single>
-      <multiple>byl.</multiple>
+      <multiple>byl.</multiple> <!-- abbreviation remains the same for single and plural in this case (VAW)  -->
     </term>
     <term name="sub-verbo" form="short">
       <single>s.v.</single>
@@ -555,20 +561,20 @@
       <multiple>redakteurs &amp; vertalers</multiple>
     </term>
 
-    <!-- SHORT ROLE FORMS -->
+    <!-- SHORT ROLE FORMS --> 
     <term name="compiler" form="short">
-      <single>sames.</single>
-      <multiple>sames.</multiple>
+      <single>samest.</single>
+      <multiple>samest.</multiple> <!-- abbreviation remains the same for single and plural in this case (see LA)  -->
     </term>
-    <term name="contributor" form="short">
+    <term name="contributor" form="short"> <!-- no accepted abbreviation in Afrikaans  -->
       <single>bydraer</single>
       <multiple>bydraers</multiple>
     </term>
-    <term name="curator" form="short">
+    <term name="curator" form="short"> <!-- no accepted abbreviation in Afrikaans  -->
       <single>cur.</single>
       <multiple>curs.</multiple>
     </term>
-    <term name="executive-producer" form="short">
+    <term name="executive-producer" form="short"> <!-- no accepted abbreviation in Afrikaans  -->
       <single>exec. prod.</single>
       <multiple>exec. prods.</multiple>
     </term>
@@ -580,19 +586,19 @@
       <single>org.</single>
       <multiple>orgs.</multiple>
     </term>
-    <term name="performer" form="short">
+    <term name="performer" form="short"> <!-- no accepted abbreviation in Afrikaans  -->
       <single>perf.</single>
       <multiple>perfs.</multiple>
     </term>
-    <term name="producer" form="short">
+    <term name="producer" form="short"> <!-- no accepted abbreviation in Afrikaans  -->
       <single>prod.</single>
       <multiple>prods.</multiple>
     </term>
     <term name="script-writer" form="short">
-      <single>writ.</single>
-      <multiple>writs.</multiple>
+      <single>skr.</single>
+      <multiple>skrs.</multiple>
     </term>
-    <term name="series-creator" form="short">
+    <term name="series-creator" form="short"> <!-- no accepted abbreviation in Afrikaans  -->
       <single>cre.</single>
       <multiple>cres.</multiple>
     </term>
@@ -633,7 +639,7 @@
     <term name="narrator" form="verb">vertel deur</term>
     <term name="organizer" form="verb">georganiseer deur</term>
     <term name="performer" form="verb">uitgevoer deur</term>
-    <term name="producer" form="verb">geproduseer deur</term>
+    <term name="producer" form="verb">vervaardig deur</term>
     <term name="script-writer" form="verb">geskryf deur</term>
     <term name="series-creator" form="verb">geskep deur</term>
     <term name="container-author" form="verb">deur</term>
@@ -652,16 +658,16 @@
     <term name="compiler" form="verb-short">opg. deur</term>
     <term name="contributor" form="verb-short">met</term>
     <term name="curator" form="verb-short">gekureer deur</term>
-    <term name="executive-producer" form="verb-short">exec. prod. by</term>
-    <term name="guest" form="verb-short">w. guest</term>
-    <term name="host" form="verb-short">hosted by</term>
+    <term name="executive-producer" form="verb-short">exec. prod. by</term> <!-- no accepted abbreviation in Afrikaans  -->
+    <term name="guest" form="verb-short">w. guest</term> <!-- no accepted abbreviation in Afrikaans  -->
+    <term name="host" form="verb-short">hosted by</term> <!-- no accepted abbreviation in Afrikaans  -->
     <term name="narrator" form="verb-short">vertel</term>
-    <term name="organizer" form="verb-short">org. deur</term>
-    <term name="performer" form="verb-short">perf. by</term>
-    <term name="producer" form="verb-short">prod. by</term>
-    <term name="script-writer" form="verb-short">writ. by</term>
-    <term name="series-creator" form="verb-short">cre. by</term>
-    <term name="director" form="verb-short">dir.</term>
+    <term name="organizer" form="verb-short">georg. deur</term>
+    <term name="performer" form="verb-short">perf. by</term> <!-- no accepted abbreviation in Afrikaans  -->
+    <term name="producer" form="verb-short">prod. by</term> <!-- no accepted abbreviation in Afrikaans  -->
+    <term name="script-writer" form="verb-short">geskr. deur</term>
+    <term name="series-creator" form="verb-short">cre. by</term> <!-- no accepted abbreviation in Afrikaans  -->
+    <term name="director" form="verb-short">gedir. deur</term>
     <term name="editor" form="verb-short">o.r.v.</term>
     <term name="editorial-director" form="verb-short">o.r.v.</term>
     <term name="illustrator" form="verb-short">geïill. deur</term>
