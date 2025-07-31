@@ -494,6 +494,11 @@
     </term>
 
     <!-- SYMBOLIC LOCATOR FORMS -->
+    <term name="chapter" form="symbol">
+      <!-- caput/capita, esp. in legal works; cf. CMOS 14.196 -->
+      <single>c.</single>
+      <multiple>cc.</multiple>
+    </term>
     <term name="paragraph" form="symbol">
       <single>¶</single>
       <multiple>¶¶</multiple>
