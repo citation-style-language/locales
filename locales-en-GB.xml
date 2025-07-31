@@ -370,10 +370,6 @@
       <single>verse</single>
       <multiple>verses</multiple>
     </term>
-    <term name="version">
-      <single>version</single>
-      <multiple>versions</multiple>
-    </term>
     <term name="volume">
       <single>volume</single>
       <multiple>volumes</multiple>
@@ -485,7 +481,6 @@
       <single>v.</single>
       <multiple>vv.</multiple>
     </term>
-    <term name="version" form="short">v.</term> <!-- no plural -->
     <term name="volume" form="short">
       <single>vol.</single>
       <multiple>vols</multiple>
@@ -542,6 +537,10 @@
       <single>printing</single>
       <multiple>printings</multiple>
     </term>
+    <term name="version">
+      <single>version</single>
+      <multiple>versions</multiple>
+    </term>
 
     <!-- SHORT NUMBER VARIABLE FORMS -->
     <term name="chapter-number" form="short">
@@ -584,6 +583,7 @@
       <single>ptg</single>
       <multiple>ptgs</multiple>
     </term>
+    <term name="version" form="short">v.</term> <!-- no plural -->
 
     <!-- LONG ROLE FORMS -->
     <!-- Omitted roles:
