@@ -11,7 +11,7 @@
       <name>jotaemi</name>
     </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2025-07-08T11:40:47-04:00</updated>
+    <updated>2025-08-26T12:35:32-04:00</updated>
   </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
@@ -88,7 +88,7 @@
     <term name="forthcoming">previst</term>
     <term name="from">de</term>
     <term name="ibid">ibíd.</term>
-    <term name="in">en</term>
+    <term name="in">dins</term>
     <term name="in press">en impremta</term>
     <term name="internet">internet</term>
     <term name="letter">carta</term>
@@ -415,7 +415,7 @@
     <term name="opus" form="short">op.</term>
     <term name="page" form="short">
       <single>p.</single>
-      <multiple>p.</multiple>
+      <multiple>pp.</multiple>
     </term>
     <term name="number-of-volumes" form="short">
       <single>vol.</single>
@@ -423,7 +423,7 @@
     </term>
     <term name="page-first" form="short">
       <single>p.</single>
-      <multiple>p.</multiple>
+      <multiple>pp.</multiple>
     </term>
     <term name="printing" form="short">
       <single>print.</single>
@@ -433,7 +433,7 @@
 
     <term name="number-of-pages" form="short">
       <single>p.</single>
-      <multiple>p.</multiple>
+      <multiple>pp.</multiple>
     </term>
     <term name="paragraph" form="short">par.</term>
     <term name="part" form="short">pt.</term>
