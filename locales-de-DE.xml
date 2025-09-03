@@ -39,7 +39,7 @@
   <terms>
     <term name="advance-online-publication">Online-Vorab-Publikation</term>
     <term name="album">Album</term>
-    <term name="audio-recording">Audioaufzeichnung</term>
+    <term name="audio-recording">Tonaufnahme</term>
     <term name="film">Film</term>
     <term name="henceforth">zukünftig</term>
     <term name="loc-cit">loc. cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
@@ -127,7 +127,7 @@
     <term name="article-journal">Journalartikel</term>
     <term name="article-magazine">Magazinartikel</term>
     <term name="article-newspaper">Zeitungsartikel</term>
-    <term name="bill">Gesetz</term>
+    <term name="bill">Gesetzentwurf</term>
     <!-- book is in the list of locator terms -->
     <term name="broadcast">Sendung</term>
     <!-- chapter is in the list of locator terms -->
@@ -140,32 +140,32 @@
     <term name="entry-encyclopedia">Enzyklopädie Eintrag</term>
     <term name="event">Event</term>
     <!-- figure is in the list of locator terms -->
-    <term name="graphic">Grafik</term>
+    <term name="graphic">Bild</term>
     <term name="hearing">Anhörung</term>
     <term name="interview">Interview</term>
     <term name="legal_case">Rechtsfall</term>
-      <term name="legislation">Rechtsvorschrift</term>
+      <term name="legislation">Gesetz</term>
     <term name="manuscript">Manuskript</term>
     <term name="map">Karte</term>
     <term name="motion_picture">Videoaufnahme</term>
     <term name="musical_score">Partitur</term>
     <term name="pamphlet">Broschüre</term>
-    <term name="paper-conference">Konferenz Paper</term>
+    <term name="paper-conference">Konferenzbeitrag</term>
     <term name="patent">Patent</term>
     <term name="performance">Aufführung</term>
     <term name="periodical">Zeitschrift</term>
     <term name="personal_communication">persönliche Kommunikation</term>
     <term name="post">post</term>
     <term name="post-weblog">Blogeintrag</term>
-    <term name="regulation">Regelung</term>
+    <term name="regulation">Verordnung</term>
     <term name="report">Report</term>
     <term name="review">Rezension</term>
     <term name="review-book">Buchbesprechung</term>
     <term name="software">Software</term>
     <term name="song">Audioaufnahme</term>
-    <term name="speech">Presentation</term>
-    <term name="standard">Standard</term>
-    <term name="thesis">Diplomarbeit</term>
+    <term name="speech">Vortrag</term>
+    <term name="standard">Norm</term>
+    <term name="thesis">Abschlussarbeit</term>
     <term name="treaty">treaty</term>
     <term name="webpage">Webseite</term>
 
@@ -177,8 +177,8 @@
     <!-- chapter is in the list of locator terms -->
     <term name="document" form="short">doc.</term>
     <!-- figure is in the list of locator terms -->
-    <term name="graphic" form="short">graph.</term>
-    <term name="interview" form="short">interv.</term>
+    <term name="graphic" form="short">Bild</term>
+    <term name="interview" form="short">Interv.</term>
     <term name="manuscript" form="short">MS</term>
     <term name="motion_picture" form="short">video rec.</term>
     <term name="report" form="short">rep.</term>
@@ -229,8 +229,8 @@
       <multiple>acts</multiple>						 
     </term>
     <term name="appendix">			 
-      <single>appendix</single>
-      <multiple>appendices</multiple>						 
+      <single>Appendix</single>
+      <multiple>Appendices</multiple>						 
     </term>
     <term name="article-locator">			 
       <single>article</single>
