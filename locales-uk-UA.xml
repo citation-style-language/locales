@@ -157,6 +157,70 @@
     <term name="review-book" form="short">bk. rev.</term>
     <term name="song" form="short">audio rec.</term>
 
+    <!-- LONG ITEM TYPE FORMS -->
+    <term name="article">preprint</term>
+    <term name="article-journal">journal article</term>
+    <term name="article-magazine">magazine article</term>
+    <term name="article-newspaper">newspaper article</term>
+    <term name="bill">bill</term>
+    <!-- book is in the list of locator terms -->
+    <term name="broadcast">broadcast</term>
+    <!-- chapter is in the list of locator terms -->
+    <term name="classic">classic</term>
+    <term name="collection">collection</term>
+    <term name="dataset">dataset</term>
+    <term name="document">document</term>
+    <term name="entry">entry</term>
+    <term name="entry-dictionary">dictionary entry</term>
+    <term name="entry-encyclopedia">encyclopedia entry</term>
+    <term name="event">event</term>
+    <!-- figure is in the list of locator terms -->
+    <term name="graphic">graphic</term>
+    <term name="hearing">hearing</term>
+    <term name="interview">інтервю</term>
+    <term name="legal_case">legal case</term>
+    <term name="legislation">legislation</term>
+    <term name="manuscript">manuscript</term>
+    <term name="map">map</term>
+    <term name="motion_picture">video recording</term>
+    <term name="musical_score">musical score</term>
+    <term name="pamphlet">pamphlet</term>
+    <term name="paper-conference">conference paper</term>
+    <term name="patent">patent</term>
+    <term name="performance">performance</term>
+    <term name="periodical">periodical</term>
+    <term name="personal_communication">особисте спілкування</term>
+    <term name="post">post</term>
+    <term name="post-weblog">blog post</term>
+    <term name="regulation">regulation</term>
+    <term name="report">report</term>
+    <term name="review">review</term>
+    <term name="review-book">book review</term>
+    <term name="software">software</term>
+    <term name="song">audio recording</term>
+    <term name="speech">presentation</term>
+    <term name="standard">standard</term>
+    <term name="thesis">thesis</term>
+    <term name="treaty">treaty</term>
+    <term name="webpage">webpage</term>
+
+    <!-- SHORT ITEM TYPE FORMS -->
+    <term name="article-journal" form="short">journal art.</term>
+    <term name="article-magazine" form="short">mag. art.</term>
+    <term name="article-newspaper" form="short">newspaper art.</term>
+    <!-- book is in the list of locator terms -->
+    <!-- chapter is in the list of locator terms -->
+    <term name="document" form="short">doc.</term>
+    <!-- figure is in the list of locator terms -->
+    <term name="graphic" form="short">graph.</term>
+    <term name="interview" form="short">interv.</term>
+    <term name="manuscript" form="short">MS</term>
+    <term name="motion_picture" form="short">video rec.</term>
+    <term name="report" form="short">rep.</term>
+    <term name="review" form="short">rev.</term>
+    <term name="review-book" form="short">bk. rev.</term>
+    <term name="song" form="short">audio rec.</term>
+
     <!-- VERB ITEM TYPE FORMS -->
     <!-- Only where applicable -->
     <term name="hearing" form="verb">testimony of</term>
@@ -342,9 +406,13 @@
       <single>supplement</single>
       <multiple>supplements</multiple>
     </term>
+    <term name="supplement">
+      <single>supplement</single>
+      <multiple>supplements</multiple>
+    </term>
     <term name="sub-verbo">
       <single>див.</single>
-      <multiple>sub verbis</multiple>
+      <multiple></multiple>
     </term>
     <term name="verse">
       <single>вірш</single>
@@ -414,10 +482,10 @@
       <single>print.</single>
       <multiple>prints.</multiple>
     </term>
+
     <term name="number-of-pages" form="short">с.</term>
     <term name="paragraph" form="short">абз.</term>
     <term name="part" form="short">ч.</term>
-
     <term name="section" form="short">пар.</term>
     <term name="supplement" form="short">
       <single>supp.</single>
@@ -628,7 +696,6 @@
     <term name="illustrator" form="verb-short">іл.</term>
     <term name="translator" form="verb-short">пер.</term>
     <term name="editortranslator" form="verb-short">ed. &amp; trans. by</term>
->>>>>>> master
 
     <!-- LONG MONTH FORMS -->
     <term name="month-01">січень</term>
