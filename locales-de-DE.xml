@@ -124,7 +124,7 @@
 
     <!-- LONG ITEM TYPE FORMS -->
     <term name="article">preprint</term>
-    <term name="article-journal">Journalartikel</term>
+    <term name="article-journal">Zeitschriftenartikel</term>
     <term name="article-magazine">Magazinartikel</term>
     <term name="article-newspaper">Zeitungsartikel</term>
     <term name="bill">Gesetzentwurf</term>
@@ -137,7 +137,7 @@
     <term name="document">Dokument</term>
     <term name="entry">Eintrag</term>
     <term name="entry-dictionary">Wörterbucheintrag</term>
-    <term name="entry-encyclopedia">Enzyklopädie Eintrag</term>
+    <term name="entry-encyclopedia">Lexikoneintrag</term>
     <term name="event">Event</term>
     <!-- figure is in the list of locator terms -->
     <term name="graphic">Bild</term>
@@ -158,7 +158,7 @@
     <term name="post">post</term>
     <term name="post-weblog">Blogeintrag</term>
     <term name="regulation">Verordnung</term>
-    <term name="report">Report</term>
+    <term name="report">Bericht</term>
     <term name="review">Rezension</term>
     <term name="review-book">Buchbesprechung</term>
     <term name="software">Software</term>
@@ -170,7 +170,7 @@
     <term name="webpage">Webseite</term>
 
     <!-- SHORT ITEM TYPE FORMS -->
-    <term name="article-journal" form="short">Journalart.</term>
+    <term name="article-journal" form="short">Zeitschriftenart.</term>
     <term name="article-magazine" form="short">Mag. Art.</term>
     <term name="article-newspaper" form="short">newspaper art.</term>
     <!-- book is in the list of locator terms -->
@@ -475,56 +475,56 @@
 
     <!-- LONG ROLE FORMS -->
     <term name="chair">
-      <single>chair</single>
-      <multiple>chairs</multiple>
+      <single>Vorsitz</single>
+      <multiple>Vorsitz</multiple>
     </term>
     <term name="compiler">
-      <single>compiler</single>
-      <multiple>compilers</multiple>
+      <single>Bearbeiter</single>
+      <multiple>Bearbeiter</multiple>
     </term>
     <term name="contributor">
-      <single>contributor</single>
-      <multiple>contributors</multiple>
+      <single>Beitragende</single>
+      <multiple>Beitragende</multiple>
     </term>
     <term name="curator">
-      <single>curator</single>
-      <multiple>curators</multiple>
+      <single>Direktor</single>
+      <multiple>Direktor</multiple>
     </term>
     <term name="executive-producer">
-      <single>executive producer</single>
-      <multiple>executive producers</multiple>
+      <single>Produktionsleiter</single>
+      <multiple>Produktionsleiter</multiple>
     </term>
     <term name="guest">
-      <single>guest</single>
-      <multiple>guests</multiple>
+      <single>Gast</single>
+      <multiple>Gäste</multiple>
     </term>
     <term name="host">
-      <single>host</single>
-      <multiple>hosts</multiple>
+      <single>Gastgeber</single>
+      <multiple>Gastgeber</multiple>
     </term>
     <term name="narrator">
-      <single>narrator</single>
-      <multiple>narrators</multiple>
+      <single>Erzähler</single>
+      <multiple>Erzähler</multiple>
     </term>
     <term name="organizer">
-      <single>organizer</single>
-      <multiple>organizers</multiple>
+      <single>Veranstalter</single>
+      <multiple>Veranstalter</multiple>
     </term>
     <term name="performer">
-      <single>performer</single>
-      <multiple>performers</multiple>
+      <single>Künstler</single>
+      <multiple>Künstler</multiple>
     </term>
     <term name="producer">
-      <single>producer</single>
-      <multiple>producers</multiple>
+      <single>Produzent</single>
+      <multiple>Produzenten</multiple>
     </term>
     <term name="script-writer">
       <single>writer</single>
       <multiple>writers</multiple>
     </term>
     <term name="series-creator">
-      <single>series creator</single>
-      <multiple>series creators</multiple>
+      <single>Serienmacher</single>
+      <multiple>Serienmacher</multiple>
     </term>
     <term name="director">
       <single>Regisseur</single>
@@ -593,8 +593,8 @@
       <multiple>writs.</multiple>
     </term>
     <term name="series-creator" form="short">
-      <single>Ersch.</single>
-      <multiple>Ersch.</multiple>
+      <single>Serienmac..</single>
+      <multiple>Serienmac.</multiple>
     </term>
     <term name="director" form="short">
       <single>Reg.</single>
