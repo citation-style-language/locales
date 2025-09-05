@@ -542,6 +542,10 @@
       <single>ritstjóri og þýðandi</single>
       <multiple>ritstjórar og þýðendur</multiple>
     </term>
+    <term name="editor-translator">
+      <single>ritstjóri og þýðandi</single>
+      <multiple>ritstjórar og þýðendur</multiple>
+    </term>
 
     <!-- SHORT ROLE FORMS -->
     <term name="compiler" form="short">
@@ -608,6 +612,10 @@
       <single>ritstj. og þýð.</single>
       <multiple>ritstj. og þýð.</multiple>
     </term>
+    <term name="editor-translator" form="short">
+      <single>ritstj. og þýð.</single>
+      <multiple>ritstj. og þýð.</multiple>
+    </term>
 
     <!-- VERB ROLE FORMS -->
     <term name="collection-editor" form="verb">breytt af</term>
@@ -635,6 +643,7 @@
     <term name="collection-editor" form="verb-short">ristj.</term>
     <term name="translator" form="verb">þýddi</term>
     <term name="editortranslator" form="verb">ritstýrt og þýtt af</term>
+    <term name="editor-translator" form="verb">ritstýrt og þýtt af</term>
 
     <!-- SHORT VERB ROLE FORMS -->
     <term name="compiler" form="verb-short">comp. by</term>
@@ -655,6 +664,7 @@
     <term name="illustrator" form="verb-short">myndskr.</term>
     <term name="translator" form="verb-short">þýð.</term>
     <term name="editortranslator" form="verb-short">ritstj. og þýð.</term>
+    <term name="editor-translator" form="verb-short">ritstj. og þýð.</term>
 
     <!-- LONG MONTH FORMS -->
     <term name="month-01">janúar</term>
