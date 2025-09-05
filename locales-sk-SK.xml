@@ -7,8 +7,11 @@
     <translator>
       <name>kohafan</name>
     </translator>
+    <translator>
+      <name>Peter Kubala</name>
+    </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2014-03-09T22:23:31+00:00</updated>
+    <updated>2025-09-05T22:23:31+00:00</updated>
   </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
@@ -55,7 +58,7 @@
     <term name="anonymous">anonym</term>
     <term name="anonymous" form="short">anon.</term>
     <term name="at">v</term>
-    <term name="available at">available at</term>
+    <term name="available at">dostupné na</term>
     <term name="by">by</term>
     <term name="circa">circa</term>
     <term name="circa" form="short">cca.</term>
@@ -236,20 +239,20 @@
       <multiple>locations</multiple>						 
     </term>
     <term name="equation">			 
-      <single>equation</single>
-      <multiple>equations</multiple>						 
+      <single>rovnica</single>
+      <multiple>rovnice</multiple>						 
     </term>
     <term name="rule">			 
-      <single>rule</single>
-      <multiple>rules</multiple>						 
+      <single>pravidlo</single>
+      <multiple>pravidlá</multiple>						 
     </term>
     <term name="scene">			 
-      <single>scene</single>
-      <multiple>scenes</multiple>						 
+      <single>scéna</single>
+      <multiple>scény</multiple>						 
     </term>
     <term name="table">			 
-      <single>table</single>
-      <multiple>tables</multiple>						 
+      <single>tabuľka</single>
+      <multiple>tabuľky</multiple>						 
     </term>
     <term name="timestamp"> <!-- generally blank -->
       <single></single>
@@ -300,12 +303,12 @@
       <multiple>strany</multiple>
     </term>
     <term name="number-of-volumes">
-      <single>volume</single>
-      <multiple>volumes</multiple>
+      <single>zväzok</single>
+      <multiple>zväzky</multiple>
     </term>
     <term name="page-first">
-      <single>page</single>
-      <multiple>pages</multiple>
+      <single>strana</single>
+      <multiple>strany</multiple>
     </term>
     <term name="printing">
       <single>printing</single>
@@ -350,8 +353,8 @@
       <multiple>verše</multiple>
     </term>
     <term name="volume">
-      <single>ročník</single>
-      <multiple>ročníky</multiple>
+      <single>zväzok</single>
+      <multiple>zväzky</multiple>
     </term>
 
     <!-- SHORT LOCATOR FORMS -->
@@ -438,8 +441,8 @@
       <multiple>v.</multiple>
     </term>
     <term name="volume" form="short">
-      <single>roč.</single>
-      <multiple>roč.</multiple>
+      <single>zv.</single>
+      <multiple>zv.</multiple>
     </term>
 
     <!-- SYMBOL LOCATOR FORMS -->
@@ -545,6 +548,10 @@
       <single>zostavovateľ &amp; prekladateľ</single>
       <multiple>zostavovatelia &amp; prekladatelia</multiple>
     </term>
+    <term name="editor-translator">
+      <single>zostavovateľ &amp; prekladateľ</single>
+      <multiple>zostavovatelia &amp; prekladatelia</multiple>
+    </term>
 
     <!-- SHORT ROLE FORMS -->
     <term name="compiler" form="short">
@@ -611,6 +618,10 @@
       <single>ed. &amp; tran.</single>
       <multiple>eds. &amp; trans.</multiple>
     </term>
+    <term name="editor-translator" form="short">
+      <single>ed. &amp; tran.</single>
+      <multiple>eds. &amp; trans.</multiple>
+    </term>
 
     <!-- VERB ROLE FORMS -->
     <term name="collection-editor" form="verb">edited by</term>
@@ -638,6 +649,7 @@
     <term name="collection-editor" form="verb-short">ed. by</term>
     <term name="translator" form="verb">preložil</term>
     <term name="editortranslator" form="verb">zostavil &amp; preložil</term>
+    <term name="editor-translator" form="verb">zostavil &amp; preložil</term>
 
     <!-- SHORT VERB ROLE FORMS -->
     <term name="compiler" form="verb-short">comp. by</term>
@@ -658,6 +670,7 @@
     <term name="illustrator" form="verb-short">illus.</term>
     <term name="translator" form="verb-short">prel.</term>
     <term name="editortranslator" form="verb-short">zost. &amp; prel.</term>
+    <term name="editor-translator" form="verb-short">zost. &amp; prel.</term>
 
     <!-- LONG MONTH FORMS -->
     <term name="month-01">január</term>
