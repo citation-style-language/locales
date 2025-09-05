@@ -2,7 +2,9 @@
     "primary-dialects": {
         "af":  "af-ZA",
         "ar":  "ar",
+        "bal": "bal-PK",
         "bg":  "bg-BG",
+        "brh": "brh-PK",
         "ca":  "ca-AD",
         "cs":  "cs-CZ",
         "cy":  "cy-GB",
@@ -16,7 +18,7 @@
         "fa":  "fa-IR",
         "fi":  "fi-FI",
         "fr":  "fr-FR",
-        "gl":  "gl-GL",
+        "gl":  "gl-ES",
         "he":  "he-IL",
         "hi":  "hi-IN",
         "hr":  "hr-HR",
@@ -32,6 +34,7 @@
         "lt":  "lt-LT",
         "lv":  "lv-LV",
         "mn":  "mn-MN",
+        "ms":  "ms-MY",
         "nb":  "nb-NO",
         "nl":  "nl-NL",
         "nn":  "nn-NO",
@@ -59,9 +62,17 @@
             "العربية",
             "Arabic"
         ],
+        "bal-PK": [
+            "بلوچی (پاکستان)",
+            "Balochi (Pakistan)"
+        ],
         "bg-BG": [
             "Български",
             "Bulgarian"
+        ],
+        "brh-PK": [
+            "براہوئی",
+            "Brahui"
         ],
         "ca-AD": [
             "Català",
@@ -202,6 +213,10 @@
         "mn-MN": [
             "Монгол",
             "Mongolian"
+        ],
+        "ms-MY": [
+            "Bahasa Melayu",
+            "Malay"
         ],
         "nb-NO": [
             "Norsk bokmål",
