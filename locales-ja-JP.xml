@@ -390,8 +390,8 @@
       <multiple>舞台</multiple>						 
     </term>
     <term name="table" form="short">			 
-      <single>題名</</single>
-      <multiple>題名</</multiple>						 
+      <single>題名</single>
+      <multiple>題名</multiple>						 
     </term>
     <term name="timestamp" form="short"> <!-- generally blank -->
       <single></single>
