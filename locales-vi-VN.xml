@@ -413,8 +413,6 @@
       <single>print.</single>
       <multiple>prints.</multiple>
     </term>
-    
-
     <term name="number-of-pages" form="short">
       <single>tr</single>
       <multiple>tr</multiple>
