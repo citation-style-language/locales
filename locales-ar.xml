@@ -521,6 +521,7 @@
     <term name="illustrator">رسوم</term>
     <term name="translator">ترجمة</term>
     <term name="editortranslator">ترجمة وتحقيق</term>
+    <term name="editor-translator">ترجمة وتحقيق</term>
 
     <!-- SHORT ROLE FORMS -->
     <term name="compiler" form="short">
@@ -590,6 +591,7 @@
     <term name="collection-editor" form="verb-short">ed. by</term>
     <term name="translator" form="verb">ترجمة</term>
     <term name="editortranslator" form="verb">تحقيق وترجمة</term>
+    <term name="editor-translator" form="verb">تحقيق وترجمة</term>
 
     <!-- SHORT VERB ROLE FORMS -->
     <term name="compiler" form="verb-short">comp. by</term>

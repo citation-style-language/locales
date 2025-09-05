@@ -686,7 +686,6 @@
       <single>translator</single>
       <multiple>translators</multiple>
     </term>
-
     <!-- SHORT ROLE FORMS -->
     <!-- Omitted roles:
          author, chair, composer, container-author, guest, host, interviewer, original-author, recipient, reviewed-author
@@ -768,7 +767,6 @@
       <multiple>ser. creators</multiple>
     </term>
     <term name="translator" form="short">trans.</term> <!-- no plural -->
-
     <!-- VERB ROLE FORMS -->
     <term name="chair" form="verb">chaired by</term>
     <term name="collection-editor" form="verb">edited by</term>
@@ -800,7 +798,6 @@
     <term name="script-writer" form="verb">written by</term>
     <term name="series-creator" form="verb">created by</term>
     <term name="translator" form="verb">translated by</term>
-
     <!-- SHORT VERB ROLE FORMS -->
     <!-- Omitted roles:
          author, chair, container-author, contributor, guest, host, interviewer, original-author, recipient, reviewed-author, series-creator

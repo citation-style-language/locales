@@ -560,7 +560,7 @@
       <single>redakteur &amp; vertaler</single>
       <multiple>redakteurs &amp; vertalers</multiple>
     </term>
-      <term name="editor-translator">
+    <term name="editor-translator">
       <single>redakteur &amp; vertaler</single>
       <multiple>redakteurs &amp; vertalers</multiple>
     </term>
@@ -630,7 +630,7 @@
       <single>red. &amp; vert.</single>
       <multiple>reds. &amp; verts.</multiple>
     </term>
-        <term name="editor-translator" form="short">
+    <term name="editor-translator" form="short">
       <single>red. &amp; vert.</single>
       <multiple>reds. &amp; verts.</multiple>
     </term>

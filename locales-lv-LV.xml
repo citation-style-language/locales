@@ -550,6 +550,10 @@
       <single>redaktors un tulkotājs</single>
       <multiple>redaktors un tulkotājs</multiple>
     </term>
+    <term name="editor-translator">
+      <single>redaktors un tulkotājs</single>
+      <multiple>redaktors un tulkotājs</multiple>
+    </term>
     <term name="illustrator">
       <single>ilustrators</single>
       <multiple>ilustratori</multiple>
@@ -636,6 +640,10 @@
       <single>red. un tulk.</single>
       <multiple>red. un tulk.</multiple>
     </term>
+    <term name="editor-translator" form="short">
+      <single>red. un tulk.</single>
+      <multiple>red. un tulk.</multiple>
+    </term>
     <term name="illustrator" form="short">
       <single>ilustr.</single>
       <multiple>ilustr.</multiple>
@@ -673,6 +681,7 @@
     <term name="editor" form="verb">sagatavoja</term>
     <term name="editorial-director" form="verb">sagatavoja</term>
     <term name="editortranslator" form="verb">sagatavoja un tulkoja</term>
+    <term name="editor-translator" form="verb">sagatavoja un tulkoja</term>
     <term name="illustrator" form="verb">ilustrēja</term>
     <term name="interviewer" form="verb">intervēja</term>
     <term name="recipient" form="verb">saņēma</term>
@@ -697,6 +706,7 @@
     <term name="illustrator" form="verb-short">ilustr.</term>
     <term name="translator" form="verb-short">tulk.</term>
     <term name="editortranslator" form="verb-short">sag. un tulk.</term>
+    <term name="editor-translator" form="verb-short">sag. un tulk.</term>
 
     <!-- LONG MONTH FORMS -->
     <term name="month-01">janvārī</term>
