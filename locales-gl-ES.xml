@@ -549,6 +549,10 @@
       <single>editor e tradutor</single>
       <multiple>editores e tradutores</multiple>
     </term>
+    <term name="editor-translator">
+      <single>editor e tradutor</single>
+      <multiple>editores e tradutores</multiple>
+    </term>
 
     <!-- SHORT ROLE FORMS -->
     <term name="director" form="short">
@@ -606,6 +610,10 @@
       <single>ed. e trad.</single>
       <multiple>eds. e trads.</multiple>
     </term>
+    <term name="editor-translator" form="short">
+      <single>ed. e trad.</single>
+      <multiple>eds. e trads.</multiple>
+    </term>
 
     <!-- VERB ROLE FORMS -->
     <term name="contributor" form="verb">con</term>
@@ -633,6 +641,7 @@
     <term name="curator" form="verb-short">con</term>
     <term name="translator" form="verb">traducido por</term>
     <term name="editortranslator" form="verb">editado e traducido por</term>
+    <term name="editor-translator" form="verb">editado e traducido por</term>
 
     <!-- SHORT VERB ROLE FORMS -->
     <term name="director" form="verb-short">dir.</term>
@@ -649,6 +658,7 @@
     <term name="illustrator" form="verb-short">ilus.</term>
     <term name="translator" form="verb-short">trad.</term>
     <term name="editortranslator" form="verb-short">ed. e trad. por</term>
+    <term name="editor-translator" form="verb-short">ed. e trad. por</term>
 
     <!-- LONG MONTH FORMS -->
     <term name="month-01">xaneiro</term>
