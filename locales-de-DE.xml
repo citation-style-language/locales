@@ -23,7 +23,7 @@
       <name>Nicolas Chachereau</name>
     </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2024-03-28T23:31:02+00:00</updated>
+    <updated>2025-09-08T23:31:02+00:00</updated>
   </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
@@ -53,7 +53,7 @@
     <term name="personal-communication">persönliche Kommunikation</term>
     <term name="podcast">Podcast</term>
     <term name="podcast-episode">Podcast-Episode</term>
-    <term name="preprint">preprint</term>
+    <term name="preprint">Preprint</term>
     <term name="radio-broadcast">Radioaufzeichnung</term>
     <term name="radio-series">Sendereihe</term>
     <term name="radio-series-episode">Sendereihenfolge</term>
@@ -144,7 +144,7 @@
     <term name="hearing">Anhörung</term>
     <term name="interview">Interview</term>
     <term name="legal_case">Rechtsfall</term>
-      <term name="legislation">Gesetz</term>
+    <term name="legislation">Gesetz</term>
     <term name="manuscript">Manuskript</term>
     <term name="map">Karte</term>
     <term name="motion_picture">Videoaufnahme</term>
@@ -155,7 +155,7 @@
     <term name="performance">Aufführung</term>
     <term name="periodical">Zeitschrift</term>
     <term name="personal_communication">persönliche Kommunikation</term>
-    <term name="post">post</term>
+    <term name="post">Post</term>
     <term name="post-weblog">Blogeintrag</term>
     <term name="regulation">Verordnung</term>
     <term name="report">Bericht</term>
@@ -166,7 +166,7 @@
     <term name="speech">Vortrag</term>
     <term name="standard">Norm</term>
     <term name="thesis">Abschlussarbeit</term>
-    <term name="treaty">treaty</term>
+    <term name="treaty">Abkommen</term>
     <term name="webpage">Webseite</term>
 
     <!-- SHORT ITEM TYPE FORMS -->
@@ -225,16 +225,16 @@
 
     <!-- LONG LOCATOR FORMS -->
     <term name="act">			 
-      <single>act</single>
-      <multiple>acts</multiple>						 
+      <single>Akt</single>
+      <multiple>Akten</multiple>						 
     </term>
     <term name="appendix">			 
       <single>Appendix</single>
       <multiple>Appendices</multiple>						 
     </term>
     <term name="article-locator">			 
-      <single>article</single>
-      <multiple>articles</multiple>						 
+      <single>Artikel</single>
+      <multiple>Artikel</multiple>						 
     </term>
     <term name="canon">			 
       <single>canon</single>
@@ -519,8 +519,8 @@
       <multiple>Produzenten</multiple>
     </term>
     <term name="script-writer">
-      <single>writer</single>
-      <multiple>writers</multiple>
+      <single>Drehbuchautor</single>
+      <multiple>Drehbuchautoren</multiple>
     </term>
     <term name="series-creator">
       <single>Idee</single>
