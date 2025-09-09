@@ -15,8 +15,8 @@
     <date-part name="year"/>
   </date>
   <date form="numeric">
-    <date-part name="day" form="numeric-leading-zeros" suffix="/"/>
-    <date-part name="month" form="numeric-leading-zeros" suffix="/"/>
+    <date-part name="day" form="numeric-leading-zeros" suffix="-"/>
+    <date-part name="month" form="numeric-leading-zeros" suffix="-"/>
     <date-part name="year"/>
   </date>
   <terms>
