@@ -5,7 +5,7 @@
       <name>عثمان</name>
     </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2024-08-12T16:22:23-04:00</updated>
+    <updated>2025-09-13T08:29:38-04:00</updated>
   </info>
   <style-options punctuation-in-quote="true"/>
   <date form="text">
@@ -390,6 +390,10 @@
       <single>سودھی &amp; مترجم</single>
       <multiple>سودھی &amp; مترجم</multiple>
     </term>
+    <term name="editor-translator">
+      <single>سودھی &amp; مترجم</single>
+      <multiple>سودھی &amp; مترجم</multiple>
+    </term>
     <term name="editorial-director">
       <single>سودھی</single>
       <multiple>سودھی</multiple>
@@ -450,6 +454,7 @@
     <term name="director" form="verb">ڈائریکٹر نال</term>
     <term name="editor" form="verb">سودھی نال</term>
     <term name="editortranslator" form="verb">سودھی &amp; مترجم نال</term>
+    <term name="editor-translator" form="verb">سودھی &amp; مترجم نال</term>
     <term name="editorial-director" form="verb">سودھی نال</term>
     <term name="executive-producer" form="verb">انتظامیے نال</term>
     <term name="guest" form="verb">مہمان نال</term>

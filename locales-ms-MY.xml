@@ -9,7 +9,7 @@
     <name>Farah Diba Abu Bakar</name>
   </translator>
   <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-  <updated>2025-06-29T17:40:49-04:00</updated>
+  <updated>2025-09-13T08:29:38-04:00</updated>
 </info>
   <style-options punctuation-in-quote="true"/>
   <date form="text">
@@ -235,6 +235,10 @@
       <single>editor &amp; penterjemah</single>
       <multiple>editor &amp; penterjemah</multiple>
     </term>
+    <term name="editor-translator">
+      <single>editor &amp; penterjemah</single>
+      <multiple>editor &amp; penterjemah</multiple>
+    </term>
 
     <!-- SHORT ROLE FORMS -->
     <term name="director" form="short">
@@ -261,6 +265,10 @@
       <single>pnyt. &amp; ptrj.</single>
       <multiple>pnyt. &amp; ptrj.</multiple>
     </term>
+    <term name="editor-translator" form="short">
+      <single>pnyt. &amp; ptrj.</single>
+      <multiple>pnyt. &amp; ptrj.</multiple>
+    </term>
 
     <!-- VERB ROLE FORMS -->
     <term name="container-author" form="verb">oleh</term>
@@ -273,6 +281,7 @@
     <term name="reviewed-author" form="verb">oleh</term>
     <term name="translator" form="verb">diterjemahkan oleh</term>
     <term name="editortranslator" form="verb">disunting &amp; diterjemahkan oleh</term>
+    <term name="editor-translator" form="verb">disunting &amp; diterjemahkan oleh</term>
 
     <!-- SHORT VERB ROLE FORMS -->
     <term name="director" form="verb-short">dir. oleh</term>
@@ -281,6 +290,7 @@
     <term name="illustrator" form="verb-short">illus. oleh</term>
     <term name="translator" form="verb-short">trans. oleh</term>
     <term name="editortranslator" form="verb-short">ed. &amp; penerj. oleh</term>
+    <term name="editor-translator" form="verb-short">ed. &amp; penerj. oleh</term>
 
     <!-- LONG MONTH FORMS -->
     <term name="month-01">Januari</term>

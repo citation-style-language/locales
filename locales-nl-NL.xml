@@ -9,7 +9,7 @@
       <name>K. Avonts</name>
     </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2025-09-04T09:49:23-04:00</updated>
+    <updated>2025-09-13T08:29:38-04:00</updated>
   </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
@@ -558,6 +558,10 @@
       <single>redacteur &amp; vertaler</single>
       <multiple>redacteuren &amp; vertalers</multiple>
     </term>
+    <term name="editor-translator">
+      <single>redacteur &amp; vertaler</single>
+      <multiple>redacteuren &amp; vertalers</multiple>
+    </term>
 
     <!-- SHORT ROLE FORMS -->
     <term name="compiler" form="short">
@@ -624,6 +628,10 @@
       <single>red. &amp; vert.</single>
       <multiple>red. &amp; vert.</multiple>
     </term>
+    <term name="editor-translator" form="short">
+      <single>red. &amp; vert.</single>
+      <multiple>red. &amp; vert.</multiple>
+    </term>
 
     <!-- VERB ROLE FORMS -->
     <term name="collection-editor" form="verb">edited by</term>
@@ -651,6 +659,7 @@
     <term name="collection-editor" form="verb-short">ed. by</term>
     <term name="translator" form="verb">vertaald door</term>
     <term name="editortranslator" form="verb">bewerkt &amp; vertaald door</term>
+    <term name="editor-translator" form="verb">bewerkt &amp; vertaald door</term>
 
     <!-- SHORT VERB ROLE FORMS -->
     <term name="compiler" form="verb-short">comp. by</term>
@@ -671,6 +680,7 @@
     <term name="illustrator" form="verb-short">geïllustreerd door</term>
     <term name="translator" form="verb-short">vertaald door</term>
     <term name="editortranslator" form="verb-short">bewerkt &amp; vertaald door</term>
+    <term name="editor-translator" form="verb-short">bewerkt &amp; vertaald door</term>
 
     <!-- LONG MONTH FORMS -->
     <term name="month-01">januari</term>

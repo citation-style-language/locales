@@ -4,8 +4,11 @@
     <translator>
       <name>Dusit Laohasinnarong</name>
     </translator>
+    <translator>
+      <name>Watcharakorn Kaobath</name>
+    </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2024-03-09T15:20:54-05:00</updated>
+    <updated>2025-09-13T08:29:38-04:00</updated>
   </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
@@ -52,7 +55,7 @@
     <term name="anonymous">นิรนาม</term>
     <term name="anonymous" form="short">นิรนาม</term>
     <term name="at">ที่</term>
-    <term name="available at">available at</term>
+    <term name="available at">เข้าถึงได้จาก</term>
     <term name="by">โดย</term>
     <term name="circa">โดยประมาณ</term>
     <term name="circa" form="short">ประมาณ</term>
@@ -536,6 +539,10 @@
       <single>บรรณาธิการและผู้แปล</single>
       <multiple>บรรณาธิการและผู้แปล</multiple>
     </term>
+    <term name="editor-translator">
+      <single>บรรณาธิการและผู้แปล</single>
+      <multiple>บรรณาธิการและผู้แปล</multiple>
+    </term>
 
     <!-- SHORT ROLE FORMS -->
     <term name="compiler" form="short">
@@ -602,6 +609,10 @@
       <single>บ.ก.</single>
       <multiple>บ.ก.</multiple>
     </term>
+    <term name="editor-translator" form="short">
+      <single>บ.ก.</single>
+      <multiple>บ.ก.</multiple>
+    </term>
 
     <!-- VERB ROLE FORMS -->
     <term name="collection-editor" form="verb">edited by</term>
@@ -629,6 +640,7 @@
     <term name="collection-editor" form="verb-short">ed. by</term>
     <term name="translator" form="verb">แปลโดย</term>
     <term name="editortranslator" form="verb">แปลและเรียบเรียงโดย</term>
+    <term name="editor-translator" form="verb">แปลและเรียบเรียงโดย</term>
 
     <!-- SHORT VERB ROLE FORMS -->
     <term name="compiler" form="verb-short">comp. by</term>
@@ -649,6 +661,7 @@
     <term name="illustrator" form="verb-short">illus.</term>
     <term name="translator" form="verb-short">แปล</term>
     <term name="editortranslator" form="verb-short">แปลและเรียบเรียงโดย</term>
+    <term name="editor-translator" form="verb-short">แปลและเรียบเรียงโดย</term>
 
     <!-- LONG MONTH FORMS -->
     <term name="month-01">มกราคม</term>
