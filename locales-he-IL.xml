@@ -546,6 +546,10 @@
       <single>בתרגום ועריכת</single>
       <multiple>בתרגום ועריכת:</multiple>
     </term>
+    <term name="editor-translator">
+      <single>editor &amp; translator</single>
+      <multiple>editors &amp; translators</multiple>
+    </term>
 
     <!-- SHORT ROLE FORMS -->
     <term name="compiler" form="short">
@@ -612,6 +616,10 @@
       <single>עריכה ותרגום</single>
       <multiple>עריכה ותרגום:</multiple>
     </term>
+    <term name="editor-translator" form="short">
+      <single>ed. &amp; tran.</single>
+      <multiple>eds. &amp; trans.</multiple>
+    </term>
 
     <!-- VERB ROLE FORMS -->
     <term name="collection-editor" form="verb">edited by</term>
@@ -639,6 +647,7 @@
     <term name="collection-editor" form="verb-short">ed. by</term>
     <term name="translator" form="verb">תורגם ע"י</term>
     <term name="editortranslator" form="verb">תורגם ונכרך על ידי:</term>
+    <term name="editor-translator" form="verb">תורגם ונכרך על ידי:</term>
 
     <!-- SHORT VERB ROLE FORMS -->
     <term name="compiler" form="verb-short">comp. by</term>
@@ -659,6 +668,7 @@
     <term name="illustrator" form="verb-short">מאיירים:</term>
     <term name="translator" form="verb-short">תרגום: </term>
     <term name="editortranslator" form="verb-short">עריכה ותרגום:</term>
+    <term name="editor-translator" form="verb-short">עריכה ותרגום:</term>
 
     <!-- LONG MONTH FORMS -->
     <term name="month-01">ינואר</term>
