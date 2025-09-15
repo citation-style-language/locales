@@ -56,8 +56,8 @@
     <term name="special-issue">özel sayı</term>
     <term name="special-section">özel bölüm</term>
     <term name="television-broadcast">televizyon yayını</term>
-    <term name="television-series">television dizisi</term>
-    <term name="television-series-episode">television dizi bölümü</term>
+    <term name="television-series">televizyon dizisi</term>
+    <term name="television-series-episode">televizyon dizisi bölümü</term>
     <term name="video">video</term>
     <term name="working-paper">ön makale</term>
     <term name="accessed">erişim</term>
@@ -112,8 +112,8 @@
       <single>atf.</single>
       <multiple>atf.</multiple>
     </term>
-    <term name="review-of">review of</term>
-    <term name="review-of" form="short">rev. of</term>
+    <term name="review-of">gözden geçirme</term>
+    <term name="review-of" form="short">g.g.</term>
     <term name="retrieved">geliş tarihi</term>
     <term name="scale">ölçek</term>
     <term name="version">versiyon</term>
@@ -144,8 +144,8 @@
     <term name="manuscript">el yazması</term>
     <term name="map">harita</term>
     <term name="motion_picture">video kaydı</term>
-    <term name="musical_score">musical score</term>
-    <term name="pamphlet">pamphlet</term>
+    <term name="musical_score">müzik notaları</term>
+    <term name="pamphlet">broşür</term>
     <term name="paper-conference">konferans bildirisi</term>
     <term name="patent">patent</term>
     <term name="performance">performans</term>
@@ -309,8 +309,8 @@
       <multiple>ciltler</multiple>
     </term>
     <term name="page-first">
-      <single>page</single>
-      <multiple>pages</multiple>
+      <single>ilk sayfa</single>
+      <multiple>ilk sayfa</multiple>
     </term>
     <term name="printing">
       <single>çıktı</single>
@@ -318,8 +318,8 @@
     </term>
 
     <term name="chapter-number" form="short">
-      <single>chap.</single>
-      <multiple>chaps.</multiple>
+      <single>böl. num.</single>
+      <multiple>böl. num.</multiple>
     </term>
     <term name="citation-number" form="short">
       <single>cit.</single>
@@ -343,8 +343,8 @@
       <multiple>bölümler</multiple>
     </term>
     <term name="supplement">
-      <single>supplement</single>
-      <multiple>supplements</multiple>
+      <single>zeyil</single>
+      <multiple>zeyil</multiple>
     </term>
     <term name="sub-verbo">
       <single>madde</single>
@@ -414,8 +414,8 @@
       <multiple>ciltler</multiple>
     </term>
     <term name="page-first" form="short">
-      <single>p.</single>
-      <multiple>pp.</multiple>
+      <single>i.s.</single>
+      <multiple>i.s.</multiple>
     </term>
     <term name="printing" form="short">
       <single>çıktı</single>
@@ -453,8 +453,8 @@
       <multiple>par.</multiple>
     </term>
     <term name="chapter-number">
-      <single>bölüm</single>
-      <multiple>bölümler</multiple>
+      <single>bölüm numarası</single>
+      <multiple>bölümler numarası</multiple>
     </term>
     <term name="citation-number">
       <single>atıf</single>
@@ -491,8 +491,8 @@
       <multiple>küratörler</multiple>
     </term>
     <term name="executive-producer">
-      <single>executive producer</single>
-      <multiple>executive producers</multiple>
+      <single>baş yapımcı</single>
+      <multiple>baş yapımcılar</multiple>
     </term>
     <term name="guest">
       <single>misafir</single>
@@ -523,8 +523,8 @@
       <multiple>metin yazarları</multiple>
     </term>
     <term name="series-creator">
-      <single>series creator</single>
-      <multiple>series creators</multiple>
+      <single>dizi yapımcısı</single>
+      <multiple>dizi yapımcıları</multiple>
     </term>
     <term name="director">
       <single>direktör</single>
