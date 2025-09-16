@@ -42,10 +42,10 @@
     <term name="film">filme</term>
     <term name="henceforth">daqui em diante</term>
     <term name="loc-cit">loc. cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
-    <term name="no-place">sine loco</term> <!-- sine loco -->
-    <term name="no-place" form="short">s. l.</term>
-    <term name="no-publisher">sine nomine</term> <!-- sine nomine -->
-    <term name="no-publisher" form="short">s. n.</term>
+    <term name="no-place">sem local</term> <!-- sine loco -->
+    <term name="no-place" form="short">s.l.</term>
+    <term name="no-publisher">sem editor</term> <!-- sine nomine -->
+    <term name="no-publisher" form="short">s.e.</term>
     <term name="on">em</term>
     <term name="op-cit">op. cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
     <term name="original-work-published">trabalho original publicado</term>
@@ -104,8 +104,8 @@
     <term name="internet">internet</term>
     <term name="interview">entrevista</term>
     <term name="letter">carta</term>
-    <term name="no date">sine datum</term>
-    <term name="no date" form="short">s. d.</term>
+    <term name="no date">sem data</term>
+    <term name="no date" form="short">s.d.</term>
     <term name="online">online</term>
     <term name="presented at">apresentado em</term>
     <term name="reference">
