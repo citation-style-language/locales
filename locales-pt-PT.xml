@@ -39,7 +39,7 @@
     <term name="personal-communication">comunicação pessoal</term>
     <term name="podcast">podcast</term>
     <term name="podcast-episode">episódio de podcast</term>
-    <term name="preprint">pré-impressão</term>
+    <term name="preprint">preprint</term>
     <term name="radio-broadcast">transmissão de rádio</term>
     <term name="radio-series">série de rádio</term>
     <term name="radio-series-episode">episódio de série de rádio</term>
@@ -109,7 +109,7 @@
     <term name="version">versão</term>
 
     <!-- LONG ITEM TYPE FORMS -->
-    <term name="article">pré-impressão</term>
+    <term name="article">preprint</term>
     <term name="article-journal">artigo de revista</term>
     <term name="article-magazine">artigo de revista</term>
     <term name="article-newspaper">artigo de jornal</term>
