@@ -36,7 +36,7 @@
     <term name="at">en</term>
     <term name="available at">dispoñíbel en</term>
     <term name="by">por</term>
-    <term name="circa">circa</term>
+    <term name="circa">circa</term> <!-- cerca de -->
     <term name="circa" form="short">ca.</term>
     <term name="cited">citado</term>
     <term name="first-reference-note-number">
@@ -99,7 +99,7 @@
     <term name="article-magazine" form="short">art. rev.</term>
     <term name="article-newspaper" form="short">art. xornal</term>
     <term name="document" form="short">doc.</term>
-    <term name="graphic" form="short">graf.</term>
+    <term name="graphic" form="short">gráf.</term>
     <term name="manuscript" form="short">ms.</term>
     <term name="motion_picture" form="short">grav. vídeo</term>
     <term name="report" form="short">inf.</term>
@@ -117,7 +117,7 @@
     <term name="no-publisher" form="short">s. ed.</term>
     <term name="on">en</term>
     <term name="no date" form="short">s. d.</term>
-    <term name="op-cit">op. cit.</term>
+    <term name="op-cit">o. cit.</term> <!-- op. cit. (Opere Citato), obra citada -->
     <term name="original-work-published">traballo orixinal publicado</term>
     <term name="personal-communication">comunicado persoal</term>
     <term name="podcast">podcast</term>
@@ -360,7 +360,7 @@
     <!-- SHORT LOCATOR FORMS -->
     <term name="book" form="short">lib.</term>
     <term name="chapter" form="short">cap.</term>
-    <term name="elocation" form="short">
+    <term name="elocation" form="short"> <!-- tal vez rapto -->
       <single>loc.</single>
       <multiple>locs.</multiple>
     </term>
@@ -434,7 +434,7 @@
     </term>
     <term name="table" form="short">
       <single>táb.</single>
-      <multiple>táb.</multiple>
+      <multiple>tábs.</multiple>
     </term>
     <term name="title-locator" form="short">
       <single>tít.</single>
@@ -587,7 +587,7 @@
       <multiple>prods.</multiple>
     </term>
     <term name="script-writer" form="short">
-      <single>escritores</single>
+      <single>escritor</single>
       <multiple>escritores</multiple>
     </term>
     <term name="series-creator" form="short">
@@ -615,8 +615,8 @@
     </term>
 
     <!-- VERB ROLE FORMS -->
-    <term name="contributor" form="verb">con</term>
-    <term name="curator" form="verb">con</term>
+    <term name="contributor" form="verb">contribuído por</term>
+    <term name="curator" form="verb">conservado por</term>
     <term name="container-author" form="verb">por</term>
     <term name="director" form="verb">dirixido por</term>
     <term name="editor" form="verb">editado por</term>
@@ -643,7 +643,7 @@
     <term name="editor-translator" form="verb">editado e traducido por</term>
 
     <!-- SHORT VERB ROLE FORMS -->
-    <term name="director" form="verb-short">dir.</term>
+    <term name="director" form="verb-short">dir.</term> <!-- nestes ponse o 'por'? -->
     <term name="editor" form="verb-short">ed.</term>
     <term name="executive-producer" form="verb-short">prod. exec.</term>
     <term name="guest" form="verb-short">con</term>
