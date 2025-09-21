@@ -29,7 +29,7 @@
     <term name="album">álbum</term>
     <term name="accessed">accedido</term>
     <term name="and">e</term>
-    <term name="and others">e outros</term>
+    <term name="and others">e outros/as</term>
     <term name="anonymous">anónimo</term>
     <term name="anonymous" form="short">anón.</term>
     <term name="audio-recording">gravación de son</term>
@@ -360,7 +360,7 @@
     <!-- SHORT LOCATOR FORMS -->
     <term name="book" form="short">lib.</term>
     <term name="chapter" form="short">cap.</term>
-    <term name="elocation" form="short"> <!-- tal vez rapto -->
+    <term name="elocation" form="short">
       <single>loc.</single>
       <multiple>locs.</multiple>
     </term>
@@ -643,7 +643,7 @@
     <term name="editor-translator" form="verb">editado e traducido por</term>
 
     <!-- SHORT VERB ROLE FORMS -->
-    <term name="director" form="verb-short">dir.</term> <!-- nestes ponse o 'por'? -->
+    <term name="director" form="verb-short">dir.</term>
     <term name="editor" form="verb-short">ed.</term>
     <term name="executive-producer" form="verb-short">prod. exec.</term>
     <term name="guest" form="verb-short">con</term>
@@ -656,8 +656,8 @@
     <term name="series-creator" form="verb-short">crea.</term>
     <term name="illustrator" form="verb-short">ilus.</term>
     <term name="translator" form="verb-short">trad.</term>
-    <term name="editortranslator" form="verb-short">ed. e trad. por</term>
-    <term name="editor-translator" form="verb-short">ed. e trad. por</term>
+    <term name="editortranslator" form="verb-short">ed. e trad.</term>
+    <term name="editor-translator" form="verb-short">ed. e trad.</term>
 
     <!-- LONG MONTH FORMS -->
     <term name="month-01">xaneiro</term>
