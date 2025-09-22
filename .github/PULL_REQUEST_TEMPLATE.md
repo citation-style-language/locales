@@ -11,3 +11,4 @@ Briefly describe the changes you're proposing.
 ### Checklist
 
 - [ ] Check that you're listed as a `<translator>` in the `<info>` block at the beginning of the file.
+- [ ] Check that you've updated the date under `<updated>` in the `<info>` block.
