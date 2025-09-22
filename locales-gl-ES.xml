@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="gl-ES">
+  <!-- Several sources
+    1. https://academia.gal/inicio
+    2. https://digalego.xunta.gal/gl/abreviaturas
+    3. Méndez López, I., Ríos Noia, M., Sanmartín Rei, G., Pita Rubido, M. L., & Martínez Fernández, A. I. (2006). Criterios para o uso da lingua. Universidade da Coruña.
+    4. Castro Figueiras, E. M., & Rodríguez Ricart, M. C. (2014). Na universidade en galego sen dúbida. Área de Normalización Lingüística.
+  -->
   <info>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2021-04-20T23:31:02+00:00</updated>
+    <updated>2025-09-22T00:00:00+00:00</updated>
     <translator>
       <name>Manuel Magán</name>
     </translator>
