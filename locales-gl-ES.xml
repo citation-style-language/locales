@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="gl-ES">
   <!-- Several sources
-    1. https://academia.gal/inicio
-    2. https://digalego.xunta.gal/gl/abreviaturas
-    3. Méndez López, I., Ríos Noia, M., Sanmartín Rei, G., Pita Rubido, M. L., & Martínez Fernández, A. I. (2006). Criterios para o uso da lingua. Universidade da Coruña.
-    4. Castro Figueiras, E. M., & Rodríguez Ricart, M. C. (2014). Na universidade en galego sen dúbida. Área de Normalización Lingüística.
+    1. https://academia.gal/inicio (cited hereafter as RAG)
+    2. https://digalego.xunta.gal/gl/abreviaturas (cited hereafter as DiGalego)
+    3. Méndez López, I., Ríos Noia, M., Sanmartín Rei, G., Pita Rubido, M. L., & Martínez Fernández, A. I. (2006). Criterios para o uso da lingua. Universidade da Coruña. (cited hereafter as CritUso)
+    4. Castro Figueiras, E. M., & Rodríguez Ricart, M. C. (2014). Na universidade en galego sen dúbida. Área de Normalización Lingüística. (cited hereafter as UniGal)
   -->
   <info>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
@@ -42,8 +42,8 @@
     <term name="at">en</term>
     <term name="available at">dispoñíbel en</term>
     <term name="by">por</term>
-    <term name="circa">circa</term> <!-- cerca de -->
-    <term name="circa" form="short">ca.</term>
+    <term name="circa">circa</term> <!-- CritUso, cerca de -->
+    <term name="circa" form="short">ca.</term> <!-- CritUso -->
     <term name="cited">citado</term>
     <term name="first-reference-note-number">
       <single>referencia</single>
@@ -67,11 +67,11 @@
     </term>
     <term name="edition" form="short">ed.</term>
     <term name="film">filme</term>
-    <term name="et-al">e outros/as</term>
+    <term name="et-al">e outros/as</term> <!-- UniGal -->
     <term name="forthcoming">a publicar</term>
     <term name="henceforth">en adiante</term>
     <term name="from">de</term>
-    <term name="ibid">íb.</term>
+    <term name="ibid">íb.</term> <!-- CritUso -->
     <term name="in">en</term>
     <term name="in press">no prelo</term>
     <term name="internet">internet</term>
@@ -99,14 +99,14 @@
     <term name="standard">estándar</term>
     <term name="thesis">tese</term>
     <term name="treaty">tratado</term>
-    <term name="webpage">páxina web</term>
+    <term name="webpage">páxina web</term> <!-- RAG -->
 
     <term name="article-journal" form="short">art. acad.</term>
     <term name="article-magazine" form="short">art. rev.</term>
     <term name="article-newspaper" form="short">art. xornal</term>
     <term name="document" form="short">doc.</term>
     <term name="graphic" form="short">gráf.</term>
-    <term name="manuscript" form="short">ms.</term>
+    <term name="manuscript" form="short">ms.</term> <!-- CritUso -->
     <term name="motion_picture" form="short">grav. vídeo</term>
     <term name="report" form="short">inf.</term>
     <term name="review" form="short">rev.</term>
@@ -118,12 +118,12 @@
     <term name="letter">carta</term>
     <term name="no date">sen data</term>
     <term name="no-place">sen lugar</term>
-    <term name="no-place" form="short">s. l.</term>
+    <term name="no-place" form="short">s. l.</term> <!-- CritUso -->
     <term name="no-publisher">sen editorial</term>
-    <term name="no-publisher" form="short">s. ed.</term>
+    <term name="no-publisher" form="short">s. ed.</term> <!-- CritUso -->
     <term name="on">en</term>
-    <term name="no date" form="short">s. d.</term>
-    <term name="op-cit">o. cit.</term> <!-- op. cit. (Opere Citato), obra citada -->
+    <term name="no date" form="short">s. d.</term> <!-- CritUso -->
+    <term name="op-cit">o. cit.</term> <!-- UniGal, op. cit. (Opere Citato), obra citada -->
     <term name="original-work-published">traballo orixinal publicado</term>
     <term name="personal-communication">comunicado persoal</term>
     <term name="podcast">podcast</term>
