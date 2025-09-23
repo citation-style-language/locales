@@ -3,6 +3,7 @@
   <info>
     <translator>
       <name>dowens76</name>
+      <name>Hung Quoc Vo</name>
     </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
     <updated>2012-07-04T23:31:02+00:00</updated>
@@ -24,7 +25,7 @@
     <term name="audio-recording">bản ghi âm</term>
     <term name="film">phim</term>
     <term name="henceforth">kể từ đây</term>
-    <term name="loc-cit">n.t.</term> <!-- như trên, cùng nguồn đã dẫn trước đó -- like ibid., the abbreviated form is the regular form  -->
+    <term name="loc-cit">n.t.</term> <!-- như trên, cùng nguồn đã dẫn trước đó; like ibid., the abbreviated form is the regular form  -->
     <term name="no-place">không rõ địa điểm</term>
     <term name="no-place" form="short">k.r.đ.đ.</term>
     <term name="no-publisher">không rõ nhà xuất bản</term> <!-- sine nomine -->
