@@ -8,7 +8,7 @@
       <name>Hung Quoc Vo</name>
     </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2012-07-04T23:31:02+00:00</updated>
+    <updated>2025-09-23T23:31:02+00:00</updated>
   </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
@@ -33,7 +33,7 @@
     <term name="no-publisher">không rõ nhà xuất bản</term> <!-- sine nomine -->
     <term name="no-publisher" form="short">k.r.n.x.b.</term>
     <term name="on">vào</term>
-    <term name="op-cit">đ.d.</term> <!-- đã dẫn --like ibid., the abbreviated form is the regular form  -->
+    <term name="op-cit">đ.d.</term> <!-- đã dẫn; like ibid., the abbreviated form is the regular form -->
     <term name="original-work-published">nguyên bản</term>
     <term name="personal-communication">giao tiếp cá nhân</term>
     <term name="podcast">podcast</term>
@@ -564,7 +564,7 @@
       <multiple>g.t.v.</multiple>
     </term>
     <term name="executive-producer" form="short">
-      <single>s.x.&đ.h.</single>
+      <single>s.x.&amp;đ.h.</single>
       <multiple>exec. prods.</multiple>
     </term>
     <term name="narrator" form="short">
