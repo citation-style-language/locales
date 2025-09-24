@@ -109,39 +109,39 @@
     
     <!-- LONG ITEM TYPE FORMS -->
     <term name="article">preprint</term>
-    <term name="article-journal">journal article</term>
-    <term name="article-magazine">magazine article</term>
-    <term name="article-newspaper">newspaper article</term>
-    <term name="bill">bill</term>
+    <term name="article-journal">bài báo khoa học</term>
+    <term name="article-magazine">bài báo tạp chí</term>
+    <term name="article-newspaper">bài báo báo chí</term>
+    <term name="bill">dự luật</term>
     <!-- book is in the list of locator terms -->
-    <term name="broadcast">broadcast</term>
+    <term name="broadcast">phát sóng</term>
     <!-- chapter is in the list of locator terms -->
-    <term name="classic">classic</term>
-    <term name="collection">collection</term>
-    <term name="dataset">dataset</term>
-    <term name="document">document</term>
-    <term name="entry">entry</term>
-    <term name="entry-dictionary">dictionary entry</term>
-    <term name="entry-encyclopedia">encyclopedia entry</term>
-    <term name="event">event</term>
+    <term name="classic">tác phẩm kinh điển</term>
+    <term name="collection">tuyển tập</term>
+    <term name="dataset">tập dữ liệu</term>
+    <term name="document">tài liệu</term>
+    <term name="entry">mục</term>
+    <term name="entry-dictionary">mục từ điển</term>
+    <term name="entry-encyclopedia">mục bách khoa</term>
+    <term name="event">sự kiện</term>
     <!-- figure is in the list of locator terms -->
     <term name="graphic">hình ảnh</term>
-    <term name="hearing">hearing</term>
+    <term name="hearing">phiên điều trần</term>
     <term name="interview">phỏng vấn</term>
-    <term name="legal_case">legal case</term>
-    <term name="legislation">legislation</term>
+    <term name="legal_case">vụ án pháp lý</term>
+    <term name="legislation">văn bản pháp luật</term>
     <term name="manuscript">bản thảo</term>
     <term name="map">bản đồ</term>
-    <term name="motion_picture">video recording</term>
-    <term name="musical_score">musical score</term>
-    <term name="pamphlet">pamphlet</term>
+    <term name="motion_picture">phim điện ảnh</term>
+    <term name="musical_score">bản nhạc</term>
+    <term name="pamphlet">tờ rơi or sách mỏng</term>
     <term name="paper-conference">báo cáo hội nghị</term>
     <term name="patent">bằng sáng chế</term>
-    <term name="performance">performance</term>
-    <term name="periodical">periodical</term>
+    <term name="performance">buổi biểu diễn</term>
+    <term name="periodical">định kỳ or tạp chí định kỳ</term>
     <term name="personal_communication">giao tiếp cá nhân</term>
-    <term name="post">post</term>
-    <term name="post-weblog">blog post</term>
+    <term name="post">bài đăng</term>
+    <term name="post-weblog">bài đăng blog</term>
     <term name="regulation">quy định</term>
     <term name="report">báo cáo</term>
     <term name="review">đánh giá</term>
@@ -155,9 +155,9 @@
     <term name="webpage">trang web</term>
 
     <!-- SHORT ITEM TYPE FORMS -->
-    <term name="article-journal" form="short">journal art.</term>
-    <term name="article-magazine" form="short">mag. art.</term>
-    <term name="article-newspaper" form="short">newspaper art.</term>
+    <term name="article-journal" form="short">b.b. k.h.</term>
+    <term name="article-magazine" form="short">báo tc.</term>
+    <term name="article-newspaper" form="short">báo</term>
     <!-- book is in the list of locator terms -->
     <!-- chapter is in the list of locator terms -->
     <term name="document" form="short">doc.</term>
@@ -165,17 +165,17 @@
     <term name="graphic" form="short">graph.</term>
     <term name="interview" form="short">interv.</term>
     <term name="manuscript" form="short">MS</term>
-    <term name="motion_picture" form="short">video rec.</term>
+    <term name="motion_picture" form="short">phim</term>
     <term name="report" form="short">rep.</term>
     <term name="review" form="short">rev.</term>
-    <term name="review-book" form="short">bk. rev.</term>
-    <term name="song" form="short">audio rec.</term>
+    <term name="review-book" form="short">đ.g. s.</term>
+    <term name="song" form="short">b.h.</term>
 
     <!-- VERB ITEM TYPE FORMS -->
     <!-- Only where applicable -->
-    <term name="hearing" form="verb">testimony of</term>
-    <term name="review" form="verb">review of</term>
-    <term name="review-book" form="verb">review of the book</term>
+    <term name="hearing" form="verb">lời khai của</term>
+    <term name="review" form="verb">bài đánh giá về</term>
+    <term name="review-book" form="verb">đánh giá sách</term>
 
     <!-- HISTORICAL ERA TERMS -->
     <term name="ad">SCN</term>
@@ -565,7 +565,7 @@
     </term>
     <term name="executive-producer" form="short">
       <single>s.x.&amp;đ.h.</single>
-      <multiple>exec. prods.</multiple>
+      <multiple>s.x.&amp;đ.h.</multiple>
     </term>
     <term name="narrator" form="short">
       <single>t.t.v.</single>
