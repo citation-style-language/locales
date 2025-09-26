@@ -169,6 +169,7 @@
     <term name="report" form="short">rap.</term>
     <term name="review" form="short">recens.</term>
     <term name="review-book" form="short">recens. de liv.</term>
+    <term name="scale">éch.</term>
     <term name="song" form="short">enr. audio</term>
 
     <!-- VERB ITEM TYPE FORMS -->
@@ -471,8 +472,8 @@
 
     <!-- LONG ROLE FORMS -->
     <term name="collection-editor">
-      <single>ed.</single>
-      <multiple>eds.</multiple>
+      <single>éditeur</single>
+      <multiple>éditeurs</multiple>
     </term>
     <term name="chair">
       <single>président</single>
@@ -556,6 +557,10 @@
     </term>
 
     <!-- SHORT ROLE FORMS -->
+    <term name="collection-editor">
+      <single>éd.</single>
+      <multiple>éd.</multiple>
+    </term>
     <term name="compiler" form="short">
       <single>compil.</single>
       <multiple>compil.</multiple>
