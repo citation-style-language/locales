@@ -667,7 +667,7 @@
     <!-- Omitted roles:
          author, chair, composer, container-author, guest, host, interviewer, original-author, recipient, reviewed-author
     -->
-    <term name="collection-editor">
+    <term name="collection-editor" form="short">
       <single>éd.</single>
       <multiple>éd.</multiple>
     </term>
