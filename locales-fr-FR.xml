@@ -8,7 +8,7 @@
       <name>Collectif Zotero francophone</name>
     </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2025-09-26T23:31:02+00:00</updated>
+    <updated>2025-09-29T23:31:02+00:00</updated>
   </info>
   <style-options punctuation-in-quote="false" limit-day-ordinals-to-day-1="true"/>
   <date form="text">
@@ -66,7 +66,7 @@
       <multiple>références</multiple>
     </term>
     <term name="retrieved">consulté</term>
-    <term name="review-of">review of</term>
+    <term name="review-of">recension de</term>
     <term name="scale">échelle</term>
     <term name="special-issue">numéro spécial</term>
     <term name="special-section">section spéciale</term>
@@ -78,38 +78,39 @@
 
     <!-- SHORT GENERAL TERMS -->
     <!-- Omitted short forms: accessed, album, and (symbol), and others, at (symbol), forthcoming, henceforth, ibid, in, in press, internet, loc-cit, on, online, op-cit, podcast, preprint, presented at -->
-    <term name="advance-online-publication" form="short">adv. online pub.</term>
+	
+    <term name="advance-online-publication" form="short">publ. en ligne antic.</term>
     <term name="anonymous" form="short">anon.</term>
-    <term name="audio-recording" form="short">au. rec.</term>
-    <term name="available at" form="short">avail. at</term>
+    <term name="audio-recording" form="short">enr. audio</term>
+    <term name="available at" form="short">dispo. sur</term>
     <term name="circa" form="short">v.</term>
-    <term name="cited" form="short">cit.</term>
+    <term name="cited" form="short">cité</term>
     <term name="et-al" form="short">et al.</term>
-    <term name="film" form="short">flm.</term>
-    <term name="from" form="short">fr.</term>
+    <term name="film" form="short">film</term>
+    <term name="from" form="short">à l'adr.</term>
     <term name="letter" form="short">let.</term>
     <term name="no date" form="short">s.&#160;d.</term>
     <term name="no-place" form="short">s.&#160;l.</term>
     <term name="no-publisher" form="short">s.&#160;n.</term>
-    <term name="original-work-published" form="short">orig. pub.</term>
-    <term name="personal-communication" form="short">pers. comm.</term>
-    <term name="podcast-episode" form="short">podcast ep.</term>
-    <term name="radio-broadcast" form="short">radio bdcst.</term>
-    <term name="radio-series-episode" form="short">radio ser. ep.</term>
+    <term name="original-work-published" form="short">éd. orig.</term>
+    <term name="personal-communication" form="short">comm. perso.</term>
+    <term name="podcast-episode" form="short">épis. de podcast</term>
+    <term name="radio-broadcast" form="short">émiss. de radio</term>
+    <term name="radio-series-episode" form="short">épis. de série radio</term>
     <term name="reference" form="short">
       <single>réf.</single>
       <multiple>réf.</multiple>
     </term>
-    <term name="retrieved" form="short">rtvd.</term>
-    <term name="review-of" form="short">rev. of</term>
+    <term name="retrieved" form="short">consulté</term>
+    <term name="review-of" form="short">recens. de</term>
     <term name="scale" form="short">éch.</term>
-    <term name="special-issue" form="short">spec. iss.</term>
-    <term name="special-section" form="short">spec. sec.</term>
-    <term name="television-broadcast" form="short">TV bdcst.</term>
-    <term name="television-series" form="short">TV ser.</term>
-    <term name="television-series-episode" form="short">TV ser. ep.</term>
-    <term name="video" form="short">vid.</term>
-    <term name="working-paper" form="short">wkg. paper</term>
+    <term name="special-issue" form="short">nᵒ spéc.</term>
+    <term name="special-section" form="short">sect. spéc.</term>
+    <term name="television-broadcast" form="short">émiss. de TV</term>
+    <term name="television-series" form="short">série TV</term>
+    <term name="television-series-episode" form="short">épis. de série TV</term>
+    <term name="video" form="short">vidéo</term>
+    <term name="working-paper" form="short">doc. de travail</term>
 
     <!-- SYMBOLIC GENERAL FORMS -->
     <term name="and" form="symbol">&amp;</term>
@@ -141,7 +142,7 @@
     <term name="manuscript">manuscrit</term>
     <term name="map">carte</term>
     <term name="motion_picture">enregistrement vidéo</term>
-    <term name="musical_score">partition</term>
+    <term name="musical_score">partition musicale</term>
     <term name="pamphlet">pamphlet</term>
     <term name="paper-conference">article de colloque</term>
     <term name="patent">brevet</term>
@@ -169,48 +170,48 @@
     <term name="article-newspaper" form="short">art. de presse</term>
     <!-- book is in the list of locator terms -->
     <!-- chapter is in the list of locator terms -->
-    <term name="classic" form="short">class. wk.</term>
-    <term name="collection" form="short">arch. coll.</term>
+    <term name="classic" form="short">class.</term>
+    <term name="collection" form="short">coll.</term>
     <term name="document" form="short">doc.</term>
-    <term name="entry-dictionary" form="short">dict. entry</term>
-    <term name="entry-encyclopedia" form="short">ency. entry</term>
+    <term name="entry-dictionary" form="short">entrée de dict.</term>
+    <term name="entry-encyclopedia" form="short">entrée d'encycl.</term>
     <!-- figure is in the list of locator terms -->
-    <term name="graphic" form="short">graph.</term>
-    <term name="interview" form="short">interv.</term>
-    <term name="legal_case" form="short">leg. case</term>
-    <term name="legislation" form="short">legis.</term>
+    <term name="graphic" form="short">img.</term>
+    <term name="interview" form="short">entret.</term>
+    <term name="legal_case" form="short">aff.</term>
+    <term name="legislation" form="short">acte jurid.</term>
     <term name="manuscript" form="short">
-      <single>MS</single>
-      <multiple>MS</multiple>
+      <single>ms.</single>
+      <multiple>mss.</multiple>
     </term>
     <term name="motion_picture" form="short">enr. vidéo</term>
-    <term name="musical_score" form="short">mus. score</term>
-    <term name="pamphlet" form="short">pam.</term>
-    <term name="paper-conference" form="short">conf. paper</term>
-    <term name="patent" form="short">pat.</term>
-    <term name="performance" form="short">prfm.</term>
-    <term name="personal_communication" form="short">pers. comm.</term>
-    <term name="regulation" form="short">reg.</term>
-    <term name="report" form="short">rap.</term>
+    <term name="musical_score" form="short">partit. music.</term>
+    <term name="pamphlet" form="short">pamph.</term>
+    <term name="paper-conference" form="short">art. de conf.</term>
+    <term name="patent" form="short">brevet</term>
+    <term name="performance" form="short">interprét.</term>
+    <term name="personal_communication" form="short">comm. perso.</term>
+    <term name="regulation" form="short">règl.</term>
+    <term name="report" form="short">rapp.</term>
     <term name="review" form="short">recens.</term>
-    <term name="review-book" form="short">recens. de liv.</term>
-    <term name="software" form="short">sftw.</term>
+    <term name="review-book" form="short">recens. de livre</term>
+    <term name="software" form="short">logic.</term>
     <term name="song" form="short">enr. audio</term>
-    <term name="standard" form="short">std.</term>
-    <term name="thesis" form="short">thes.</term>
-    <term name="webpage" form="short">webpg.</term>
+    <term name="standard" form="short">norme</term>
+    <term name="thesis" form="short">thèse</term>
+    <term name="webpage" form="short">p. web</term>
 
     <!-- LONG VERB ITEM TYPE FORMS -->
     <!-- Only where applicable -->
     <term name="hearing" form="verb">témoignage de</term>
-    <term name="review" form="verb">recension de</term>
-    <term name="review-book" form="verb">recension du livre</term>
+    <term name="review" form="verb">recension</term>
+    <term name="review-book" form="verb">recension de livre</term>
 
     <!-- SHORT VERB ITEM TYPE FORMS -->
     <!-- Only where applicable -->
-    <term name="hearing" form="verb-short">test. of</term> <!-- ODA -->
-    <term name="review" form="verb-short">rev. of</term>
-    <term name="review-book" form="verb-short">rev. of the bk.</term>
+    <term name="hearing" form="verb-short">témoign. de</term> <!-- ODA -->
+    <term name="review" form="verb-short">recens. de</term>
+    <term name="review-book" form="verb-short">recens. de livre</term>
 
     <!-- HISTORICAL ERA TERMS -->
     <term name="ad">apr. J.-C.</term>
@@ -335,8 +336,8 @@
       <multiple>sub verbis</multiple>
     </term>
     <term name="supplement">
-      <single>supplement</single>
-      <multiple>supplements</multiple>
+      <single>supplément</single>
+      <multiple>suppléments</multiple>
     </term>
     <term name="table">
       <single>tableau</single>
@@ -367,15 +368,15 @@
     </term>
     <term name="article-locator" form="short">
       <single>art.</single>
-      <multiple>arts.</multiple>
+      <multiple>art.</multiple>
     </term>
     <term name="book" form="short">
-      <single>liv.</single>
-      <multiple>liv.</multiple>
+      <single>livre</single>
+      <multiple>livres</multiple>
     </term>
     <term name="canon" form="short">
       <single>can.</single>
-      <multiple>cann.</multiple>
+      <multiple>can.</multiple>
     </term>
     <term name="chapter" form="short">
       <single>chap.</single>
@@ -390,8 +391,8 @@
       <multiple>emplact</multiple>
     </term>
     <term name="equation" form="short">
-      <single>eq.</single>
-      <multiple>eq.</multiple>
+      <single>eqt.</single>
+      <multiple>eqt.</multiple>
     </term>
     <term name="figure" form="short">
       <single>fig.</single>
@@ -443,11 +444,11 @@
     </term>
     <term name="sub-verbo" form="short">
       <single>s.&#160;v.</single>
-      <multiple>s.&#160;vv.</multiple>
+      <multiple>s.&#160;v.</multiple>
     </term>
     <term name="supplement" form="short">
-      <single>supp.</single>
-      <multiple>supps.</multiple>
+      <single>suppl.</single>
+      <multiple>suppl.</multiple>
     </term>
     <term name="table" form="short">
       <single>tab.</single>
@@ -474,7 +475,7 @@
     <term name="chapter" form="symbol">
       <!-- caput/capita, esp. in legal works; cf. CMOS 14.196 -->
       <single>c.</single>
-      <multiple>cc.</multiple>
+      <multiple>c.</multiple>
     </term>
     <term name="paragraph" form="symbol">
       <single>§</single>
@@ -487,8 +488,8 @@
     
     <!-- LONG NUMBER VARIABLE FORMS -->
     <term name="chapter-number">
-      <single>chapter</single>
-      <multiple>chapters</multiple>
+      <single>chapitre</single>
+      <multiple>chapitres</multiple>
     </term>
     <term name="citation-number">
       <single>citation</single>
@@ -503,12 +504,12 @@
       <multiple>éditions</multiple>
     </term>
     <term name="first-reference-note-number">
-      <single>reference</single>
-      <multiple>references</multiple>
+      <single>référence</single>
+      <multiple>références</multiple>
     </term>
     <term name="number">
-      <single>number</single>
-      <multiple>numbers</multiple>
+      <single>numéro</single>
+      <multiple>numéros</multiple>
     </term>
     <term name="number-of-pages">
       <single>page</single>
@@ -523,25 +524,25 @@
       <multiple>pages</multiple>
     </term>
     <term name="printing">
-      <single>printing</single>
-      <multiple>printings</multiple>
+      <single>impression</single>
+      <multiple>impressions</multiple>
     </term>
     <term name="version">
       <single>version</single>
-      <multiple>version</multiple>
+      <multiple>versions</multiple>
     </term>
     
     <!-- SHORT NUMBER VARIABLE FORMS -->
     <term name="chapter-number" form="short">
       <single>chap.</single>
-      <multiple>chaps.</multiple>
+      <multiple>chap.</multiple>
     </term>
     <term name="citation-number" form="short">
       <single>cit.</single>
-      <multiple>cits.</multiple>
+      <multiple>cit.</multiple>
     </term>
     <term name="collection-number" form="short">
-      <single>nᵒ</single>
+     <single>nᵒ</single>
       <multiple>nᵒˢ</multiple>
     </term>
     <term name="edition" form="short">
@@ -549,12 +550,12 @@
       <multiple>éd.</multiple>
     </term>
     <term name="first-reference-note-number" form="short">
-      <single>ref.</single>
-      <multiple>refs.</multiple>
+      <single>réf.</single>
+      <multiple>réf.</multiple>
     </term>
     <term name="number" form="short">
-      <single>no.</single>
-      <multiple>nos.</multiple>
+     <single>nᵒ</single>
+     <multiple>nᵒˢ</multiple>
     </term>
     <term name="number-of-pages" form="short">
       <single>p.</single>
@@ -562,15 +563,15 @@
     </term>
     <term name="number-of-volumes" form="short">
       <single>vol.</single>
-      <multiple>vols.</multiple>
+      <multiple>vol.</multiple>
     </term>
     <term name="page-first" form="short">
       <single>p.</single>
-      <multiple>pp.</multiple>
+      <multiple>p.</multiple>
     </term>
     <term name="printing" form="short">
-      <single>print.</single>
-      <multiple>prints.</multiple>
+      <single>impr.</single>
+      <multiple>impr.</multiple>
     </term>
     <term name="version" form="short">v.</term> <!-- no plural -->
     
@@ -583,8 +584,8 @@
       <multiple>présidents</multiple>
     </term>
     <term name="collection-editor">
-      <single>éditeur</single>
-      <multiple>éditeurs</multiple>
+      <single>directeur</single>
+      <multiple>directeurs</multiple>
     </term>
     <term name="compiler">
       <single>compilateur</single>
@@ -668,8 +669,8 @@
          author, chair, composer, container-author, guest, host, interviewer, original-author, recipient, reviewed-author
     -->
     <term name="collection-editor" form="short">
-      <single>éd.</single>
-      <multiple>éd.</multiple>
+      <single>dir.</single>
+      <multiple>dir.</multiple>
     </term>
     <term name="compiler" form="short">
       <single>compil.</single>
@@ -742,9 +743,9 @@
  
     <!-- VERB ROLE FORMS -->
     <term name="chair" form="verb">présidé par</term>
-    <term name="collection-editor" form="verb">edited by</term>
+    <term name="collection-editor" form="verb">sous la direction de</term>
     <term name="compiler" form="verb">compilé par</term>
-    <term name="composer" form="verb">composed by</term>
+    <term name="composer" form="verb">composé par</term>
     <term name="container-author" form="verb">par</term>
     <term name="contributor" form="verb">avec</term>
     <term name="curator" form="verb">organisé par</term>
@@ -756,14 +757,14 @@
     <term name="executive-producer" form="verb">production exécutive par</term>
     <term name="guest" form="verb">
       <single>avec pour invité</single>
-      <multiple>avec pour invité</multiple>
+      <multiple>avec pour invités</multiple>
     </term>
     <term name="host" form="verb">animé par</term>
     <term name="illustrator" form="verb">illustré par</term>
     <term name="interviewer" form="verb">entretien réalisé par</term>
     <term name="narrator" form="verb">lu par</term>
     <term name="organizer" form="verb">organisé par</term>
-    <term name="original-author" form="verb">by</term>
+    <term name="original-author" form="verb">par</term>
     <term name="performer" form="verb">interprété par</term>
     <term name="producer" form="verb">produit par</term>
     <term name="recipient" form="verb">à</term>
@@ -776,7 +777,7 @@
     <!-- Omitted roles:
          author, chair, container-author, contributor, guest, host, interviewer, original-author, recipient, reviewed-author, series-creator
     -->
-    <term name="collection-editor" form="verb-short">ed. by</term>
+    <term name="collection-editor" form="verb-short">ss la dir. de</term>
     <term name="compiler" form="verb-short">compil. par</term>
     <term name="composer" form="verb-short">comp. by</term>
     <term name="contributor" form="verb-short">ac</term>
