@@ -7,8 +7,11 @@
     <translator>
       <name>Hung Quoc Vo</name>
     </translator>
+    <translator>
+      <name>Tran Quang Cuong</name>
+    </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2025-09-23T23:31:02+00:00</updated>
+    <updated>2025-10-03T23:31:02+00:00</updated>
   </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
@@ -52,8 +55,8 @@
     <term name="accessed">truy cập</term>
     <term name="and">và</term>
     <term name="and others">và những người khác</term>
-    <term name="anonymous">vô danh</term>
-    <term name="anonymous" form="short">v.d.</term>
+    <term name="anonymous">khuyết danh</term>
+    <term name="anonymous" form="short">k.d</term>
     <term name="at">tại</term>
     <term name="available at">có tại</term>
     <term name="by">bởi</term>
@@ -268,8 +271,8 @@
       <multiple>chương</multiple>
     </term>
     <term name="column">
-      <single>column</single>
-      <multiple>columns</multiple>
+      <single>cột</single>
+      <multiple>cột</multiple>
     </term>
     <term name="figure">
       <single>figure</single>
@@ -416,15 +419,13 @@
       <single>print.</single>
       <multiple>prints.</multiple>
     </term>
-    
-
     <term name="number-of-pages" form="short">
       <single>tr</single>
       <multiple>tr</multiple>
     </term>
     <term name="paragraph" form="short">đ.</term>
-    <term name="part" form="short">ph.</term>
     <term name="section" form="short">m.</term>
+    <term name="section" form="short">sec.</term>
     <term name="supplement" form="short">
       <single>p.l.</single>
       <multiple>p.l.</multiple>
@@ -438,8 +439,8 @@
       <multiple>vv</multiple>
     </term>
     <term name="volume" form="short">
-      <single>t.</single>
-      <multiple>t.</multiple>
+      <single>tập</single>
+      <multiple>tập</multiple>
     </term>
 
     <!-- SYMBOL LOCATOR FORMS -->
@@ -522,8 +523,8 @@
       <multiple>người biên soạn xê-ri</multiple>
     </term>
     <term name="director">
-      <single>đạo diễn</single>
-      <multiple>đạo diễn</multiple>
+      <single>chủ biênr</single>
+      <multiple>chủ biên</multiple>
     </term>
     <term name="editor">
       <single>biên tập viên</single>
