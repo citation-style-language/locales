@@ -221,8 +221,8 @@
 
     <!-- LONG LOCATOR FORMS -->
     <term name="act">			 
-      <single>act</single>
-      <multiple>acts</multiple>						 
+      <single>perde</single>
+      <multiple>perdeler</multiple>						 
     </term>
     <term name="appendix">			 
       <single>ek</single>
@@ -233,12 +233,12 @@
       <multiple>makaleler</multiple>						 
     </term>
     <term name="canon">			 
-      <single>canon</single>
-      <multiple>canons</multiple>						 
+      <single>kitap</single>
+      <multiple>kitaplar</multiple>						 
     </term>
     <term name="elocation">			 
-      <single>location</single>
-      <multiple>locations</multiple>						 
+      <single>konum</single>
+      <multiple>konumlar</multiple>						 
     </term>
     <term name="equation">			 
       <single>eşitlik</single>
@@ -369,8 +369,8 @@
       <multiple>mak.</multiple>
     </term>
     <term name="elocation" form="short">			 
-      <single>loc.</single>
-      <multiple>locs.</multiple>
+      <single>kon.</single>
+      <multiple>kon.</multiple>
     </term>
     <term name="equation" form="short">			 
       <single>eşt.</single>
