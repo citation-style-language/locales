@@ -8,7 +8,7 @@
       <name>Collectif Zotero francophone</name>
     </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2025-09-29T23:31:02+00:00</updated>
+    <updated>2025-10-08T23:31:02+00:00</updated>
   </info>
   <style-options punctuation-in-quote="false" limit-day-ordinals-to-day-1="true"/>
   <date form="text">
@@ -777,19 +777,19 @@
     <!-- Omitted roles:
          author, chair, container-author, contributor, guest, host, interviewer, original-author, recipient, reviewed-author, series-creator
     -->
-    <term name="collection-editor" form="verb-short">ss la dir. de</term>
-    <term name="compiler" form="verb-short">compil. par</term>
-    <term name="composer" form="verb-short">comp. by</term>
+    <term name="collection-editor" form="verb-short">sous la dir. de</term>
+    <term name="compiler" form="verb-short">compilé par</term>
+    <term name="composer" form="verb-short">composé par</term>
     <term name="contributor" form="verb-short">ac</term>
     <term name="curator" form="verb-short">org. par</term>
     <term name="director" form="verb-short">réal. par</term>
     <term name="editor" form="verb-short">éd. par</term>
     <term name="editor-translator" form="verb-short">éd. et trad. par</term>
     <term name="editortranslator" form="verb-short">éd. et trad. par</term>
-    <term name="editorial-director" form="verb-short">ss la dir. de</term>
+    <term name="editorial-director" form="verb-short">sous la dir. de</term>
     <term name="executive-producer" form="verb-short">prod. exé. par</term>
     <term name="guest" form="verb-short">ac pr inv.</term>
-    <term name="host" form="verb-short">anim. par</term>
+    <term name="host" form="verb-short">animé par</term>
     <term name="illustrator" form="verb-short">ill. par</term>
     <term name="narrator" form="verb-short">lu par</term>
     <term name="organizer" form="verb-short">org. par</term>
