@@ -777,7 +777,7 @@
     <!-- Omitted roles:
          author, chair, container-author, contributor, guest, host, interviewer, original-author, recipient, reviewed-author, series-creator
     -->
-    <term name="collection-editor" form="verb-short">ss dir. de</term>
+    <term name="collection-editor" form="verb-short">ss la dir. de</term>
     <term name="compiler" form="verb-short">compil. par</term>
     <term name="composer" form="verb-short">comp. par</term>
     <term name="contributor" form="verb-short">ac</term>
