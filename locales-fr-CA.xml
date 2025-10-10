@@ -41,7 +41,7 @@
     <term name="from">à l'adresse</term>
     <term name="henceforth">désormais</term>
     <term name="ibid">ibid.</term>
-    <term name="in">in</term>
+    <term name="in">dans</term> <!-- different from fr-FR -->
     <term name="in press">sous presse</term>
     <term name="internet">Internet</term>
     <term name="letter">lettre</term>
@@ -150,7 +150,7 @@
     <term name="periodical">périodique</term>
     <term name="personal_communication">communication personnelle</term>
     <term name="post">billet</term>
-    <term name="post-weblog">billet de blog</term>
+    <term name="post-weblog">billet de blogue</term> <!-- different from fr-FR -->
     <term name="regulation">règlement</term>
     <term name="report">rapport</term>
     <term name="review">recension</term>
@@ -777,7 +777,7 @@
     <!-- Omitted roles:
          author, chair, container-author, contributor, guest, host, interviewer, original-author, recipient, reviewed-author, series-creator
     -->
-    <term name="collection-editor" form="verb-short">sous la dir. de</term>
+    <term name="collection-editor" form="verb-short">sous la dir. de</term> <!-- different from fr-FR -->
     <term name="compiler" form="verb-short">compil. par</term>
     <term name="composer" form="verb-short">comp. par</term>
     <term name="contributor" form="verb-short">ac</term>
@@ -786,7 +786,7 @@
     <term name="editor" form="verb-short">sous la dir. de</term> <!-- different from fr-FR -->
     <term name="editor-translator" form="verb-short">dir. et trad.</term> <!-- different from fr-FR -->
     <term name="editortranslator" form="verb-short">dir. et trad.</term> <!-- different from fr-FR -->
-    <term name="editorial-director" form="verb-short">sous la dir. de</term>
+    <term name="editorial-director" form="verb-short">sous la dir. de</term> <!-- different from fr-FR -->
     <term name="executive-producer" form="verb-short">prod. exé. par</term>
     <term name="guest" form="verb-short">ac pr inv.</term>
     <term name="host" form="verb-short">animé par</term>
