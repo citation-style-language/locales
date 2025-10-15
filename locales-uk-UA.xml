@@ -238,7 +238,7 @@
     <term name="close-quote">»</term>
     <term name="open-inner-quote">"</term>
     <term name="close-inner-quote">"</term>
-    <term name="page-range-delimiter">-</term>
+    <term name="page-range-delimiter">—</term> <!-- Following 2019 orthography rules at https://uk.wikipedia.org/wiki/%D0%9F%D1%83%D0%BD%D0%BA%D1%82%D1%83%D0%B0%D1%86%D1%96%D1%8F>
     <term name="colon">:</term>
     <term name="comma">,</term>
     <term name="semicolon">;</term>
