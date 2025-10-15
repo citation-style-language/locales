@@ -23,7 +23,7 @@ describe "The file \"locales.json\"" do
       filename = File.basename(path)
       locale = filename[8..-5]
     }
-    @locale_file_languages = @locale_file_locales.map { |locale| language = locale[/([a-zA-Z]{2,3})-?(?=[a-zA-Z]*)/, 1] }
+    @locale_file_languages = @locale_file_locales.map { |locale| language = locale[/([a-zA-Z]{2,3})(-[A-Z][a-z]{3})?-?(?=[a-zA-Z]*)/, 1] }
     @locale_file_languages.uniq!
   end
 
