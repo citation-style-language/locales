@@ -7,7 +7,7 @@ Locales.each_pair do |id, (filename, path, locale)|
     end
 
     it "has a conventional file name" do
-      expect(filename).to match(/^locales-[a-z]{2,3}(-[A-Z][a-z]{3})?(-[A-Z]{2})?\.xml$/)
+      expect(filename).to match(/^locales-[a-z]{2,3}(-[A-Z]{2})?\.xml$/)
     end
 
     it "was successfully parsed" do
