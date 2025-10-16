@@ -45,7 +45,7 @@
         "ru":  "ru-RU",
         "sk":  "sk-SK",
         "sl":  "sl-SI",
-        "sr":  "sr-Latn-RS",
+        "sr":  "sr-RS",
         "sv":  "sv-SE",
         "th":  "th-TH",
         "tr":  "tr-TR",
@@ -262,13 +262,9 @@
             "Slovenščina",
             "Slovenian"
         ],
-        "sr-Cyrl-RS": [
-            "Српски",
+        "sr-RS": [
+            "Српски / Srpski",
             "Serbian (Cyrllic)"
-        ],
-        "sr-Latn-RS": [
-            "Srpski",
-            "Serbian (Latin)"
         ],
         "sv-SE": [
             "Svenska",
