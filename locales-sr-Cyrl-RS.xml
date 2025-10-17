@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="sr-RS">
+<locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="sr-Cyrl-RS">
   <info>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2025-10-15T20:49:31-04:00</updated>
+    <updated>2025-10-17T19:54:58-04:00</updated>
   </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
