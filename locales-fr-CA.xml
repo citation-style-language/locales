@@ -8,7 +8,7 @@
       <name>Collectif Zotero francophone</name>
     </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2025-10-16T03:24:01+00:00</updated>
+    <updated>2025-10-18T05:52:36+00:00</updated>
   </info>
   <style-options punctuation-in-quote="false" limit-day-ordinals-to-day-1="true"/>
   <date form="text">
@@ -85,7 +85,6 @@
     <term name="available at" form="short">dispo. sur</term>
     <term name="circa" form="short">v.</term>
     <term name="cited" form="short">cité</term>
-    <term name="et-al" form="short">et al.</term>
     <term name="film" form="short">film</term>
     <term name="from" form="short">à l'adr.</term>
     <term name="letter" form="short">let.</term>
