@@ -482,10 +482,6 @@
       <multiple>Vorsitz</multiple>
     </term>
     <term name="collection-editor">
-      <single>ed.</single>
-      <multiple>eds.</multiple>
-    </term>
-    <term name="collection-editor">
       <single>Reihenherausgeber</single>
       <multiple>Reihenherausgeber</multiple>
     </term>
@@ -648,7 +644,6 @@
 
     <!-- VERB ROLE FORMS -->
     <term name="chair" form="verb">Vorsitz durch</term>
-    <term name="collection-editor" form="verb">edited by</term>
     <term name="collection-editor" form="verb">herausgegeben von</term>
     <term name="compiler" form="verb">kompiliert von</term>
     <term name="container-author" form="verb">von</term>
@@ -675,7 +670,6 @@
     <term name="translator" form="verb">übersetzt von</term>
 
     <!-- SHORT VERB ROLE FORMS -->
-    <term name="collection-editor" form="verb-short">ed. by</term>
     <term name="collection-editor" form="verb-short">hrsg. von</term>
     <term name="compiler" form="verb-short">komp. von</term>
     <term name="contributor" form="verb-short">m.</term>

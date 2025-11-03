@@ -124,7 +124,6 @@
     <term name="graphic">iconográfico</term>
     <term name="hearing">audiência</term>
     <term name="interview">entrevista</term>
-    <term name="interview">entrevista</term>
     <term name="legal_case">jurisprudência</term>
     <term name="legislation">legislação</term>
     <term name="manuscript">manuscrito</term>
@@ -257,10 +256,6 @@
       <multiple>equações</multiple>
     </term>
     <term name="figure">figura</term>
-    <term name="figure">
-      <single>figura</single>
-      <multiple>figuras</multiple>
-    </term>
     <term name="folio">
       <single>fólio</single>
       <multiple>fólios</multiple>
@@ -369,7 +364,6 @@
       <single>pt.</single>
       <multiple>pt.</multiple>
     </term>
-    <term name="part" form="short">pt.</term>
     <term name="rule" form="short">
       <single>norma</single>
       <multiple>normas</multiple>
@@ -502,10 +496,6 @@
     <term name="chair">
       <single>presidente</single>
       <multiple>presidentes</multiple>
-    </term>
-    <term name="collection-editor">
-      <single>ed.</single>
-      <multiple>eds.</multiple>
     </term>
     <term name="collection-editor">
       <single>editor</single>

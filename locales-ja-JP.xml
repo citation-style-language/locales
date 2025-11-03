@@ -117,7 +117,6 @@
     <term name="graphic">視覚的</term>
     <term name="hearing">聴覚的</term>
     <term name="interview">面接</term>
-    <term name="interview">面接</term>
     <term name="legal_case">裁判事例</term>
     <term name="legislation">法律</term>
     <term name="manuscript">写本</term>
@@ -622,7 +621,6 @@
     <term name="translator" form="verb">翻訳者: </term>
 
     <!-- SHORT VERB ROLE FORMS -->
-    <term name="collection-editor" form="verb-short">ed. by</term>
     <term name="collection-editor" form="verb-short">編: </term>
     <term name="compiler" form="verb-short">纂: </term>
     <term name="contributor" form="verb-short">協力: </term>

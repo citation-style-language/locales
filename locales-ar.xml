@@ -587,15 +587,10 @@
     <term name="container-author" form="verb">إنشاء</term>
     <term name="contributor" form="verb">with</term>
     <term name="curator" form="verb">curated by</term>
-    <term name="director" form="verb">directed by</term>
     <term name="director" form="verb">إشراف</term>
-    <term name="editor" form="verb">edited by</term>
     <term name="editor" form="verb">تحقيق</term>
-    <term name="editor-translator" form="verb">edited &amp; translated by</term>
     <term name="editor-translator" form="verb">تحقيق وترجمة</term>
-    <term name="editortranslator" form="verb">edited &amp; translated by</term>
     <term name="editortranslator" form="verb">تحقيق وترجمة</term>
-    <term name="editorial-director" form="verb">edited by</term>
     <term name="editorial-director" form="verb">إعداد</term>
     <term name="executive-producer" form="verb">executive produced by</term>
     <term name="guest" form="verb">with guest</term>
