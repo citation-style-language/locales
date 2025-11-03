@@ -483,6 +483,7 @@
     </term>
 
     <!-- LONG ROLE FORMS -->
+    <term name="author"/> <!-- generally blank -->
     <term name="chair">
       <single>議長</single>
       <multiple/>
@@ -495,6 +496,8 @@
       <single>編纂者</single>
       <multiple/>
     </term>
+    <term name="composer"/> <!-- generally blank -->
+    <term name="container-author"/> <!-- generally blank -->
     <term name="contributor">
       <single>協力者</single>
       <multiple>協力者</multiple>
@@ -539,6 +542,7 @@
       <single>図解者</single>
       <multiple>図解者</multiple>
     </term>
+    <term name="interviewer"/> <!-- generally blank -->
     <term name="narrator">
       <single>語り手</single>
       <multiple>語り手</multiple>
@@ -547,6 +551,7 @@
       <single>組織者</single>
       <multiple>組織者</multiple>
     </term>
+    <term name="original-author"/> <!-- generally blank -->
     <term name="performer">
       <single>演者</single>
       <multiple>演者</multiple>
@@ -555,6 +560,8 @@
       <single>指揮者</single>
       <multiple>指揮者</multiple>
     </term>
+    <term name="recipient"/> <!-- generally blank -->
+    <term name="reviewed-author"/> <!-- generally blank -->
     <term name="script-writer">
       <single>執筆者</single>
       <multiple>執筆者</multiple>
