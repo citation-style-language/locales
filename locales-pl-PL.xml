@@ -414,8 +414,8 @@
       <multiple>wydania</multiple>
     </term>
     <term name="first-reference-note-number">
-      <single>reference</single>
-      <multiple>references</multiple>
+      <single>note</single>
+      <multiple>notes</multiple>
     </term>
     <term name="number">
       <single>numer</single>

@@ -460,8 +460,8 @@
     <term name="collection-number" form="short">núm.</term>
     <term name="edition" form="short">ed.</term>
     <term name="first-reference-note-number" form="short">
-      <single>ref.</single>
-      <multiple>refs.</multiple>
+      <single>n.</single>
+      <multiple>nn.</multiple>
     </term>
     <term name="number" form="short">
       <single>núm.</single>
