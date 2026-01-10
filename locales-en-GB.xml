@@ -518,8 +518,8 @@
       <multiple>editions</multiple>
     </term>
     <term name="first-reference-note-number">
-      <single>note</single>
-      <multiple>notes</multiple>
+      <single>reference</single>
+      <multiple>references</multiple>
     </term>
     <term name="number">
       <single>number</single>
@@ -564,8 +564,8 @@
       <multiple>edns</multiple>
     </term>
     <term name="first-reference-note-number" form="short">
-      <single>n.</single>
-      <multiple>nn.</multiple>
+      <single>ref.</single>
+      <multiple>refs</multiple>
     </term>
     <term name="number" form="short">
       <single>no.</single>
