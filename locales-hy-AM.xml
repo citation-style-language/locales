@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0.1" xml:lang="hy-AM">
+<locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="hy-AM">
   <!-- The abbreviations in this file follow the recommendations of The System of Standards on Information, Librarianship and Publishing: Bibliographic Record; Bibliographic Description; General Requirements and Rule Specifications, HST 361-2013, https://www.armstandard.am/en/standart/15414 (cited hereafter HST-316) -->
   <!-- Additional abbreviations are from:
         1. Հայոց լեզվի հապավումների բառարան := Dictionary of Armenian Language Abbreviations / Ալեքսանդր Սիմոնի Մարգարյան; Խմբ.՝ Լ.Հ. Մկրտչյան.— Երևան: Հայաստան, 1979.- 148 էջ. https://haygirk.nla.am/upload/1941-/margaryan_hayoc_1979.pdf (cited hereafter as DAAL)
@@ -16,7 +16,7 @@
     </translator>
 	<translator>
       <name>Armenian Language Technology Research Laboratory</name>
-      <uri>https://github.com/ReLALT</uri>
+      <uri>https://github.com/RLALT</uri>
     </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
     <updated>2026-01-31T12:37:21+04:00</updated>
@@ -47,7 +47,7 @@
     <term name="circa">մոտ</term>
     <term name="cited">մեջբերումն ըստ՝</term> <!-- the armenian comma was preferred to avoid the flexed forms -->
     <term name="et-al">և&#160;ուրիշներ</term> <!-- like "and others", in the armenian tradition they are the same; the alternative spelling «և այլք» was deemed archaic -->
-    <term name="film">ֆիլմ</term>
+    <term name="film">կինոնկար</term>
     <term name="forthcoming">հանձնված&#160;է հրապարակման</term>
     <term name="from">իմա՝</term> <!-- the term «սկզբնաղբյուրը» is more specific and is primarily used in archival studies -->
     <term name="henceforth">այսուհետ՝</term>
@@ -274,7 +274,7 @@
     </term>
     <term name="section">
       <single>բաժին</single>
-      <multiple>բաժիներ</multiple>
+      <multiple>բաժիններ</multiple>
 	</term>
     <term name="sub-verbo">տե՛ս գլխաբառ</term> <!-- no plural -->
     <term name="supplement"> <!-- the DLT (p. 46) recommends using the term "լրացում;" bibliographies usually use adjectival forms such as "լրացված հրատարակություն" or "հավելյալ հատոր" (DLT, p. 203); we prefer the more general term "հավելված" (DLT, p. 110). -->
@@ -555,32 +555,32 @@
     <term name="translator" form="verb-short">թարգմ.՝</term>
 
     <!-- LONG MONTH FORMS -->
-    <term name="month-01">Հունվար</term>
-    <term name="month-02">Փետրվար</term>
-    <term name="month-03">Մարտ</term>
-    <term name="month-04">Ապրիլ</term>
-    <term name="month-05">Մայիս</term>
-    <term name="month-06">Հունիս</term>
-    <term name="month-07">Հուլիս</term>
-    <term name="month-08">Օգոստոս</term>
-    <term name="month-09">Սեպտեմբեր</term>
-    <term name="month-10">Հոկտեմբեր</term>
-    <term name="month-11">Նոյեմբեր</term>
-    <term name="month-12">Դեկտեմբեր</term>
+    <term name="month-01">հունվար</term>
+    <term name="month-02">փետրվար</term>
+    <term name="month-03">մարտ</term>
+    <term name="month-04">ապրիլ</term>
+    <term name="month-05">մայիս</term>
+    <term name="month-06">հունիս</term>
+    <term name="month-07">հուլիս</term>
+    <term name="month-08">օգոստոս</term>
+    <term name="month-09">սեպտեմբեր</term>
+    <term name="month-10">հոկտեմբեր</term>
+    <term name="month-11">նոյեմբեր</term>
+    <term name="month-12">դեկտեմբեր</term>
 
     <!-- SHORT MONTH FORMS -->
-    <term name="month-01" form="short">Հնվ.</term>
-    <term name="month-02" form="short">Փտր.</term>
-    <term name="month-03" form="short">Մրտ.</term>
-    <term name="month-04" form="short">Ապր.</term>
-    <term name="month-05" form="short">Մյս.</term>
-    <term name="month-06" form="short">Հնս.</term>
-    <term name="month-07" form="short">Հլս.</term>
-    <term name="month-08" form="short">Օգս.</term>
-    <term name="month-09" form="short">Սպտ.</term>
-    <term name="month-10" form="short">Հկտ.</term>
-    <term name="month-11" form="short">Նյմ.</term>
-    <term name="month-12" form="short">Դկտ.</term>
+    <term name="month-01" form="short">հնվ.</term>
+    <term name="month-02" form="short">փտր.</term>
+    <term name="month-03" form="short">մրտ.</term>
+    <term name="month-04" form="short">ապր.</term>
+    <term name="month-05" form="short">մյս.</term>
+    <term name="month-06" form="short">հնս.</term>
+    <term name="month-07" form="short">հլս.</term>
+    <term name="month-08" form="short">օգս.</term>
+    <term name="month-09" form="short">սպտ.</term>
+    <term name="month-10" form="short">հկտ.</term>
+    <term name="month-11" form="short">նյմ.</term>
+    <term name="month-12" form="short">դկտ.</term>
 
     <!-- SEASONS -->
     <term name="season-01">գարուն</term>
