@@ -666,7 +666,7 @@
       <single>prod.</single>
       <multiple>prods.</multiple>
     </term>
-    <term name="recipient">
+    <term name="recipient" form="short">
       <single>destinat.</single>
       <multiple>destinats.</multiple>
     </term>
