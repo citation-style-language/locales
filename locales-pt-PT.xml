@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="pt-PT">
   <info>
-    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2025-10-16T03:24:00+00:00</updated>
     <translator>
       <name>Jonadabe PT</name>
     </translator>
@@ -10,6 +8,8 @@
       <name>André Luiz Appel</name>
       <uri>https://orcid.org/0000-0002-9608-803X</uri>
     </translator>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2026-01-29T00:00:00+00:00</updated>
   </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
@@ -492,7 +492,10 @@
       <single>compilador</single>
       <multiple>compiladores</multiple>
     </term>
-    <term name="composer"/> <!-- generally blank -->
+    <term name="composer"> <!-- generally blank -->
+      <single>compositor</single>
+      <multiple>compositores</multiple>
+    </term>
     <term name="container-author"/> <!-- generally blank -->
     <term name="contributor">
       <single>contribuinte</single>
@@ -538,7 +541,10 @@
       <single>ilustrador</single>
       <multiple>ilustradores</multiple>
     </term>
-    <term name="interviewer"/> <!-- generally blank -->
+    <term name="interviewer"> <!-- generally blank -->
+      <single>entrevistador</single>
+      <multiple>entrevistadores</multiple>
+    </term>
     <term name="narrator">
       <single>narrador</single>
       <multiple>narradores</multiple>
@@ -556,7 +562,10 @@
       <single>produtor</single>
       <multiple>produtores</multiple>
     </term>
-    <term name="recipient"/> <!-- generally blank -->
+    <term name="recipient"> <!-- generally blank -->
+      <single>destinatário</single>
+      <multiple>destinatários</multiple>
+    </term>
     <term name="reviewed-author"/> <!-- generally blank -->
     <term name="script-writer">
       <single>escritor</single>
@@ -575,6 +584,10 @@
     <term name="compiler" form="short">
       <single>compil.</single>
       <multiple>compils.</multiple>
+    </term>
+    <term name="composer" form="short">
+      <single>composist.</single>
+      <multiple>composits.</multiple>
     </term>
     <term name="contributor" form="short">
       <single>contrib.</single>
@@ -612,6 +625,10 @@
       <single>il.</single>
       <multiple>ils.</multiple>
     </term>
+    <term name="interviewer" form="short">
+      <single>entrevist.</single>
+      <multiple>entrevists.</multiple>
+    </term>
     <term name="narrator" form="short">
       <single>narr.</single>
       <multiple>narrs.</multiple>
@@ -627,6 +644,10 @@
     <term name="producer" form="short">
       <single>prod.</single>
       <multiple>prods.</multiple>
+    </term>
+    <term name="recipient" form="short">
+      <single>destinat.</single>
+      <multiple>destinats.</multiple>
     </term>
     <term name="script-writer" form="short">
       <single>roteir.</single>
