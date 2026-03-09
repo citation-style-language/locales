@@ -12,7 +12,7 @@
       <name>Dr. Ayman Saleh</name>
     </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2026-02-27T23:57:25+01:00</updated>
+    <updated>2026-03-09T22:17:05+01:00</updated>
   </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
@@ -411,9 +411,11 @@
       <single>citation</single>
       <multiple>citations</multiple>
     </term>
-    <term name="collection-number">
-      <single gender="masculine">عدد</single>
-      <multiple gender="feminine">أعداد</multiple>
+    <term name="collection-number" gender="masculine">
+      <single>عدد</single>
+      <multiple>أعداد</multiple>
+      <!-- TODO: specify the gender as feminine once that is supported -->
+      <!-- <multiple gender="feminine">أعداد</multiple> -->
     </term>
     <term name="edition" gender="feminine">
       <single>الطبعة</single>
@@ -443,9 +445,11 @@
       <single>printing</single>
       <multiple>printings</multiple>
     </term>
-    <term name="version">
-        <single gender="masculine">إصدار</single>
-        <multiple gender="feminine">إصدارات</multiple>
+    <term name="version" gender="masculine">
+        <single>إصدار</single>
+        <multiple>إصدارات</multiple>
+        <!-- TODO: specify the gender as feminine once that is supported -->
+        <!-- <multiple gender="feminine">إصدارات</multiple> -->
     </term>
 
     <!-- SHORT NUMBER VARIABLE FORMS -->
