@@ -1,0 +1,13 @@
+{
+    "simpleCodingTimeTracker.inactivityTimeout": 2.5,
+    "simpleCodingTimeTracker.focusTimeout": 3,
+    "simpleCodingTimeTracker.statusBar.showSeconds": true,
+    "simpleCodingTimeTracker.statusBar.icon": "$(code)",
+    "simpleCodingTimeTracker.statusBar.backgroundStyle": "default",
+    "simpleCodingTimeTracker.statusBar.color": "#cccccc",
+    "simpleCodingTimeTracker.health.enableNotifications": true,
+    "simpleCodingTimeTracker.health.modalNotifications": true,
+    "simpleCodingTimeTracker.health.eyeRestInterval": 20,
+    "simpleCodingTimeTracker.health.stretchInterval": 30,
+    "simpleCodingTimeTracker.health.breakThreshold": 90
+}
