@@ -44,20 +44,20 @@
     <term name="letter">levél</term>
     <term name="loc-cit">loc. cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
     <term name="no date">évszám nélkül</term>
-    <term name="no-place">no place</term>
-    <term name="no-publisher">no publisher</term> <!-- sine nomine -->
+    <term name="no-place">hely nélkül</term>
+    <term name="no-publisher">kiadó nélkül</term> <!-- sine nomine -->
     <term name="on">on</term>
     <term name="online">online</term>
     <term name="op-cit">op. cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
-    <term name="original-work-published">original work published</term>
+    <term name="original-work-published">eredeti mű kiadva</term>
     <term name="personal-communication">személyes kommunikáció</term>
     <term name="podcast">podcast</term>
-    <term name="podcast-episode">podcast episode</term>
+    <term name="podcast-episode">podcast epizód</term>
     <term name="preprint">preprint</term>
     <term name="presented at">előadás</term>
-    <term name="radio-broadcast">radio broadcast</term>
-    <term name="radio-series">radio series</term>
-    <term name="radio-series-episode">radio series episode</term>
+    <term name="radio-broadcast">rádióadás</term>
+    <term name="radio-series">rádiósorozat</term>
+    <term name="radio-series-episode">rádiósorozat epizód</term>
     <term name="reference">
       <single>hivatkozás</single>
       <multiple>hivatkozás</multiple>
@@ -65,20 +65,20 @@
     <term name="retrieved">elérés</term>
     <term name="review-of">review of</term>
     <term name="scale">skála</term>
-    <term name="special-issue">special issue</term>
+    <term name="special-issue">különszám</term>
     <term name="special-section">special section</term>
-    <term name="television-broadcast">television broadcast</term>
-    <term name="television-series">television series</term>
-    <term name="television-series-episode">television series episode</term>
-    <term name="video">video</term>
+    <term name="television-broadcast">televíziós adás</term>
+    <term name="television-series">televíziós sorozat</term>
+    <term name="television-series-episode">televíziós sorozat epizód</term>
+    <term name="video">videó</term>
     <term name="working-paper">working paper</term>
 
     <!-- SHORT GENERAL TERMS -->
     <term name="anonymous" form="short">sz. n.</term>
     <term name="circa" form="short">kb.</term>
     <term name="no date" form="short">é. n.</term>
-    <term name="no-place" form="short">n.p.</term>
-    <term name="no-publisher" form="short">n.p.</term>
+    <term name="no-place" form="short">h. n.</term>
+    <term name="no-publisher" form="short">k. n.</term>
     <term name="reference" form="short">
       <single>hiv.</single>
       <multiple>hiv.</multiple>
@@ -89,12 +89,12 @@
 
     <!-- LONG ITEM TYPE FORMS -->
     <term name="article">preprint</term>
-    <term name="article-journal">journal article</term>
-    <term name="article-magazine">magazine article</term>
-    <term name="article-newspaper">newspaper article</term>
+    <term name="article-journal">folyóiratcikk</term>
+    <term name="article-magazine">magazincikk</term>
+    <term name="article-newspaper">újságcikk</term>
     <term name="bill">bill</term>
     <!-- book is in the list of locator terms -->
-    <term name="broadcast">broadcast</term>
+    <term name="broadcast">közvetítés</term>
     <!-- chapter is in the list of locator terms -->
     <term name="classic">classic</term>
     <term name="collection">collection</term>
@@ -110,9 +110,9 @@
     <term name="interview">interjú</term>
     <term name="legal_case">legal case</term>
     <term name="legislation">legislation</term>
-    <term name="manuscript">manuscript</term>
-    <term name="map">map</term>
-    <term name="motion_picture">video recording</term>
+    <term name="manuscript">kézirat</term>
+    <term name="map">térkép</term>
+    <term name="motion_picture">videófelvétel</term>
     <term name="musical_score">musical score</term>
     <term name="pamphlet">pamphlet</term>
     <term name="paper-conference">conference paper</term>
@@ -124,31 +124,31 @@
     <term name="post-weblog">blog post</term>
     <term name="regulation">regulation</term>
     <term name="report">report</term>
-    <term name="review">review</term>
-    <term name="review-book">book review</term>
+    <term name="review">recenzió</term>
+    <term name="review-book">könyvrecenzió</term>
     <term name="software">software</term>
     <term name="song">audio recording</term>
     <term name="speech">presentation</term>
     <term name="standard">standard</term>
-    <term name="thesis">thesis</term>
+    <term name="thesis">dolgozat</term>
     <term name="treaty">treaty</term>
-    <term name="webpage">webpage</term>
+    <term name="webpage">weboldal</term>
 
     <!-- SHORT ITEM TYPE FORMS -->
-    <term name="article-journal" form="short">journal art.</term>
-    <term name="article-magazine" form="short">mag. art.</term>
-    <term name="article-newspaper" form="short">newspaper art.</term>
+    <term name="article-journal" form="short">foly.c.</term>
+    <term name="article-magazine" form="short">mag.c.</term>
+    <term name="article-newspaper" form="short">újs.c.</term>
     <!-- book is in the list of locator terms -->
     <!-- chapter is in the list of locator terms -->
     <term name="document" form="short">doc.</term>
     <!-- figure is in the list of locator terms -->
     <term name="graphic" form="short">graph.</term>
-    <term name="interview" form="short">interv.</term>
-    <term name="manuscript" form="short">MS</term>
-    <term name="motion_picture" form="short">video rec.</term>
+    <term name="interview" form="short">interjú</term>
+    <term name="manuscript" form="short">kézir.</term>
+    <term name="motion_picture" form="short">videó felv.</term>
     <term name="report" form="short">rep.</term>
-    <term name="review" form="short">rev.</term>
-    <term name="review-book" form="short">bk. rev.</term>
+    <term name="review" form="short">rec.</term>
+    <term name="review-book" form="short">könyvrec.</term>
     <term name="song" form="short">audio rec.</term>
 
     <!-- LONG VERB ITEM TYPE FORMS -->
@@ -628,7 +628,7 @@
 
     <!-- VERB ROLE FORMS -->
     <term name="chair" form="verb">chaired by</term>
-    <term name="collection-editor" form="verb">edited by</term>
+    <term name="collection-editor" form="verb">sorozatszerkesztő</term>
     <term name="compiler" form="verb">compiled by</term>
     <term name="container-author" form="verb">by</term>
     <term name="contributor" form="verb">with</term>
@@ -654,7 +654,7 @@
     <term name="translator" form="verb">fordította</term>
 
     <!-- SHORT VERB ROLE FORMS -->
-    <term name="collection-editor" form="verb-short">ed. by</term>
+    <term name="collection-editor" form="verb-short">sor.szerk.</term>
     <term name="compiler" form="verb-short">comp. by</term>
     <term name="contributor" form="verb-short">w.</term>
     <term name="curator" form="verb-short">cur. by</term>
