@@ -9,7 +9,7 @@
       <uri>https://orcid.org/0000-0002-9608-803X</uri>
     </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2026-01-29T00:00:00+00:00</updated>
+    <updated>2026-03-26T00:00:00+00:00</updated>
   </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
@@ -492,10 +492,7 @@
       <single>compilador</single>
       <multiple>compiladores</multiple>
     </term>
-    <term name="composer"> <!-- generally blank -->
-      <single>compositor</single>
-      <multiple>compositores</multiple>
-    </term>
+    <term name="composer"/> <!-- generally blank -->
     <term name="container-author"/> <!-- generally blank -->
     <term name="contributor">
       <single>contribuinte</single>
@@ -562,10 +559,7 @@
       <single>produtor</single>
       <multiple>produtores</multiple>
     </term>
-    <term name="recipient"> <!-- generally blank -->
-      <single>destinatário</single>
-      <multiple>destinatários</multiple>
-    </term>
+    <term name="recipient"/> <!-- generally blank -->
     <term name="reviewed-author"/> <!-- generally blank -->
     <term name="script-writer">
       <single>escritor</single>
