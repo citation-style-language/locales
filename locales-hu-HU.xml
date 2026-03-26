@@ -39,7 +39,7 @@
     <term name="film">film</term>
     <term name="forthcoming">megjelenés alatt</term>
     <term name="from">forrás</term>
-    <term name="henceforth">ettől fogva</term>
+    <term name="henceforth">a továbbiakban</term>
     <term name="ibid">uo.</term>
     <term name="in">in</term>
     <term name="in press">nyomtatás alatt</term>
@@ -69,7 +69,7 @@
     <term name="review-of">recenzió
     <term name="scale">skála</term>
     <term name="special-issue">különszám</term>
-    <term name="special-section">speciális szekció</term>
+    <term name="special-section">különleges rovat</term>
     <term name="television-broadcast">televíziós adás</term>
     <term name="television-series">televíziós sorozat</term>
     <term name="television-series-episode">televíziós sorozat epizód</term>
@@ -103,9 +103,9 @@
     <term name="collection">gyűjtemény</term>
     <term name="dataset">adatbázis</term>
     <term name="document">dokumentum</term>
-    <term name="entry">bejegyzés</term>
-    <term name="entry-dictionary">szótári bejegyzés</term>
-    <term name="entry-encyclopedia">enciklopédia bejegyzés</term>
+    <term name="entry">cikk</term>
+    <term name="entry-dictionary">szótár-bejegyzés</term>
+    <term name="entry-encyclopedia">enciklopédia-bejegyzés</term>
     <term name="event">esemény</term>
     <!-- figure is in the list of locator terms -->
     <term name="graphic">grafika</term>
@@ -145,20 +145,20 @@
     <!-- chapter is in the list of locator terms -->
     <term name="document" form="short">doc.</term>
     <!-- figure is in the list of locator terms -->
-    <term name="graphic" form="short">graph.</term>
+    <term name="graphic" form="short">graf.</term>
     <term name="interview" form="short">interjú</term>
     <term name="manuscript" form="short">kézir.</term>
     <term name="motion_picture" form="short">videó felv.</term>
-    <term name="report" form="short">rep.</term>
+    <term name="report" form="short">jel.</term>
     <term name="review" form="short">rec.</term>
     <term name="review-book" form="short">könyvrec.</term>
-    <term name="song" form="short">audio rec.</term>
+    <term name="song" form="short">hangfelv.</term>
 
     <!-- LONG VERB ITEM TYPE FORMS -->
     <!-- Only where applicable -->
-    <term name="hearing" form="verb">tanúvallomása</term>
+    <term name="hearing" form="verb">beszámolója</term>
     <term name="review" form="verb">recenziója</term>
-    <term name="review-book" form="verb">a könyv recenziója</term>
+    <term name="review-book" form="verb">könyvrecenziója</term>
 
     <!-- SHORT VERB ITEM TYPE FORMS -->
 
@@ -170,7 +170,7 @@
 
     <!-- PUNCTUATION -->
     <term name="open-quote">„</term>
-    <term name="close-quote">"</term>
+    <term name="close-quote">”</term>
     <term name="open-inner-quote">»</term>
     <term name="close-inner-quote">«</term>
     <term name="page-range-delimiter">–</term>
@@ -211,8 +211,8 @@
       <multiple>könyv</multiple>
     </term>
     <term name="canon">
-      <single>kánonikus szöveg</single>
-      <multiple>kánonikus szövegek</multiple>
+      <single>kánon</single>
+      <multiple>kánon</multiple>
     </term>
     <term name="chapter">
       <single>fejezet</single>
@@ -224,7 +224,7 @@
     </term>
     <term name="elocation">
       <single>hely</single>
-      <multiple>helyek</multiple>
+      <multiple>hely</multiple>
     </term>
     <term name="equation">
       <single>egyenlet</single>
@@ -268,11 +268,11 @@
     </term>
     <term name="rule">
       <single>szabály</single>
-      <multiple>szabályok</multiple>
+      <multiple>szabály</multiple>
     </term>
     <term name="scene">
       <single>jelenet</single>
-      <multiple>jelenetek</multiple>
+      <multiple>jelenet</multiple>
     </term>
     <term name="section">
       <single>szakasz</single>
