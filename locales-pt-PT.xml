@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="pt-PT">
   <info>
-    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2025-10-16T03:24:00+00:00</updated>
     <translator>
       <name>Jonadabe PT</name>
     </translator>
@@ -10,6 +8,8 @@
       <name>André Luiz Appel</name>
       <uri>https://orcid.org/0000-0002-9608-803X</uri>
     </translator>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2026-03-26T00:00:00+00:00</updated>
   </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
@@ -576,6 +576,7 @@
       <single>compil.</single>
       <multiple>compils.</multiple>
     </term>
+    <term name="composer" form="short"/> <!-- generally blank -->
     <term name="contributor" form="short">
       <single>contrib.</single>
       <multiple>contribs.</multiple>
@@ -612,6 +613,7 @@
       <single>il.</single>
       <multiple>ils.</multiple>
     </term>
+    <term name="interviewer" form="short"/> <!-- generally blank -->
     <term name="narrator" form="short">
       <single>narr.</single>
       <multiple>narrs.</multiple>
@@ -628,6 +630,7 @@
       <single>prod.</single>
       <multiple>prods.</multiple>
     </term>
+    <term name="recipient" form="short"/> <!-- generally blank -->
     <term name="script-writer" form="short">
       <single>roteir.</single>
       <multiple>roteirs.</multiple>
