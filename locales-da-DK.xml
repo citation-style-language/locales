@@ -69,7 +69,7 @@
       <multiple>referencer</multiple>
     </term>
     <term name="retrieved">hentet</term>
-    <term name="review-of">review of</term>
+    <term name="review-of">anmeldelse af</term>
     <term name="scale">skala</term>
     <term name="special-issue">temanummer</term>
     <term name="special-section">særafsnit</term>
@@ -102,8 +102,8 @@
     <!-- book is in the list of locator terms -->
     <term name="broadcast">broadcast</term>
     <!-- chapter is in the list of locator terms -->
-    <term name="classic">classic</term>
-    <term name="collection">collection</term>
+    <term name="classic">klassik</term>
+    <term name="collection">samling</term>
     <term name="dataset">dataset</term>
     <term name="document">dokument</term>
     <term name="entry">entry</term>
@@ -115,7 +115,7 @@
     <term name="hearing">høring</term>
     <term name="interview">interview</term>
     <term name="legal_case">dom</term>
-    <term name="legislation">lovforslag</term>
+    <term name="legislation">lovgivning</term>
     <term name="manuscript">manuskript</term>
     <term name="map">kort</term>
     <term name="motion_picture">film</term>
@@ -124,12 +124,12 @@
     <term name="paper-conference">konferencepapir</term>
     <term name="patent">patent</term>
     <term name="performance">performance</term>
-    <term name="periodical">tidsskriftsartikel</term>
+    <term name="periodical">tidsskrift</term>
     <term name="personal_communication">personlig kommunikation</term>
     <term name="post">post</term>
     <term name="post-weblog">blog post</term>
-    <term name="regulation">regulation</term>
-    <term name="report">report</term>
+    <term name="regulation">bestemmelse</term>
+    <term name="report">rapport</term>
     <term name="review">anmeldelse</term>
     <term name="review-book">boganmeldelse</term>
     <term name="software">software</term>
