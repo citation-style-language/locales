@@ -32,7 +32,7 @@
   </date>
   <terms>
     <!-- LONG GENERAL TERMS -->
-    <term name="accessed">accedido</term>
+    <term name="accessed">accedido o</term>
     <term name="advance-online-publication">publicación en liña anticipada</term>
     <term name="album">álbum</term>
     <term name="and">e</term>
@@ -637,7 +637,7 @@
     <!-- VERB ROLE FORMS -->
     <term name="chair" form="verb">presidido por</term>
     <term name="collection-editor" form="verb">editado por</term>
-    <term name="compiler" form="verb">compilado con</term>
+    <term name="compiler" form="verb">compilado por</term>
     <term name="container-author" form="verb">por</term>
     <term name="contributor" form="verb">contribuído por</term>
     <term name="curator" form="verb">conservado por</term>
