@@ -662,8 +662,8 @@
     <term name="translator" form="verb">traducido por</term>
 
     <!-- SHORT VERB ROLE FORMS -->
-    <term name="collection-editor" form="verb-short">ed. por</term>
-    <term name="compiler" form="verb-short">comp. por</term>
+    <term name="collection-editor" form="verb-short">ed.</term>
+    <term name="compiler" form="verb-short">comp.</term>
     <term name="contributor" form="verb-short">con</term>
     <term name="curator" form="verb-short">con</term>
     <term name="director" form="verb-short">dir.</term>
