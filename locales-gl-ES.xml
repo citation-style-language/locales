@@ -232,8 +232,8 @@
       <multiple>columnas</multiple>
     </term>
     <term name="elocation">
-      <single>localización</single>
-      <multiple>localizacións</multiple>
+      <single>localización electrónica</single>
+      <multiple>localizacións electrónicas</multiple>
     </term>
     <term name="equation">
       <single>ecuación</single>
