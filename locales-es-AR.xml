@@ -1,5 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="es-AR">
+<?xml version="1.0" encoding="UTF-8"?>
+<locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0.1" xml:lang="es-AR">
+  <date form="long">
+    <date-part name="day" suffix=" de "/>
+    <date-part name="month" suffix=" de "/>
+    <date-part name="year"/>
+  </date>
   <info>
     <translator>
       <name>Román G. Cáceres</name>
@@ -9,11 +14,6 @@
     <updated>2026-05-15T00:00:00+00:00</updated>
   </info>
   <style-options punctuation-in-quote="false"/>
-  <date form="text">
-    <date-part name="day" suffix=" de "/>
-    <date-part name="month" suffix=" de "/>
-    <date-part name="year"/>
-  </date>
   <date form="numeric">
     <date-part name="day" form="numeric-leading-zeros" suffix="/"/>
     <date-part name="month" form="numeric-leading-zeros" suffix="/"/>
