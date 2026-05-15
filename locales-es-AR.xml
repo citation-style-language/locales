@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0.1" xml:lang="es-AR">
-  <date form="long">
+  <date form="text">
     <date-part name="day" suffix=" de "/>
     <date-part name="month" suffix=" de "/>
     <date-part name="year"/>
