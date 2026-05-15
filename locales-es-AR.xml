@@ -6,7 +6,7 @@
       <email>RomanGCaceres@gmail.com</email>
     </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2026-05-15T00:00:00+00:00</updated>
+    <updated>2026-05-15</updated>
   </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
@@ -35,7 +35,6 @@
     <term name="cited">citado</term>
     <term name="et-al">et&#160;al.</term>
     <term name="film">película</term>
-    <term name="for">de</term>
     <term name="forthcoming">de próxima publicación</term>
     <term name="from">de</term>
     <term name="henceforth">en adelante</term>
@@ -48,7 +47,6 @@
     <term name="no date">sin fecha</term>
     <term name="no-place">sin lugar</term>
     <term name="no-publisher">sin editorial</term> <!-- sine nomine -->
-    <term name="of">de</term>
     <term name="on">en</term>
     <term name="online">en línea</term>
     <term name="op-cit">op. cit.</term>
@@ -178,6 +176,9 @@
     <term name="comma">,</term>
     <term name="semicolon">;</term>
 
+    <!-- ORDINALS -->
+    <term name="ordinal">.ª</term>
+    
     <!-- SHORT ORDINALS -->
     <term name="ordinal-01">1ra</term>
     <term name="ordinal-02">2da</term>
