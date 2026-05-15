@@ -46,7 +46,7 @@
     <term name="loc-cit">loc. cit.</term>
     <term name="no date">sin fecha</term>
     <term name="no-place">sin lugar</term>
-    <term name="no-publisher">sin editorial</term> <!-- sine nomine -->
+    <term name="no-publisher">sin editorial</term>
     <term name="on">en</term>
     <term name="online">en línea</term>
     <term name="op-cit">op. cit.</term>
@@ -148,8 +148,8 @@
     <term name="manuscript" form="short">ms.</term>
     <term name="motion_picture" form="short">grab. video</term>
     <term name="report" form="short">inf.</term>
-    <term name="review" form="short">rev.</term>
-    <term name="review-book" form="short">reseña lib.</term>
+    <term name="review" form="short">res.</term>
+    <term name="review-book" form="short">res. lib.</term>
     <term name="song" form="short">grab. audio</term>
 
     <!-- LONG VERB ITEM TYPE FORMS -->
