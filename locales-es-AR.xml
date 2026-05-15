@@ -35,6 +35,7 @@
     <term name="cited">citado</term>
     <term name="et-al">et&#160;al.</term>
     <term name="film">película</term>
+    <term name="for">de</term>
     <term name="forthcoming">de próxima publicación</term>
     <term name="from">de</term>
     <term name="henceforth">en adelante</term>
@@ -47,6 +48,7 @@
     <term name="no date">sin fecha</term>
     <term name="no-place">sin lugar</term>
     <term name="no-publisher">sin editorial</term> <!-- sine nomine -->
+    <term name="of">de</term>
     <term name="on">en</term>
     <term name="online">en línea</term>
     <term name="op-cit">op. cit.</term>
