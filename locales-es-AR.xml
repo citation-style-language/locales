@@ -6,7 +6,7 @@
       <email>RomanGCaceres@gmail.com</email>
     </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2026-01-10T00:00:00+00:00</updated>
+    <updated>2026-05-15T00:00:00+00:00</updated>
   </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
@@ -178,20 +178,17 @@
     <term name="comma">,</term>
     <term name="semicolon">;</term>
 
-    <!-- ORDINALS -->
-    <term name="ordinal">ta</term>
-
-    <!-- ORDINALS -->
-    <term name="ordinal-01">ra</term>
-    <term name="ordinal-02">da</term>
-    <term name="ordinal-03">ra</term>
-    <term name="ordinal-04">ta</term>
-    <term name="ordinal-05">ta</term>
-    <term name="ordinal-06">ta</term>
-    <term name="ordinal-07">ma</term>
-    <term name="ordinal-08">va</term>
-    <term name="ordinal-09">na</term>
-    <term name="ordinal-10">ma</term>
+    <!-- SHORT ORDINALS -->
+    <term name="ordinal-01">1ra</term>
+    <term name="ordinal-02">2da</term>
+    <term name="ordinal-03">3ra</term>
+    <term name="ordinal-04">4ta</term>
+    <term name="ordinal-05">5ta</term>
+    <term name="ordinal-06">6ta</term>
+    <term name="ordinal-07">7ma</term>
+    <term name="ordinal-08">8va</term>
+    <term name="ordinal-09">9na</term>
+    <term name="ordinal-10">10ma</term>
     
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">primera</term>
@@ -602,7 +599,7 @@
       <multiple>eds.</multiple>
     </term>
     <term name="executive-producer" form="short">
-      <single>exec. prod.</single>
+      <single>prod. ejec.</single>
       <multiple>prods. ejecs.</multiple>
     </term>
     <term name="illustrator" form="short">
