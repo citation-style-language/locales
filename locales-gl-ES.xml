@@ -18,9 +18,10 @@
     <translator>
       <name>Andrea Real</name>
     </translator>
-     <translator>
+    <translator>
       <name>Sergio Añón Lijó</name>
-    </translator>  </info>
+    </translator>  
+  </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
     <date-part name="day" suffix=" de "/>
