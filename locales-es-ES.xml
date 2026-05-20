@@ -4,9 +4,10 @@
     <translator>
       <name>javimat</name>
     </translator>
-     <translator>
+    <translator>
       <name>Sergio Añón Lijó</name>
-    </translator>    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    </translator>    
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
     <updated>2026-05-20T00:00:00+00:00</updated>
   </info>
   <style-options punctuation-in-quote="false"/>
