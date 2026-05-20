@@ -8,7 +8,9 @@
     5. https://www.scimagoepi.com/e-location-en-articulos-cientificos/  
   -->
   <info>
-    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">
+      This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License
+    </rights>
     <updated>2026-05-05T13:17:00+02:00</updated>
     <translator>
       <name>Manuel Magán</name>
@@ -73,7 +75,7 @@
     <term name="presented at">presentado en</term>
     <term name="radio-broadcast">emisión de radio</term>
     <term name="radio-series">serie de radio</term>
-    <term name="radio-series-episode">episodio de serie de radio</term>
+    <term name="radio-series-episode">episodio de serie radiofónica</term>
     <term name="reference">
       <single>referencia</single>
       <multiple>referencias</multiple>
