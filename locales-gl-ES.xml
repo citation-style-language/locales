@@ -73,8 +73,8 @@
     <term name="podcast-episode">episodio de podcast</term>
     <term name="preprint">pre-impresión</term>
     <term name="presented at">presentado en</term>
-    <term name="radio-broadcast">emisión de radio</term>
-    <term name="radio-series">serie de radio</term>
+    <term name="radio-broadcast">emisión radiofónica</term>
+    <term name="radio-series">serie radiofónica</term>
     <term name="radio-series-episode">episodio de serie radiofónica</term>
     <term name="reference">
       <single>referencia</single>
@@ -85,9 +85,9 @@
     <term name="scale">escala</term>
     <term name="special-issue">número especial</term>
     <term name="special-section">sección especial</term>
-    <term name="television-broadcast">emisión de televisión</term>
-    <term name="television-series">serie de televisión</term>
-    <term name="television-series-episode">episodio de serie de televisión</term>
+    <term name="television-broadcast">emisión televisiva</term>
+    <term name="television-series">serie televisiva</term>
+    <term name="television-series-episode">episodio de serie televisiva</term>
     <term name="video">vídeo</term>
     <term name="working-paper">artigo inacabado</term>
 
