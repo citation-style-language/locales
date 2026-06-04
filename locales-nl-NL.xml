@@ -13,7 +13,7 @@
       <uri>https://github.com/ZambiblasianOgre</uri>
     </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2026-06-04T17:54:00+00:00</updated>
+    <updated>2026-06-04T17:58:00Z</updated>
   </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
@@ -668,7 +668,7 @@
     <term name="interviewer" form="verb">geïnterviewd door</term>
     <term name="narrator" form="verb">narrated by</term>
     <term name="organizer" form="verb">organized by</term>
-    <term name="performer" form="verb">performed by</term>
+    <term name="performer" form="verb">opgenomen door</term>
     <term name="producer" form="verb">produced by</term>
     <term name="recipient" form="verb">ontvangen door</term>
     <term name="reviewed-author" form="verb">door</term>
