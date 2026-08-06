@@ -64,7 +64,7 @@
       <multiple>riferimenti</multiple>
     </term>
     <term name="retrieved">recuperato</term>
-    <term name="review-of">review of</term>
+    <term name="review-of">recensione di</term>
     <term name="scale">scala</term>
     <term name="special-issue">edizione speciale</term>
     <term name="special-section">sezione speciale</term>
@@ -86,7 +86,7 @@
       <single>rif.</single>
       <multiple>rif.</multiple>
     </term>
-    <term name="review-of" form="short">rev. of</term>
+    <term name="review-of" form="short">rec. di</term>
 
     <!-- SYMBOLIC GENERAL FORMS -->
 
