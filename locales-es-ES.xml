@@ -4,8 +4,11 @@
     <translator>
       <name>javimat</name>
     </translator>
+    <translator>
+      <name>Sergio Añón Lijó</name>
+    </translator>    
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2026-01-10T00:00:00+00:00</updated>
+    <updated>2026-05-20T00:00:00+00:00</updated>
   </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
@@ -20,9 +23,9 @@
   </date>
   <terms>
     <!-- LONG GENERAL TERMS -->
-    <term name="accessed">accedido</term>
+    <term name="accessed">accedido el</term>
     <term name="advance-online-publication">advance online publication</term>
-    <term name="album">album</term>
+    <term name="album">álbum</term>
     <term name="and">y</term>
     <term name="and others">y otros</term>
     <term name="anonymous">anónimo</term>
@@ -63,13 +66,13 @@
       <multiple>referencias</multiple>
     </term>
     <term name="retrieved">recuperado</term>
-    <term name="review-of">review of</term>
+    <term name="review-of">reseña de</term>
     <term name="scale">escala</term>
     <term name="special-issue">special issue</term>
     <term name="special-section">special section</term>
-    <term name="television-broadcast">television broadcast</term>
-    <term name="television-series">television series</term>
-    <term name="television-series-episode">television series episode</term>
+    <term name="television-broadcast">emisión televisiva</term>
+    <term name="television-series">serie televisiva</term>
+    <term name="television-series-episode">episodio de serie televisiva</term>
     <term name="video">video</term>
     <term name="working-paper">working paper</term>
 
@@ -625,7 +628,7 @@
 
     <!-- VERB ROLE FORMS -->
     <term name="chair" form="verb">chaired by</term>
-    <term name="collection-editor" form="verb">edited by</term>
+    <term name="collection-editor" form="verb">editado por</term>
     <term name="compiler" form="verb">compiled by</term>
     <term name="container-author" form="verb">de</term>
     <term name="contributor" form="verb">with</term>
@@ -642,16 +645,16 @@
     <term name="interviewer" form="verb">entrevistado por</term>
     <term name="narrator" form="verb">narrated by</term>
     <term name="organizer" form="verb">organized by</term>
-    <term name="performer" form="verb">performed by</term>
-    <term name="producer" form="verb">produced by</term>
+    <term name="performer" form="verb">interpretado por</term>
+    <term name="producer" form="verb">producido por</term>
     <term name="recipient" form="verb">a</term>
     <term name="reviewed-author" form="verb">por</term>
     <term name="script-writer" form="verb">written by</term>
-    <term name="series-creator" form="verb">created by</term>
+    <term name="series-creator" form="verb">creado por</term>
     <term name="translator" form="verb">traducido por</term>
 
     <!-- SHORT VERB ROLE FORMS -->
-    <term name="collection-editor" form="verb-short">ed. by</term>
+    <term name="collection-editor" form="verb-short">ed.</term>
     <term name="compiler" form="verb-short">comp. by</term>
     <term name="contributor" form="verb-short">w.</term>
     <term name="curator" form="verb-short">cur. by</term>
@@ -666,10 +669,10 @@
     <term name="illustrator" form="verb-short">ilust.</term>
     <term name="narrator" form="verb-short">narr. by</term>
     <term name="organizer" form="verb-short">org. by</term>
-    <term name="performer" form="verb-short">perf. by</term>
-    <term name="producer" form="verb-short">prod. by</term>
+    <term name="performer" form="verb-short">interp.</term>
+    <term name="producer" form="verb-short">prod.</term>
     <term name="script-writer" form="verb-short">writ. by</term>
-    <term name="series-creator" form="verb-short">cre. by</term>
+    <term name="series-creator" form="verb-short">cre.</term>
     <term name="translator" form="verb-short">trad.</term>
 
     <!-- LONG MONTH FORMS -->
