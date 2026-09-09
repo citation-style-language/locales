@@ -39,12 +39,12 @@
     <term name="by">-(e)k egina</term>
     <term name="circa">inguru</term>
     <term name="cited">aipatua</term>
-    <term name="et-al">et al.</term> <!-- IN FACT, THIS SHOULD BE ITALICS -->
+    <term name="et-al">et al.</term>
     <term name="film">film</term>
     <term name="forthcoming">bidean</term>
     <term name="from">hemendik: </term>
     <term name="henceforth">aurrerantzean</term>
-    <term name="ibid">ibíd.</term>  <!-- IN FACT, THIS SHOULD BE ITALICS -->
+    <term name="ibid">ibíd.</term>
     <term name="in">in</term> 
     <term name="in press">inprimategian</term>
     <term name="internet">internet</term>
@@ -59,7 +59,7 @@
     <term name="original-work-published">sortzeko lana hemen argitaratua</term>
     <term name="personal-communication">komunikazio pertsonala</term>
     <term name="podcast">podcast</term>
-    <term name="podcast-episode">podcast atal</term>  <!-- perhaps atala, depends on the exact use  -->
+    <term name="podcast-episode">podcast atal</term>
     <term name="preprint">preprint</term>
     <term name="presented at">-(e)n aurkeztua</term>
     <term name="radio-broadcast">irrati broadcast</term>
@@ -124,14 +124,14 @@
     <term name="pamphlet">liburuxka</term>
     <term name="paper-conference">biltzar paper</term>
     <term name="patent">patente</term>
-    <term name="performance">emankizun</term> <!-- could require a different name, but needs disambiguation -->
+    <term name="performance">emankizun</term>
     <term name="periodical">aldizkako</term>
     <term name="personal_communication">komunikazio pertsonala</term>
     <term name="post">post</term>
     <term name="post-weblog">blog post</term>
     <term name="regulation">araudi</term>
     <term name="report">txosten</term>
-    <term name="review">berrikuspen</term>  <!-- it was above, it could be review too; it depends -->
+    <term name="review">berrikuspen</term>
     <term name="review-book">liburu erreseina</term>
     <term name="software">software</term>
     <term name="song">abesti</term>
@@ -199,8 +199,8 @@
 
     <!-- LONG LOCATOR FORMS -->
     <term name="act">
-      <single>act</single> <!-- I DON't KNOW WHAT THIS MEANS -->
-      <multiple>acts</multiple>
+      <single>atal</single>
+      <multiple>atal</multiple>
     </term>
     <term name="appendix">
       <single>eranskin</single>
@@ -211,7 +211,7 @@
       <multiple>artikulu</multiple>
     </term>
     <term name="book">
-      <single>liburua</single> <!-- THESE ARE DEFINITE FORMS: 'the book; the books', context dependent; above they were not -->
+      <single>liburua</single>
       <multiple>liburuak</multiple>
     </term>
     <term name="canon">
@@ -219,11 +219,11 @@
       <multiple>canon</multiple>
     </term>
     <term name="chapter">
-      <single>kapitulua</single> <!-- THESE ARE DEFINITE FORMS: 'the book; the books', context dependent; above they were not -->
+      <single>kapitulua</single>
       <multiple>kapituluak</multiple>
     </term>
     <term name="column">
-      <single>zutabea</single> <!-- THESE ARE DEFINITE FORMS: 'the book; the books', context dependent; above they were not -->
+      <single>zutabea</single>
       <multiple>zutabeak</multiple>
     </term>
     <term name="elocation">
@@ -235,39 +235,39 @@
       <multiple>ekuazio</multiple>
     </term>
     <term name="figure">
-      <single>irudia</single> <!-- THESE ARE DEFINITE FORMS: 'the book; the books', context dependent; above they were not -->
+      <single>irudia</single>
       <multiple>irudiak</multiple>
     </term>
     <term name="folio">
-      <single>orria</single> <!-- THESE ARE DEFINITE FORMS: 'the book; the books', context dependent; above they were not -->
+      <single>orria</single>
       <multiple>orriak</multiple>
     </term>
     <term name="issue">
-      <single>zenbakia</single> <!-- THESE ARE DEFINITE FORMS: 'the book; the books', context dependent; above they were not -->
+      <single>zenbakia</single>
       <multiple>zenbakiak</multiple>
     </term>
     <term name="line">
-      <single>lerroa</single> <!-- THESE ARE DEFINITE FORMS: 'the book; the books', context dependent; above they were not -->
+      <single>lerroa</single>
       <multiple>lerroak</multiple>
     </term>
     <term name="note">
-      <single>oharra</single> <!-- THESE ARE DEFINITE FORMS: 'the book; the books', context dependent; above they were not -->
+      <single>oharra</single>
       <multiple>oharrak</multiple>
     </term>
     <term name="opus">
-      <single>obra</single> <!-- THESE ARE DEFINITE FORMS: 'the book; the books', context dependent; above they were not -->
+      <single>obra</single>
       <multiple>obrak</multiple>
     </term>
     <term name="page">
-      <single>orrialdea</single> <!-- THESE ARE DEFINITE FORMS: 'the book; the books', context dependent; above they were not -->
+      <single>orrialdea</single>
       <multiple>orrialdeak</multiple>
     </term>
     <term name="paragraph">
-      <single>paragrafoa</single> <!-- THESE ARE DEFINITE FORMS: 'the book; the books', context dependent; above they were not -->
+      <single>paragrafoa</single>
       <multiple>paragrafoak</multiple>
     </term>
     <term name="part">
-      <single>zatia</single> <!-- THESE ARE DEFINITE FORMS: 'the book; the books', context dependent; above they were not -->
+      <single>zatia</single>
       <multiple>zatiak</multiple>
     </term>
     <term name="rule">
@@ -279,11 +279,11 @@
       <multiple>eszena</multiple>
     </term>
     <term name="section">
-      <single>atala</single> <!-- THESE ARE DEFINITE FORMS: 'the book; the books', context dependent; above they were not -->
+      <single>atala</single>
       <multiple>atalak</multiple>
     </term>
     <term name="sub-verbo">
-      <single>sub voce</single> <!-- we use these, but in italics -->
+      <single>sub voce</single>
       <multiple>sub vocem</multiple>
     </term>
     <term name="supplement">
@@ -303,11 +303,11 @@
       <multiple>izenburu</multiple>
     </term>
     <term name="verse">
-      <single>bertsoa</single> <!-- THESE ARE DEFINITE FORMS: 'the book; the books', context dependent; above they were not -->
+      <single>bertsoa</single>
       <multiple>bertsoak</multiple>
     </term>
     <term name="volume">
-      <single>liburukia</single> <!-- THESE ARE DEFINITE FORMS: 'the book; the books', context dependent; above they were not -->
+      <single>liburukia</single>
       <multiple>liburukiak</multiple>
     </term>
 
@@ -353,8 +353,8 @@
     </term>
     <term name="section" form="short">atal.</term>
     <term name="sub-verbo" form="short">
-      <single>s.v.</single> <!-- better in italics -->
-      <multiple>s.v.</multiple> <!-- better in italics -->
+      <single>s.v.</single>
+      <multiple>s.v.</multiple>
     </term>
     <term name="supplement" form="short">
       <single>er.</single>
@@ -401,15 +401,15 @@
       <multiple>aipamen</multiple>
     </term>
     <term name="collection-number">
-      <single>zenbakia</single> <!-- these are determined forms -->
+      <single>zenbakia</single>
       <multiple>zenbakiak</multiple>
     </term>
     <term name="edition">
-      <single>argitalpena</single> <!-- these are determined forms -->
+      <single>argitalpena</single>
       <multiple>argitalpenak</multiple>
     </term>
     <term name="first-reference-note-number">
-      <single>oharra</single> <!-- these are determined forms -->
+      <single>oharra</single>
       <multiple>oharrak</multiple>
     </term>
     <term name="number">
@@ -417,7 +417,7 @@
       <multiple>zenbaki</multiple>
     </term>
     <term name="number-of-pages">
-      <single>orrialdea</single> <!-- these are determined forms -->
+      <single>orrialdea</single>
       <multiple>orrialdeak</multiple>
     </term>
     <term name="number-of-volumes">
@@ -432,7 +432,7 @@
       <single>inprimazio</single>
       <multiple>inprimazio</multiple>
     </term>
-    <term name="version">bertsioa</term> <!-- these are determined forms -->
+    <term name="version">bertsioa</term>
 
     <!-- SHORT NUMBER VARIABLE FORMS -->
     <term name="chapter-number" form="short">
@@ -470,8 +470,8 @@
     <!-- LONG ROLE FORMS -->
     <term name="author"/> <!-- generally blank -->
     <term name="chair">
-      <single>chair</single> <!-- ambiguous; can be translated in multiple ways-->
-      <multiple>chairs</multiple>
+      <single>arduradun</single>
+      <multiple>arduradun</multiple>
     </term>
     <term name="collection-editor">
       <single>arg.</single>
@@ -496,19 +496,19 @@
       <multiple>zuzendari</multiple>
     </term>
     <term name="editor">
-      <single>argitaratzailea</single> <!-- these are determined forms -->
+      <single>argitaratzailea</single>
       <multiple>argitaratzaileak</multiple>
     </term>
     <term name="editor-translator">
-      <single>argitaratzaile eta itzultzailea</single> <!-- these are determined forms -->
+      <single>argitaratzaile eta itzultzailea</single>
       <multiple>argitaratzaile eta itzultzaileak</multiple>
     </term>
     <term name="editortranslator">
-      <single>argitaratzaile eta itzultzailea</single> <!-- these are determined forms -->
+      <single>argitaratzaile eta itzultzailea</single>
       <multiple>argitaratzaile eta itzultzaileak</multiple>
     </term>
     <term name="editorial-director">
-      <single>argitaratzailea</single> <!-- these are determined forms -->
+      <single>argitaratzailea</single>
       <multiple>argitaratzaileak</multiple>
     </term>
     <term name="executive-producer">
@@ -556,7 +556,7 @@
       <multiple>seriaren sortzaile</multiple>
     </term>
     <term name="translator">
-      <single>itzultzailea</single> <!-- these are determined forms -->
+      <single>itzultzailea</single>
       <multiple>itzultzaileak</multiple>
     </term>
 
