@@ -2,14 +2,14 @@
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="eu">
   <info>
     <translator>
-      <name>Inigo Urrestarazu-Porta</name>
-      <email>inigo.urrestarazu@ehu.eus</email>
-    </translator>
-    <translator>
       <name>Amaraun</name>
     </translator>
     <translator>
       <name>Miren BZ</name>
+    </translator>
+    <translator>
+      <name>Inigo Urrestarazu-Porta</name>
+      <email>inigo.urrestarazu@ehu.eus</email>
     </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
     <updated>2026-09-09T18:21:00+02:00</updated>
@@ -42,10 +42,10 @@
     <term name="et-al">et al.</term>
     <term name="film">film</term>
     <term name="forthcoming">bidean</term>
-    <term name="from">hemendik: </term>
+    <term name="from">hemendik</term>
     <term name="henceforth">aurrerantzean</term>
     <term name="ibid">ibíd.</term>
-    <term name="in">in</term> 
+    <term name="in">in</term>
     <term name="in press">inprimategian</term>
     <term name="internet">internet</term>
     <term name="letter">gutuna</term>
