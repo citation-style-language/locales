@@ -12,7 +12,7 @@
       <email>inigo.urrestarazu@ehu.eus</email>
     </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2026-09-09T19:55:54+02:00</updated>
+    <updated>2026-09-10T22:50:37+02:00</updated>
   </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
@@ -95,7 +95,7 @@
     <!-- SYMBOLIC GENERAL FORMS -->
 
     <!-- LONG ITEM TYPE FORMS -->
-    <term name="article">preprint</term>
+    <term name="article">artikulu</term>
     <term name="article-journal">aldizkariko artikulu</term>
     <term name="article-magazine">magazin artikulu</term>
     <term name="article-newspaper">egunkari artikulu</term>
@@ -652,7 +652,7 @@
     <term name="performer" form="verb">-(e)k egina</term>
     <term name="producer" form="verb">-(e)k ekoitzia</term>
     <term name="recipient" form="verb">-(r)entzat</term>
-    <term name="reviewed-author" form="verb">by</term>
+    <term name="reviewed-author" form="verb">-(e)k berrikusia</term>
     <term name="script-writer" form="verb">-(e)k idatzia</term>
     <term name="series-creator" form="verb">-(e)k sortua</term>
     <term name="translator" form="verb">-(e)k itzulia</term>
