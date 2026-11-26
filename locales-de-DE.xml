@@ -22,8 +22,11 @@
     <translator>
       <name>Nicolas Chachereau</name>
     </translator>
+    <translator>
+      <name>minus-n</name>
+    </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2026-09-10T03:24:00+00:00</updated>
+    <updated>2026-09-25T20:40:00+00:00</updated>
   </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
@@ -81,7 +84,7 @@
       <multiple>Referenzen</multiple>
     </term>
     <term name="retrieved">abgerufen</term>
-    <term name="review-of">review of</term>
+    <term name="review-of">Rezension von</term>
     <term name="scale">Maßstab</term>
     <term name="special-issue">Spezialausgabe</term>
     <term name="special-section">Sonderbereich</term>
@@ -97,16 +100,13 @@
     <term name="no date" form="short">o.&#160;J.</term>
     <term name="no-place" form="short">o.&#160;O.</term>
     <term name="no-publisher" form="short">o.&#160;V.</term>
-    <term name="reference" form="short">
-      <single>Ref.</single>
-      <multiple>Ref.</multiple>
-    </term>
-    <term name="review-of" form="short">rev. of</term>
+    <term name="reference" form="short">Ref.</term>
+    <term name="review-of" form="short">Rez. von</term>
 
     <!-- SYMBOLIC GENERAL FORMS -->
 
     <!-- LONG ITEM TYPE FORMS -->
-    <term name="article">preprint</term>
+    <term name="article">Preprint</term>
     <term name="article-journal">Zeitschriftenartikel</term>
     <term name="article-magazine">Magazinartikel</term>
     <term name="article-newspaper">Zeitungsartikel</term>
@@ -154,34 +154,34 @@
 
     <!-- SHORT ITEM TYPE FORMS -->
     <term name="article-journal" form="short">Zeitschriftenart.</term>
-    <term name="article-magazine" form="short">Mag. Art.</term>
-    <term name="article-newspaper" form="short">newspaper art.</term>
+    <term name="article-magazine" form="short">Mag.-Art.</term>
+    <term name="article-newspaper" form="short">Zeitungsart.</term>
     <!-- book is in the list of locator terms -->
     <!-- chapter is in the list of locator terms -->
-    <term name="document" form="short">doc.</term>
+    <term name="document" form="short">Dok.</term>
     <!-- figure is in the list of locator terms -->
     <term name="graphic" form="short">Bild</term>
     <term name="interview" form="short">Interv.</term>
-    <term name="manuscript" form="short">MS</term>
-    <term name="motion_picture" form="short">video rec.</term>
-    <term name="report" form="short">rep.</term>
-    <term name="review" form="short">rev.</term>
-    <term name="review-book" form="short">bk. rev.</term>
-    <term name="song" form="short">audio rec.</term>
+    <term name="manuscript" form="short">Ms.</term>
+    <term name="motion_picture" form="short">Videoaufn.</term>
+    <term name="report" form="short">Ber.</term>
+    <term name="review" form="short">Rez.</term>
+    <term name="review-book" form="short">Buchrez.</term>
+    <term name="song" form="short">Audioaufn.</term>
 
     <!-- LONG VERB ITEM TYPE FORMS -->
     <!-- Only where applicable -->
-    <term name="hearing" form="verb">testimony of</term>
-    <term name="review" form="verb">review of</term>
-    <term name="review-book" form="verb">review of the book</term>
+    <term name="hearing" form="verb">Aussage von</term>
+    <term name="review" form="verb">Rezension von</term>
+    <term name="review-book" form="verb">Rezension des Buches</term>
 
     <!-- SHORT VERB ITEM TYPE FORMS -->
 
     <!-- HISTORICAL ERA TERMS -->
     <term name="ad">&#160;n.&#160;Chr.</term>
     <term name="bc">&#160;v.&#160;Chr.</term>
-    <term name="bce">BCE</term>
-    <term name="ce">CE</term>
+    <term name="bce">v.&#160;u.&#160;Z.</term>
+    <term name="ce">u.&#160;Z.</term>
 
     <!-- PUNCTUATION -->
     <term name="open-quote">„</term>
@@ -197,99 +197,122 @@
     <term name="ordinal">.</term>
 
     <!-- LONG ORDINALS -->
-    <term name="long-ordinal-01">erster</term>
-    <term name="long-ordinal-02">zweiter</term>
-    <term name="long-ordinal-03">dritter</term>
-    <term name="long-ordinal-04">vierter</term>
-    <term name="long-ordinal-05">fünfter</term>
-    <term name="long-ordinal-06">sechster</term>
-    <term name="long-ordinal-07">siebter</term>
-    <term name="long-ordinal-08">achter</term>
-    <term name="long-ordinal-09">neunter</term>
-    <term name="long-ordinal-10">zehnter</term>
+    <term name="long-ordinal-01" gender-form="masculine">erster</term>
+    <term name="long-ordinal-02" gender-form="masculine">zweiter</term>
+    <term name="long-ordinal-03" gender-form="masculine">dritter</term>
+    <term name="long-ordinal-04" gender-form="masculine">vierter</term>
+    <term name="long-ordinal-05" gender-form="masculine">fünfter</term>
+    <term name="long-ordinal-06" gender-form="masculine">sechster</term>
+    <term name="long-ordinal-07" gender-form="masculine">siebter</term>
+    <term name="long-ordinal-08" gender-form="masculine">achter</term>
+    <term name="long-ordinal-09" gender-form="masculine">neunter</term>
+    <term name="long-ordinal-10" gender-form="masculine">zehnter</term>
+
+    <term name="long-ordinal-01" gender-form="feminine">erste</term>
+    <term name="long-ordinal-02" gender-form="feminine">zweite</term>
+    <term name="long-ordinal-03" gender-form="feminine">dritte</term>
+    <term name="long-ordinal-04" gender-form="feminine">vierte</term>
+    <term name="long-ordinal-05" gender-form="feminine">fünfte</term>
+    <term name="long-ordinal-06" gender-form="feminine">sechste</term>
+    <term name="long-ordinal-07" gender-form="feminine">siebte</term>
+    <term name="long-ordinal-08" gender-form="feminine">achte</term>
+    <term name="long-ordinal-09" gender-form="feminine">neunte</term>
+    <term name="long-ordinal-10" gender-form="feminine">zehnte</term>
+
+    <!-- no gender means neuter gender -->
+    <term name="long-ordinal-01">erstes</term>
+    <term name="long-ordinal-02">zweites</term>
+    <term name="long-ordinal-03">drittes</term>
+    <term name="long-ordinal-04">viertes</term>
+    <term name="long-ordinal-05">fünftes</term>
+    <term name="long-ordinal-06">sechstes</term>
+    <term name="long-ordinal-07">siebtes</term>
+    <term name="long-ordinal-08">achtes</term>
+    <term name="long-ordinal-09">neuntes</term>
+    <term name="long-ordinal-10">zehntes</term>
 
     <!-- LONG LOCATOR FORMS -->
-    <term name="act">
+    <term name="act" gender="masculine">
       <single>Akt</single>
-      <multiple>Akten</multiple>
+      <multiple>Akte</multiple>
     </term>
-    <term name="appendix">
-      <single>Appendix</single>
-      <multiple>Appendices</multiple>
+    <term name="appendix" gender="masculine">
+      <single>Anhang</single>
+      <multiple>Anhänge</multiple>
     </term>
-    <term name="article-locator">
+    <term name="article-locator" gender="masculine">
       <single>Artikel</single>
       <multiple>Artikel</multiple>
     </term>
-    <term name="book">
+    <term name="book"> <!-- gender: neutral -->
       <single>Buch</single>
       <multiple>Bücher</multiple>
     </term>
-    <term name="canon">
-      <single>canon</single>
-      <multiple>canons</multiple>
+    <term name="canon" gender="masculine">
+      <single>Kanon</single>
+      <multiple>Kanons</multiple>
     </term>
-    <term name="chapter">
+    <term name="chapter"> <!-- gender: neutral -->
       <single>Kapitel</single>
       <multiple>Kapitel</multiple>
     </term>
-    <term name="column">
+    <term name="column" gender="feminine">
       <single>Spalte</single>
       <multiple>Spalten</multiple>
     </term>
-    <term name="elocation">
-      <single>location</single>
-      <multiple>locations</multiple>
+    <term name="elocation" gender="feminine">
+      <single>Position</single>
+      <multiple>Positionen</multiple>
     </term>
-    <term name="equation">
-      <single>equation</single>
-      <multiple>equations</multiple>
+    <term name="equation" gender="feminine">
+      <single>Gleichung</single>
+      <multiple>Gleichungen</multiple>
     </term>
-    <term name="figure">
+    <term name="figure" gender="feminine">
       <single>Abbildung</single>
       <multiple>Abbildungen</multiple>
     </term>
-    <term name="folio">
+    <term name="folio"> <!-- gender: neutral -->
       <single>Blatt</single>
       <multiple>Blätter</multiple>
     </term>
-    <term name="issue">
-      <single>Nummer</single>
-      <multiple>Nummern</multiple>
+    <term name="issue" gender="feminine">
+      <single>Ausgabe</single>
+      <multiple>Ausgaben</multiple>
     </term>
-    <term name="line">
+    <term name="line" gender="feminine">
       <single>Zeile</single>
       <multiple>Zeilen</multiple>
     </term>
-    <term name="note">
+    <term name="note" gender="feminine">
       <single>Anmerkung</single>
       <multiple>Anmerkungen</multiple>
     </term>
-    <term name="opus">
+    <term name="opus" gender="masculine">
       <single>Opus</single>
       <multiple>Opera</multiple>
     </term>
-    <term name="page">
+    <term name="page" gender="feminine">
       <single>Seite</single>
       <multiple>Seiten</multiple>
     </term>
-    <term name="paragraph">
+    <term name="paragraph" gender="masculine">
       <single>Absatz</single>
       <multiple>Absätze</multiple>
     </term>
-    <term name="part">
+    <term name="part" gender="masculine">
       <single>Teil</single>
       <multiple>Teile</multiple>
     </term>
-    <term name="rule">
+    <term name="rule"> <!-- todo -->
       <single>rule</single>
       <multiple>rules</multiple>
     </term>
-    <term name="scene">
-      <single>scene</single>
-      <multiple>scenes</multiple>
+    <term name="scene" gender="feminine">
+      <single>Szene</single>
+      <multiple>Szenen</multiple>
     </term>
-    <term name="section">
+    <term name="section" gender="masculine">
       <single>Abschnitt</single>
       <multiple>Abschnitte</multiple>
     </term>
@@ -297,96 +320,78 @@
       <single>sub verbo</single>
       <multiple>sub verbis</multiple>
     </term>
-    <term name="supplement">
-      <single>supplement</single>
-      <multiple>supplements</multiple>
+    <term name="supplement" gender="feminine">
+      <single>Beilage</single>
+      <multiple>Beilagen</multiple>
     </term>
-    <term name="table">
-      <single>table</single>
-      <multiple>tables</multiple>
+    <term name="table" gender="feminine">
+      <single>Tabelle</single>
+      <multiple>Tabellen</multiple>
     </term>
     <term name="timestamp"> <!-- generally blank -->
       <single/>
       <multiple/>
     </term>
-    <term name="title-locator">
-      <single>title</single>
-      <multiple>titles</multiple>
+    <term name="title-locator" gender="masculine">
+      <single>Titel</single>
+      <multiple>Titel</multiple>
     </term>
-    <term name="verse">
+    <term name="verse" gender="masculine">
       <single>Vers</single>
       <multiple>Verse</multiple>
     </term>
-    <term name="volume">
+    <term name="volume" gender="masculine">
       <single>Band</single>
       <multiple>Bände</multiple>
     </term>
 
     <!-- SHORT LOCATOR FORMS -->
     <term name="appendix" form="short">
-      <single>app.</single>
-      <multiple>apps.</multiple>
+      <single>Anh.</single>
+      <multiple>Anh.</multiple>
     </term>
     <term name="article-locator" form="short">
-      <single>art.</single>
-      <multiple>arts.</multiple>
+      <single>Art.</single>
+      <multiple>Art.</multiple>
     </term>
     <term name="book" form="short">B.</term>
     <term name="chapter" form="short">Kap.</term>
     <term name="column" form="short">Sp.</term>
     <term name="elocation" form="short">
-      <single>loc.</single>
-      <multiple>locs.</multiple>
+      <single>Pos.</single>
+      <multiple>Pos.</multiple>
     </term>
     <term name="equation" form="short">
-      <single>eq.</single>
-      <multiple>eqs.</multiple>
+      <single>Gl.</single>
+      <multiple>Gl.</multiple>
     </term>
     <term name="figure" form="short">Abb.</term>
-    <term name="folio" form="short">Fol.</term>
-    <term name="issue" form="short">Nr.</term>
+    <term name="folio" form="short">Bl.</term>
+    <term name="issue" form="short">Ausg.</term>
     <term name="line" form="short">Z.</term>
     <term name="note" form="short">Anm.</term>
     <term name="opus" form="short">op.</term>
-    <term name="page" form="short">
-      <single>S.</single>
-      <multiple>S.</multiple>
-    </term>
+    <term name="page" form="short">S.</term>
     <term name="paragraph" form="short">Abs.</term>
     <term name="part" form="short">Teil</term>
-    <term name="rule" form="short">
+    <term name="rule" form="short"> <!-- todo -->
       <single>r.</single>
       <multiple>rr.</multiple>
     </term>
-    <term name="scene" form="short">
-      <single>sc.</single>
-      <multiple>scs.</multiple>
-    </term>
+    <term name="scene" form="short">Sz.</term>
     <term name="section" form="short">Abschn.</term>
     <term name="sub-verbo" form="short">
       <single>s.&#160;v.</single>
       <multiple>s.&#160;vv.</multiple>
     </term>
-    <term name="supplement" form="short">
-      <single>supp.</single>
-      <multiple>supps.</multiple>
-    </term>
-    <term name="table" form="short">
-      <single>tbl.</single>
-      <multiple>tbls.</multiple>
-    </term>
+    <term name="supplement" form="short">Beil.</term>
+    <term name="table" form="short">Tab.</term>
     <term name="timestamp" form="short"> <!-- generally blank -->
       <single/>
       <multiple/>
     </term>
-    <term name="title-locator" form="short">
-      <single>tit.</single>
-      <multiple>tits.</multiple>
-    </term>
-    <term name="verse" form="short">
-      <single>V.</single>
-      <multiple>V.</multiple>
-    </term>
+    <term name="title-locator" form="short">Tit.</term>
+    <term name="verse" form="short">V.</term>
     <term name="volume" form="short">
       <single>Bd.</single>
       <multiple>Bde.</multiple>
@@ -403,83 +408,68 @@
     </term>
 
     <!-- LONG NUMBER VARIABLE FORMS -->
-    <term name="chapter-number">
-      <single>chapter</single>
-      <multiple>chapters</multiple>
+    <term name="chapter-number" gender="feminine">
+      <single>Kapitel</single>
+      <multiple>Kapitel</multiple>
     </term>
-    <term name="citation-number">
-      <single>citation</single>
-      <multiple>citations</multiple>
+    <term name="citation-number"> <!-- gender: neuter -->
+      <single>Zitat</single>
+      <multiple>Zitate</multiple>
     </term>
-    <term name="collection-number">
+    <term name="collection-number" gender="feminine">
       <single>Nummer</single>
       <multiple>Nummern</multiple>
     </term>
-    <term name="edition">
+    <term name="edition" gender="feminine">
       <single>Auflage</single>
       <multiple>Auflagen</multiple>
     </term>
-    <term name="first-reference-note-number">
-      <single>Ref.</single>
-      <multiple>Ref.</multiple>
+    <term name="first-reference-note-number" gender="feminine">
+      <single>Referenz</single>
+      <multiple>Referenzen</multiple>
     </term>
-    <term name="number">
+    <!-- issue defined above -->
+    <!-- locator items are listed above -->
+    <term name="number" gender="feminine">
       <single>Nummer</single>
       <multiple>Nummern</multiple>
     </term>
-    <term name="number-of-pages">
+    <term name="number-of-pages" gender="feminine">
       <single>Seite</single>
       <multiple>Seiten</multiple>
     </term>
-    <term name="number-of-volumes">
-      <single>volume</single>
-      <multiple>volumes</multiple>
+    <term name="number-of-volumes" gender="masculine">
+      <single>Band</single>
+      <multiple>Bände</multiple>
     </term>
-    <term name="page-first">
-      <single>page</single>
-      <multiple>pages</multiple>
+    <!-- page defined above -->
+    <term name="page-first" gender="feminine">
+      <single>Seite</single>
+      <multiple>Seiten</multiple>
     </term>
-    <term name="printing">
-      <single>printing</single>
-      <multiple>printings</multiple>
+    <term name="printing" gender="masculine">
+      <single>Druck</single>
+      <multiple>Drucke</multiple>
     </term>
-    <term name="version">Version</term>
+    <term name="version" gender="feminine">
+      <single>Version</single>
+      <multiple>Versionen</multiple>
+    </term>
 
     <!-- SHORT NUMBER VARIABLE FORMS -->
-    <term name="chapter-number" form="short">
-      <single>chap.</single>
-      <multiple>chaps.</multiple>
-    </term>
-    <term name="citation-number" form="short">
-      <single>cit.</single>
-      <multiple>cits.</multiple>
-    </term>
+    <term name="chapter-number" form="short">Kap.</term>
+    <term name="citation-number" form="short">Zit.</term>
     <term name="collection-number" form="short">Nr.</term>
     <term name="edition" form="short">Aufl.</term>
-    <term name="first-reference-note-number" form="short">
-      <single>Ref.</single>
-      <multiple>Ref.</multiple>
-    </term>
-    <term name="number" form="short">
-      <single>Nr.</single>
-      <multiple>Nr.</multiple>
-    </term>
-    <term name="number-of-pages" form="short">
-      <single>S.</single>
-      <multiple>S.</multiple>
-    </term>
+    <term name="first-reference-note-number" form="short">Ref.</term>
+    <term name="number" form="short">Nr.</term>
+    <term name="number-of-pages" form="short">S.</term>
     <term name="number-of-volumes" form="short">
-      <single>vol.</single>
-      <multiple>vols.</multiple>
+      <single>Bd.</single>
+      <multiple>Bde.</multiple>
     </term>
-    <term name="page-first" form="short">
-      <single>p.</single>
-      <multiple>pp.</multiple>
-    </term>
-    <term name="printing" form="short">
-      <single>print.</single>
-      <multiple>prints.</multiple>
-    </term>
+    <term name="page-first" form="short">S.</term>
+    <term name="printing" form="short">Dr.</term>
 
     <!-- LONG ROLE FORMS -->
     <term name="author"/> <!-- generally blank -->
@@ -580,16 +570,16 @@
       <multiple>Hrsg.</multiple>
     </term>
     <term name="compiler" form="short">
-      <single>comp.</single>
-      <multiple>comps.</multiple>
+      <single>Bearb.</single>
+      <multiple>Bearb.</multiple>
     </term>
     <term name="contributor" form="short">
-      <single>contrib.</single>
-      <multiple>contribs.</multiple>
+      <single>Beitr.</single>
+      <multiple>Beitr.</multiple>
     </term>
     <term name="curator" form="short">
-      <single>cur.</single>
-      <multiple>curs.</multiple>
+      <single>Dir.</single>
+      <multiple>Dir.</multiple>
     </term>
     <term name="director" form="short">
       <single>Reg.</single>
@@ -612,32 +602,32 @@
       <multiple>Hrsg.</multiple>
     </term>
     <term name="executive-producer" form="short">
-      <single>exec. prod.</single>
-      <multiple>exec. prods.</multiple>
+      <single>Prod.-Ltg.</single>
+      <multiple>Prod.-Ltg.</multiple>
     </term>
     <term name="illustrator" form="short">
       <single>Ill.</single>
       <multiple>Ill.</multiple>
     </term>
     <term name="narrator" form="short">
-      <single>narr.</single>
-      <multiple>narrs.</multiple>
+      <single>Erz.</single>
+      <multiple>Erz.</multiple>
     </term>
     <term name="organizer" form="short">
-      <single>org.</single>
-      <multiple>orgs.</multiple>
+      <single>Veranst.</single>
+      <multiple>Veranst.</multiple>
     </term>
-    <term name="performer" form="short">
+    <term name="performer" form="short"> <!-- todo: long translation "Künstler"-->
       <single>perf.</single>
       <multiple>perfs.</multiple>
     </term>
     <term name="producer" form="short">
-      <single>prod.</single>
-      <multiple>prods.</multiple>
+      <single>Prod.</single>
+      <multiple>Prod.</multiple>
     </term>
     <term name="script-writer" form="short">
-      <single>writ.</single>
-      <multiple>writs.</multiple>
+      <single>Drehb.-Aut.</single>
+      <multiple>Drehb.-Aut.</multiple>
     </term>
     <term name="series-creator" form="short">
       <single>Idee</single>
@@ -651,7 +641,7 @@
     <!-- VERB ROLE FORMS -->
     <term name="chair" form="verb">Vorsitz durch</term>
     <term name="collection-editor" form="verb">herausgegeben von</term>
-    <term name="compiler" form="verb">kompiliert von</term>
+    <term name="compiler" form="verb">bearbeitet von</term>
     <term name="container-author" form="verb">von</term>
     <term name="contributor" form="verb">mit</term>
     <term name="curator" form="verb">kuriert von</term>
@@ -677,7 +667,7 @@
 
     <!-- SHORT VERB ROLE FORMS -->
     <term name="collection-editor" form="verb-short">hrsg. von</term>
-    <term name="compiler" form="verb-short">komp. von</term>
+    <term name="compiler" form="verb-short">bearb. von</term>
     <term name="contributor" form="verb-short">m.</term>
     <term name="curator" form="verb-short">kur. von</term>
     <term name="director" form="verb-short">Reg.</term>
@@ -686,44 +676,44 @@
     <term name="editortranslator" form="verb-short">hg.&#160;u. übers. von</term>
     <term name="editorial-director" form="verb-short">hrsg. von</term>
     <term name="executive-producer" form="verb-short">Prod. gel. v.</term>
-    <term name="guest" form="verb-short">w. guest</term>
+    <term name="guest" form="verb-short">mit Gast</term>
     <term name="host" form="verb-short">veranst. von</term>
     <term name="illustrator" form="verb-short">illus. von</term>
     <term name="narrator" form="verb-short">Narr. von</term>
     <term name="organizer" form="verb-short">org. von</term>
     <term name="performer" form="verb-short">aufg. von</term>
     <term name="producer" form="verb-short">prod. von</term>
-    <term name="script-writer" form="verb-short">writ. by</term>
+    <term name="script-writer" form="verb-short">geschr. von</term>
     <term name="series-creator" form="verb-short">Idee von</term>
     <term name="translator" form="verb-short">übers. von</term>
 
     <!-- LONG MONTH FORMS -->
-    <term name="month-01">Januar</term>
-    <term name="month-02">Februar</term>
-    <term name="month-03">März</term>
-    <term name="month-04">April</term>
-    <term name="month-05">Mai</term>
-    <term name="month-06">Juni</term>
-    <term name="month-07">Juli</term>
-    <term name="month-08">August</term>
-    <term name="month-09">September</term>
-    <term name="month-10">Oktober</term>
-    <term name="month-11">November</term>
-    <term name="month-12">Dezember</term>
+    <term name="month-01" gender="masculine">Januar</term>
+    <term name="month-02" gender="masculine">Februar</term>
+    <term name="month-03" gender="masculine">März</term>
+    <term name="month-04" gender="masculine">April</term>
+    <term name="month-05" gender="masculine">Mai</term>
+    <term name="month-06" gender="masculine">Juni</term>
+    <term name="month-07" gender="masculine">Juli</term>
+    <term name="month-08" gender="masculine">August</term>
+    <term name="month-09" gender="masculine">September</term>
+    <term name="month-10" gender="masculine">Oktober</term>
+    <term name="month-11" gender="masculine">November</term>
+    <term name="month-12" gender="masculine">Dezember</term>
 
     <!-- SHORT MONTH FORMS -->
-    <term name="month-01" form="short">Jan.</term>
-    <term name="month-02" form="short">Feb.</term>
-    <term name="month-03" form="short">März</term>
-    <term name="month-04" form="short">Apr.</term>
-    <term name="month-05" form="short">Mai</term>
-    <term name="month-06" form="short">Juni</term>
-    <term name="month-07" form="short">Juli</term>
-    <term name="month-08" form="short">Aug.</term>
-    <term name="month-09" form="short">Sep.</term>
-    <term name="month-10" form="short">Okt.</term>
-    <term name="month-11" form="short">Nov.</term>
-    <term name="month-12" form="short">Dez.</term>
+    <term name="month-01" form="short" gender="masculine">Jan.</term>
+    <term name="month-02" form="short" gender="masculine">Feb.</term>
+    <term name="month-03" form="short" gender="masculine">März</term>
+    <term name="month-04" form="short" gender="masculine">Apr.</term>
+    <term name="month-05" form="short" gender="masculine">Mai</term>
+    <term name="month-06" form="short" gender="masculine">Juni</term>
+    <term name="month-07" form="short" gender="masculine">Juli</term>
+    <term name="month-08" form="short" gender="masculine">Aug.</term>
+    <term name="month-09" form="short" gender="masculine">Sep.</term>
+    <term name="month-10" form="short" gender="masculine">Okt.</term>
+    <term name="month-11" form="short" gender="masculine">Nov.</term>
+    <term name="month-12" form="short" gender="masculine">Dez.</term>
 
     <!-- SEASONS -->
     <term name="season-01">Frühjahr</term>
